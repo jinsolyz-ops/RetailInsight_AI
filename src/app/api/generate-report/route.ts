@@ -13,13 +13,24 @@ const CATEGORIES = [
   { name: '상품', keywords: ['편의점 디저트', '편의점 간편식', '편의점 신상품'] },
 ];
 
-async function fetchNaverNews(keyword: string) {
+const CONCURRENCY = 3;       // 동시 요청 수
+const BATCH_DELAY_MS = 500;  // 배치 간 딜레이
+const MAX_RETRIES = 2;
+const NEWS_DAYS = 2;         // 최근 2일 기사만
+
+function cleanText(s: string): string {
+  return s
+    .replace(/<[^>]*>?/g, '')
+    .replace(/&quot;/g, "'")
+    .replace(/&amp;/g, '&')
+    .replace(/"/g, "'")
+    .trim();
+}
+
+async function fetchNaverNews(keyword: string): Promise<any[]> {
   const clientId = process.env.NAVER_CLIENT_ID;
   const clientSecret = process.env.NAVER_CLIENT_SECRET;
-
-  if (!clientId || !clientSecret) {
-    throw new Error('Naver API keys are missing.');
-  }
+  if (!clientId || !clientSecret) throw new Error('Naver API keys are missing.');
 
   const url = `https://openapi.naver.com/v1/search/news.json?query=${encodeURIComponent(keyword)}&display=30&sort=date`;
   const response = await fetch(url, {
@@ -29,68 +40,104 @@ async function fetchNaverNews(keyword: string) {
     },
   });
 
+  if (response.status === 429) throw new Error('RATE_LIMIT');
+
   if (!response.ok) {
     console.error(`Failed to fetch Naver news for ${keyword}: ${response.statusText}`);
     return [];
   }
 
   const data = await response.json();
-  
-  // Filter for last 7 days (return all valid, dedupe globally later)
-  const sevenDaysAgo = new Date();
-  sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-  
-  const filteredItems = (data.items || []).filter((item: any) => {
-    const pubDate = new Date(item.pubDate);
-    return pubDate >= sevenDaysAgo;
-  });
-  
-  return filteredItems.map((item: any) => ({
-    title: item.title.replace(/<[^>]*>?/g, '').replace(/&quot;/g, "'").replace(/&amp;/g, '&').replace(/"/g, "'"), // Strip HTML and convert double quotes to single quotes
-    link: item.link,
-    description: item.description.replace(/<[^>]*>?/g, '').replace(/&quot;/g, "'").replace(/&amp;/g, '&').replace(/"/g, "'"),
-    pubDate: item.pubDate,
-    keyword: keyword
-  }));
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - NEWS_DAYS);
+
+  return (data.items || [])
+    .filter((item: any) => new Date(item.pubDate) >= cutoff)
+    .map((item: any) => ({
+      title: cleanText(item.title),
+      link: item.link,
+      description: cleanText(item.description).slice(0, 200), // 토큰 절약을 위해 잘라냄
+      pubDate: item.pubDate,
+      keyword,
+    }));
+}
+
+async function fetchWithRetry(keyword: string): Promise<any[]> {
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      return await fetchNaverNews(keyword);
+    } catch (error: any) {
+      if (error.message === 'RATE_LIMIT' && attempt < MAX_RETRIES) {
+        const delay = 1000 * Math.pow(2, attempt); // 지수 백오프: 1s, 2s
+        console.warn(`Rate limited for "${keyword}", retrying in ${delay}ms (attempt ${attempt + 1})`);
+        await new Promise(r => setTimeout(r, delay));
+        continue;
+      }
+      console.error(`Gave up fetching "${keyword}" after ${attempt + 1} attempt(s)`);
+      return [];
+    }
+  }
+  return [];
+}
+
+// C: 동시 3개씩 병렬 fetch, 배치 사이에만 딜레이
+async function fetchAllKeywords(keywords: string[]): Promise<Map<string, any[]>> {
+  const resultMap = new Map<string, any[]>();
+  for (let i = 0; i < keywords.length; i += CONCURRENCY) {
+    const batch = keywords.slice(i, i + CONCURRENCY);
+    const batchResults = await Promise.all(batch.map(kw => fetchWithRetry(kw)));
+    batch.forEach((kw, j) => resultMap.set(kw, batchResults[j]));
+    if (i + CONCURRENCY < keywords.length) {
+      await new Promise(r => setTimeout(r, BATCH_DELAY_MS));
+    }
+  }
+  return resultMap;
+}
+
+// A: markdown 코드블록 우선 추출, fallback은 중괄호 추출 + sanitize
+function extractAndParseJSON(text: string): object {
+  // 1순위: ```json ... ``` 또는 ``` ... ``` 블록
+  const codeBlock = text.match(/```(?:json)?\s*([\s\S]*?)```/);
+  if (codeBlock) {
+    return JSON.parse(codeBlock[1].trim());
+  }
+
+  // 2순위: 중괄호 기반 추출 + 위험 문자 sanitize
+  const firstBrace = text.indexOf('{');
+  const lastBrace = text.lastIndexOf('}');
+  if (firstBrace === -1 || lastBrace <= firstBrace) {
+    throw new Error('No JSON object found in the response.');
+  }
+  let jsonStr = text.substring(firstBrace, lastBrace + 1);
+  jsonStr = jsonStr.replace(/[\n\r\t]+/g, ' ');
+  jsonStr = jsonStr.replace(/,\s*([}\]])/g, '$1');
+  return JSON.parse(jsonStr);
 }
 
 export async function POST() {
   try {
-    // 1. Fetch all news sequentially to prevent Naver API burst rate limit errors
-    const fetchTasks = CATEGORIES.flatMap(category => 
-      category.keywords.map(keyword => () => fetchNaverNews(keyword))
-    );
-    
-    const results = [];
-    for (const task of fetchTasks) {
-      results.push(await task());
-      // slight delay to be safe
-      await new Promise(r => setTimeout(r, 100));
-    }
-    const flatResults = results.flat();
+    const allKeywords = CATEGORIES.flatMap(c => c.keywords);
+    const keywordResults = await fetchAllKeywords(allKeywords);
 
-    // Global Deduplication based on article link
-    const globalUniqueUrls = new Set();
-    const dedupedResults = flatResults.filter((item: any) => {
-      if (globalUniqueUrls.has(item.link)) return false;
-      globalUniqueUrls.add(item.link);
-      return true;
-    });
-
+    // 전역 URL dedup 후 카테고리별 최대 15개
+    const seenUrls = new Set<string>();
     const categorizedNews: { [key: string]: any[] } = {};
-    CATEGORIES.forEach(c => categorizedNews[c.name] = []);
-    
-    // Group deduped results by category and limit to top 15 per category to save tokens
-    dedupedResults.forEach((item: any) => {
-      const category = CATEGORIES.find(c => c.keywords.includes(item.keyword));
-      if (category && categorizedNews[category.name].length < 15) {
-        categorizedNews[category.name].push(item);
-      }
-    });
+    CATEGORIES.forEach(c => { categorizedNews[c.name] = []; });
 
-    // 2. Prepare Claude Prompt
+    for (const category of CATEGORIES) {
+      for (const keyword of category.keywords) {
+        for (const item of keywordResults.get(keyword) || []) {
+          if (!seenUrls.has(item.link) && categorizedNews[category.name].length < 15) {
+            seenUrls.add(item.link);
+            categorizedNews[category.name].push(item);
+          }
+        }
+      }
+    }
+
     const promptData = Object.entries(categorizedNews).map(([catName, news]) => {
-      return `Category: ${catName}\nNews Articles:\n` + news.map((n, i) => `[${i+1}] Title: ${n.title}\nDescription: ${n.description}\nLink: ${n.link}\nKeyword: ${n.keyword}`).join('\n\n');
+      return `Category: ${catName}\nNews Articles:\n` +
+        news.map((n, i) => `[${i + 1}] Title: ${n.title}\nDescription: ${n.description}\nLink: ${n.link}\nKeyword: ${n.keyword}`).join('\n\n');
     }).join('\n\n====================\n\n');
 
     const systemPrompt = `You are an expert business analyst for a retail company.
@@ -140,8 +187,7 @@ Output STRICTLY in the following JSON schema without any markdown formatting or 
   ]
 }`;
 
-    // 3. Call Claude API
-    const response = await anthropic.messages.create({
+    const aiResponse = await anthropic.messages.create({
       model: "claude-sonnet-4-5",
       max_tokens: 4000,
       temperature: 0.2,
@@ -151,42 +197,33 @@ Output STRICTLY in the following JSON schema without any markdown formatting or 
       ]
     });
 
-    const claudeText = response.content[0].type === 'text' ? response.content[0].text : '';
-    
-    // Attempt to extract and parse JSON robustly
-    let finalJson;
+    const claudeText = aiResponse.content[0].type === 'text' ? aiResponse.content[0].text : '';
+
+    let finalJson: any;
     try {
-      const firstBrace = claudeText.indexOf('{');
-      const lastBrace = claudeText.lastIndexOf('}');
-      if (firstBrace !== -1 && lastBrace !== -1 && lastBrace > firstBrace) {
-        let jsonStr = claudeText.substring(firstBrace, lastBrace + 1);
-        
-        // Sanitize: remove literal newlines/control chars which break JSON.parse, and fix trailing commas
-        jsonStr = jsonStr.replace(/[\n\r\t]+/g, ' '); 
-        jsonStr = jsonStr.replace(/,\s*([}\]])/g, '$1');
-        
-        finalJson = JSON.parse(jsonStr);
-        // Post-process to ensure no duplicate links exist in the final UI
-        const seenUrls = new Set<string>();
-        for (const category of (finalJson.categories || [])) {
-          for (const issue of (category.issues || [])) {
-            const uniqueLinks = [];
-            for (const link of (issue.relatedLinks || [])) {
-              if (!seenUrls.has(link.url)) {
-                seenUrls.add(link.url);
-                uniqueLinks.push(link);
-              }
+      finalJson = extractAndParseJSON(claudeText);
+
+      // 최종 링크 dedup
+      const seenFinalUrls = new Set<string>();
+      for (const category of (finalJson.categories || [])) {
+        for (const issue of (category.issues || [])) {
+          const uniqueLinks = [];
+          for (const link of (issue.relatedLinks || [])) {
+            if (!seenFinalUrls.has(link.url)) {
+              seenFinalUrls.add(link.url);
+              uniqueLinks.push(link);
             }
-            issue.relatedLinks = uniqueLinks;
           }
+          issue.relatedLinks = uniqueLinks;
         }
-      } else {
-        throw new Error("No JSON object found in the response.");
       }
     } catch (parseError: any) {
       console.error("Failed to parse Claude output as JSON:", parseError.message);
       console.error("Raw string:", claudeText);
-      return NextResponse.json({ error: "AI가 리포트 구조를 만드는 데 실패했습니다. 다시 시도해주세요." }, { status: 500 });
+      return NextResponse.json(
+        { error: "AI가 리포트 구조를 만드는 데 실패했습니다. 다시 시도해주세요." },
+        { status: 500 }
+      );
     }
 
     return NextResponse.json(finalJson);

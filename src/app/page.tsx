@@ -41,8 +41,8 @@ export default function Home() {
   const handleDownloadImage = async () => {
     if (!reportRef.current) return;
     try {
-      const dataUrl = await toPng(reportRef.current, { 
-        cacheBust: true, 
+      const dataUrl = await toPng(reportRef.current, {
+        cacheBust: true,
         pixelRatio: 2,
         backgroundColor: '#ffffff'
       });
@@ -64,11 +64,11 @@ export default function Home() {
         method: 'POST',
       });
       const data = await res.json();
-      
+
       if (!res.ok) {
         throw new Error(data.error || '리포트 생성 중 오류가 발생했습니다.');
       }
-      
+
       setReport(data);
     } catch (err: any) {
       setError(err.message);
@@ -138,7 +138,7 @@ export default function Home() {
         {report && (
           <div className="space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-700 ease-out">
             <div className="flex justify-end">
-              <button 
+              <button
                 onClick={handleDownloadImage}
                 className="flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white px-5 py-2.5 rounded-xl font-bold transition-all shadow-sm hover:shadow-md"
               >
@@ -160,7 +160,7 @@ export default function Home() {
                   <h2 className="text-2xl font-black text-slate-900 tracking-tight bg-slate-100 px-5 py-2 rounded-xl border border-slate-200 shadow-sm">{category.name}</h2>
                   <div className="flex-grow h-px bg-gradient-to-r from-slate-200 to-transparent"></div>
                 </div>
-                
+
                 <div className={`grid grid-cols-1 ${category.name === '경쟁사' ? 'md:grid-cols-3' : 'md:grid-cols-2'} gap-6 lg:gap-8`}>
                   {category.issues.map((issue, issueIdx) => (
                     <IssueCard key={issueIdx} issue={issue} />
