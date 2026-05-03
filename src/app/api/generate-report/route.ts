@@ -25,7 +25,7 @@ function cleanText(s: string): string {
     .replace(/<[^>]*>?/g, '')
     .replace(/&quot;/g, "'")
     .replace(/&amp;/g, '&')
-    .replace(/"/g, "'")
+    .replace(/["“”]/g, "'") // ASCII + 유니코드 따옴표(" ") 모두 변환
     .trim();
 }
 
@@ -97,21 +97,29 @@ async function fetchAllKeywords(keywords: string[]): Promise<Map<string, any[]>>
   return resultMap;
 }
 
-// A: markdown 코드블록 우선 추출, fallback은 중괄호 추출 + sanitize
 function extractAndParseJSON(text: string): object {
-  // 1순위: ```json ... ``` 또는 ``` ... ``` 블록
+  // 1순위: 코드블록 추출 후 바로 파싱 시도
   const codeBlock = text.match(/```(?:json)?\s*([\s\S]*?)```/);
-  if (codeBlock) {
-    return JSON.parse(codeBlock[1].trim());
+  const src = codeBlock ? codeBlock[1].trim() : text;
+
+  // 2순위: 직접 파싱 시도
+  try {
+    const firstBrace = src.indexOf('{');
+    const lastBrace = src.lastIndexOf('}');
+    if (firstBrace !== -1 && lastBrace > firstBrace) {
+      return JSON.parse(src.substring(firstBrace, lastBrace + 1));
+    }
+  } catch {
+    // 파싱 실패 시 sanitize 후 재시도
   }
 
-  // 2순위: 중괄호 기반 추출 + 위험 문자 sanitize
-  const firstBrace = text.indexOf('{');
-  const lastBrace = text.lastIndexOf('}');
+  // 3순위: 위험 문자 sanitize 후 재시도
+  const firstBrace = src.indexOf('{');
+  const lastBrace = src.lastIndexOf('}');
   if (firstBrace === -1 || lastBrace <= firstBrace) {
     throw new Error('No JSON object found in the response.');
   }
-  let jsonStr = text.substring(firstBrace, lastBrace + 1);
+  let jsonStr = src.substring(firstBrace, lastBrace + 1);
   jsonStr = jsonStr.replace(/[\n\r\t]+/g, ' ');
   jsonStr = jsonStr.replace(/,\s*([}\]])/g, '$1');
   return JSON.parse(jsonStr);
