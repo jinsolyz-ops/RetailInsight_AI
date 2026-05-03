@@ -17,6 +17,8 @@ const CONCURRENCY = 3;       // 동시 요청 수
 const BATCH_DELAY_MS = 500;  // 배치 간 딜레이
 const MAX_RETRIES = 2;
 const NEWS_DAYS = 2;         // 최근 2일 기사만
+const MAX_PER_KEYWORD = 5;   // 키워드당 최대 기사 수
+const MAX_PER_CATEGORY = 10; // 카테고리당 최대 기사 수
 
 function cleanText(s: string): string {
   return s
@@ -53,10 +55,11 @@ async function fetchNaverNews(keyword: string): Promise<any[]> {
 
   return (data.items || [])
     .filter((item: any) => new Date(item.pubDate) >= cutoff)
+    .slice(0, MAX_PER_KEYWORD)
     .map((item: any) => ({
       title: cleanText(item.title),
       link: item.link,
-      description: cleanText(item.description).slice(0, 200), // 토큰 절약을 위해 잘라냄
+      description: cleanText(item.description).slice(0, 200),
       pubDate: item.pubDate,
       keyword,
     }));
@@ -127,7 +130,7 @@ export async function POST() {
     for (const category of CATEGORIES) {
       for (const keyword of category.keywords) {
         for (const item of keywordResults.get(keyword) || []) {
-          if (!seenUrls.has(item.link) && categorizedNews[category.name].length < 15) {
+          if (!seenUrls.has(item.link) && categorizedNews[category.name].length < MAX_PER_CATEGORY) {
             seenUrls.add(item.link);
             categorizedNews[category.name].push(item);
           }
