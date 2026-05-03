@@ -7,7 +7,7 @@ const anthropic = new Anthropic({
 
 const CATEGORIES = [
   { name: '유통 트렌드', keywords: ['유통업계 동향', '커머스 트렌드', '편의점 트렌드', '유통업계', '유통 이슈', '이커머스 이슈'] },
-  { name: 'AI 트렌드', keywords: ['유통업계 AI', '편의점 AI', '쿠팡 AI', '네이버쇼핑 AI', '올리브영 AI', '쇼핑 AI', '커머스 AI'] },
+  { name: 'AI 트렌드', keywords: ['유통업계 AI', '커머스 AI', '리테일테크'] },
   { name: '당사 이슈', keywords: ['CU편의점', 'BGF리테일'] },
   { name: '경쟁사', keywords: ['GS25', '세븐일레븐', '이마트24'] },
   { name: '상품', keywords: ['편의점 디저트', '편의점 간편식', '편의점 신상품', '편의점 콜라보', '편의점 음료', '편의점 도시락', '유통 콜라보', '유통 PB상품'] },
