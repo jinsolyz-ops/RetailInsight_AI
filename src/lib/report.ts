@@ -224,18 +224,24 @@ export async function generateReport(): Promise<ReportData> {
   const categorizedNews: { [key: string]: any[] } = {};
   CATEGORIES.forEach(c => { categorizedNews[c.name] = []; });
 
+  const BRAND_ROUTES: { pattern: RegExp; target: string }[] = [
+    { pattern: /CU편의점|BGF리테일|(^|\s|'|")CU[\s가는의이을를에서와과,]/, target: '당사 이슈' },
+    { pattern: /GS25|세븐일레븐|이마트24/, target: '경쟁사 이슈' },
+  ];
+
   for (const category of CATEGORIES) {
     for (const keyword of category.keywords) {
       for (const item of keywordResults.get(keyword) || []) {
         const normalizedTitle = item.title.replace(/[\s\W]+/g, '').toLowerCase();
-        if (
-          !seenUrls.has(item.link) &&
-          !seenTitles.has(normalizedTitle) &&
-          categorizedNews[category.name].length < MAX_PER_CATEGORY
-        ) {
+        if (seenUrls.has(item.link) || seenTitles.has(normalizedTitle)) continue;
+
+        const route = BRAND_ROUTES.find(r => r.pattern.test(item.title));
+        const target = route ? route.target : category.name;
+
+        if (categorizedNews[target].length < MAX_PER_CATEGORY) {
           seenUrls.add(item.link);
           seenTitles.add(normalizedTitle);
-          categorizedNews[category.name].push(item);
+          categorizedNews[target].push(item);
         }
       }
     }
