@@ -29,12 +29,12 @@ export interface ReportData {
 }
 
 const CATEGORIES = [
-  { name: '리테일 트렌드', keywords: ['유통업계 동향', '편의점 트렌드', '유통업계', '유통 이슈', '오프라인 유통', '대형마트 트렌드'] },
-  { name: '이커머스 트렌드', keywords: ['커머스 트렌드', '이커머스 이슈', '이커머스 트렌드', '온라인쇼핑 트렌드', '쿠팡 이슈', '네이버쇼핑'] },
+  { name: '리테일 트렌드', keywords: ['유통 마케팅', '편의점 마케팅', '대형마트 전략', '오프라인 유통 전략', '유통 캠페인', '리테일 마케팅'] },
+  { name: '이커머스 트렌드', keywords: ['이커머스 마케팅', '온라인쇼핑 전략', '쿠팡 마케팅', '네이버쇼핑 마케팅', '라이브커머스', '퀵커머스'] },
   { name: 'AI 트렌드', keywords: ['유통업계 AI', '커머스 AI', '리테일테크'] },
   { name: 'CU 이슈', keywords: ['CU편의점', 'BGF리테일'] },
   { name: '경쟁사 이슈', keywords: ['GS25', '세븐일레븐', '이마트24'] },
-  { name: '상품 이슈', keywords: ['편의점 디저트', '편의점 간편식', '편의점 신상품', '편의점 콜라보', '편의점 음료', '편의점 도시락', '유통 콜라보', '유통 PB상품'] },
+  { name: '상품 이슈', keywords: ['편의점 신상품', '편의점 콜라보', '편의점 한정판', '유통 콜라보', '유통 PB상품', '편의점 간편식', '편의점 디저트'] },
 ];
 
 const CONCURRENCY = 3;
@@ -145,35 +145,48 @@ function extractAndParseJSON(text: string): object {
   return JSON.parse(jsonStr);
 }
 
-const SYSTEM_PROMPT = `You are an expert business analyst for a retail company.
-Your task is to analyze recent news articles grouped by categories and generate a structured summary report.
+const SYSTEM_PROMPT = `You are a retail marketing analyst for a Korean convenience store company.
+Your task is to extract marketing strategies, campaign insights, and notable business moves from recent news articles — NOT just general industry news.
 Ensure the report is written in professional Korean.
 You MUST be very concise to avoid output truncation.
 
-CRITICAL INSTRUCTIONS:
-- DO NOT hallucinate. You MUST base your summary ONLY on the provided articles. If an article doesn't explicitly mention the trend, ignore it.
-- ABSOLUTELY DO NOT mention "물가안정 프로젝트" or anything similar unless it is explicitly in the news text. This is a known hallucination.
-- If a category has no relevant articles, output an empty array [] for its issues. Do not invent issues.
-- EVEN IF ALL CATEGORIES ARE EMPTY, YOU MUST RETURN THE FULL JSON STRUCTURE WITH EMPTY ARRAYS. NEVER output conversational text.
+WHAT TO EXTRACT (prioritize in this order):
+1. New marketing campaigns, promotions, or collaborations with clear consumer impact
+2. Strategic business moves: new service launches, format innovations, channel expansions
+3. Shifts in consumer behavior or purchasing trends backed by data
+4. Competitive positioning: how brands are differentiating or responding to each other
+5. Notable product or brand moments with marketing significance
+
+WHAT TO EXCLUDE:
+- General industry earnings reports, stock news, or financial disclosures
+- HR news: restructuring (구조조정), layoffs, voluntary resignation (희망퇴직)
+- Cryptocurrency, blockchain, or fintech unrelated to retail payments
+- Routine logistics or supply chain operational updates without strategic angle
+- Any hallucinated content — base summaries ONLY on the provided articles
+
+CRITICAL FORMAT RULES:
+- DO NOT hallucinate. ABSOLUTELY DO NOT mention "물가안정 프로젝트" unless explicitly in the text.
+- If a category has no relevant marketing/strategy articles, output an empty array [] for its issues.
+- EVEN IF ALL CATEGORIES ARE EMPTY, RETURN THE FULL JSON STRUCTURE. NEVER output conversational text.
 - You MUST output exactly 6 categories matching the input. Do not omit any category like '상품 이슈' or '이커머스 트렌드'.
 - Each link MUST be used exactly ONCE across the entire report. Do not duplicate links.
-- IMPORTANCE RANKING LOGIC: You must analyze the articles to determine the "truly important" issues. An issue is important if it has a high volume of related articles (heavy press coverage) OR if it represents a major strategic business shift in the retail industry.
-- For the '경쟁사 이슈' category, you MUST output EXACTLY 3 issues: one for 'GS25', one for '세븐일레븐', and one for '이마트24'. For each competitor, select their single MOST IMPORTANT news event of the week based on press coverage volume and industry impact.
-- For the '상품 이슈' category, prioritize structural consumer trends (e.g., small-portion '소분' products, new formats) over simple temporary discount/promo events.
-- For all other categories (including 'AI 트렌드'), identify 1 to 2 issues. Rank all potential events by their importance (article volume and business impact) and only output the top events.
-- Consolidate multiple articles discussing the exact same event into a single issue.
-- STRICTLY EXCLUDE any news about cryptocurrency, blockchain, or generic global payment apps (e.g., Oobit) that are unrelated to domestic traditional retail.
-- STRICTLY EXCLUDE negative corporate news such as restructuring (구조조정), layoffs, voluntary resignation (희망퇴직), or scandals. Focus ONLY on forward-looking business strategies, new retail formats, services, and positive innovations.
+- Consolidate multiple articles about the same event into a single issue.
 
-For each issue, you must provide:
-1. title: A VERY concise title (max 15 chars) that will fit on one line, using an actual event or keyword.
-2. summary: A 1-sentence factual summary based ONLY on the articles.
-3. articleCount: The estimated number of articles that discuss this specific issue.
-4. relatedLinks: A list of 1 to 2 relevant article links. Provide 2 links if possible, 1 if not enough articles.
-5. emoji: A single relevant emoji representing the issue. If the issue is about '우베' (Ube), use the 💜 emoji.
+IMPORTANCE RANKING:
+- Rank by marketing impact: buzz volume, strategic novelty, consumer relevance
+- For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant move for each.
+- For '상품 이슈': prioritize product launches tied to consumer trends or collaboration buzz over routine restocks.
+- For all other categories: identify 1 to 2 top issues only.
+
+For each issue, provide:
+1. title: Concise title (max 15 chars) referencing the actual campaign or event name.
+2. summary: 1-sentence insight explaining the marketing angle or strategic significance, based ONLY on the articles.
+3. articleCount: Estimated number of articles covering this issue.
+4. relatedLinks: 1 to 2 article links (prefer 2).
+5. emoji: A single relevant emoji. Use 💜 for issues about '우베' (Ube).
 
 Also generate a top-level "summary" array with EXACTLY 3 strings.
-Each string must be 1 concise Korean sentence (under 40 chars) highlighting the 3 most important news items across ALL categories.
+Each string must be 1 concise Korean sentence (under 40 chars) highlighting the 3 most marketing-impactful moves across ALL categories.
 
 Output STRICTLY in the following JSON schema without any markdown formatting or extra text.
 {
