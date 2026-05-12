@@ -32,7 +32,7 @@ const CATEGORIES = [
   { name: '리테일 트렌드', keywords: ['유통 마케팅', '편의점 마케팅', '대형마트 전략', '오프라인 유통 전략', '유통 캠페인', '리테일 마케팅'] },
   { name: '이커머스 트렌드', keywords: ['이커머스 마케팅', '온라인쇼핑 전략', '라이브커머스', '퀵커머스', '버티컬커머스'] },
   { name: 'AI 트렌드', keywords: ['유통업계 AI', '커머스 AI', '리테일테크'] },
-  { name: 'CU 이슈', keywords: ['CU편의점', 'BGF리테일'] },
+  { name: '당사 이슈', keywords: ['CU편의점', 'BGF리테일'] },
   { name: '경쟁사 이슈', keywords: ['GS25', '세븐일레븐', '이마트24'] },
   { name: '상품 이슈', keywords: ['편의점 신상품', '편의점 콜라보', '편의점 한정판', '유통 콜라보', '유통 PB상품', '편의점 간편식', '편의점 디저트'] },
 ];
@@ -177,11 +177,12 @@ CRITICAL FORMAT RULES:
 - You MUST output exactly 6 categories matching the input. Do not omit any category like '상품 이슈' or '이커머스 트렌드'.
 - Each link MUST be used exactly ONCE across the entire report. Do not duplicate links.
 - Consolidate articles ONLY when they report on the exact same single event (e.g., multiple outlets covering the same product launch). If topics differ even slightly — different products, different campaigns, different themes — keep them as SEPARATE issues. Never force-merge loosely related articles.
+- CATEGORIZATION PRIORITY: Any article where CU or BGF리테일 is the main subject MUST be placed in '당사 이슈', even if the article also appears relevant to another category.
 
 IMPORTANCE RANKING:
 - Rank by marketing impact: buzz volume, strategic novelty, consumer relevance
 - For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant move for each.
-- For '상품 이슈': prioritize product launches tied to consumer trends or collaboration buzz over routine restocks.
+- For '상품 이슈': focus on products that are going viral on SNS or generating strong consumer buzz. Prioritize new product launches, limited-edition collabs, and trending items over generic restocks or routine discounts.
 - For all other categories: identify 1 to 2 top issues only. Each issue must be about a clearly distinct topic.
 
 For each issue, provide:
