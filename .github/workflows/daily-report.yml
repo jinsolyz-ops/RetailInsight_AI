@@ -36,5 +36,6 @@ jobs:
           git add data/report.json
           git diff --staged --quiet || (
             git commit -m "chore: daily report $(date -u +'%Y-%m-%d')" &&
+            git pull --rebase origin main &&
             git push
           )
