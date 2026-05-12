@@ -69,7 +69,7 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
           onClick={handleDownloadImage}
           className="ml-auto flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white px-5 py-2.5 rounded-xl font-bold transition-all shadow-sm hover:shadow-md"
         >
-          📸 리포트 이미지 저장
+          📸 리포트 저장
         </button>
       </div>
 
