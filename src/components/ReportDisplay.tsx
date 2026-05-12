@@ -83,6 +83,19 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
           </p>
         </div>
 
+        {/* 카테고리 네비게이션 */}
+        <div className="flex flex-wrap justify-center gap-2">
+          {report.categories.map((category) => (
+            <button
+              key={category.name}
+              onClick={() => scrollTo(category.name)}
+              className="px-4 py-1.5 rounded-full text-sm font-semibold border border-slate-200 text-slate-600 hover:bg-[#00A651] hover:text-white hover:border-[#00A651] transition-all"
+            >
+              {category.name}
+            </button>
+          ))}
+        </div>
+
         {/* 3줄 요약 */}
         {report.summary?.length > 0 && (
           <div className="bg-slate-50 rounded-2xl border border-slate-100 px-7 py-6">
@@ -99,19 +112,6 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
             </ol>
           </div>
         )}
-
-        {/* 카테고리 네비게이션 */}
-        <div className="flex flex-wrap justify-center gap-2">
-          {report.categories.map((category) => (
-            <button
-              key={category.name}
-              onClick={() => scrollTo(category.name)}
-              className="px-4 py-1.5 rounded-full text-sm font-semibold border border-slate-200 text-slate-600 hover:bg-[#00A651] hover:text-white hover:border-[#00A651] transition-all"
-            >
-              {category.name}
-            </button>
-          ))}
-        </div>
 
         {/* 카테고리별 섹션 */}
         <div className="space-y-12">
