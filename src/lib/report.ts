@@ -29,12 +29,12 @@ export interface ReportData {
 }
 
 const CATEGORIES = [
-  { name: '당사 이슈', keywords: ['CU편의점', 'BGF리테일'] },
-  { name: '경쟁사 이슈', keywords: ['GS25', '세븐일레븐', '이마트24'] },
-  { name: '상품 이슈', keywords: ['편의점 신상품', '편의점 콜라보', '편의점 한정판', '유통 PB상품', '편의점 간편식', '편의점 디저트', '편의점 인기', '편의점 품절'] },
   { name: '리테일 트렌드', keywords: ['유통 마케팅', '대형마트 전략', '오프라인 유통 전략', '유통 캠페인', '편의점 트렌드'] },
   { name: '이커머스 트렌드', keywords: ['이커머스 마케팅', '온라인쇼핑 전략', '라이브커머스', '퀵커머스', '버티컬커머스'] },
   { name: 'AI 트렌드', keywords: ['유통업계 AI', '커머스 AI', '리테일테크'] },
+  { name: '당사 이슈', keywords: ['CU편의점', 'BGF리테일'] },
+  { name: '경쟁사 이슈', keywords: ['GS25', '세븐일레븐', '이마트24'] },
+  { name: '상품 이슈', keywords: ['편의점 신상품', '편의점 콜라보', '편의점 한정판', '유통 PB상품', '편의점 간편식', '편의점 디저트', '편의점 인기', '편의점 품절'] },
 ];
 
 const CONCURRENCY = 3;
@@ -225,18 +225,19 @@ export async function generateReport(): Promise<ReportData> {
   const categorizedNews: { [key: string]: any[] } = {};
   CATEGORIES.forEach(c => { categorizedNews[c.name] = []; });
 
+  const CU_MAIN_RE = /^(CU|BGF)[가는의이을를에서와과,\s]|CU편의점|BGF리테일/;
+
   for (const category of CATEGORIES) {
     for (const keyword of category.keywords) {
       for (const item of keywordResults.get(keyword) || []) {
         const normalizedTitle = item.title.replace(/[\s\W]+/g, '').toLowerCase();
-        if (
-          !seenUrls.has(item.link) &&
-          !seenTitles.has(normalizedTitle) &&
-          categorizedNews[category.name].length < MAX_PER_CATEGORY
-        ) {
+        if (seenUrls.has(item.link) || seenTitles.has(normalizedTitle)) continue;
+
+        const target = CU_MAIN_RE.test(item.title) ? '당사 이슈' : category.name;
+        if (categorizedNews[target].length < MAX_PER_CATEGORY) {
           seenUrls.add(item.link);
           seenTitles.add(normalizedTitle);
-          categorizedNews[category.name].push(item);
+          categorizedNews[target].push(item);
         }
       }
     }
