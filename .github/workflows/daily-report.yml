@@ -33,7 +33,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          cp data/report.json /tmp/report_new.json
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/report_new.json data/report.json
           git add data/report.json
           git diff --staged --quiet || git commit -m "chore: daily report $(date -u +'%Y-%m-%d')"
-          git pull --rebase origin main
-          git push
+          git push origin main
