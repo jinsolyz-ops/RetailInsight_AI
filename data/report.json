@@ -1,18 +1,93 @@
 {
-  "generatedAt": "2026-05-12T13:32:18.721Z",
+  "generatedAt": "2026-05-12T13:39:16.410Z",
   "summary": [
-    "CU, 피크닉 시즌 맞춰 용기 김밥 3종 출시로 계절 수요 공략",
-    "편의점 야구·포켓몬 협업 마케팅으로 2030 팬덤 타겟 매출 증대",
-    "이마트, '고래잇 캠페인' 통합 할인으로 영업익 6배 성장 달성"
+    "포켓몬 30주년 협업으로 편의점 IP 마케팅 열풍, SNS 화제성 극대화",
+    "CU 피크닉 용기 김밥 3종 출시로 계절 수요 공략, 데이터 기반 상품 전략",
+    "카카오 에이전틱 커머스 본격화로 AI 기반 개인화 쇼핑 경쟁 심화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎋",
-          "title": "피크닉 용기 김밥 3종",
-          "summary": "CU가 5월 김밥 매출 데이터 분석 기반 야외활동 시즌 맞춤 상품 3종을 순차 출시하며 계절 수요 공략.",
+          "emoji": "🎮",
+          "title": "포켓몬 30주년 협업 마케팅",
+          "summary": "포켓몬 IP를 활용한 편의점·식품·패션 업계의 협업 제품 출시로 높은 팬덤 기반 수요 창출, SNS 화제성으로 매출 증대",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "포켓몬 30돌…'협업 마케팅' 뜨거운 유통·식품·패션업계",
+              "url": "https://n.news.naver.com/mnews/article/028/0002804719?sid=101"
+            }
+          ]
+        },
+        {
+          "emoji": "⚾",
+          "title": "야구 마케팅 편의점 매출 증대",
+          "summary": "야구장 인근 세븐일레븐 매출 103% 증가, 이마트24 SSG랜더스 선수 상품 출시로 스포츠 IP 활용한 지역 기반 판매 전략 확대",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "2030 女야구팬 잡자…팝업 매출 2배 '껑충'",
+              "url": "https://n.news.naver.com/mnews/article/015/0005286029?sid=101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "이커머스 트렌드",
+      "issues": [
+        {
+          "emoji": "🎬",
+          "title": "G마켓 예능형 라이브커머스",
+          "summary": "셀럽 섭외 및 브랜드 협력 방식의 '빅스마일데이' 라이브방송으로 콘텐츠 기반 이커머스 경쟁 심화, 특가 혜택 결합으로 구매 전환율 제고",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "셀럽 입담에 더해진 특가 혜택… G마켓이 빅스마일데이에 '예능형 라방'",
+              "url": "https://n.news.naver.com/mnews/article/366/0001163649?sid=101"
+            }
+          ]
+        },
+        {
+          "emoji": "🤖",
+          "title": "이커머스 AI 광고 자동화 경쟁",
+          "summary": "쿠팡 'AI 캠페인' 신규 옵션 'AI 부스트업' 출시로 판매자 광고 운영 자동화 및 성과 최적화 경쟁 본격화",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "이커머스, 'AI 광고' 경쟁 본격화…'자동화·성과 최적화' 전면전",
+              "url": "https://n.news.naver.com/mnews/article/030/0003426219?sid=101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI 트렌드",
+      "issues": [
+        {
+          "emoji": "🛒",
+          "title": "카카오 에이전틱 커머스 본격화",
+          "summary": "카카오톡 5000만 이용자 대상 개인화 AI 에이전트 제공으로 탐색부터 결제까지 AI 기반 자동화 쇼핑 경험 제공, 자체 LLM 개발로 경쟁력 강화",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "AI 수익화 앞두고 엇갈린 노사 갈등…네이버 '안정' vs 카카오 '진통'",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=358809"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "당사 이슈",
+      "issues": [
+        {
+          "emoji": "🌿",
+          "title": "CU 피크닉 용기 김밥 3종",
+          "summary": "5월 김밥 매출 데이터 분석 기반 계절 수요 공략, 야외활동 시즌 타겟 상품 출시로 데이터 기반 상품 전략 강화",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -23,8 +98,8 @@
         },
         {
           "emoji": "♻️",
-          "title": "생분해성 소재 간편식",
-          "summary": "BGF리테일이 생분해성 소재 도입으로 제품 가격 인상 없이 ESG 가치 실현, 환경·사회 상생 전략 강화.",
+          "title": "BGF리테일 ESG 4년 연속 편입",
+          "summary": "생분해성 소재 간편식 도입 시 제품 가격 인상 없이 기업 비용 감내하는 '그린 상생' 전략으로 ESG 초격차 달성",
           "articleCount": 2,
           "relatedLinks": [
             {
@@ -40,12 +115,12 @@
       ]
     },
     {
-      "name": "이커머스 트렌드",
+      "name": "경쟁사 이슈",
       "issues": [
         {
           "emoji": "☂️",
-          "title": "우양산 기후 대응 전략",
-          "summary": "GS25가 기후 변화 대응 상품으로 우양산을 집중 육성, 암막 코팅 3단 자동·수동 우양산 2종 출시.",
+          "title": "GS25 우양산 기후대응 전략",
+          "summary": "기후 변화 대응 상품으로 우양산 집중 육성, 암막 코팅 3단 자동·수동 우양산 2종 출시로 계절 수요 변화 대응",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -55,21 +130,9 @@
           ]
         },
         {
-          "emoji": "⚾",
-          "title": "야구 팬덤 마케팅",
-          "summary": "세븐일레븐이 야구장 인근 점포에서 3월 28일~4월 19일 매출 103% 증가, 이마트24는 SSG랜더스 선수 협업 상품 출시로 2030 여성 팬층 공략.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "2030 女야구팬 잡자…팝업 매출 2배 '껑충'",
-              "url": "https://n.news.naver.com/mnews/article/015/0005286029?sid=101"
-            }
-          ]
-        },
-        {
-          "emoji": "🎮",
-          "title": "K팝 앨범 예약 판매",
-          "summary": "이마트24가 xikers 7집 앨범 사전 예약 판매 진행, 팬덤 기반 상품 판매 강화로 MZ세대 고객 확보.",
+          "emoji": "🎵",
+          "title": "이마트24 xikers 앨범 예약판매",
+          "summary": "보이그룹 xikers 7집 앨범 사전 예약 판매로 K-팝 팬덤 기반 구매 유도, 엔터테인먼트 IP 활용 편의점 판매 전략",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -77,90 +140,16 @@
               "url": "http://www.lawissue.co.kr/view.php?ud=202605121946152770204ead0791_12"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "AI 트렌드",
-      "issues": [
-        {
-          "emoji": "💜",
-          "title": "우베 하이볼 한정판",
-          "summary": "편의점 업계가 우베 하이볼 등 SNS 공유 가능한 한정판 상품으로 2030 입맛 공략, 협업 상품 경쟁 심화.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "'우베 하이볼이라니' 2030 입맛 공략하는 편의점 업계",
-              "url": "https://n.news.naver.com/mnews/article/018/0006279184?sid=101"
-            }
-          ]
         },
         {
-          "emoji": "🎨",
-          "title": "포켓몬 30주년 협업",
-          "summary": "포켓몬 30주년 기념 IP 협업 제품이 편의점·식품·패션 업계 전역에서 출시, 팬덤 기반 마케팅 흥행.",
+          "emoji": "📺",
+          "title": "세븐일레븐 ISO45001 인증 획득",
+          "summary": "국제표준 안전보건경영시스템 인증으로 전국 사업장 안전 관리 체계 강화, 기업 신뢰도 제고",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "포켓몬 30돌…'협업 마케팅' 뜨거운 유통·식품·패션업계",
-              "url": "https://n.news.naver.com/mnews/article/028/0002804719?sid=101"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "당사 이슈",
-      "issues": [
-        {
-          "emoji": "⚾",
-          "title": "야구 마케팅 효과",
-          "summary": "편의점 업계가 야구 팬덤 마케팅으로 매출 증대, 세븐일레븐 야구장 인근 점포 매출 103% 증가 기록.",
-          "articleCount": 1,
-          "relatedLinks": []
-        },
-        {
-          "emoji": "🌏",
-          "title": "K-수출스타 500 프로젝트",
-          "summary": "정부가 K-뷰티 29개사 포함 500개 기업 대상 마케팅·금융·인증 연계 맞춤형 글로벌 경쟁력 지원.",
-          "articleCount": 2,
-          "relatedLinks": [
-            {
-              "title": "'수출 1000만 달러 기업 키운다' 정부, 'K-수출스타 500' 본격 시동",
-              "url": "https://www.factin.co.kr/news/articleView.html?idxno=6289"
-            },
-            {
-              "title": "수출 중추기업 500개 육성한다",
-              "url": "http://www.econotelling.com/news/articleView.html?idxno=20371"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "경쟁사 이슈",
-      "issues": [
-        {
-          "emoji": "🎬",
-          "title": "G마켓 예능형 라방",
-          "summary": "G마켓이 셀럽 섭외 예능형 라이브커머스 '빅스마일데이' 진행, 브랜드 협업 콘텐츠 마케팅으로 경쟁 강화.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "셀럽 입담에 더해진 특가 혜택… G마켓이 빅스마일데이에 '예능형 라방'",
-              "url": "https://n.news.naver.com/mnews/article/366/0001163649?sid=101"
-            }
-          ]
-        },
-        {
-          "emoji": "🤖",
-          "title": "AI 광고 자동화 경쟁",
-          "summary": "이커머스 업계가 AI 광고 운영 자동화 프로그램 출시, 판매자 부담 경감과 성과 최적화 경쟁 본격화.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "이커머스, 'AI 광고' 경쟁 본격화…'자동화·성과 최적화' 전면전",
-              "url": "https://n.news.naver.com/mnews/article/030/0003426219?sid=101"
+              "title": "세븐일레븐, 국제표준 안전보건경영시스템 'ISO45001' 획득",
+              "url": "http://www.metroseoul.co.kr/article/20260512500338"
             }
           ]
         }
@@ -170,30 +159,26 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "에이전틱 커머스 본격화",
-          "summary": "카카오가 탐색부터 결제까지 AI가 전 과정 수행하는 '에이전틱 커머스' 본격화, 5000만 카카오톡 이용자 개인화 AI 에이전트 제공 계획.",
+          "emoji": "💜",
+          "title": "우베 하이볼 2030 입맛 공략",
+          "summary": "우베 하이볼 등 새로운 맛의 한정판 상품으로 2030 세대 타겟, SNS 공유 욕구 자극하는 편의점 먹거리 트렌드 주도",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "AI 수익화 앞두고 엇갈린 노사 갈등…네이버 '안정' vs 카카오 '진통'",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=358809"
+              "title": "'우베 하이볼이라니' 2030 입맛 공략하는 편의점 업계",
+              "url": "https://n.news.naver.com/mnews/article/018/0006279184?sid=101"
             }
           ]
         },
         {
-          "emoji": "💄",
-          "title": "AI 기반 뷰티 리테일",
-          "summary": "UAE·영국 등 글로벌 뷰티 시장에서 AI 기반 피부 진단, 가상 체험 기반 뷰티 리테일 확대 추세.",
-          "articleCount": 2,
+          "emoji": "🍬",
+          "title": "새콤달콤 100억 수출 목표",
+          "summary": "닌자 거북이, 바비인형, 핫윌 등 유명 캐릭터 IP 콜라보로 글로벌 유통망 확대, 호주 마트 진출 등 수출 성장 가속",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "UAE 뷰티 시장, 문은 열렸다. 어떻게 두드릴 것인가?",
-              "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=241013"
-            },
-            {
-              "title": "2026 뷰티 트렌드로 알아보는 영국 화장품 시장 진출 기회",
-              "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=240999"
+              "title": "'호주 마트에 Zappo, 새콤달콤이었어?' 100억 수출 넘본다는데",
+              "url": "https://n.news.naver.com/mnews/article/015/0005285656?sid=103"
             }
           ]
         }
