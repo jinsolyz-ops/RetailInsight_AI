@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-05-12T12:50:07.538Z",
+  "generatedAt": "2026-05-12T12:54:39.198Z",
   "summary": [
-    "야구·포켓몬 IP 협업으로 편의점 매출 2배 증가, 팬덤 기반 마케팅 확산",
-    "CU 피크닉 김밥·우양산 등 계절 수요 맞춤 상품으로 소비 트렌드 선도",
-    "카카오 에이전틱 커머스·컬리 IPO 추진으로 AI 기반 리테일 혁신 가속화"
+    "포켓몬 30주년 협업으로 편의점 IP 마케팅 열풍, 팬덤 기반 상품 수요 폭증",
+    "야구 팬덤 마케팅으로 세븐일레븐·이마트24 매출 증가, 스포츠 연계 전략 확대",
+    "우베 하이볼 등 한정판 신상품으로 2030세대 공략, SNS 공유 가치 중심 상품 전략"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "⚾",
-          "title": "야구·포켓몬 IP 협업 마케팅",
-          "summary": "편의점 세븐일레븐·이마트24가 야구·포켓몬 IP 활용으로 매출 2배 증가, 팬덤 기반 협업 마케팅이 유통 업계 핵심 전략으로 확립됨.",
-          "articleCount": 2,
+          "emoji": "🎮",
+          "title": "포켓몬 협업 마케팅",
+          "summary": "포켓몬 30주년 기념 협업으로 편의점·식품·패션 업계가 IP 활용 마케팅을 강화하며 충성도 높은 팬덤 기반 상품 수요 창출.",
+          "articleCount": 1,
           "relatedLinks": [
-            {
-              "title": "2030 女야구팬 잡자…팝업 매출 2배 '껑충'",
-              "url": "https://n.news.naver.com/mnews/article/015/0005286029?sid=101"
-            },
             {
               "title": "포켓몬 30돌…'협업 마케팅' 뜨거운 유통·식품·패션업계",
               "url": "https://n.news.naver.com/mnews/article/028/0002804719?sid=101"
@@ -26,18 +22,14 @@
           ]
         },
         {
-          "emoji": "🌏",
-          "title": "K-수출스타 500 글로벌 확대",
-          "summary": "정부 K-수출스타 500 프로젝트로 K-뷰티 29개사 등 소비재 기업의 글로벌 마케팅·금융 지원 강화, 수출 경쟁력 확보 가속화.",
-          "articleCount": 2,
+          "emoji": "⚾",
+          "title": "야구 팬덤 마케팅",
+          "summary": "야구장 인근 세븐일레븐 매출 103% 증가, 이마트24 SSG랜더스 선수 상품 출시로 스포츠 연계 유통 전략 확대.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'수출 1000만 달러 기업 키운다' 정부, 'K-수출스타 500' 본격 시동",
-              "url": "https://www.factin.co.kr/news/articleView.html?idxno=6289"
-            },
-            {
-              "title": "수출 중추기업 500개 육성한다",
-              "url": "http://www.econotelling.com/news/articleView.html?idxno=20371"
+              "title": "2030 女야구팬 잡자…팝업 매출 2배 '껑충'",
+              "url": "https://n.news.naver.com/mnews/article/015/0005286029?sid=101"
             }
           ]
         }
@@ -48,33 +40,17 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "에이전틱 커머스 본격화",
-          "summary": "카카오가 탐색부터 결제까지 AI가 전 과정을 수행하는 에이전틱 커머스 도입, 5000만 카카오톡 이용자 대상 개인화 AI 에이전트 제공 추진.",
+          "title": "에이전틱 커머스 경쟁",
+          "summary": "배민·요기요 로봇배달 확대, 카카오 AI 에이전트 기반 탐색-결제 자동화로 퀵커머스·이커머스 플랫폼 간 AI 운영 체계 경쟁 심화.",
           "articleCount": 2,
           "relatedLinks": [
+            {
+              "title": "배민 vs 요기요, 로봇배달 경쟁 '점화'…\"배달 혁신으로 '라스트마...",
+              "url": "https://www.ceoscoredaily.com/page/view/2026051216363190481"
+            },
             {
               "title": "AI 수익화 앞두고 엇갈린 노사 갈등…네이버 '안정' vs 카카오 '진통'",
               "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=358809"
-            },
-            {
-              "title": "[AI 전환 커머스 2026 ⑥] AI 에이전트 앞에 선 한국 이커머스",
-              "url": "https://byline.network/?p=9004111222602033"
-            }
-          ]
-        },
-        {
-          "emoji": "📦",
-          "title": "컬리 IPO 추진 리테일테크 진화",
-          "summary": "컬리가 새벽배송 기반 뷰티컬리·3P·퀵커머스 등 다각화로 리테일테크 플랫폼 진화, 올해 1분기 역대 최대 실적 기록하며 IPO 추진.",
-          "articleCount": 2,
-          "relatedLinks": [
-            {
-              "title": "[고고IPO] '돈 버는 이커머스' 증명한 컬리…IPO 로드맵 속도 낸다",
-              "url": "https://n.news.naver.com/mnews/article/138/0002227495?sid=101"
-            },
-            {
-              "title": "[컬리 IPO 재도전]① 적자 꼬리표 떼고 '수익 공식' 풀었다",
-              "url": "https://n.news.naver.com/mnews/article/293/0000084461?sid=101"
             }
           ]
         }
@@ -85,17 +61,17 @@
       "issues": [
         {
           "emoji": "🛍️",
-          "title": "리테일테크 뷰티 혁신",
-          "summary": "AI 기반 피부 진단·맞춤 루틴, 가상 체험 기반 뷰티 리테일 확대로 글로벌 뷰티 시장 진출 전략 고도화, 바이오던스 세포라 입점 등 성과.",
+          "title": "리테일테크 플랫폼화",
+          "summary": "컬리 IPO 재도전으로 새벽배송 기반 리테일테크 플랫폼 진화, 뷰티컬리·3P·FBK 등 다층 사업 구조로 수익성 입증.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "2026 뷰티 트렌드로 알아보는 영국 화장품 시장 진출 기회",
-              "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=240999"
+              "title": "[컬리 IPO 재도전]① 적자 꼬리표 떼고 '수익 공식' 풀었다",
+              "url": "https://n.news.naver.com/mnews/article/293/0000084461?sid=101"
             },
             {
-              "title": "[뷰티 트렌드] 바이오던스, CJ온스타일 '퍼펙트 완판'으로 국내 뷰티 시...",
-              "url": "https://www.ibabynews.com/news/articleView.html?idxno=151238"
+              "title": "[고고IPO] '돈 버는 이커머스' 증명한 컬리…IPO 로드맵 속도 낸다",
+              "url": "https://n.news.naver.com/mnews/article/138/0002227495?sid=101"
             }
           ]
         }
@@ -105,18 +81,18 @@
       "name": "CU 이슈",
       "issues": [
         {
-          "emoji": "🌿",
-          "title": "피크닉 김밥·ESG 그린 상생",
-          "summary": "CU가 5월 김밥 매출 데이터 기반 피크닉 용기 김밥 3종 출시, 생분해성 소재 도입으로 ESG 초격차 전략 추진하며 가치 중심 마케팅 강화.",
+          "emoji": "🌱",
+          "title": "ESG 기반 그린 상생",
+          "summary": "BGF리테일 생분해성 소재 간편식 도입으로 제품 가격 인상 없이 환경 비용 감내, ESG 성과 4년 연속 지수 편입 달성.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "나들이 전 편의점 한 번이면 끝ㅡCU, '피크닉 용기 김밥' 3종 출시",
-              "url": "https://cooknchefnews.com/news/view/1065571395812666"
-            },
-            {
               "title": "'환경 상생으로 ESG 초격차'... BGF리테일, '마진' 대신 '가치'",
               "url": "http://www.economytalk.kr/news/articleView.html?idxno=421289"
+            },
+            {
+              "title": "BGF리테일, ESG 지수 4년 연속 편입",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202605121956282281204ead0791_12"
             }
           ]
         }
@@ -127,8 +103,8 @@
       "issues": [
         {
           "emoji": "☂️",
-          "title": "GS25 우양산 기후 대응 전략",
-          "summary": "GS25가 기후 변화 대응 전략으로 암막 우양산 2종 집중 육성, 지난해 우양산 매출 급증 데이터 기반 계절 수요 맞춤 상품 전략.",
+          "title": "GS25 우양산 전략",
+          "summary": "GS25 기후 변화 대응 전략으로 우양산 집중 육성, 암막 코팅 신제품 2종 출시로 계절 수요 변화 대응.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -138,26 +114,26 @@
           ]
         },
         {
-          "emoji": "🤖",
-          "title": "세븐일레븐 휴머노이드 로봇 '로이'",
-          "summary": "세븐일레븐이 롯데이노베이트와 협력해 아이멤버 연동 휴머노이드 로봇 '로이' 도입, AI 기술 접목 현장 운영 혁신 추진.",
+          "emoji": "🏆",
+          "title": "세븐일레븐 안전경영",
+          "summary": "세븐일레븐 ISO 45001 국제표준 안전보건경영시스템 획득으로 전국 사업장 안전 관리 체계 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "짐 나르고 무대선 춤추고…롯데 '피지컬AI 실험'",
-              "url": "https://n.news.naver.com/mnews/article/011/0004620042?sid=105"
+              "title": "세븐일레븐, 국제표준 안전보건경영시스템 'ISO45001' 획득",
+              "url": "http://www.metroseoul.co.kr/article/20260512500338"
             }
           ]
         },
         {
-          "emoji": "📺",
-          "title": "이마트24 양면 디지털 사이니지 확대",
-          "summary": "이마트24가 전국 1000개 점포에 49인치 양면 듀얼 디지털 사이니지 공급, 점포 내·외부 동시 정보 노출로 매장 마케팅 효율성 강화.",
+          "emoji": "🎵",
+          "title": "이마트24 K-팝 상품",
+          "summary": "이마트24 xikers 미니앨범 예약 판매로 K-팝 팬덤 기반 상품 판매 강화, 음반 유통 채널 다각화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "[산업 HOT 뉴스] 솔루엠, 'ESL' 사업 확대 박차…이마트24에 '49인치 양면...",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=136403"
+              "title": "이마트24, 싸이커스 미니 7집 예약 판매 진행",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202605121946152770204ead0791_12"
             }
           ]
         }
@@ -168,8 +144,8 @@
       "issues": [
         {
           "emoji": "💜",
-          "title": "우베 하이볼 2030 입맛 공략",
-          "summary": "편의점 업계가 우베 하이볼 등 새로운 맛·한정판 상품으로 2030 세대 공략, SNS 공유 가능한 트렌디한 먹거리로 단독·협업 상품 확대.",
+          "title": "우베 하이볼 한정판",
+          "summary": "편의점 업계 우베 하이볼 등 한정판 신상품으로 2030세대 공략, SNS 공유 가치 중심의 트렌드 상품 전략 확대.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -179,14 +155,14 @@
           ]
         },
         {
-          "emoji": "🍬",
-          "title": "새콤달콤 IP 협업 100억 수출",
-          "summary": "크라운제과 새콤달콤이 닌자거북이·바비·핫윌 등 유명 캐릭터 IP 협업 제품으로 호주 등 해외 유통망 확보, 100억 수출 목표 추진.",
+          "emoji": "🍙",
+          "title": "CU 피크닉 김밥",
+          "summary": "CU 5월 야외활동 시즌 대비 피크닉 용기 김밥 3종 출시, 상반기 김밥 매출 데이터 기반 시즌 상품 전략.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'호주 마트에 Zappo, 새콤달콤이었어?' 100억 수출 넘본다는데",
-              "url": "https://n.news.naver.com/mnews/article/015/0005285656?sid=103"
+              "title": "나들이 전 편의점 한 번이면 끝ㅡCU, '피크닉 용기 김밥' 3종 출시",
+              "url": "https://cooknchefnews.com/news/view/1065571395812666"
             }
           ]
         }
