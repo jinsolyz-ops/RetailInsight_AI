@@ -222,7 +222,7 @@ export async function generateReport(): Promise<ReportData> {
   }).join('\n\n====================\n\n');
 
   const aiResponse = await anthropic.messages.create({
-    model: 'claude-sonnet-4-5',
+    model: 'claude-sonnet-4-6',
     max_tokens: 4000,
     temperature: 0.2,
     system: SYSTEM_PROMPT,
@@ -233,13 +233,17 @@ export async function generateReport(): Promise<ReportData> {
 
   const claudeText = aiResponse.content[0].type === 'text' ? aiResponse.content[0].text : '';
 
+  if (!claudeText) {
+    throw new Error('Claude API가 빈 응답을 반환했습니다.');
+  }
+
   let parsed: any;
   try {
     parsed = extractAndParseJSON(claudeText);
   } catch (parseError: any) {
-    console.error('Failed to parse Claude output as JSON:', parseError.message);
-    console.error('Raw string:', claudeText);
-    throw new Error('AI가 리포트 구조를 만드는 데 실패했습니다.');
+    throw new Error(
+      `JSON 파싱 실패: ${parseError.message}\n--- Claude 응답 ---\n${claudeText.slice(0, 500)}`
+    );
   }
 
   // 최종 링크 dedup
