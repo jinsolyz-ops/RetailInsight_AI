@@ -176,13 +176,13 @@ CRITICAL FORMAT RULES:
 - EVEN IF ALL CATEGORIES ARE EMPTY, RETURN THE FULL JSON STRUCTURE. NEVER output conversational text.
 - You MUST output exactly 6 categories matching the input. Do not omit any category like '상품 이슈' or '이커머스 트렌드'.
 - Each link MUST be used exactly ONCE across the entire report. Do not duplicate links.
-- Consolidate multiple articles about the same event into a single issue.
+- Consolidate articles ONLY when they report on the exact same single event (e.g., multiple outlets covering the same product launch). If topics differ even slightly — different products, different campaigns, different themes — keep them as SEPARATE issues. Never force-merge loosely related articles.
 
 IMPORTANCE RANKING:
 - Rank by marketing impact: buzz volume, strategic novelty, consumer relevance
 - For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant move for each.
 - For '상품 이슈': prioritize product launches tied to consumer trends or collaboration buzz over routine restocks.
-- For all other categories: identify 1 to 2 top issues only.
+- For all other categories: identify 1 to 2 top issues only. Each issue must be about a clearly distinct topic.
 
 For each issue, provide:
 1. title: Concise title (max 15 chars) referencing the actual campaign or event name.
