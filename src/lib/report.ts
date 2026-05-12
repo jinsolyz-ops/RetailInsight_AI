@@ -177,7 +177,6 @@ CRITICAL FORMAT RULES:
 - You MUST output exactly 6 categories matching the input. Do not omit any category like '상품 이슈' or '이커머스 트렌드'.
 - Each link MUST be used exactly ONCE across the entire report. Do not duplicate links.
 - Consolidate articles ONLY when they report on the exact same single event (e.g., multiple outlets covering the same product launch). If topics differ even slightly — different products, different campaigns, different themes — keep them as SEPARATE issues. Never force-merge loosely related articles.
-- CATEGORIZATION PRIORITY: Any article where CU or BGF리테일 is the main subject MUST be placed in '당사 이슈', even if the article also appears relevant to another category.
 
 IMPORTANCE RANKING:
 - Rank by marketing impact: buzz volume, strategic novelty, consumer relevance
