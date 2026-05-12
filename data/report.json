@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-05-12T12:17:48.804Z",
+  "generatedAt": "2026-05-12T12:26:23.224Z",
   "summary": [
     "컵 푸드·피크닉 용기 등 소비 트렌드 반영 신상품 확대",
-    "로봇배달·AI 에이전트 커머스 본격화로 배달·쇼핑 혁신 가속",
-    "BGF리테일 ESG 4년 연속 편입, 생분해성 소재 도입으로 가치 경영 강화"
+    "로봇배달·AI 에이전트 커머스 본격화로 배달·쇼핑 혁신",
+    "CU·GS25 야구 마케팅·전략상품으로 젊은층 공략 강화"
   ],
   "categories": [
     {
-      "name": "리테일 트렌드",
+      "name": "유통 트렌드",
       "issues": [
         {
           "emoji": "🥤",
-          "title": "컵 푸드 시장 확대",
-          "summary": "편의점·식품업계가 컵에 담은 빙수, 김치볶음밥 등 컵 푸드를 여름 공략 키워드로 확대 출시 중.",
+          "title": "컵 푸드 확대",
+          "summary": "편의점·카페에서 컵에 담은 빙수·밥 등 컵 푸드 출시가 확대되며 여름 시즌 핵심 상품으로 부상 중.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -22,47 +22,43 @@
           ]
         },
         {
-          "emoji": "🌍",
-          "title": "해외 시장 진출 강화",
-          "summary": "K-뷰티·한식 등 한국 제품의 UAE, 사우디 등 중동 시장 진출 및 현지화 전략 추진 중.",
-          "articleCount": 2,
+          "emoji": "🏬",
+          "title": "지역 관광 백화점 강화",
+          "summary": "롯데·신세계·현대백화점이 인천·부산 등 非서울 점포 리뉴얼로 외국인 관광객 수요 공략.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "UAE 뷰티 시장, 문은 열렸다. 어떻게 두드릴 것인가?",
-              "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=241013"
-            },
-            {
-              "title": "기능성 제품으로 공략하는 사우디 뷰티시장, K-뷰티의 가능성을 찾다",
-              "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=241014"
+              "title": "지역 관광 찾는 외국인…백화점 3사, 非서울 점포 강화 '사활'",
+              "url": "https://www.ekn.kr/web/view.php?key=20260512024253704"
             }
           ]
         }
       ]
     },
     {
-      "name": "이커머스 트렌드",
+      "name": "커머스 트렌드",
       "issues": [
         {
           "emoji": "🤖",
           "title": "로봇배달 경쟁 확대",
-          "summary": "배민·요기요 등 배달 플랫폼이 로봇을 퀵커머스 영역으로 확대 투입하며 배달 혁신 가속화.",
+          "summary": "배민·요기요가 로봇배달을 퀵커머스까지 확대하며 배달 혁신 경쟁 본격화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "배민 vs 요기요, 로봇배달 경쟁 '점화'…\"배달 혁신으로 '라스트마일' 해결\"",
+              "title": "배민 vs 요기요, 로봇배달 경쟁 '점화'…\"배달 혁신으로 '라스트마일'\"",
               "url": "https://www.ceoscoredaily.com/page/view/2026051216363190481"
             }
           ]
         },
         {
-          "emoji": "🔐",
-          "title": "비밀번호 없는 인증 확대",
-          "summary": "SK텔레콤이 비밀번호 없는 로그인 인증을 획득하며 금융·공공·이커머스 등 보안 서비스 확대 추진.",
+          "emoji": "🎥",
+          "title": "라이브커머스 크리에이터 확대",
+          "summary": "CJ올리브영이 K뷰티 크리에이터 '셔터브리티' 7기 300명 모집으로 라이브커머스 생태계 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "비밀번호 사라지는 세상 가속화... SK텔레콤, '비밀번호 없이 로그인해...'",
-              "url": "http://www.ttlnews.com/news/articleView.html?idxno=3107105"
+              "title": "CJ올리브영, K뷰티 크리에이터 '셔터브리티' 7기 모집",
+              "url": "http://www.bokuennews.com/news/article.html?no=278029"
             }
           ]
         }
@@ -74,7 +70,7 @@
         {
           "emoji": "🤖",
           "title": "AI 에이전트 커머스",
-          "summary": "카카오가 탐색부터 결제까지 AI가 수행하는 에이전틱 커머스를 본격화하며 5000만 사용자 대상 개인화 AI 제공 추진.",
+          "summary": "카카오가 탐색부터 결제까지 AI가 수행하는 '에이전틱 커머스' 본격화로 5000만 사용자 대상 개인화 AI 제공.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -86,12 +82,12 @@
       ]
     },
     {
-      "name": "CU 이슈",
+      "name": "당사 이슈",
       "issues": [
         {
           "emoji": "🌱",
           "title": "ESG 4년 연속 편입",
-          "summary": "BGF리테일이 다우존스 베스트인클래스 코리아 지수에 4년 연속 편입되며 ESG 리더십 강화.",
+          "summary": "BGF리테일이 다우존스 베스트인클래스 코리아 지수에 4년 연속 편입되며 ESG 리더십 입증.",
           "articleCount": 2,
           "relatedLinks": [
             {
@@ -106,8 +102,8 @@
         },
         {
           "emoji": "🍙",
-          "title": "피크닉 용기 김밥 출시",
-          "summary": "CU가 야외활동 시즌을 겨냥해 피크닉 용기 김밥 3종을 순차 출시하며 계절 트렌드 반영.",
+          "title": "피크닉 용기 김밥",
+          "summary": "CU가 야외활동 시즌 맞춰 피크닉 용기 김밥 3종 출시로 계절 수요 공략.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -119,28 +115,28 @@
       ]
     },
     {
-      "name": "경쟁사 이슈",
+      "name": "경쟁사",
       "issues": [
         {
-          "emoji": "🏪",
+          "emoji": "🏆",
           "title": "GS25 야구 마케팅",
-          "summary": "GS25가 야구 콘셉트 스낵 '오잉K불황태맛' 출시 및 홈파티·우양산 등 전략 상품으로 트렌드 선도.",
+          "summary": "GS25가 야구 콘셉트 스낵·전략상품 연이어 출시로 젊은 여성 팬층 공략 강화.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "GS25, 홈파티·우양산 등 맞춤형 '전략 상품' 연이어 선봬… 비결은?",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421288"
-            },
-            {
               "title": "GS25 \"야구 콘셉트 스낵 '오잉K불황태맛' 만나요\"",
               "url": "https://n.news.naver.com/mnews/article/382/0001273034?sid=101"
+            },
+            {
+              "title": "GS25, 홈파티·우양산 등 맞춤형 '전략 상품' 연이어 선봬… 비결은?",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421288"
             }
           ]
         },
         {
           "emoji": "🔒",
-          "title": "세븐일레븐 ISO45001 획득",
-          "summary": "세븐일레븐이 국제표준 안전보건경영시스템 ISO45001 인증을 획득하며 안전 경영 강화.",
+          "title": "세븐일레븐 ISO45001",
+          "summary": "세븐일레븐이 국제표준 안전보건경영시스템 ISO 45001 인증 획득으로 안전관리 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -152,7 +148,7 @@
         {
           "emoji": "📺",
           "title": "이마트24 디지털 사이니지",
-          "summary": "이마트24가 전국 1000개 점포에 49인치 양면 듀얼 디지털 사이니지를 공급받으며 매장 혁신 추진.",
+          "summary": "이마트24가 전국 1000개 점포에 49인치 양면 듀얼 디지털 사이니지 공급으로 매장 정보 표시 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -164,12 +160,12 @@
       ]
     },
     {
-      "name": "상품 이슈",
+      "name": "상품",
       "issues": [
         {
-          "emoji": "🎮",
-          "title": "포켓몬 협업 상품 확대",
-          "summary": "유통·식품·패션업계가 포켓몬 30주년을 맞아 협업 제품·팝업존·한정상품 등을 잇따라 출시 중.",
+          "emoji": "⚾",
+          "title": "야구 테마 협업상품",
+          "summary": "포켓몬·야구 등 팬덤 콘텐츠 협업으로 편의점 한정상품·디저트 출시 확대로 수집 수요 창출.",
           "articleCount": 2,
           "relatedLinks": [
             {
@@ -177,15 +173,15 @@
               "url": "https://n.news.naver.com/mnews/article/028/0002804719?sid=101"
             },
             {
-              "title": "[유통24시] 오리온, '2026 신입사원' 공개채용 外",
-              "url": "https://news.dealsitetv.com/articles/170169"
+              "title": "[ESG] GS25, '흑백요리사' 타미 리와 나눔 실천...발달장애 학생 후원 나서",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=518138"
             }
           ]
         },
         {
           "emoji": "🍜",
-          "title": "간편식 시장 확대",
-          "summary": "대상·하림 등이 라면·즉석밥·만두 등 HMR 간편식을 편의점·대형마트 중심으로 확대 출시 중.",
+          "title": "간편식 HMR 확대",
+          "summary": "대상·하림 등이 김·김치·라면 등 간편식 브랜드 확대로 편의점·마트 입점 강화.",
           "articleCount": 2,
           "relatedLinks": [
             {
