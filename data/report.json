@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-05-12T13:02:04.715Z",
+  "generatedAt": "2026-05-12T13:13:40.607Z",
   "summary": [
     "CU, 피크닉 시즌 맞춰 용기 김밥 3종 출시로 계절 수요 공략",
-    "편의점 업계, 포켓몬·야구 IP 협업으로 MZ세대 팬덤 마케팅 강화",
-    "GS25, 기후변화 대응 우양산 집중 육성으로 날씨 연동 상품 전략 전개"
+    "GS25, 우양산 집중 육성으로 기후변화 대응 전략 상품화",
+    "편의점 업계, 포켓몬·우베 등 한정판 협업으로 2030 세대 SNS 마케팅 강화"
   ],
   "categories": [
     {
-      "name": "리테일 트렌드",
+      "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "CU 피크닉 용기 김밥",
-          "summary": "CU가 5월 김밥 매출 데이터 분석 기반으로 야외활동 시즌 타겟 상품 3종 순차 출시, 계절 수요 극대화 전략.",
+          "emoji": "🍙",
+          "title": "피크닉 용기 김밥 3종",
+          "summary": "CU가 5월 김밥 매출 데이터 분석 기반으로 야외활동 시즌 맞춰 계절 한정 상품 출시, 공원·관광지 수요 직접 공략.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -23,29 +23,37 @@
         },
         {
           "emoji": "♻️",
-          "title": "BGF 그린 상생 ESG",
-          "summary": "BGF리테일이 생분해성 소재 간편식 도입 시 제품 가격 인상 없이 기업 비용 감내, ESG 가치 중심 차별화 전략.",
-          "articleCount": 2,
+          "title": "생분해성 소재 간편식",
+          "summary": "BGF리테일이 비용 높은 생분해성 소재 도입하면서도 제품 가격 인상 없이 기업 비용 감내, ESG 가치 마케팅 강화.",
+          "articleCount": 1,
           "relatedLinks": [
             {
               "title": "'환경 상생으로 ESG 초격차'... BGF리테일, '마진' 대신 '가치'",
               "url": "http://www.economytalk.kr/news/articleView.html?idxno=421289"
-            },
+            }
+          ]
+        },
+        {
+          "emoji": "🥃",
+          "title": "골든블루 편의점 입점",
+          "summary": "위스키 브랜드 골든블루가 CU·GS25·이마트24 등 주요 편의점 플랫폼 입점 강화 및 카카오톡 선물하기 활용으로 '길게 마시는 술' 문화 대응.",
+          "articleCount": 1,
+          "relatedLinks": [
             {
-              "title": "BGF리테일, ESG 지수 4년 연속 편입",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202605121956282281204ead0791_12"
+              "title": "'유흥서 편의점으로'…골든블루, 달라진 위스키 시장에 사업 구조 바꾼...",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=358808"
             }
           ]
         }
       ]
     },
     {
-      "name": "이커머스 트렌드",
+      "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "☂️",
-          "title": "GS25 우양산 집중 육성",
-          "summary": "GS25가 기후변화 대응 전략으로 암막 우양산 2종 출시, 날씨 연동 상품 포트폴리오 강화.",
+          "emoji": "☔",
+          "title": "우양산 집중 육성",
+          "summary": "GS25가 기후변화 대응 전략으로 3단자동·수동 암막우양산 2종 출시, 날씨 변동성에 따른 수요 변화 선제 대응.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -56,8 +64,8 @@
         },
         {
           "emoji": "⚾",
-          "title": "세븐일레븐 야구 마케팅",
-          "summary": "세븐일레븐이 야구장 인근 점포에서 3월 28일~4월 19일 매출 103% 증가 달성, 스포츠 IP 협업 효과 입증.",
+          "title": "야구팬 타겟 팝업 성공",
+          "summary": "세븐일레븐 야구장 인근 점포 팝업에서 전년 동기 대비 103% 매출 증가, 이마트24 SSG랜더스 사인 모자 5일 완판으로 스포츠 팬 마케팅 효과 입증.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -69,7 +77,7 @@
         {
           "emoji": "🎵",
           "title": "이마트24 K팝 앨범 판매",
-          "summary": "이마트24가 xikers 미니앨범 사전예약 판매 진행, K팝 팬덤 타겟 상품 다각화 전략.",
+          "summary": "이마트24가 xikers 미니앨범 사전 예약 판매 진행, K팝 팬덤 수요 직접 포섭으로 MZ세대 고객층 확보.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -81,12 +89,12 @@
       ]
     },
     {
-      "name": "AI 트렌드",
+      "name": "상품 이슈",
       "issues": [
         {
           "emoji": "💜",
           "title": "우베 하이볼 한정판",
-          "summary": "편의점 업계가 우베 하이볼 등 SNS 공유 가능한 한정판 상품 출시로 2030 입맛 공략, 트렌디한 맛 경쟁 심화.",
+          "summary": "편의점 업계가 우베 하이볼 등 새로운 맛 한정판 상품으로 2030 입맛 공략, SNS 공유 욕구 자극하는 트렌드형 음료 경쟁 심화.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -97,8 +105,8 @@
         },
         {
           "emoji": "🎮",
-          "title": "포켓몬 협업 제품 열풍",
-          "summary": "포켓몬 30주년 기념 IP 협업으로 편의점·식품·패션 업계 제품 잇따라 출시, SNS 구매 열풍 확산.",
+          "title": "포켓몬 30주년 협업",
+          "summary": "편의점·유통·식품·패션 업계가 포켓몬 30주년 협업 상품 출시, SNS 재고 조회·구매 인증 게시글 확산으로 한정판 제품 빠른 소진 기록.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -110,24 +118,58 @@
       ]
     },
     {
-      "name": "당사 이슈",
+      "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🏟️",
-          "title": "야구 마케팅 효과 확산",
-          "summary": "편의점·식품업계가 야구 IP 활용으로 매출 증대 달성, 스포츠 팬덤 기반 마케팅 전략 강화.",
+          "emoji": "⚾",
+          "title": "GS25 야구 콘셉트 스낵",
+          "summary": "GS25가 롯데웰푸드와 협업한 '오잉K불황태맛' 출시, 야구장 응원 문화와 관람 먹거리 트렌드 반영한 스포츠 마케팅 강화.",
           "articleCount": 1,
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "GS25 \"야구 콘셉트 스낵 '오잉K불황태맛' 만나요\"",
+              "url": "https://n.news.naver.com/mnews/article/382/0001273034?sid=101"
+            }
+          ]
         }
       ]
     },
     {
-      "name": "경쟁사 이슈",
+      "name": "이커머스 트렌드",
+      "issues": [
+        {
+          "emoji": "🤖",
+          "title": "배민·요기요 로봇배달",
+          "summary": "배달앱이 로봇배달을 퀵커머스 영역으로 확대, AI 기반 추천 배차·경로 최적화로 라스트마일 배송 혁신 경쟁 심화.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "배민 vs 요기요, 로봇배달 경쟁 '점화'…\"배달 혁신으로 '라스트마...",
+              "url": "https://www.ceoscoredaily.com/page/view/2026051216363190481"
+            }
+          ]
+        },
+        {
+          "emoji": "🛍️",
+          "title": "컬리 IPO 재도전",
+          "summary": "컬리가 새벽배송·뷰티컬리·3P·퀵커머스 등 다각화 사업으로 영업이익률 개선, 이커머스 수익성 모델 입증으로 IPO 로드맵 가속화.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "[고고IPO] '돈 버는 이커머스' 증명한 컬리…IPO 로드맵 속도 낸다",
+              "url": "https://n.news.naver.com/mnews/article/138/0002227495?sid=101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI 트렌드",
       "issues": [
         {
           "emoji": "🤖",
           "title": "카카오 에이전틱 커머스",
-          "summary": "카카오가 탐색부터 결제까지 AI가 전 과정 수행하는 에이전틱 커머스 본격화, 5000만 카카오톡 이용자 대상 개인화 AI 제공 계획.",
+          "summary": "카카오가 탐색부터 결제까지 AI가 전 과정 수행하는 에이전틱 커머스 본격화, 5000만 카카오톡 이용자 대상 개인화 AI 에이전트 제공 계획.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -135,30 +177,6 @@
               "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=358809"
             }
           ]
-        },
-        {
-          "emoji": "🚀",
-          "title": "컬리 IPO 재도전 수익화",
-          "summary": "컬리가 1분기 역대 최대 실적 기록하며 리테일 테크 플랫폼으로 진화, 연내 IPO 추진으로 기업가치 3조원 이상 인정 기대.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "[컬리 IPO 재도전]① 적자 꼬리표 떼고 '수익 공식' 풀었다",
-              "url": "https://n.news.naver.com/mnews/article/293/0000084461?sid=101"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "상품 이슈",
-      "issues": [
-        {
-          "emoji": "🛍️",
-          "title": "리테일 테크 플랫폼 진화",
-          "summary": "컬리 등 이커머스 기업이 AI 기반 리테일 테크 플랫폼으로 진화, 장보기 앱을 넘어 통합 쇼핑 경험 제공 중심으로 전환.",
-          "articleCount": 1,
-          "relatedLinks": []
         }
       ]
     }
