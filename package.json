@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "generate-report": "tsx scripts/generate-report.ts"
+    "generate-report": "tsx --tsconfig tsconfig.scripts.json scripts/generate-report.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.92.0",
