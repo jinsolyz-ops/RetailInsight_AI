@@ -59,26 +59,34 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
   }
 
   return (
-    <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-700 ease-out">
+    <div className="space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-700 ease-out">
       {/* 상단 메타 & 저장 버튼 */}
-      <div className="flex items-end justify-between">
-        <div>
-          <p className="text-xs font-bold tracking-widest uppercase text-[#00A651] mb-1">{dateStr} Retail Briefing</p>
-          {generatedLabel && <p className="text-xs text-slate-400">업데이트 {generatedLabel}</p>}
-        </div>
+      <div className="flex items-center justify-between">
+        {generatedLabel && (
+          <p className="text-sm text-slate-400">최종 업데이트: {generatedLabel}</p>
+        )}
         <button
           onClick={handleDownloadImage}
-          className="flex items-center gap-1.5 text-sm font-semibold text-slate-500 hover:text-slate-900 border border-slate-200 hover:border-slate-400 px-4 py-2 rounded-xl transition-all"
+          className="ml-auto flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white px-5 py-2.5 rounded-xl font-bold transition-all shadow-sm hover:shadow-md"
         >
-          📸 저장
+          📸 리포트 이미지 저장
         </button>
       </div>
 
-      <div ref={reportRef} className="space-y-8">
-        {/* 트렌드 3줄 요약 */}
+      <div ref={reportRef} className="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 md:p-12 space-y-12">
+        {/* 헤더 */}
+        <div className="text-center">
+          <div className="text-[#00A651] font-bold mb-3 tracking-wide uppercase">{dateStr}</div>
+          <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight">Trend Summary</h1>
+          <p className="text-slate-500 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
+            자사/경쟁사 최신 이슈를 한눈에 파악하세요.
+          </p>
+        </div>
+
+        {/* 3줄 요약 */}
         {report.summary?.length > 0 && (
-          <div className="bg-white rounded-2xl border border-slate-100 shadow-sm p-6">
-            <p className="text-xs font-bold tracking-widest uppercase text-[#00A651] mb-4">트렌드 3줄 요약</p>
+          <div className="bg-slate-50 rounded-2xl border border-slate-100 px-7 py-6">
+            <p className="text-xs font-bold tracking-widest uppercase text-[#00A651] mb-4">3줄 요약</p>
             <ol className="space-y-3">
               {report.summary.map((line, i) => (
                 <li key={i} className="flex items-start gap-3">
@@ -109,13 +117,13 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
         <div className="space-y-12">
           {report.categories.map((category, idx) => (
             <section key={idx} id={categoryId(category.name)} className="scroll-mt-24">
-              <div className="flex items-center gap-3 mb-5">
+              <div className="flex items-center gap-3 mb-6">
                 <div className="w-1 h-5 bg-[#00A651] rounded-full shrink-0" />
-                <h2 className="text-base font-black text-slate-900 tracking-tight">{category.name}</h2>
-                <div className="flex-1 h-px bg-slate-100" />
+                <h2 className="text-xl font-black text-slate-900 tracking-tight">{category.name}</h2>
+                <div className="flex-1 h-px bg-slate-200" />
               </div>
 
-              <div className={`grid grid-cols-1 ${category.name === '경쟁사 이슈' ? 'md:grid-cols-3' : 'md:grid-cols-2'} gap-4`}>
+              <div className={`grid grid-cols-1 ${category.name === '경쟁사 이슈' ? 'md:grid-cols-3' : 'md:grid-cols-2'} gap-6 lg:gap-8`}>
                 {category.issues.map((issue, issueIdx) => (
                   <IssueCard key={issueIdx} issue={issue} />
                 ))}
