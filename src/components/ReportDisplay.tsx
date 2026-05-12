@@ -100,7 +100,7 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
         )}
 
         {/* 카테고리 네비게이션 */}
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap justify-center gap-2">
           {report.categories.map((category) => (
             <button
               key={category.name}
