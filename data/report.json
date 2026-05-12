@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-12T23:24:25.898Z",
+  "generatedAt": "2026-05-12T23:57:44.604Z",
   "summary": [
-    "CU, 캐릭터 IP 마케팅으로 PB상품 매출 75% 급증",
-    "G마켓, 셀럽 라방 콘텐츠로 이커머스 경쟁 강화",
-    "LF몰, ChatGPT 연동 AI 대화형 쇼핑 서비스 출시"
+    "CU 캐릭터 상품 매출 75% 급증, 어른이 소비층 확대로 차별화 전략 성공",
+    "GS페이 가입자 700만명 돌파, 재방문율 1.6배로 옴니채널 통합 마케팅 강화",
+    "LF몰 챗GPT 도입, AI 기반 대화형 쇼핑으로 이커머스 경험 혁신"
   ],
   "categories": [
     {
@@ -11,25 +11,33 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "CU 캐릭터 IP 마케팅",
-          "summary": "CU가 캐릭터 상품으로 PB 매출 75% 증가를 달성하며 IP를 단순 마케팅에서 고객 유입의 핵심 경쟁력으로 전환.",
-          "articleCount": 1,
+          "title": "CU 캐릭터 IP 매출 75% 증가",
+          "summary": "30대 성인층이 주도하는 캐릭터 상품 구매로 편의점 차별화 상품군 확립, 2025년 105.7% 성장률 기록.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "'어른이'가 큰 손…CU, 캐릭터 상품 매출 75% 점프",
-              "url": "https://n.news.naver.com/mnews/article/421/0008941013?sid=101"
+              "title": "10대보다 30대가 더 샀다…CU, 캐릭터 상품 매출 75%↑",
+              "url": "https://n.news.naver.com/mnews/article/018/0006279625?sid=101"
+            },
+            {
+              "title": "CU, 산리오·티니핑 등 '어른이 소비' 확산…포켓몬카드 25만개 판매 돌파",
+              "url": "https://n.news.naver.com/mnews/article/003/0013941075?sid=101"
             }
           ]
         },
         {
           "emoji": "💳",
-          "title": "GS Pay 700만 가입자",
-          "summary": "GS리테일의 GS Pay가 온·오프 통합 혜택과 GS All 멤버십 연계로 700만 가입자 달성, 충성고객 락인 전략 강화.",
-          "articleCount": 1,
+          "title": "GS페이 700만 가입자 돌파",
+          "summary": "GS페이 이용 고객의 재방문율 1.6배, 객단가 2배 수준으로 옴니채널 통합 마케팅 효과 극대화.",
+          "articleCount": 3,
           "relatedLinks": [
             {
-              "title": "온·오프 통합 혜택 통했다..GS리테일, GS Pay 누적 가입자 700만 '눈앞'",
-              "url": "https://kpenews.com/View.aspx?No=4075677"
+              "title": "GS리테일 간편결제 'GS페이', 누적 가입자 700만 눈앞",
+              "url": "https://n.news.naver.com/mnews/article/016/0002642541?sid=101"
+            },
+            {
+              "title": "'한번 쓰면 계속 쓴다'…GS페이, 가입자 700만명 눈앞",
+              "url": "https://n.news.naver.com/mnews/article/003/0013941124?sid=101"
             }
           ]
         }
@@ -40,20 +48,20 @@
       "issues": [
         {
           "emoji": "🎬",
-          "title": "G마켓 예능형 라방",
-          "summary": "G마켓이 셀럽 섭외 및 방송 포맷 제공으로 '예능형 라방' 콘텐츠 경쟁을 강화하며 라이브커머스 차별화 전략 추진.",
+          "title": "G마켓 예능형 라이브커머스 전개",
+          "summary": "셀럽 섭외 및 방송 포맷 제공으로 브랜드 협업 라이브 쇼핑 활성화, 이커머스 콘텐츠 경쟁 심화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "셀럽 입담에 더해진 특가 혜택… G마켓이 빅스마일데이에 '예능형 라방'",
+              "title": "셀럽 입담에 더해진 특가 혜택… G마켓이 빅스마일데이에 '예능형 라방' 전개",
               "url": "https://n.news.naver.com/mnews/article/366/0001163649?sid=101"
             }
           ]
         },
         {
           "emoji": "🤖",
-          "title": "이커머스 AI 광고 자동화",
-          "summary": "이커머스 업계가 AI 광고 자동화 경쟁을 본격화하며 판매자 부담 경감과 성과 최적화를 동시 추진.",
+          "title": "이커머스 AI 광고 자동화 경쟁",
+          "summary": "판매자 광고 운영 부담 경감을 위한 AI 캠페인 자동화 옵션 출시, 성과 최적화 전면전 진행.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -69,17 +77,17 @@
       "issues": [
         {
           "emoji": "💬",
-          "title": "LF몰 ChatGPT 연동",
-          "summary": "LF가 ChatGPT 내 LF몰 앱 출시로 대화형 AI 쇼핑 경험을 제공하며 전사 AI 전략 고도화 추진.",
+          "title": "LF몰 챗GPT 도입 대화형 쇼핑",
+          "summary": "패션 전문몰 최초 챗GPT 통합으로 AI 기반 추천 쇼핑 및 이미지 인식 스타일 제안 서비스 구현.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "LF몰, 챗GPT 안으로 들어갔다…패션 쇼핑도 '대화형 추천' 시대",
-              "url": "https://n.news.naver.com/mnews/article/421/0008941024?sid=101"
+              "title": "LF몰, 패션 전문몰 최초 '챗GPT' 합류…'대화형 쇼핑' 구현",
+              "url": "https://n.news.naver.com/mnews/article/277/0005761900?sid=101"
             },
             {
-              "title": "LF, AI 쇼핑 실험…챗GPT에 'LF몰' 앱 출시",
-              "url": "https://n.news.naver.com/mnews/article/366/0001163807?sid=101"
+              "title": "LF, 챗GPT에 'LF몰' 앱 출시…대화형 쇼핑 강화",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=705422"
             }
           ]
         }
@@ -87,44 +95,52 @@
     },
     {
       "name": "당사 이슈",
-      "issues": []
+      "issues": [
+        {
+          "emoji": "🎁",
+          "title": "CU 캐릭터 IP 협업 확대",
+          "summary": "산리오, 티니핑 등 캐릭터 협업으로 포켓몬카드 25만개 판매 달성, 어른이 소비층 확보 성공.",
+          "articleCount": 1,
+          "relatedLinks": []
+        }
+      ]
     },
     {
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎣",
-          "title": "GS25 아웃도어 간식",
-          "summary": "GS25가 5월 '아웃도어 간식 페스티벌'을 진행하며 신제품 '매콤숯불맛 장어구이'로 야외활동 시즌 수요 공략.",
+          "emoji": "💳",
+          "title": "GS25 GS페이 재방문율 1.6배",
+          "summary": "GS페이 이용 고객의 재방문율 및 객단가 대폭 상승으로 편의점 고객 충성도 강화 전략 성공.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "(주)아라움, 5월 '아웃도어 간식 페스티벌' 진행...인기 안주스낵·콜라",
-              "url": "https://www.mhns.co.kr/news/articleView.html?idxno=747257"
+              "title": "GS페이, 누적 가입자 700만 눈앞…재방문율 1.6배 높아",
+              "url": "https://n.news.naver.com/mnews/article/421/0008941076?sid=101"
             }
           ]
         },
         {
-          "emoji": "📺",
-          "title": "이마트24 양면 디지털 사이니지",
-          "summary": "이마트24가 전국 1000개 점포에 49인치 양면 듀얼 디지털 사이니지 공급으로 점포 내·외부 동시 정보 노출 강화.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "[산업 HOT 뉴스] 솔루엠, 'ESL' 사업 확대 박차…이마트24에 '49인치 양면 듀얼 디지털 사이니지' 공급",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=136403"
-            }
-          ]
-        },
-        {
-          "emoji": "🎵",
-          "title": "세븐일레븐 K-팝 앨범",
-          "summary": "세븐일레븐이 야구 마케팅으로 2030 여성팬 확보 및 한정판 제품 출시로 팝업 매출 2배 증가 달성.",
+          "emoji": "🍜",
+          "title": "세븐일레븐 야구 마케팅 효과",
+          "summary": "야구장 인근 점포 매출 증대 및 한정판 제품 출시로 스포츠 마케팅 활용 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
               "title": "2030 女야구팬 잡자…팝업 매출 2배 '껑충'",
               "url": "https://n.news.naver.com/mnews/article/015/0005286029?sid=101"
+            }
+          ]
+        },
+        {
+          "emoji": "⚡",
+          "title": "이마트24 저카페인 에너지드링크 출시",
+          "summary": "1030세대 타겟 '블루 이글' 저카페인 에너지 음료 출시로 부담 없는 에너지 충전 수요 대응.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "[맛보니] \"카페인 낮추고 활력은 살렸다\"…이마트24 '블루 이글'",
+              "url": "https://www.viva100.com/article/20260513500071"
             }
           ]
         }
@@ -135,27 +151,10 @@
       "issues": [
         {
           "emoji": "🎮",
-          "title": "포켓몬 30주년 협업",
-          "summary": "편의점·식품·패션 업계가 포켓몬 30주년 협업으로 한정판 제품 출시 및 팝업 이벤트 진행하며 강한 소비자 반응 기록.",
+          "title": "CU 포켓몬카드 25만개 판매",
+          "summary": "캐릭터 IP 협업 상품 중 포켓몬카드가 25만개 판매 달성, 한정판 굿즈 수집 열풍 확산.",
           "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "포켓몬 30돌…'협업 마케팅' 뜨거운 유통·식품·패션업계",
-              "url": "https://n.news.naver.com/mnews/article/028/0002804719?sid=101"
-            }
-          ]
-        },
-        {
-          "emoji": "🍬",
-          "title": "새콤달콤 글로벌 수출",
-          "summary": "크라운제과의 새콤달콤이 닌자거북이·바비 등 유명 IP 콜라보로 100억 수출 목표 달성하며 글로벌 유통망 확대.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "'호주 마트에 Zappo, 새콤달콤이었어?' 100억 수출 넘본다는데",
-              "url": "https://n.news.naver.com/mnews/article/015/0005285656?sid=103"
-            }
-          ]
+          "relatedLinks": []
         }
       ]
     }
