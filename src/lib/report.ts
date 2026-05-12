@@ -265,6 +265,14 @@ export async function generateReport(): Promise<ReportData> {
     );
   }
 
+  // 카테고리명 강제 적용 (AI 출력과 무관하게 CATEGORIES 순서 기준)
+  const categoryNames = CATEGORIES.map(c => c.name);
+  for (let i = 0; i < (parsed.categories || []).length; i++) {
+    if (parsed.categories[i] && categoryNames[i]) {
+      parsed.categories[i].name = categoryNames[i];
+    }
+  }
+
   // 최종 링크 dedup
   const seenFinalUrls = new Set<string>();
   for (const category of (parsed.categories || [])) {
