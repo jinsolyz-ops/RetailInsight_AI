@@ -1,14 +1,47 @@
 {
-  "generatedAt": "2026-05-12T11:39:32.876Z",
-  "summary": [],
+  "generatedAt": "2026-05-12T12:01:38.101Z",
+  "summary": [
+    "컵 푸드·피크닉 용기 등 소비 트렌드 반영 신상품 확대",
+    "로봇배달·AI 에이전트 커머스 경쟁 본격화",
+    "CU 피크닉 용기 김밥·ESG 생분해성 소재 도입으로 가치 경영 강화"
+  ],
   "categories": [
     {
       "name": "유통 트렌드",
       "issues": [
         {
+          "emoji": "🥤",
+          "title": "컵 푸드 시장 확대",
+          "summary": "메가커피 팥빙수 900만개 판매 성공 이후 편의점·식품업계가 컵 푸드 출시를 확대하며 여름 시즌 공략 키워드로 부상.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "[동향] 한 손에 담긴 한 끼…컵 푸드, 유통가 여름 공략 키워드로",
+              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=359922"
+            }
+          ]
+        },
+        {
+          "emoji": "📈",
+          "title": "축산물 수입 증가",
+          "summary": "가축질병으로 인한 국내산 축산물 공급 감소로 축산물 수입이 20% 증가하며 유통업계 공급망 재편 중.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "가축질병 여파 축산물 수입 20% ↑",
+              "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=404021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "커머스 트렌드",
+      "issues": [
+        {
           "emoji": "🤖",
           "title": "로봇배달 경쟁 점화",
-          "summary": "배민과 요기요가 AI 기반 로봇 배달을 퀵커머스 영역까지 확대하며 라스트마일 배송 혁신 경쟁을 본격화하고 있다.",
+          "summary": "배민·요기요가 로봇배달을 퀵커머스까지 확대하며 배달 혁신 경쟁을 본격화, 노동력 부족과 기술 발전이 주요 배경.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -18,14 +51,14 @@
           ]
         },
         {
-          "emoji": "🥤",
-          "title": "컵 푸드 여름 공략",
-          "summary": "식품·유통업계에서 한 손에 담긴 한 끼 형태의 컵 푸드 출시가 확대되며 여름 시즌 핵심 트렌드로 부상하고 있다.",
+          "emoji": "🔐",
+          "title": "비밀번호 없는 인증 확대",
+          "summary": "SK텔레콤이 패스키 기술 국제표준 인증 획득, 금융·공공·이커머스 등 보안 중심 서비스로 확대 예정.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "컵 푸드, 유통가 여름 공략 키워드로",
-              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=359922"
+              "title": "비밀번호 사라지는 세상 가속화... SK텔레콤, '비밀번호 없이 로그인'",
+              "url": "http://www.ttlnews.com/news/articleView.html?idxno=3107105"
             }
           ]
         }
@@ -35,26 +68,14 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "💳",
-          "title": "카카오페이 AI 결제 확대",
-          "summary": "카카오페이가 AI 기반 초개인화 서비스와 오프라인 결제 확대를 통해 혜택·금융·커머스를 연결한 생활형 플랫폼으로 진화를 선언했다.",
+          "emoji": "🤖",
+          "title": "AI 에이전트 커머스 전환",
+          "summary": "카카오가 탐색부터 결제까지 AI가 수행하는 '에이전틱 커머스' 본격화, 5000만 카카오톡 이용자 대상 개인화 AI 제공 추진.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "카카오페이, AI 결제·오프라인 확대 승부수",
-              "url": "http://www.itdaily.kr/news/articleView.html?idxno=239287"
-            }
-          ]
-        },
-        {
-          "emoji": "🛒",
-          "title": "컬리 리테일테크 IPO",
-          "summary": "컬리가 단순 장보기 앱을 넘어 리테일 테크 플랫폼으로 진화하며 1분기 역대 최대 실적을 바탕으로 연내 IPO에 재도전한다.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "[컬리 IPO 재도전]① 적자 꼬리표 떼고 '수익 공식' 풀었다",
-              "url": "https://n.news.naver.com/mnews/article/293/0000084461?sid=101"
+              "title": "AI 수익화 앞두고 엇갈린 노사 갈등…네이버 '안정' vs 카카오 '진통'",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=358809"
             }
           ]
         }
@@ -64,29 +85,29 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🌿",
-          "title": "BGF리테일 ESG 4연속",
-          "summary": "BGF리테일이 다우존스 베스트인클래스 코리아 지수에 4년 연속 편입되며 생분해성 소재 도입 등 ESG 초격차 전략을 강화하고 있다.",
-          "articleCount": 3,
+          "emoji": "🌱",
+          "title": "ESG 생분해성 소재 도입",
+          "summary": "CU가 생분해성 소재를 간편식에 도입하면서도 제품 가격 인상 없이 기업이 비용을 감내하는 '그린 상생' 추진.",
+          "articleCount": 2,
           "relatedLinks": [
-            {
-              "title": "BGF리테일, ESG 지수 4년 연속 편입",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202605121956282281204ead0791_12"
-            },
             {
               "title": "'환경 상생으로 ESG 초격차'... BGF리테일, '마진' 대신 '가치'",
               "url": "http://www.economytalk.kr/news/articleView.html?idxno=421289"
+            },
+            {
+              "title": "BGF리테일, ESG 지수 4년 연속 편입",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202605121956282281204ead0791_12"
             }
           ]
         },
         {
-          "emoji": "🍱",
-          "title": "CU 피크닉 김밥 출시",
-          "summary": "CU가 5월 김밥 매출이 가장 높다는 3년치 데이터를 기반으로 야외활동 시즌에 맞춘 '피크닉 용기 김밥' 3종을 출시했다.",
+          "emoji": "🍙",
+          "title": "피크닉 용기 김밥 출시",
+          "summary": "CU가 5월 김밥 매출 비중 분석 기반으로 야외활동 시즌 맞춰 피크닉 용기 김밥 3종 순차 출시.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "CU, '피크닉 용기 김밥' 3종 출시",
+              "title": "나들이 전 편의점 한 번이면 끝ㅡCU, '피크닉 용기 김밥' 3종 출시",
               "url": "https://cooknchefnews.com/news/view/1065571395812666"
             }
           ]
@@ -97,25 +118,25 @@
       "name": "경쟁사",
       "issues": [
         {
-          "emoji": "⚾",
-          "title": "GS25 야구 전략상품",
-          "summary": "GS25가 롯데웰푸드와 협업한 야구 콘셉트 스낵 출시 등 트렌드 기반 전략 상품을 연이어 선보이며 소비자 호응을 이끌고 있다.",
+          "emoji": "🏪",
+          "title": "GS25 야구 콘셉트 상품",
+          "summary": "GS25가 롯데웰푸드와 협업해 야구 응원 문화 반영한 '오잉K불황태맛' 출시, 트렌드 기반 전략 상품 전개 중.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "GS25, 홈파티·우양산 등 맞춤형 '전략 상품' 연이어 선봬",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421288"
+              "title": "GS25 \"야구 콘셉트 스낵 '오잉K불황태맛' 만나요\"",
+              "url": "https://n.news.naver.com/mnews/article/382/0001273034?sid=101"
             },
             {
-              "title": "GS25 '오잉K불황태맛' 출시",
-              "url": "https://n.news.naver.com/mnews/article/382/0001273034?sid=101"
+              "title": "GS25, 홈파티·우양산 등 맞춤형 '전략 상품' 연이어 선봬",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421288"
             }
           ]
         },
         {
-          "emoji": "🏆",
-          "title": "세븐일레븐 ISO45001 획득",
-          "summary": "코리아세븐이 전국 사업장을 대상으로 국제표준 안전보건경영시스템 ISO 45001 인증을 획득했다.",
+          "emoji": "🏥",
+          "title": "세븐일레븐 ISO45001 인증",
+          "summary": "세븐일레븐이 국제표준 안전보건경영시스템 ISO45001 인증 획득, 전국 사업장 대상 한국국제규격인증원 심사 통과.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -126,12 +147,12 @@
         },
         {
           "emoji": "📺",
-          "title": "이마트24 디지털 사이니지",
-          "summary": "이마트24가 전국 1000개 점포에 49인치 양면 듀얼 디지털 사이니지를 도입해 점포 내·외부 동시 정보 노출이 가능한 스마트 매장 환경을 구축하고 있다.",
+          "title": "이마트24 디지털 사이니지 확대",
+          "summary": "이마트24 전국 1000개 점포에 49인치 양면 듀얼 디지털 사이니지 공급, 점포 내·외부 동시 정보 노출 가능.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "솔루엠, 이마트24에 '49인치 양면 듀얼 디지털 사이니지' 공급",
+              "title": "[산업 HOT 뉴스] 솔루엠, 'ESL' 사업 확대 박차…이마트24에 '49인치 양면'",
               "url": "http://www.bizwnews.com/news/articleView.html?idxno=136403"
             }
           ]
@@ -142,30 +163,30 @@
       "name": "상품",
       "issues": [
         {
-          "emoji": "🎮",
-          "title": "포켓몬 30주년 협업",
-          "summary": "포켓몬 30주년을 맞아 유통·식품·패션업계 전반에서 협업 제품이 잇따라 출시되며 편의점 한정 상품 품귀 현상까지 나타나고 있다.",
-          "articleCount": 2,
+          "emoji": "🍰",
+          "title": "포켓몬 협업 한정상품",
+          "summary": "포켓몬 30주년 기념으로 유통·식품·패션업계가 협업 제품 출시, 포켓몬빵 등 한정상품이 편의점에서 인기.",
+          "articleCount": 1,
           "relatedLinks": [
             {
               "title": "포켓몬 30돌…'협업 마케팅' 뜨거운 유통·식품·패션업계",
               "url": "https://n.news.naver.com/mnews/article/028/0002804719?sid=101"
-            },
-            {
-              "title": "[유통24시] 오리온, '2026 신입사원' 공개채용 外",
-              "url": "https://news.dealsitetv.com/articles/170169"
             }
           ]
         },
         {
-          "emoji": "🍶",
-          "title": "막걸리 프리미엄화",
-          "summary": "K-드라마·한식 열풍을 발판으로 전통주·막걸리가 병당 10만 원대 고급 주류로 변신하며 국내외에서 새로운 소비 경험 상품으로 주목받고 있다.",
-          "articleCount": 1,
+          "emoji": "🍜",
+          "title": "간편식 시장 확대",
+          "summary": "대상·하림 등이 김·김치·라면·즉석밥 등 간편식(HMR) 브랜드를 편의점·대형마트 중심으로 확대 공급 중.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "[수요광장] 막걸리 한 병에 10만 원, 그래도 줄을 선다",
-              "url": "https://www.kyeongin.com/article/1763460"
+              "title": "대상, 동남아 '김 · 김치 왕국' 굳힌다…2030년 매출 1조원 시대 선언",
+              "url": "https://www.polinews.co.kr/news/articleView.html?idxno=730953"
+            },
+            {
+              "title": "하림 유통 승부수, 오너 2세 신사업 판도 바꿀까",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=838398"
             }
           ]
         }
