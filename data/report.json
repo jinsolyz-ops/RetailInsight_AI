@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-05-12T13:39:16.410Z",
+  "generatedAt": "2026-05-12T23:24:25.898Z",
   "summary": [
-    "포켓몬 30주년 협업으로 편의점 IP 마케팅 열풍, SNS 화제성 극대화",
-    "CU 피크닉 용기 김밥 3종 출시로 계절 수요 공략, 데이터 기반 상품 전략",
-    "카카오 에이전틱 커머스 본격화로 AI 기반 개인화 쇼핑 경쟁 심화"
+    "CU, 캐릭터 IP 마케팅으로 PB상품 매출 75% 급증",
+    "G마켓, 셀럽 라방 콘텐츠로 이커머스 경쟁 강화",
+    "LF몰, ChatGPT 연동 AI 대화형 쇼핑 서비스 출시"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎮",
-          "title": "포켓몬 30주년 협업 마케팅",
-          "summary": "포켓몬 IP를 활용한 편의점·식품·패션 업계의 협업 제품 출시로 높은 팬덤 기반 수요 창출, SNS 화제성으로 매출 증대",
+          "emoji": "🎯",
+          "title": "CU 캐릭터 IP 마케팅",
+          "summary": "CU가 캐릭터 상품으로 PB 매출 75% 증가를 달성하며 IP를 단순 마케팅에서 고객 유입의 핵심 경쟁력으로 전환.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "포켓몬 30돌…'협업 마케팅' 뜨거운 유통·식품·패션업계",
-              "url": "https://n.news.naver.com/mnews/article/028/0002804719?sid=101"
+              "title": "'어른이'가 큰 손…CU, 캐릭터 상품 매출 75% 점프",
+              "url": "https://n.news.naver.com/mnews/article/421/0008941013?sid=101"
             }
           ]
         },
         {
-          "emoji": "⚾",
-          "title": "야구 마케팅 편의점 매출 증대",
-          "summary": "야구장 인근 세븐일레븐 매출 103% 증가, 이마트24 SSG랜더스 선수 상품 출시로 스포츠 IP 활용한 지역 기반 판매 전략 확대",
+          "emoji": "💳",
+          "title": "GS Pay 700만 가입자",
+          "summary": "GS리테일의 GS Pay가 온·오프 통합 혜택과 GS All 멤버십 연계로 700만 가입자 달성, 충성고객 락인 전략 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "2030 女야구팬 잡자…팝업 매출 2배 '껑충'",
-              "url": "https://n.news.naver.com/mnews/article/015/0005286029?sid=101"
+              "title": "온·오프 통합 혜택 통했다..GS리테일, GS Pay 누적 가입자 700만 '눈앞'",
+              "url": "https://kpenews.com/View.aspx?No=4075677"
             }
           ]
         }
@@ -40,8 +40,8 @@
       "issues": [
         {
           "emoji": "🎬",
-          "title": "G마켓 예능형 라이브커머스",
-          "summary": "셀럽 섭외 및 브랜드 협력 방식의 '빅스마일데이' 라이브방송으로 콘텐츠 기반 이커머스 경쟁 심화, 특가 혜택 결합으로 구매 전환율 제고",
+          "title": "G마켓 예능형 라방",
+          "summary": "G마켓이 셀럽 섭외 및 방송 포맷 제공으로 '예능형 라방' 콘텐츠 경쟁을 강화하며 라이브커머스 차별화 전략 추진.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -52,8 +52,8 @@
         },
         {
           "emoji": "🤖",
-          "title": "이커머스 AI 광고 자동화 경쟁",
-          "summary": "쿠팡 'AI 캠페인' 신규 옵션 'AI 부스트업' 출시로 판매자 광고 운영 자동화 및 성과 최적화 경쟁 본격화",
+          "title": "이커머스 AI 광고 자동화",
+          "summary": "이커머스 업계가 AI 광고 자동화 경쟁을 본격화하며 판매자 부담 경감과 성과 최적화를 동시 추진.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -68,14 +68,18 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "카카오 에이전틱 커머스 본격화",
-          "summary": "카카오톡 5000만 이용자 대상 개인화 AI 에이전트 제공으로 탐색부터 결제까지 AI 기반 자동화 쇼핑 경험 제공, 자체 LLM 개발로 경쟁력 강화",
-          "articleCount": 1,
+          "emoji": "💬",
+          "title": "LF몰 ChatGPT 연동",
+          "summary": "LF가 ChatGPT 내 LF몰 앱 출시로 대화형 AI 쇼핑 경험을 제공하며 전사 AI 전략 고도화 추진.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "AI 수익화 앞두고 엇갈린 노사 갈등…네이버 '안정' vs 카카오 '진통'",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=358809"
+              "title": "LF몰, 챗GPT 안으로 들어갔다…패션 쇼핑도 '대화형 추천' 시대",
+              "url": "https://n.news.naver.com/mnews/article/421/0008941024?sid=101"
+            },
+            {
+              "title": "LF, AI 쇼핑 실험…챗GPT에 'LF몰' 앱 출시",
+              "url": "https://n.news.naver.com/mnews/article/366/0001163807?sid=101"
             }
           ]
         }
@@ -83,73 +87,44 @@
     },
     {
       "name": "당사 이슈",
-      "issues": [
-        {
-          "emoji": "🌿",
-          "title": "CU 피크닉 용기 김밥 3종",
-          "summary": "5월 김밥 매출 데이터 분석 기반 계절 수요 공략, 야외활동 시즌 타겟 상품 출시로 데이터 기반 상품 전략 강화",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "나들이 전 편의점 한 번이면 끝ㅡCU, '피크닉 용기 김밥' 3종 출시",
-              "url": "https://cooknchefnews.com/news/view/1065571395812666"
-            }
-          ]
-        },
-        {
-          "emoji": "♻️",
-          "title": "BGF리테일 ESG 4년 연속 편입",
-          "summary": "생분해성 소재 간편식 도입 시 제품 가격 인상 없이 기업 비용 감내하는 '그린 상생' 전략으로 ESG 초격차 달성",
-          "articleCount": 2,
-          "relatedLinks": [
-            {
-              "title": "'환경 상생으로 ESG 초격차'... BGF리테일, '마진' 대신 '가치'",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421289"
-            },
-            {
-              "title": "BGF리테일, ESG 지수 4년 연속 편입",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202605121956282281204ead0791_12"
-            }
-          ]
-        }
-      ]
+      "issues": []
     },
     {
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "☂️",
-          "title": "GS25 우양산 기후대응 전략",
-          "summary": "기후 변화 대응 상품으로 우양산 집중 육성, 암막 코팅 3단 자동·수동 우양산 2종 출시로 계절 수요 변화 대응",
+          "emoji": "🎣",
+          "title": "GS25 아웃도어 간식",
+          "summary": "GS25가 5월 '아웃도어 간식 페스티벌'을 진행하며 신제품 '매콤숯불맛 장어구이'로 야외활동 시즌 수요 공략.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "GS25, 변덕스러운 날씨에 '우양산' 매출 급증",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202605121950491477204ead0791_12"
-            }
-          ]
-        },
-        {
-          "emoji": "🎵",
-          "title": "이마트24 xikers 앨범 예약판매",
-          "summary": "보이그룹 xikers 7집 앨범 사전 예약 판매로 K-팝 팬덤 기반 구매 유도, 엔터테인먼트 IP 활용 편의점 판매 전략",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "이마트24, 싸이커스 미니 7집 예약 판매 진행",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202605121946152770204ead0791_12"
+              "title": "(주)아라움, 5월 '아웃도어 간식 페스티벌' 진행...인기 안주스낵·콜라",
+              "url": "https://www.mhns.co.kr/news/articleView.html?idxno=747257"
             }
           ]
         },
         {
           "emoji": "📺",
-          "title": "세븐일레븐 ISO45001 인증 획득",
-          "summary": "국제표준 안전보건경영시스템 인증으로 전국 사업장 안전 관리 체계 강화, 기업 신뢰도 제고",
+          "title": "이마트24 양면 디지털 사이니지",
+          "summary": "이마트24가 전국 1000개 점포에 49인치 양면 듀얼 디지털 사이니지 공급으로 점포 내·외부 동시 정보 노출 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 국제표준 안전보건경영시스템 'ISO45001' 획득",
-              "url": "http://www.metroseoul.co.kr/article/20260512500338"
+              "title": "[산업 HOT 뉴스] 솔루엠, 'ESL' 사업 확대 박차…이마트24에 '49인치 양면 듀얼 디지털 사이니지' 공급",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=136403"
+            }
+          ]
+        },
+        {
+          "emoji": "🎵",
+          "title": "세븐일레븐 K-팝 앨범",
+          "summary": "세븐일레븐이 야구 마케팅으로 2030 여성팬 확보 및 한정판 제품 출시로 팝업 매출 2배 증가 달성.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "2030 女야구팬 잡자…팝업 매출 2배 '껑충'",
+              "url": "https://n.news.naver.com/mnews/article/015/0005286029?sid=101"
             }
           ]
         }
@@ -159,21 +134,21 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "💜",
-          "title": "우베 하이볼 2030 입맛 공략",
-          "summary": "우베 하이볼 등 새로운 맛의 한정판 상품으로 2030 세대 타겟, SNS 공유 욕구 자극하는 편의점 먹거리 트렌드 주도",
+          "emoji": "🎮",
+          "title": "포켓몬 30주년 협업",
+          "summary": "편의점·식품·패션 업계가 포켓몬 30주년 협업으로 한정판 제품 출시 및 팝업 이벤트 진행하며 강한 소비자 반응 기록.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'우베 하이볼이라니' 2030 입맛 공략하는 편의점 업계",
-              "url": "https://n.news.naver.com/mnews/article/018/0006279184?sid=101"
+              "title": "포켓몬 30돌…'협업 마케팅' 뜨거운 유통·식품·패션업계",
+              "url": "https://n.news.naver.com/mnews/article/028/0002804719?sid=101"
             }
           ]
         },
         {
           "emoji": "🍬",
-          "title": "새콤달콤 100억 수출 목표",
-          "summary": "닌자 거북이, 바비인형, 핫윌 등 유명 캐릭터 IP 콜라보로 글로벌 유통망 확대, 호주 마트 진출 등 수출 성장 가속",
+          "title": "새콤달콤 글로벌 수출",
+          "summary": "크라운제과의 새콤달콤이 닌자거북이·바비 등 유명 IP 콜라보로 100억 수출 목표 달성하며 글로벌 유통망 확대.",
           "articleCount": 1,
           "relatedLinks": [
             {
