@@ -29,7 +29,8 @@ export interface ReportData {
 }
 
 const CATEGORIES = [
-  { name: '유통 트렌드', keywords: ['유통업계 동향', '커머스 트렌드', '편의점 트렌드', '유통업계', '유통 이슈', '이커머스 이슈'] },
+  { name: '유통 트렌드', keywords: ['유통업계 동향', '편의점 트렌드', '유통업계', '유통 이슈', '오프라인 유통', '대형마트 트렌드'] },
+  { name: '커머스 트렌드', keywords: ['커머스 트렌드', '이커머스 이슈', '이커머스 트렌드', '온라인쇼핑 트렌드', '쿠팡 이슈', '네이버쇼핑'] },
   { name: 'AI 트렌드', keywords: ['유통업계 AI', '커머스 AI', '리테일테크'] },
   { name: '당사 이슈', keywords: ['CU편의점', 'BGF리테일'] },
   { name: '경쟁사', keywords: ['GS25', '세븐일레븐', '이마트24'] },
@@ -154,7 +155,7 @@ CRITICAL INSTRUCTIONS:
 - ABSOLUTELY DO NOT mention "물가안정 프로젝트" or anything similar unless it is explicitly in the news text. This is a known hallucination.
 - If a category has no relevant articles, output an empty array [] for its issues. Do not invent issues.
 - EVEN IF ALL CATEGORIES ARE EMPTY, YOU MUST RETURN THE FULL JSON STRUCTURE WITH EMPTY ARRAYS. NEVER output conversational text.
-- You MUST output exactly 5 categories matching the input. Do not omit any category like '상품'.
+- You MUST output exactly 6 categories matching the input. Do not omit any category like '상품' or '커머스 트렌드'.
 - Each link MUST be used exactly ONCE across the entire report. Do not duplicate links.
 - IMPORTANCE RANKING LOGIC: You must analyze the articles to determine the "truly important" issues. An issue is important if it has a high volume of related articles (heavy press coverage) OR if it represents a major strategic business shift in the retail industry.
 - For the '경쟁사' category, you MUST output EXACTLY 3 issues: one for 'GS25', one for '세븐일레븐', and one for '이마트24'. For each competitor, select their single MOST IMPORTANT news event of the week based on press coverage volume and industry impact.
