@@ -164,6 +164,12 @@ WHAT TO EXCLUDE:
 - Routine logistics or supply chain operational updates without strategic angle
 - Any hallucinated content — base summaries ONLY on the provided articles
 
+EXCLUSIONS SPECIFIC TO 'AI 트렌드' CATEGORY:
+- Security/authentication articles (비밀번호, 인증, 해킹, 개인정보 보호)
+- Telecom-only articles (SKT, KT, LGU+ as the sole subject, unrelated to retail)
+- Finance/fintech articles (결제, 페이, 송금) unless directly tied to retail checkout innovation
+- Any AI article not directly relevant to retail, commerce, or consumer experience
+
 CRITICAL FORMAT RULES:
 - DO NOT hallucinate. ABSOLUTELY DO NOT mention "물가안정 프로젝트" unless explicitly in the text.
 - If a category has no relevant marketing/strategy articles, output an empty array [] for its issues.
