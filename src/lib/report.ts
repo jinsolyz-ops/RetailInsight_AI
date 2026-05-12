@@ -24,6 +24,7 @@ export interface Category {
 
 export interface ReportData {
   generatedAt: string;
+  summary: string[];
   categories: Category[];
 }
 
@@ -170,8 +171,12 @@ For each issue, you must provide:
 4. relatedLinks: A list of 1 to 2 relevant article links. Provide 2 links if possible, 1 if not enough articles.
 5. emoji: A single relevant emoji representing the issue. If the issue is about '우베' (Ube), use the 💜 emoji.
 
+Also generate a top-level "summary" array with EXACTLY 3 strings.
+Each string must be 1 concise Korean sentence (under 40 chars) highlighting the 3 most important news items across ALL categories.
+
 Output STRICTLY in the following JSON schema without any markdown formatting or extra text.
 {
+  "summary": ["오늘의 핵심 이슈 1", "오늘의 핵심 이슈 2", "오늘의 핵심 이슈 3"],
   "categories": [
     {
       "name": "Category Name",
@@ -222,7 +227,7 @@ export async function generateReport(): Promise<ReportData> {
   }).join('\n\n====================\n\n');
 
   const aiResponse = await anthropic.messages.create({
-    model: 'claude-sonnet-4-6',
+    model: 'claude-haiku-4-5-20251001',
     max_tokens: 4000,
     temperature: 0.2,
     system: SYSTEM_PROMPT,
@@ -263,6 +268,7 @@ export async function generateReport(): Promise<ReportData> {
 
   return {
     generatedAt: new Date().toISOString(),
+    summary: parsed.summary || [],
     categories: parsed.categories || [],
   };
 }

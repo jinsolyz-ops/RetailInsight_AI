@@ -5,6 +5,13 @@ import { toPng } from 'html-to-image';
 import IssueCard from '@/components/IssueCard';
 import type { ReportData } from '@/lib/report';
 
+const categoryId = (name: string) => `category-${name.replace(/\s+/g, '-')}`;
+
+const scrollTo = (name: string) => {
+  const el = document.getElementById(categoryId(name));
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+};
+
 export default function ReportDisplay({ report }: { report: ReportData | null }) {
   const reportRef = useRef<HTMLDivElement>(null);
 
@@ -31,8 +38,7 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
       });
       const link = document.createElement('a');
       link.href = dataUrl;
-      const filename = `RetailInsight_${today.getFullYear()}${month}${day}.png`;
-      link.download = filename;
+      link.download = `RetailInsight_${today.getFullYear()}${month}${day}.png`;
       link.click();
     } catch (err) {
       console.error('Failed to capture image', err);
@@ -69,6 +75,7 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
       </div>
 
       <div ref={reportRef} className="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 md:p-12 space-y-16">
+        {/* 헤더 */}
         <div className="text-center relative">
           <div className="text-[#00A651] font-bold mb-3 tracking-wide uppercase">{dateStr}</div>
           <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight">Trend Summary</h1>
@@ -77,8 +84,37 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
           </p>
         </div>
 
+        {/* 오늘의 주요 내용 요약 */}
+        {report.summary?.length > 0 && (
+          <div className="bg-slate-50 rounded-2xl border border-slate-100 px-7 py-6">
+            <p className="text-xs font-bold tracking-widest uppercase text-[#00A651] mb-4">오늘의 주요 내용</p>
+            <ol className="space-y-2.5">
+              {report.summary.map((line, i) => (
+                <li key={i} className="flex items-start gap-3">
+                  <span className="text-xs font-black text-[#00A651] mt-0.5 w-4 shrink-0">{i + 1}</span>
+                  <span className="text-slate-700 text-sm leading-relaxed font-medium">{line}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+        )}
+
+        {/* 카테고리 네비게이션 */}
+        <div className="flex flex-wrap gap-2">
+          {report.categories.map((category) => (
+            <button
+              key={category.name}
+              onClick={() => scrollTo(category.name)}
+              className="px-4 py-1.5 rounded-full text-sm font-semibold border border-slate-200 text-slate-600 hover:bg-[#00A651] hover:text-white hover:border-[#00A651] transition-all"
+            >
+              {category.name}
+            </button>
+          ))}
+        </div>
+
+        {/* 카테고리별 섹션 */}
         {report.categories.map((category, idx) => (
-          <section key={idx} className="relative mb-16">
+          <section key={idx} id={categoryId(category.name)} className="relative mb-16 scroll-mt-24">
             <div className="flex items-center gap-4 mb-8">
               <h2 className="text-2xl font-black text-slate-900 tracking-tight bg-slate-100 px-5 py-2 rounded-xl border border-slate-200 shadow-sm">
                 {category.name}
