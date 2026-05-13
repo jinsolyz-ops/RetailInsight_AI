@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-12T23:57:44.604Z",
+  "generatedAt": "2026-05-13T23:54:30.745Z",
   "summary": [
-    "CU 캐릭터 상품 매출 75% 급증, 어른이 소비층 확대로 차별화 전략 성공",
-    "GS페이 가입자 700만명 돌파, 재방문율 1.6배로 옴니채널 통합 마케팅 강화",
-    "LF몰 챗GPT 도입, AI 기반 대화형 쇼핑으로 이커머스 경험 혁신"
+    "CU, 과일 원물 함유 저당 아이스크림 '라라스윗 듬뿍바' 출시로 여름 시즌 공략",
+    "유통가 '캐릭터 IP' 마케팅 강화…팬덤 소비 기반 신상품 차별화 전략",
+    "GS25 야외활동 시즌 '아웃도어 간식 페스티벌' 진행으로 5월 수요 선점"
   ],
   "categories": [
     {
@@ -11,33 +11,29 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "CU 캐릭터 IP 매출 75% 증가",
-          "summary": "30대 성인층이 주도하는 캐릭터 상품 구매로 편의점 차별화 상품군 확립, 2025년 105.7% 성장률 기록.",
+          "title": "캐릭터 IP 마케팅",
+          "summary": "편의점이 캐릭터 IP를 단순 마케팅 요소를 넘어 고객 유입의 핵심 콘텐츠로 활용하며 팬덤 기반 소비 확대 중.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "10대보다 30대가 더 샀다…CU, 캐릭터 상품 매출 75%↑",
-              "url": "https://n.news.naver.com/mnews/article/018/0006279625?sid=101"
+              "title": "유통가 흥행 공식은 '팬덤+2030'…'어른이'가 시장 키운다",
+              "url": "https://n.news.naver.com/mnews/article/629/0000498983?sid=101"
             },
             {
-              "title": "CU, 산리오·티니핑 등 '어른이 소비' 확산…포켓몬카드 25만개 판매 돌파",
-              "url": "https://n.news.naver.com/mnews/article/003/0013941075?sid=101"
+              "title": "'추억으로 피터팬 지갑 연다'…유통가, '캐릭터 IP' 마케팅 팔걷다",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=133746"
             }
           ]
         },
         {
-          "emoji": "💳",
-          "title": "GS페이 700만 가입자 돌파",
-          "summary": "GS페이 이용 고객의 재방문율 1.6배, 객단가 2배 수준으로 옴니채널 통합 마케팅 효과 극대화.",
-          "articleCount": 3,
+          "emoji": "🌍",
+          "title": "신라면 글로벌 확장",
+          "summary": "농심이 편의점 중심 판매망 확대, 팝업·분식 체험 마케팅으로 신라면의 글로벌 넘버원 목표 추진 중.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "GS리테일 간편결제 'GS페이', 누적 가입자 700만 눈앞",
-              "url": "https://n.news.naver.com/mnews/article/016/0002642541?sid=101"
-            },
-            {
-              "title": "'한번 쓰면 계속 쓴다'…GS페이, 가입자 700만명 눈앞",
-              "url": "https://n.news.naver.com/mnews/article/003/0013941124?sid=101"
+              "title": "'신라면으로 글로벌 넘버원'…농심, 2030년 연매출 7조 겨눈다",
+              "url": "https://n.news.naver.com/mnews/article/629/0000498970?sid=101"
             }
           ]
         }
@@ -48,25 +44,17 @@
       "issues": [
         {
           "emoji": "🎬",
-          "title": "G마켓 예능형 라이브커머스 전개",
-          "summary": "셀럽 섭외 및 방송 포맷 제공으로 브랜드 협업 라이브 쇼핑 활성화, 이커머스 콘텐츠 경쟁 심화.",
-          "articleCount": 1,
+          "title": "라이브커머스 콘텐츠 경쟁",
+          "summary": "G마켓이 셀럽 섭외 예능형 라방으로 이커머스 경쟁력 강화, 브랜드와 협력한 콘텐츠 기반 판매 모델 확산.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "셀럽 입담에 더해진 특가 혜택… G마켓이 빅스마일데이에 '예능형 라방' 전개",
+              "title": "셀럽 입담에 더해진 특가 혜택… G마켓이 빅스마일데이에 '예능형 라방'",
               "url": "https://n.news.naver.com/mnews/article/366/0001163649?sid=101"
-            }
-          ]
-        },
-        {
-          "emoji": "🤖",
-          "title": "이커머스 AI 광고 자동화 경쟁",
-          "summary": "판매자 광고 운영 부담 경감을 위한 AI 캠페인 자동화 옵션 출시, 성과 최적화 전면전 진행.",
-          "articleCount": 1,
-          "relatedLinks": [
+            },
             {
-              "title": "이커머스, 'AI 광고' 경쟁 본격화…'자동화·성과 최적화' 전면전",
-              "url": "https://n.news.naver.com/mnews/article/030/0003426219?sid=101"
+              "title": "CJ온스타일, 마라톤 '월리런' 참가권 단독 판매",
+              "url": "https://n.news.naver.com/mnews/article/366/0001164147?sid=101"
             }
           ]
         }
@@ -76,18 +64,18 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "💬",
-          "title": "LF몰 챗GPT 도입 대화형 쇼핑",
-          "summary": "패션 전문몰 최초 챗GPT 통합으로 AI 기반 추천 쇼핑 및 이미지 인식 스타일 제안 서비스 구현.",
+          "emoji": "🤖",
+          "title": "AI 마케팅 솔루션 개발",
+          "summary": "SK네트웍스 자회사 인크로스가 광고·커머스 사업 기반으로 신규 AI 마케팅 솔루션 개발에 집중, 미래 성장동력 확보.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "LF몰, 패션 전문몰 최초 '챗GPT' 합류…'대화형 쇼핑' 구현",
-              "url": "https://n.news.naver.com/mnews/article/277/0005761900?sid=101"
+              "title": "SK네트웍스, 1Q 매출액 약 1.7조...전년동기比 6.5%↑",
+              "url": "http://www.thevaluenews.co.kr/news/view.php?idx=198720"
             },
             {
-              "title": "LF, 챗GPT에 'LF몰' 앱 출시…대화형 쇼핑 강화",
-              "url": "https://www.cstimes.com/news/articleView.html?idxno=705422"
+              "title": "'AI 체질 개선 결실 주효'···SK네트웍스, 1분기 영업이익 102% 급증",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=628734"
             }
           ]
         }
@@ -97,11 +85,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "CU 캐릭터 IP 협업 확대",
-          "summary": "산리오, 티니핑 등 캐릭터 협업으로 포켓몬카드 25만개 판매 달성, 어른이 소비층 확보 성공.",
+          "emoji": "🍦",
+          "title": "라라스윗 듬뿍바 출시",
+          "summary": "CU가 과일 원물 최대 15% 함유한 저당 아이스크림 '라라스윗 듬뿍바' 3종을 순차 출시하며 여름 시즌 공략.",
           "articleCount": 1,
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "CU, 과일 원물 넣은 저당 아이스크림 '라라스윗 듬뿍바' 출시",
+              "url": "https://n.news.naver.com/mnews/article/092/0002422639?sid=105"
+            }
+          ]
         }
       ]
     },
@@ -109,38 +102,42 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💳",
-          "title": "GS25 GS페이 재방문율 1.6배",
-          "summary": "GS페이 이용 고객의 재방문율 및 객단가 대폭 상승으로 편의점 고객 충성도 강화 전략 성공.",
+          "emoji": "🎒",
+          "title": "GS25 아웃도어 간식 페스티벌",
+          "summary": "GS25가 5월 야외활동 시즌 겨냥 '아웃도어 간식 페스티벌' 진행, 신제품 '매콤숯불맛 장어구이' 증정으로 수요 선점.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "GS페이, 누적 가입자 700만 눈앞…재방문율 1.6배 높아",
-              "url": "https://n.news.naver.com/mnews/article/421/0008941076?sid=101"
+              "title": "㈜아라움, 5월 야외활동 시즌 겨냥 '아웃도어 간식 페스티벌' 진행",
+              "url": "https://www.thepowernews.co.kr/view.php?ud=2026051217534164059aeda69934_7"
             }
           ]
         },
         {
           "emoji": "🍜",
-          "title": "세븐일레븐 야구 마케팅 효과",
-          "summary": "야구장 인근 점포 매출 증대 및 한정판 제품 출시로 스포츠 마케팅 활용 강화.",
+          "title": "세븐일레븐 신라면 로제",
+          "summary": "농심 '신라면 로제 컵라면'이 일본 세븐일레븐에서 18일 선출시, 한일 동시 출격으로 글로벌 확장 가속화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "2030 女야구팬 잡자…팝업 매출 2배 '껑충'",
-              "url": "https://n.news.naver.com/mnews/article/015/0005286029?sid=101"
+              "title": "농심, '신라면 로제' 18일 베일 벗는다…日 세븐일레븐서 판매 개시",
+              "url": "https://www.theguru.co.kr/news/article.html?no=101734"
             }
           ]
         },
         {
-          "emoji": "⚡",
-          "title": "이마트24 저카페인 에너지드링크 출시",
-          "summary": "1030세대 타겟 '블루 이글' 저카페인 에너지 음료 출시로 부담 없는 에너지 충전 수요 대응.",
-          "articleCount": 1,
+          "emoji": "📊",
+          "title": "이마트24 실적 부진",
+          "summary": "이마트24가 1분기 매출 4583억원(전년 동기 대비 1.6% 감소), 106억원 영업적자 기록하며 수익성 악화.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "[맛보니] \"카페인 낮추고 활력은 살렸다\"…이마트24 '블루 이글'",
-              "url": "https://www.viva100.com/article/20260513500071"
+              "title": "정용진 '체질 변화' 먹혔다…이마트, 1분기 영업익 14년 만에 최대",
+              "url": "https://www.ekn.kr/web/view.php?key=20260513022254434"
+            },
+            {
+              "title": "이마트, 매출보다 이익이 빨랐다...본업 수익성 개선에 '별도 영업익' 8배",
+              "url": "https://www.insight.co.kr/news/553993"
             }
           ]
         }
@@ -150,11 +147,32 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎮",
-          "title": "CU 포켓몬카드 25만개 판매",
-          "summary": "캐릭터 IP 협업 상품 중 포켓몬카드가 25만개 판매 달성, 한정판 굿즈 수집 열풍 확산.",
+          "emoji": "🎁",
+          "title": "한정판 상품 열풍",
+          "summary": "포켓몬 카드, 키캡 키링 등 한정판 상품이 편의점에서 폭발적 인기, 어린이날 시즌 CU 완구 매출 75% 증가.",
+          "articleCount": 2,
+          "relatedLinks": [
+            {
+              "title": "어린이날 편의점 큰손은 '어른이'…CU 완구 매출 75% 늘었다",
+              "url": "https://www.ajunews.com/view/20260513104018887"
+            },
+            {
+              "title": "'딸깍 딸깍 중독성 미쳤다'…요즘 1020 사이서 인기 폭발",
+              "url": "https://n.news.naver.com/mnews/article/015/0005286694?sid=101"
+            }
+          ]
+        },
+        {
+          "emoji": "🍲",
+          "title": "RMR 편의점 확대",
+          "summary": "외식 브랜드 IP 기반 '데워 먹는 미슐랭' RMR이 편의점 매대 확대, 신상품 개발 부담 경감과 카테고리 강화 실현.",
           "articleCount": 1,
-          "relatedLinks": []
+          "relatedLinks": [
+            {
+              "title": "[솔로이코노미] '데워 먹는 미슐랭'…RMR이 편의점 매대를 바꾼다",
+              "url": "http://www.dailypop.kr/news/articleView.html?idxno=98613"
+            }
+          ]
         }
       ]
     }
