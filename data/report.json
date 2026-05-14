@@ -1,39 +1,35 @@
 {
-  "generatedAt": "2026-05-13T23:54:30.745Z",
+  "generatedAt": "2026-05-14T23:55:26.438Z",
   "summary": [
-    "CU, 과일 원물 함유 저당 아이스크림 '라라스윗 듬뿍바' 출시로 여름 시즌 공략",
-    "유통가 '캐릭터 IP' 마케팅 강화…팬덤 소비 기반 신상품 차별화 전략",
-    "GS25 야외활동 시즌 '아웃도어 간식 페스티벌' 진행으로 5월 수요 선점"
+    "CU, 포켓몬 카드팩 4종 출시 2일 만에 96% 판매로 완구류 매출 75% 급증",
+    "롯데마트 제타, '제철엔 제타' 캠페인으로 AI 선별 수박 11브릭스 기준 차별화",
+    "GS25, 생리대 44종 무료택배 기획전으로 초저가 PB 전쟁 주도"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "캐릭터 IP 마케팅",
-          "summary": "편의점이 캐릭터 IP를 단순 마케팅 요소를 넘어 고객 유입의 핵심 콘텐츠로 활용하며 팬덤 기반 소비 확대 중.",
-          "articleCount": 2,
+          "emoji": "🧊",
+          "title": "컵빙수 2주 105만잔",
+          "summary": "편의점 CU가 기후변화 대응 여름 선제 마케팅으로 쿨링웨어·아이스크림 매출 62% 이상 증가, 계절 수요 선점 전략 성공.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "유통가 흥행 공식은 '팬덤+2030'…'어른이'가 시장 키운다",
-              "url": "https://n.news.naver.com/mnews/article/629/0000498983?sid=101"
-            },
-            {
-              "title": "'추억으로 피터팬 지갑 연다'…유통가, '캐릭터 IP' 마케팅 팔걷다",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=133746"
+              "title": "컵빙수 내놨더니 2주새 105만잔…5월인데 '여름장사'",
+              "url": "https://n.news.naver.com/mnews/article/025/0003523406?sid=101"
             }
           ]
         },
         {
-          "emoji": "🌍",
-          "title": "신라면 글로벌 확장",
-          "summary": "농심이 편의점 중심 판매망 확대, 팝업·분식 체험 마케팅으로 신라면의 글로벌 넘버원 목표 추진 중.",
+          "emoji": "🤝",
+          "title": "SSG닷컴 소상공인 동반성장",
+          "summary": "SSG닷컴이 데이터 기반 마케팅 지원과 정부 연계로 온라인 소상공인 수익성 강화, 플랫폼 생태계 확대 전략 추진.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'신라면으로 글로벌 넘버원'…농심, 2030년 연매출 7조 겨눈다",
-              "url": "https://n.news.naver.com/mnews/article/629/0000498970?sid=101"
+              "title": "데이터 바탕으로 수익성↑…SSG닷컴, 소상공인 동반성장 강화",
+              "url": "https://n.news.naver.com/mnews/article/003/0013946300?sid=101"
             }
           ]
         }
@@ -43,18 +39,30 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "라이브커머스 콘텐츠 경쟁",
-          "summary": "G마켓이 셀럽 섭외 예능형 라방으로 이커머스 경쟁력 강화, 브랜드와 협력한 콘텐츠 기반 판매 모델 확산.",
-          "articleCount": 2,
+          "emoji": "🍉",
+          "title": "제철엔 제타 수박대전",
+          "summary": "롯데마트 제타가 AI 선별 수박 11브릭스 이상 보장 캠페인으로 제철 신선식품 차별화, 온라인 그로서리 경쟁력 강화.",
+          "articleCount": 3,
           "relatedLinks": [
             {
-              "title": "셀럽 입담에 더해진 특가 혜택… G마켓이 빅스마일데이에 '예능형 라방'",
-              "url": "https://n.news.naver.com/mnews/article/366/0001163649?sid=101"
+              "title": "롯데마트 제타, 5월 수박대전… 당도 11브릭스 보장",
+              "url": "https://n.news.naver.com/mnews/article/366/0001164496?sid=101"
             },
             {
-              "title": "CJ온스타일, 마라톤 '월리런' 참가권 단독 판매",
-              "url": "https://n.news.naver.com/mnews/article/366/0001164147?sid=101"
+              "title": "'제철엔 제타' 이번엔 수박… '싼 것 말고 맛있는 것만' 11Brix 기준선 내...",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3400990"
+            }
+          ]
+        },
+        {
+          "emoji": "🎬",
+          "title": "숏폼AI 커머스 확산",
+          "summary": "버즈니 비스킷AI의 숏폼 생성 기술이 신세계라이브쇼핑·홈앤쇼핑 등 대형 플랫폼 채택으로 소상공인 마케팅 판도 변화.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "버즈니 비스킷AI, URL 하나로 숏폼 뚝딱…소상공인 마케팅 판도 바뀌나",
+              "url": "https://www.econovill.com/news/articleView.html?idxno=740116"
             }
           ]
         }
@@ -65,17 +73,25 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 마케팅 솔루션 개발",
-          "summary": "SK네트웍스 자회사 인크로스가 광고·커머스 사업 기반으로 신규 AI 마케팅 솔루션 개발에 집중, 미래 성장동력 확보.",
-          "articleCount": 2,
+          "title": "AI 무인계산대 혁신",
+          "summary": "오아시스마켓이 지어소프트와 개발한 AI 무인계산기 도입으로 바코드 스캔 없이 결제 완료, B2B 사업 확대 추진.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "SK네트웍스, 1Q 매출액 약 1.7조...전년동기比 6.5%↑",
-              "url": "http://www.thevaluenews.co.kr/news/view.php?idx=198720"
-            },
+              "title": "[현장]'바코드 안 찍어도 결제 끝' 오아시스마켓, AI 계산대 혁신 시험대",
+              "url": "https://n.news.naver.com/mnews/article/003/0013946241?sid=101"
+            }
+          ]
+        },
+        {
+          "emoji": "🔍",
+          "title": "발주고 AI 추천엔진",
+          "summary": "콤웨어 인수한 비버웍스가 수발주 플랫폼에 오프라인 업계 최초 AI 추천 엔진 도입, 프랜차이즈 미수금 문제 해결.",
+          "articleCount": 1,
+          "relatedLinks": [
             {
-              "title": "'AI 체질 개선 결실 주효'···SK네트웍스, 1분기 영업이익 102% 급증",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=628734"
+              "title": "[더벨]비버웍스, 수발주 1위 '발주고' 운영사 콤웨어 인수",
+              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605131326328080101951"
             }
           ]
         }
@@ -85,14 +101,34 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "라라스윗 듬뿍바 출시",
-          "summary": "CU가 과일 원물 최대 15% 함유한 저당 아이스크림 '라라스윗 듬뿍바' 3종을 순차 출시하며 여름 시즌 공략.",
-          "articleCount": 1,
+          "emoji": "🎴",
+          "title": "포켓몬 카드 75% 매출증",
+          "summary": "CU의 포켓몬 카드팩 4종이 출시 2일 만에 25만개 판매, 사흘 만에 96% 소진으로 캐릭터 상품 차별화 전략 성공.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "CU, 과일 원물 넣은 저당 아이스크림 '라라스윗 듬뿍바' 출시",
-              "url": "https://n.news.naver.com/mnews/article/092/0002422639?sid=105"
+              "title": "'귀여운 잉어킹이 30만원?' '포켓몬 카드' 재테크 열풍 유통가 달군다",
+              "url": "https://n.news.naver.com/mnews/article/003/0013946131?sid=101"
+            },
+            {
+              "title": "CU, '캐릭터 맛집'으로 입소문… 포켓몬 매출 75% '껑충'",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421327"
+            }
+          ]
+        },
+        {
+          "emoji": "🍦",
+          "title": "라라스윗 듬뿍바 출시",
+          "summary": "CU가 과일 원물 함량 최대 15% 아이스크림 '라라스윗 듬뿍바' 3종 순차 출시로 여름 시즌 프리미엄 디저트 강화.",
+          "articleCount": 2,
+          "relatedLinks": [
+            {
+              "title": "CU, 과육 15% 아이스크림 '라라스윗 듬뿍바' 3종 선보여",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202605142001553139204ead0791_12"
+            },
+            {
+              "title": "[신상품] 동원F&B '덴마크 우유' 외",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=628827"
             }
           ]
         }
@@ -102,42 +138,38 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎒",
-          "title": "GS25 아웃도어 간식 페스티벌",
-          "summary": "GS25가 5월 야외활동 시즌 겨냥 '아웃도어 간식 페스티벌' 진행, 신제품 '매콤숯불맛 장어구이' 증정으로 수요 선점.",
+          "emoji": "🎀",
+          "title": "GS25 생리대 무료택배",
+          "summary": "GS25가 생리대 44종 대상 무료택배 기획전으로 초저가 PB 전쟁 주도, 사회적 화두 대응 마케팅 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "㈜아라움, 5월 야외활동 시즌 겨냥 '아웃도어 간식 페스티벌' 진행",
-              "url": "https://www.thepowernews.co.kr/view.php?ud=2026051217534164059aeda69934_7"
+              "title": "GS25, 생리대 44종 대상 '무료택배 기획전' 운영",
+              "url": "https://n.news.naver.com/mnews/article/018/0006281904?sid=101"
             }
           ]
         },
         {
-          "emoji": "🍜",
-          "title": "세븐일레븐 신라면 로제",
-          "summary": "농심 '신라면 로제 컵라면'이 일본 세븐일레븐에서 18일 선출시, 한일 동시 출격으로 글로벌 확장 가속화.",
+          "emoji": "🍅",
+          "title": "세븐일레븐 토마토 신상",
+          "summary": "세븐일레븐이 MZ 열광 토마토 트렌드에 대응해 '밀키 카라멜 토마토' 한일 동시 출시로 차별화 상품 경쟁.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "농심, '신라면 로제' 18일 베일 벗는다…日 세븐일레븐서 판매 개시",
-              "url": "https://www.theguru.co.kr/news/article.html?no=101734"
+              "title": "'안성재 국수' 이후 뜨더니…MZ 열광하자 유통업계도 '발칵' [트렌드+]",
+              "url": "https://n.news.naver.com/mnews/article/015/0005287187?sid=101"
             }
           ]
         },
         {
-          "emoji": "📊",
-          "title": "이마트24 실적 부진",
-          "summary": "이마트24가 1분기 매출 4583억원(전년 동기 대비 1.6% 감소), 106억원 영업적자 기록하며 수익성 악화.",
-          "articleCount": 2,
+          "emoji": "🏪",
+          "title": "이마트24 카드 혜택",
+          "summary": "BC카드 마이태그가 이마트24 등 편의점에서 1만원 이상 결제 시 할인 혜택 제공으로 결제 플랫폼 경쟁 심화.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "정용진 '체질 변화' 먹혔다…이마트, 1분기 영업익 14년 만에 최대",
-              "url": "https://www.ekn.kr/web/view.php?key=20260513022254434"
-            },
-            {
-              "title": "이마트, 매출보다 이익이 빨랐다...본업 수익성 개선에 '별도 영업익' 8배",
-              "url": "https://www.insight.co.kr/news/553993"
+              "title": "BC카드, 5월 가정의 달 맞아 '마이태그' 생활 할인 이벤트",
+              "url": "https://n.news.naver.com/mnews/article/417/0001143241?sid=101"
             }
           ]
         }
@@ -147,32 +179,11 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "한정판 상품 열풍",
-          "summary": "포켓몬 카드, 키캡 키링 등 한정판 상품이 편의점에서 폭발적 인기, 어린이날 시즌 CU 완구 매출 75% 증가.",
+          "emoji": "🍓",
+          "title": "과일 토핑 아이스크림",
+          "summary": "CU의 '라라스윗 듬뿍바' 3종(딸기·골드키위파인·피치망고)이 과일 원물 15% 함량으로 프리미엄 여름 디저트 트렌드 주도.",
           "articleCount": 2,
-          "relatedLinks": [
-            {
-              "title": "어린이날 편의점 큰손은 '어른이'…CU 완구 매출 75% 늘었다",
-              "url": "https://www.ajunews.com/view/20260513104018887"
-            },
-            {
-              "title": "'딸깍 딸깍 중독성 미쳤다'…요즘 1020 사이서 인기 폭발",
-              "url": "https://n.news.naver.com/mnews/article/015/0005286694?sid=101"
-            }
-          ]
-        },
-        {
-          "emoji": "🍲",
-          "title": "RMR 편의점 확대",
-          "summary": "외식 브랜드 IP 기반 '데워 먹는 미슐랭' RMR이 편의점 매대 확대, 신상품 개발 부담 경감과 카테고리 강화 실현.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "[솔로이코노미] '데워 먹는 미슐랭'…RMR이 편의점 매대를 바꾼다",
-              "url": "http://www.dailypop.kr/news/articleView.html?idxno=98613"
-            }
-          ]
+          "relatedLinks": []
         }
       ]
     }
