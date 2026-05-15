@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-05-14T23:55:26.438Z",
+  "generatedAt": "2026-05-15T23:53:59.821Z",
   "summary": [
-    "CU, 포켓몬 카드팩 4종 출시 2일 만에 96% 판매로 완구류 매출 75% 급증",
-    "롯데마트 제타, '제철엔 제타' 캠페인으로 AI 선별 수박 11브릭스 기준 차별화",
-    "GS25, 생리대 44종 무료택배 기획전으로 초저가 PB 전쟁 주도"
+    "CU 연세우유 크림빵 누적 1억개 돌파, 편의점 신상품 열풍 주도",
+    "우베 음료 전쟁 편의점까지 확산, 카페 넘어 유통가 전반 경쟁 심화",
+    "포켓몬 카드팩 CU 출시 사흘 만에 25만개 판매, IP 콘텐츠 집객력 증명"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🧊",
-          "title": "컵빙수 2주 105만잔",
-          "summary": "편의점 CU가 기후변화 대응 여름 선제 마케팅으로 쿨링웨어·아이스크림 매출 62% 이상 증가, 계절 수요 선점 전략 성공.",
+          "emoji": "🔥",
+          "title": "포켓몬 IP 집객 전쟁",
+          "summary": "편의점이 포켓몬 카드팩·굿즈를 통해 단순 판매를 넘어 고객 집객 콘텐츠로 활용하며 캐릭터 IP의 경쟁력 강화",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "컵빙수 내놨더니 2주새 105만잔…5월인데 '여름장사'",
-              "url": "https://n.news.naver.com/mnews/article/025/0003523406?sid=101"
+              "title": "유통家 달구는 '포켓몬' 열풍···캐릭터 IP, 판매 넘어 집객 콘텐츠로...",
+              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401735"
             }
           ]
         },
         {
-          "emoji": "🤝",
-          "title": "SSG닷컴 소상공인 동반성장",
-          "summary": "SSG닷컴이 데이터 기반 마케팅 지원과 정부 연계로 온라인 소상공인 수익성 강화, 플랫폼 생태계 확대 전략 추진.",
+          "emoji": "❄️",
+          "title": "여름 쿨 마케팅 경쟁",
+          "summary": "편의점·마트·패션업계가 폭염에 대응한 냉감 의류·빙과류·아이스 음료 행사를 앞당기며 계절 수요 선점 경쟁",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "데이터 바탕으로 수익성↑…SSG닷컴, 소상공인 동반성장 강화",
-              "url": "https://n.news.naver.com/mnews/article/003/0013946300?sid=101"
+              "title": "[주간 유통 나침반] 홈플러스 흔들리고 AI는 커지고...폭염까지 덮친 유...",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=519751"
             }
           ]
         }
@@ -39,30 +39,30 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🍉",
-          "title": "제철엔 제타 수박대전",
-          "summary": "롯데마트 제타가 AI 선별 수박 11브릭스 이상 보장 캠페인으로 제철 신선식품 차별화, 온라인 그로서리 경쟁력 강화.",
+          "emoji": "🚀",
+          "title": "배민 매각과 퀵커머스 경쟁",
+          "summary": "네이버의 배달의민족 인수로 퀵커머스 시장 진입, GS더프레시 등 기존 플레이어들의 빠른 배송 확대 경쟁 심화",
           "articleCount": 3,
           "relatedLinks": [
             {
-              "title": "롯데마트 제타, 5월 수박대전… 당도 11브릭스 보장",
-              "url": "https://n.news.naver.com/mnews/article/366/0001164496?sid=101"
+              "title": "네이버 '8조 가치' 배달의민족 인수 저울질, 온라인쇼핑 물류배송 강화...",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=437942"
             },
             {
-              "title": "'제철엔 제타' 이번엔 수박… '싼 것 말고 맛있는 것만' 11Brix 기준선 내...",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3400990"
+              "title": "매각 길어진 홈플러스익스프레스 빈자리… GS더프레시, 점포 늘리며 '...",
+              "url": "https://n.news.naver.com/mnews/article/366/0001164642?sid=101"
             }
           ]
         },
         {
           "emoji": "🎬",
-          "title": "숏폼AI 커머스 확산",
-          "summary": "버즈니 비스킷AI의 숏폼 생성 기술이 신세계라이브쇼핑·홈앤쇼핑 등 대형 플랫폼 채택으로 소상공인 마케팅 판도 변화.",
+          "title": "콘텐츠 커머스 확산",
+          "summary": "LG생활건강 비욘드가 유튜브 콘텐츠와 라이브커머스 결합으로 MZ세대 공략, 브랜드 인지도 강화 전략 추진",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "버즈니 비스킷AI, URL 하나로 숏폼 뚝딱…소상공인 마케팅 판도 바뀌나",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=740116"
+              "title": "콘텐츠로 MZ 마음 훔친 '비욘드'··· LG생건, 클린뷰티 대세 굳힌다",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421356"
             }
           ]
         }
@@ -72,26 +72,14 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 무인계산대 혁신",
-          "summary": "오아시스마켓이 지어소프트와 개발한 AI 무인계산기 도입으로 바코드 스캔 없이 결제 완료, B2B 사업 확대 추진.",
+          "emoji": "🐾",
+          "title": "반려동물 시장 AI 활용",
+          "summary": "유통업계가 1500만 반려인 공략을 위해 AI 기반 건강 진단·마이크로바이옴 분석 기능을 제공하는 프리미엄 펫 사료 출시",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "[현장]'바코드 안 찍어도 결제 끝' 오아시스마켓, AI 계산대 혁신 시험대",
-              "url": "https://n.news.naver.com/mnews/article/003/0013946241?sid=101"
-            }
-          ]
-        },
-        {
-          "emoji": "🔍",
-          "title": "발주고 AI 추천엔진",
-          "summary": "콤웨어 인수한 비버웍스가 수발주 플랫폼에 오프라인 업계 최초 AI 추천 엔진 도입, 프랜차이즈 미수금 문제 해결.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "[더벨]비버웍스, 수발주 1위 '발주고' 운영사 콤웨어 인수",
-              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605131326328080101951"
+              "title": "'펫 친화가 성장 견인'…유통업계, 1500만 반려인 공략 경쟁",
+              "url": "https://www.goodkyung.com/news/articleView.html?idxno=287055"
             }
           ]
         }
@@ -101,34 +89,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎴",
-          "title": "포켓몬 카드 75% 매출증",
-          "summary": "CU의 포켓몬 카드팩 4종이 출시 2일 만에 25만개 판매, 사흘 만에 96% 소진으로 캐릭터 상품 차별화 전략 성공.",
-          "articleCount": 2,
+          "emoji": "🥐",
+          "title": "연세우유 크림빵 1억개",
+          "summary": "CU의 연세우유 크림빵이 2022년 출시 이후 누적 판매량 1억개 돌파, 편의점 신상품 대표 성공 사례로 자리잡음",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'귀여운 잉어킹이 30만원?' '포켓몬 카드' 재테크 열풍 유통가 달군다",
-              "url": "https://n.news.naver.com/mnews/article/003/0013946131?sid=101"
-            },
-            {
-              "title": "CU, '캐릭터 맛집'으로 입소문… 포켓몬 매출 75% '껑충'",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421327"
+              "title": "'편의점 10곳 돌아도 못 샀다' 난리…벌써 1억개 팔린 빵 정체[지금 사는...",
+              "url": "https://n.news.naver.com/mnews/article/277/0005763684?sid=101"
             }
           ]
         },
         {
-          "emoji": "🍦",
-          "title": "라라스윗 듬뿍바 출시",
-          "summary": "CU가 과일 원물 함량 최대 15% 아이스크림 '라라스윗 듬뿍바' 3종 순차 출시로 여름 시즌 프리미엄 디저트 강화.",
-          "articleCount": 2,
+          "emoji": "💜",
+          "title": "우베 음료 전쟁 확산",
+          "summary": "CU, GS25, 세븐일레븐 등 편의점 업계까지 우베 제품 확대로 보랏빛 디저트 경쟁이 카페를 넘어 유통가 전반으로 확산",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "CU, 과육 15% 아이스크림 '라라스윗 듬뿍바' 3종 선보여",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202605142001553139204ead0791_12"
-            },
-            {
-              "title": "[신상품] 동원F&B '덴마크 우유' 외",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=628827"
+              "title": "보랏빛 음료 뭐길래…커피점 3만4735개 시대, 우베 전쟁 시작됐다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004128492?sid=101"
             }
           ]
         }
@@ -138,38 +118,38 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎀",
-          "title": "GS25 생리대 무료택배",
-          "summary": "GS25가 생리대 44종 대상 무료택배 기획전으로 초저가 PB 전쟁 주도, 사회적 화두 대응 마케팅 강화.",
+          "emoji": "💚",
+          "title": "GS25 여성청소년 복지",
+          "summary": "GS25가 생리용품 접근성 강화를 위해 여성 청소년 바우처를 강화하며 월경 빈곤 이슈 해결에 나서는 ESG 마케팅 추진",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "GS25, 생리대 44종 대상 '무료택배 기획전' 운영",
-              "url": "https://n.news.naver.com/mnews/article/018/0006281904?sid=101"
+              "title": "[ESG] 편의점이 복지 플랫폼 된다...GS25, 여성 청소년 바우처 강화",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=519586"
             }
           ]
         },
         {
-          "emoji": "🍅",
-          "title": "세븐일레븐 토마토 신상",
-          "summary": "세븐일레븐이 MZ 열광 토마토 트렌드에 대응해 '밀키 카라멜 토마토' 한일 동시 출시로 차별화 상품 경쟁.",
+          "emoji": "🌏",
+          "title": "GS25 베트남 경쟁 심화",
+          "summary": "중국 메이이지아의 베트남 진출로 GS25와 서클K의 양강 구도에 초저가 공급망 기반 경쟁 심화",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'안성재 국수' 이후 뜨더니…MZ 열광하자 유통업계도 '발칵' [트렌드+]",
-              "url": "https://n.news.naver.com/mnews/article/015/0005287187?sid=101"
+              "title": "대륙 거물 '메이이지아' 베트남 상륙…韓美中 400조 편의점 각축전",
+              "url": "https://www.theguru.co.kr/news/article.html?no=101633"
             }
           ]
         },
         {
-          "emoji": "🏪",
-          "title": "이마트24 카드 혜택",
-          "summary": "BC카드 마이태그가 이마트24 등 편의점에서 1만원 이상 결제 시 할인 혜택 제공으로 결제 플랫폼 경쟁 심화.",
+          "emoji": "📊",
+          "title": "세븐일레븐 IP 콜라보",
+          "summary": "세븐일레븐이 IP 콜라보·글로벌 디저트·가성비 간편식 브랜드 '한도초과' 등으로 1분기 영업손실 197억원 축소",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "BC카드, 5월 가정의 달 맞아 '마이태그' 생활 할인 이벤트",
-              "url": "https://n.news.naver.com/mnews/article/417/0001143241?sid=101"
+              "title": "적자폭 확 줄였다…세븐일레븐, 1분기 영업손실 197억원",
+              "url": "https://n.news.naver.com/mnews/article/092/0002422996?sid=105"
             }
           ]
         }
@@ -179,11 +159,28 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍓",
-          "title": "과일 토핑 아이스크림",
-          "summary": "CU의 '라라스윗 듬뿍바' 3종(딸기·골드키위파인·피치망고)이 과일 원물 15% 함량으로 프리미엄 여름 디저트 트렌드 주도.",
-          "articleCount": 2,
-          "relatedLinks": []
+          "emoji": "🎴",
+          "title": "포켓몬 카드팩 대박",
+          "summary": "CU 출시 포켓몬 카드팩 4종이 사흘 만에 25만개 판매, MZ세대 '어른이' 소비층의 수집 욕구 자극으로 한정판 열풍",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "\"한정판 잉어킹 30만 원?\" '포켓몬 카드' 열풍에 핫한 유통가",
+              "url": "https://n.news.naver.com/mnews/article/021/0002791510?sid=101"
+            }
+          ]
+        },
+        {
+          "emoji": "🍦",
+          "title": "CU 라라스윗 과일바",
+          "summary": "CU가 여름 시즌 맞춰 과일 원물 함량 최대 15% 담은 아이스크림 '라라스윗 듬뿍바' 3종 순차 출시",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "[신상품] 동원F&B '덴마크 우유' 외",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=628827"
+            }
+          ]
         }
       ]
     }
