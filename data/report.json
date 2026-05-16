@@ -1,35 +1,43 @@
 {
-  "generatedAt": "2026-05-15T23:53:59.821Z",
+  "generatedAt": "2026-05-16T04:57:39.156Z",
   "summary": [
-    "CU 연세우유 크림빵 누적 1억개 돌파, 편의점 신상품 열풍 주도",
-    "우베 음료 전쟁 편의점까지 확산, 카페 넘어 유통가 전반 경쟁 심화",
-    "포켓몬 카드팩 CU 출시 사흘 만에 25만개 판매, IP 콘텐츠 집객력 증명"
+    "CU 연세우유 크림빵 누적 1억개 돌파, 편의점 신상품 대표 성공사례",
+    "GS25 제로 칼로리 음료·로봇개 판매로 여름 시즌 차별화 전략 강화",
+    "코리아세븐 1분기 적자 143억 감소, 일본식 즉석 스무디 등 신규 카테고리로 성수기 대비"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🔥",
-          "title": "포켓몬 IP 집객 전쟁",
-          "summary": "편의점이 포켓몬 카드팩·굿즈를 통해 단순 판매를 넘어 고객 집객 콘텐츠로 활용하며 캐릭터 IP의 경쟁력 강화",
-          "articleCount": 1,
+          "emoji": "🎯",
+          "title": "편의점 ESG 경영 확대",
+          "summary": "GS25가 여성 청소년 생리용품 바우처를 강화하며 편의점이 복지 플랫폼으로 진화하는 추세 확산.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "유통家 달구는 '포켓몬' 열풍···캐릭터 IP, 판매 넘어 집객 콘텐츠로...",
-              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401735"
+              "title": "[ESG] 편의점이 복지 플랫폼 된다...GS25, 여성 청소년 바우처 강화",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=519586"
+            },
+            {
+              "title": "'선물 대신 장학·문화'…스승의날 풍경 바꾸는 유통가 ESG 경영",
+              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=302570"
             }
           ]
         },
         {
-          "emoji": "❄️",
-          "title": "여름 쿨 마케팅 경쟁",
-          "summary": "편의점·마트·패션업계가 폭염에 대응한 냉감 의류·빙과류·아이스 음료 행사를 앞당기며 계절 수요 선점 경쟁",
-          "articleCount": 1,
+          "emoji": "🇯🇵",
+          "title": "코리아세븐 일본식 신상품 공략",
+          "summary": "코리아세븐이 여름 성수기 대비 일본 오리지널 즉석 스무디·스파클링 얼음컵 등 신규 카테고리 대거 출시로 상품 경쟁력 강화.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "[주간 유통 나침반] 홈플러스 흔들리고 AI는 커지고...폭염까지 덮친 유...",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=519751"
+              "title": "코리아세븐, 1분기 적자 143억 줄였다… 경영 효율화 '결실'",
+              "url": "https://www.etoday.co.kr/news/view/2585083"
+            },
+            {
+              "title": "코리아세븐, 적자 197억으로 감소…점포 효율화 성과",
+              "url": "https://n.news.naver.com/mnews/article/117/0004064849?sid=103"
             }
           ]
         }
@@ -39,30 +47,30 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "배민 매각과 퀵커머스 경쟁",
-          "summary": "네이버의 배달의민족 인수로 퀵커머스 시장 진입, GS더프레시 등 기존 플레이어들의 빠른 배송 확대 경쟁 심화",
-          "articleCount": 3,
+          "emoji": "🤖",
+          "title": "AI 커머스 솔루션 성장",
+          "summary": "플래티어의 에이전틱 AI 기반 '엑스투비' 솔루션이 한섬몰·라이프스타일 버티컬 플랫폼 고도화를 주도하며 AI 커머스 시장 본격화.",
+          "articleCount": 4,
           "relatedLinks": [
             {
-              "title": "네이버 '8조 가치' 배달의민족 인수 저울질, 온라인쇼핑 물류배송 강화...",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=437942"
+              "title": "플래티어, 1분기 매출 상승세…'에이전틱 AI' 견인",
+              "url": "https://n.news.naver.com/mnews/article/293/0000084749?sid=105"
             },
             {
-              "title": "매각 길어진 홈플러스익스프레스 빈자리… GS더프레시, 점포 늘리며 '...",
-              "url": "https://n.news.naver.com/mnews/article/366/0001164642?sid=101"
+              "title": "플래티어, AX 솔루션 24.6% 급증에 1분기 매출 10%↑…'에이전틱 AI'로 실적 개선",
+              "url": "https://n.news.naver.com/mnews/article/030/0003428066?sid=105"
             }
           ]
         },
         {
-          "emoji": "🎬",
-          "title": "콘텐츠 커머스 확산",
-          "summary": "LG생활건강 비욘드가 유튜브 콘텐츠와 라이브커머스 결합으로 MZ세대 공략, 브랜드 인지도 강화 전략 추진",
+          "emoji": "💳",
+          "title": "롯데 유통-금융 통합 전략",
+          "summary": "롯데마트·롯데백화점이 삼성카드와 협력해 오프라인 할인부터 온라인 구독까지 통합한 '롯데마트 구독' 서비스로 고객 경험 통합.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "콘텐츠로 MZ 마음 훔친 '비욘드'··· LG생건, 클린뷰티 대세 굳힌다",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421356"
+              "title": "[이슈in] '구독은 마트가, 자산관리는 백화점이'… 롯데의 유통-금융 양축",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3400995"
             }
           ]
         }
@@ -74,7 +82,7 @@
         {
           "emoji": "🐾",
           "title": "반려동물 시장 AI 활용",
-          "summary": "유통업계가 1500만 반려인 공략을 위해 AI 기반 건강 진단·마이크로바이옴 분석 기능을 제공하는 프리미엄 펫 사료 출시",
+          "summary": "유통업계가 1500만 반려인 공략에 나서며 AI 기반 건강 진단·마이크로바이옴 분석 기능을 제공하는 프리미엄 펫 사료 시장 확대.",
           "articleCount": 1,
           "relatedLinks": [
             {
@@ -89,26 +97,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🥐",
-          "title": "연세우유 크림빵 1억개",
-          "summary": "CU의 연세우유 크림빵이 2022년 출시 이후 누적 판매량 1억개 돌파, 편의점 신상품 대표 성공 사례로 자리잡음",
+          "emoji": "🍞",
+          "title": "CU 연세우유 크림빵 대히트",
+          "summary": "CU의 '연세우유 크림빵'이 2022년 출시 이후 누적 판매량 1억개를 돌파하며 편의점 신상품 성공의 대표 사례로 자리잡음.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'편의점 10곳 돌아도 못 샀다' 난리…벌써 1억개 팔린 빵 정체[지금 사는...",
+              "title": "'편의점 10곳 돌아도 못 샀다' 난리…벌써 1억개 팔린 빵 정체[지금 사는 것]",
               "url": "https://n.news.naver.com/mnews/article/277/0005763684?sid=101"
             }
           ]
         },
         {
-          "emoji": "💜",
-          "title": "우베 음료 전쟁 확산",
-          "summary": "CU, GS25, 세븐일레븐 등 편의점 업계까지 우베 제품 확대로 보랏빛 디저트 경쟁이 카페를 넘어 유통가 전반으로 확산",
+          "emoji": "🌏",
+          "title": "CU 글로벌 마케팅 확대",
+          "summary": "BGF리테일이 대만 K-관광 로드쇼에 CU를 포함해 참가하며 해외 관광객 유치를 위한 유통 채널 활용 전략 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "보랏빛 음료 뭐길래…커피점 3만4735개 시대, 우베 전쟁 시작됐다",
-              "url": "https://n.news.naver.com/mnews/article/022/0004128492?sid=101"
+              "title": "타이베이서 K-관광 로드쇼…몬스타엑스 민혁 뜨자 1천여명 열광",
+              "url": "https://n.news.naver.com/mnews/article/001/0016080391?sid=104"
             }
           ]
         }
@@ -118,38 +126,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💚",
-          "title": "GS25 여성청소년 복지",
-          "summary": "GS25가 생리용품 접근성 강화를 위해 여성 청소년 바우처를 강화하며 월경 빈곤 이슈 해결에 나서는 ESG 마케팅 추진",
-          "articleCount": 1,
+          "emoji": "🥤",
+          "title": "GS25 제로 음료 여름 공략",
+          "summary": "GS25가 이탈리아 캔디 브랜드 '페를레 디 솔레'와 협업해 제로 칼로리·제로 슈거 RTD 음료 2종을 출시하며 헬시플레저 시장 선점.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "[ESG] 편의점이 복지 플랫폼 된다...GS25, 여성 청소년 바우처 강화",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=519586"
+              "title": "'벌써 30도'...유통업계, 여름 식단관리 수요 잡는다",
+              "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127112"
+            },
+            {
+              "title": "벌써 식단관리 시작…성인 65%가 움직인 '헬시플레저' 시장",
+              "url": "https://n.news.naver.com/mnews/article/022/0004128517?sid=101"
             }
           ]
         },
         {
-          "emoji": "🌏",
-          "title": "GS25 베트남 경쟁 심화",
-          "summary": "중국 메이이지아의 베트남 진출로 GS25와 서클K의 양강 구도에 초저가 공급망 기반 경쟁 심화",
+          "emoji": "🤖",
+          "title": "GS25 로봇개 판매 시작",
+          "summary": "GS25에서 500만원대 중국 로봇개가 판매되며 편의점이 반려 굿즈 판매 채널로 확대되는 새로운 트렌드 형성.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "대륙 거물 '메이이지아' 베트남 상륙…韓美中 400조 편의점 각축전",
-              "url": "https://www.theguru.co.kr/news/article.html?no=101633"
+              "title": "GS25서 500만원 '中 로봇개' 팔렸다…'반려용 인기 많아' [영상]",
+              "url": "https://n.news.naver.com/mnews/article/015/0005287705?sid=103"
             }
           ]
         },
         {
-          "emoji": "📊",
-          "title": "세븐일레븐 IP 콜라보",
-          "summary": "세븐일레븐이 IP 콜라보·글로벌 디저트·가성비 간편식 브랜드 '한도초과' 등으로 1분기 영업손실 197억원 축소",
-          "articleCount": 1,
+          "emoji": "📦",
+          "title": "이마트24 부진 지속",
+          "summary": "이마트24가 신세계 자회사 중 부진한 실적을 기록하며 편의점 시장에서의 경쟁력 약화 심화.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "적자폭 확 줄였다…세븐일레븐, 1분기 영업손실 197억원",
-              "url": "https://n.news.naver.com/mnews/article/092/0002422996?sid=105"
+              "title": "이마트, 본업 날개 폈는데…커지는 G마켓 적자 부담",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4415237"
+            },
+            {
+              "title": "신세계건설 5000억 유상증자, 회수 부담은 지속될 듯",
+              "url": "https://n.news.naver.com/mnews/article/293/0000084780?sid=101"
             }
           ]
         }
@@ -159,26 +175,26 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎴",
-          "title": "포켓몬 카드팩 대박",
-          "summary": "CU 출시 포켓몬 카드팩 4종이 사흘 만에 25만개 판매, MZ세대 '어른이' 소비층의 수집 욕구 자극으로 한정판 열풍",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "\"한정판 잉어킹 30만 원?\" '포켓몬 카드' 열풍에 핫한 유통가",
-              "url": "https://n.news.naver.com/mnews/article/021/0002791510?sid=101"
-            }
-          ]
-        },
-        {
           "emoji": "🍦",
-          "title": "CU 라라스윗 과일바",
-          "summary": "CU가 여름 시즌 맞춰 과일 원물 함량 최대 15% 담은 아이스크림 '라라스윗 듬뿍바' 3종 순차 출시",
+          "title": "CU 라라스윗 과일 아이스크림",
+          "summary": "CU가 과일 원물을 최대 15% 함유한 '라라스윗 듬뿍바' 3종을 순차 출시하며 여름 시즌 프리미엄 아이스크림 시장 공략.",
           "articleCount": 1,
           "relatedLinks": [
             {
               "title": "[신상품] 동원F&B '덴마크 우유' 외",
               "url": "https://www.seoulfn.com/news/articleView.html?idxno=628827"
+            }
+          ]
+        },
+        {
+          "emoji": "💜",
+          "title": "세븐일레븐 IP 콜라보 성공",
+          "summary": "세븐일레븐의 IP 콜라보 상품·글로벌 디저트·가성비 간편식 브랜드 '한도초과' 등이 시장에서 좋은 성과를 보이며 상품 다각화 전략 성공.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "적자폭 확 줄였다…세븐일레븐, 1분기 영업손실 197억원",
+              "url": "https://n.news.naver.com/mnews/article/092/0002422996?sid=105"
             }
           ]
         }
