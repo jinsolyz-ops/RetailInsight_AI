@@ -34,7 +34,7 @@ const CATEGORIES = [
   { name: 'AI 트렌드', keywords: ['유통업계 AI', '커머스 AI', '리테일테크'] },
   { name: '당사 이슈', keywords: ['CU', 'BGF리테일'] },
   { name: '경쟁사 이슈', keywords: ['GS25', '세븐일레븐', '이마트24'] },
-  { name: '상품 이슈', keywords: ['편의점 신상품', '편의점 콜라보', '유통업계 PB', '편의점 간편식', '편의점 디저트'] },
+  { name: '상품 이슈', keywords: ['편의점 신상품', '편의점 간편식', '편의점 디저트', '유통업계 식품', '외식 트렌드', '식음료 트렌드', 'HMR 트렌드'] },
 ];
 
 const CONCURRENCY = 3;
