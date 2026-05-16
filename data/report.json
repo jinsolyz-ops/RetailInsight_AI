@@ -1,43 +1,39 @@
 {
-  "generatedAt": "2026-05-16T04:57:39.156Z",
+  "generatedAt": "2026-05-16T23:49:54.533Z",
   "summary": [
-    "CU 연세우유 크림빵 누적 1억개 돌파, 편의점 신상품 대표 성공사례",
-    "GS25 제로 칼로리 음료·로봇개 판매로 여름 시즌 차별화 전략 강화",
-    "코리아세븐 1분기 적자 143억 감소, 일본식 즉석 스무디 등 신규 카테고리로 성수기 대비"
+    "GS25 신선강화형매장 연내 1000호점 목표로 신선식품 강화 전략 가속화",
+    "이마트24 난지한강공원 체류형 콘셉트점포 오픈으로 경험형 소비 공략",
+    "CU 우베 디저트 6종 출시로 트렌디한 신제품 선점 경쟁 심화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "편의점 ESG 경영 확대",
-          "summary": "GS25가 여성 청소년 생리용품 바우처를 강화하며 편의점이 복지 플랫폼으로 진화하는 추세 확산.",
+          "emoji": "🌡️",
+          "title": "조기 여름마케팅",
+          "summary": "예년보다 앞당겨진 폭염으로 대형마트·편의점이 5월부터 선풍기·냉감침구·쿨링용품 판매 강화 및 AI 선별 시스템 도입으로 고품질 상품 운영.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "[ESG] 편의점이 복지 플랫폼 된다...GS25, 여성 청소년 바우처 강화",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=519586"
+              "title": "[비즈톡톡]\"벌써 30도\"… 선풍기·냉감침구·쿨링용품 판매 불티",
+              "url": "https://n.news.naver.com/mnews/article/366/0001164969?sid=101"
             },
             {
-              "title": "'선물 대신 장학·문화'…스승의날 풍경 바꾸는 유통가 ESG 경영",
-              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=302570"
+              "title": "'벌써 여름 특수'…대형마트, '수박·선풍기' 물량 20% 늘렸다",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1367543"
             }
           ]
         },
         {
-          "emoji": "🇯🇵",
-          "title": "코리아세븐 일본식 신상품 공략",
-          "summary": "코리아세븐이 여름 성수기 대비 일본 오리지널 즉석 스무디·스파클링 얼음컵 등 신규 카테고리 대거 출시로 상품 경쟁력 강화.",
-          "articleCount": 2,
+          "emoji": "🌍",
+          "title": "방한객 소비 회복",
+          "summary": "CU 1분기 외국인 매출 65.1% 증가로 MZ세대 집객 강화 및 오프라인 매장 경쟁력 부각, 편의점 4사 실적 개선 견인.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "코리아세븐, 1분기 적자 143억 줄였다… 경영 효율화 '결실'",
-              "url": "https://www.etoday.co.kr/news/view/2585083"
-            },
-            {
-              "title": "코리아세븐, 적자 197억으로 감소…점포 효율화 성과",
-              "url": "https://n.news.naver.com/mnews/article/117/0004064849?sid=103"
+              "title": "[분석] 편의점 4사, '외국인·PB'에 희비… CU·GS '방긋' 이마트·세븐 ...",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421368"
             }
           ]
         }
@@ -48,29 +44,17 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 커머스 솔루션 성장",
-          "summary": "플래티어의 에이전틱 AI 기반 '엑스투비' 솔루션이 한섬몰·라이프스타일 버티컬 플랫폼 고도화를 주도하며 AI 커머스 시장 본격화.",
+          "title": "AI 커머스 솔루션",
+          "summary": "플래티어 AX 솔루션 24.6% 급증으로 AI 네이티브 맞춤형 커머스 플랫폼 고도화 및 버티컬 커머스 성장 본격화.",
           "articleCount": 4,
           "relatedLinks": [
             {
-              "title": "플래티어, 1분기 매출 상승세…'에이전틱 AI' 견인",
-              "url": "https://n.news.naver.com/mnews/article/293/0000084749?sid=105"
+              "title": "플래티어, AX 솔루션 24.6% 급증에 1분기 매출 10%↑…'에이전틱 AI'로 실...",
+              "url": "https://n.news.naver.com/mnews/article/030/0003428066?sid=105"
             },
             {
-              "title": "플래티어, AX 솔루션 24.6% 급증에 1분기 매출 10%↑…'에이전틱 AI'로 실적 개선",
-              "url": "https://n.news.naver.com/mnews/article/030/0003428066?sid=105"
-            }
-          ]
-        },
-        {
-          "emoji": "💳",
-          "title": "롯데 유통-금융 통합 전략",
-          "summary": "롯데마트·롯데백화점이 삼성카드와 협력해 오프라인 할인부터 온라인 구독까지 통합한 '롯데마트 구독' 서비스로 고객 경험 통합.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "[이슈in] '구독은 마트가, 자산관리는 백화점이'… 롯데의 유통-금융 양축",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3400995"
+              "title": "플래티어, 1분기 매출 10% 증가…'AX 솔루션 성장 본격화'",
+              "url": "https://n.news.naver.com/mnews/article/018/0006282584?sid=101"
             }
           ]
         }
@@ -80,14 +64,26 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🐾",
-          "title": "반려동물 시장 AI 활용",
-          "summary": "유통업계가 1500만 반려인 공략에 나서며 AI 기반 건강 진단·마이크로바이옴 분석 기능을 제공하는 프리미엄 펫 사료 시장 확대.",
+          "emoji": "✨",
+          "title": "패션 생성형 AI",
+          "summary": "엔젤리그 '스타일룸' 등 한국형 AI 모델이 e커머스 판매자 사이에서 '정말 쓸만한' 평가를 받으며 패션 커머스 혁신 주도.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'펫 친화가 성장 견인'…유통업계, 1500만 반려인 공략 경쟁",
-              "url": "https://www.goodkyung.com/news/articleView.html?idxno=287055"
+              "title": "[AI혁명](199)한국형 AI 모델 핏·감성 인기…엔젤리그 '스타일룸'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005763827?sid=105"
+            }
+          ]
+        },
+        {
+          "emoji": "🎬",
+          "title": "숏폼 AI 기술",
+          "summary": "버즈니 비스킷 AI 숏폼 신기능 추가로 신세계라이브쇼핑·홈앤쇼핑 등 대형 커머스 플랫폼 도입 확대.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "'URL만 넣으면 숏폼 뚝딱'…버즈니 비스킷 AI, 숏폼 신기능 추가",
+              "url": "http://www.segyebiz.com/newsView/20250516506119?OutUrl=naver"
             }
           ]
         }
@@ -97,26 +93,14 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍞",
-          "title": "CU 연세우유 크림빵 대히트",
-          "summary": "CU의 '연세우유 크림빵'이 2022년 출시 이후 누적 판매량 1억개를 돌파하며 편의점 신상품 성공의 대표 사례로 자리잡음.",
+          "emoji": "❄️",
+          "title": "CU 쿨링웨어 판매",
+          "summary": "CU 5월 1일~중순 쿨링웨어·아이스크림 판매 62.3% 증가로 조기 여름 시즌 마케팅 성공.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'편의점 10곳 돌아도 못 샀다' 난리…벌써 1억개 팔린 빵 정체[지금 사는 것]",
-              "url": "https://n.news.naver.com/mnews/article/277/0005763684?sid=101"
-            }
-          ]
-        },
-        {
-          "emoji": "🌏",
-          "title": "CU 글로벌 마케팅 확대",
-          "summary": "BGF리테일이 대만 K-관광 로드쇼에 CU를 포함해 참가하며 해외 관광객 유치를 위한 유통 채널 활용 전략 강화.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "타이베이서 K-관광 로드쇼…몬스타엑스 민혁 뜨자 1천여명 열광",
-              "url": "https://n.news.naver.com/mnews/article/001/0016080391?sid=104"
+              "title": "Retailers try to beat early summer heat with 'cool marketing' for seasona...",
+              "url": "https://n.news.naver.com/mnews/article/640/0000088511?sid=101"
             }
           ]
         }
@@ -126,46 +110,42 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥤",
-          "title": "GS25 제로 음료 여름 공략",
-          "summary": "GS25가 이탈리아 캔디 브랜드 '페를레 디 솔레'와 협업해 제로 칼로리·제로 슈거 RTD 음료 2종을 출시하며 헬시플레저 시장 선점.",
-          "articleCount": 2,
-          "relatedLinks": [
-            {
-              "title": "'벌써 30도'...유통업계, 여름 식단관리 수요 잡는다",
-              "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127112"
-            },
-            {
-              "title": "벌써 식단관리 시작…성인 65%가 움직인 '헬시플레저' 시장",
-              "url": "https://n.news.naver.com/mnews/article/022/0004128517?sid=101"
-            }
-          ]
-        },
-        {
-          "emoji": "🤖",
-          "title": "GS25 로봇개 판매 시작",
-          "summary": "GS25에서 500만원대 중국 로봇개가 판매되며 편의점이 반려 굿즈 판매 채널로 확대되는 새로운 트렌드 형성.",
+          "emoji": "🥬",
+          "title": "GS25 신선강화형",
+          "summary": "GS25 신선강화형매장 연내 1000호점 목표로 신선식품·간편식 강화 전략 공격적 추진 중.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "GS25서 500만원 '中 로봇개' 팔렸다…'반려용 인기 많아' [영상]",
-              "url": "https://n.news.naver.com/mnews/article/015/0005287705?sid=103"
+              "title": "[르포] 연내 1000호점 목표…GS25 효자 '신선강화형매장' 가보니",
+              "url": "https://www.theguru.co.kr/news/article.html?no=101780"
             }
           ]
         },
         {
-          "emoji": "📦",
-          "title": "이마트24 부진 지속",
-          "summary": "이마트24가 신세계 자회사 중 부진한 실적을 기록하며 편의점 시장에서의 경쟁력 약화 심화.",
+          "emoji": "💜",
+          "title": "우베 디저트 경쟁",
+          "summary": "세븐일레븐·CU 우베 활용 디저트 6종 이상 출시로 LA발 보라빛 열풍 편의점 시장 선점 경쟁 심화.",
+          "articleCount": 1,
+          "relatedLinks": [
+            {
+              "title": "LA에서 물 건너 온 보라빛 열풍, 뜬금없이 우베 관련 식품이 마트를 점...",
+              "url": "https://www.huffingtonpost.kr/article/257207"
+            }
+          ]
+        },
+        {
+          "emoji": "🏞️",
+          "title": "이마트24 체류형점포",
+          "summary": "이마트24 난지한강공원 '라이더파크'·'비어캠프' 오픈으로 한강 상권 공략 및 경험형 소비 공간 확대.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "이마트, 본업 날개 폈는데…커지는 G마켓 적자 부담",
-              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4415237"
+              "title": "\"한강 노을 보며 라면·맥주 한잔\"…이마트24, 난지한강공원에 체류형...",
+              "url": "https://www.viva100.com/article/20260517500049"
             },
             {
-              "title": "신세계건설 5000억 유상증자, 회수 부담은 지속될 듯",
-              "url": "https://n.news.naver.com/mnews/article/293/0000084780?sid=101"
+              "title": "이마트24, 난지한강공원에 '라이더·맥주' 이색 점포 2개점 개설",
+              "url": "https://n.news.naver.com/mnews/article/001/0016081301?sid=101"
             }
           ]
         }
@@ -175,26 +155,26 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "CU 라라스윗 과일 아이스크림",
-          "summary": "CU가 과일 원물을 최대 15% 함유한 '라라스윗 듬뿍바' 3종을 순차 출시하며 여름 시즌 프리미엄 아이스크림 시장 공략.",
+          "emoji": "🍜",
+          "title": "신라면 로제 출시",
+          "summary": "신라면 40주년 기념 '신라면 로제' 출시로 SNS 모디슈머 레시피 기반 4년 R&D 결과물 선보이며 프리미엄 라면 시장 공략.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "[신상품] 동원F&B '덴마크 우유' 외",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=628827"
+              "title": "토마토크림에 고추장 한 스푼, '신라면 로제'...신라면 40주년 기념작...",
+              "url": "https://www.etoday.co.kr/news/view/2584698"
             }
           ]
         },
         {
-          "emoji": "💜",
-          "title": "세븐일레븐 IP 콜라보 성공",
-          "summary": "세븐일레븐의 IP 콜라보 상품·글로벌 디저트·가성비 간편식 브랜드 '한도초과' 등이 시장에서 좋은 성과를 보이며 상품 다각화 전략 성공.",
+          "emoji": "🍺",
+          "title": "곰표 밀맥주 콜라보",
+          "summary": "곰표 밀맥주(세븐브로이·CU 협업)가 출시 직후 편의점 수제맥주 판매량 1위 기록으로 밀가루 회사 정체성 활용 성공.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "적자폭 확 줄였다…세븐일레븐, 1분기 영업손실 197억원",
-              "url": "https://n.news.naver.com/mnews/article/092/0002422996?sid=105"
+              "title": "[윤은기의 X경영(72)] 곰이 미련하다는 사람이 진짜 곰탱이다",
+              "url": "https://www.lecturernews.com/news/articleView.html?idxno=202468"
             }
           ]
         }
