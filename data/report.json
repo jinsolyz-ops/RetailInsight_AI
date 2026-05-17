@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-17T11:05:26.447Z",
+  "generatedAt": "2026-05-17T23:55:10.127Z",
   "summary": [
-    "세븐일레븐 산가리아우유 1주일 5만개 완판, 일본 인기상품 추가입고로 K-편의점 차별화",
-    "현대백화점 외국인 매출 121% 증가, H포인트글로벌·헤이디글로벌 AI활용 맞춤형 마케팅 성과",
-    "CU 생과일샌드위치 사계절 상시판매 확대, 계절한정→상시운영 전환으로 고객접점 강화"
+    "CU·GS25, 쿠팡이츠와 24시간 배달 확대로 심야 퀵커머스 경쟁 본격화",
+    "세븐일레븐, 온정돈까스 협업 2탄으로 매운맛 챌린지 수요 공략",
+    "롯데홈쇼핑, ChatGPT 기반 AI 커머스 플랫폼 구축으로 AI 쇼핑 경쟁력 강화"
   ],
   "categories": [
     {
@@ -11,29 +11,29 @@
       "issues": [
         {
           "emoji": "🌍",
-          "title": "외국인 고객 유입 확대",
-          "summary": "백화점 업계가 황금연휴를 중심으로 외국인 고객 유입 증가를 경험하며, K콘텐츠 기반 MD강화와 외국인 맞춤형 마케팅으로 추가 성장동력 확보 중.",
+          "title": "K-관광 로드쇼 타이베이",
+          "summary": "CU(BGF리테일)와 현대백화점이 타이베이 K-관광 로드쇼에 참여해 K-패션·K-미식 팝업 부스로 해외 관광객 유입 확대",
           "articleCount": 3,
           "relatedLinks": [
             {
-              "title": "외국인이 살렸다…백화점 4사 실적 날개",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1373293"
+              "title": "한국관광공사, 대만 타이베이서 'K-관광 로드쇼' 개최",
+              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1091406"
             },
             {
-              "title": "백화점 웃고 대형마트 울고…유통가 덮친 'K자형 소비'",
-              "url": "http://www.metroseoul.co.kr/article/20260517500079"
+              "title": "'232만명' 대만인 매료…관광公, 타이베이서 중부권 매력 전파",
+              "url": "https://www.ajunews.com/view/20260518084108215"
             }
           ]
         },
         {
-          "emoji": "💎",
-          "title": "VIP 고객 마케팅 강화",
-          "summary": "롯데백화점 VIP 매출 비중이 2023년 41%에서 2025년 46%로 증가하며, 백화점들이 상위 0.1% 고객층 대상 차별화된 서비스 강화에 집중.",
+          "emoji": "☕",
+          "title": "바샤커피 프리미엄 확장",
+          "summary": "롯데백화점이 프리미엄 커피 브랜드 바샤커피 4호점을 인천점에 개점하며 온·오프라인 고품질 커피 시장 입지 강화",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "'돈 있어도 아무나 못 누린다'…진짜 '상위 0.1%'의 세계",
-              "url": "https://n.news.naver.com/mnews/article/277/0005763833?sid=101"
+              "title": "롯데百 인천점, 프리미엄 커피 브랜드 '바샤커피' 4호점 개점",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453300"
             }
           ]
         }
@@ -44,13 +44,13 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 기반 대화형 커머스 확산",
-          "summary": "무신사가 카카오톡 챗GPT 플랫폼에 입점하며 대화형 커머스 서비스를 시작, 패션 유통에서 AI·초개인화를 통한 저성장 돌파구 모색 중.",
+          "title": "AI 쇼핑 에이전트 확대",
+          "summary": "네이버가 AI 쇼핑 에이전트에 선물 추천 특화 기능을 추가하며 대화형 커머스 경험 강화",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "패션시장, 1% 저성장 고착화…AI·초개인화 돌파구 찾는다",
-              "url": "https://n.news.naver.com/mnews/article/030/0003428329?sid=101"
+              "title": "'모바일 선물하기' 10조… 패션-뷰티 '취향소비'로까지 몸집 키워",
+              "url": "https://n.news.naver.com/mnews/article/020/0003720211?sid=101"
             }
           ]
         }
@@ -60,14 +60,18 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "☕",
-          "title": "AI 바리스타 레시피 대결",
-          "summary": "영도 커피 축제에서 AI와 인간 바리스타의 레시피 대결을 통해 커피 유통업계와 AI의 연결을 알리는 마케팅 기회 창출.",
-          "articleCount": 1,
+          "emoji": "🛒",
+          "title": "롯데 AI 커머스 플랫폼",
+          "summary": "롯데홈쇼핑이 ChatGPT 기반 전용 앱을 선보이며 AI 쇼핑 서비스 고도화로 AI 커머스 경쟁력 확대",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "커피 향에 푹 빠진 영도, 사흘간 12만 명 음미했다",
-              "url": "https://n.news.naver.com/mnews/article/082/0001381146?sid=102"
+              "title": "롯데홈쇼핑, 챗GPT 기반 전용 앱 선보여…AI 커머스 도입",
+              "url": "http://www.srtimes.kr/news/articleView.html?idxno=203396"
+            },
+            {
+              "title": "'이용자 2300만↑' 챗GPT에 둥지 튼 롯데...'AI 커머스' 가속",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=705991"
             }
           ]
         }
@@ -77,14 +81,18 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🥪",
-          "title": "생과일샌드위치 상시판매 확대",
-          "summary": "CU가 계절 한정 상품이던 생과일 샌드위치를 사계절 상시 운영 상품으로 전환, 고객 접점 강화 및 매출 안정화 전략 추진.",
-          "articleCount": 1,
+          "emoji": "🚚",
+          "title": "CU 24시간 배달 확대",
+          "summary": "CU가 쿠팡이츠를 통해 편의점 배달 서비스를 24시간 운영 체제로 확대하며 심야 수요 대응",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "CU, 생과일 샌드위치 사계절 상시 판매 시작",
-              "url": "http://www.metroseoul.co.kr/article/20260517500181"
+              "title": "'시간 제약 없이 언제나' CU, 쿠팡이츠 배달 서비스 24시간 확대",
+              "url": "https://n.news.naver.com/mnews/article/003/0013950433?sid=101"
+            },
+            {
+              "title": "'야식 수요 잡는다'…GS25·CU, 24시간 배달 운영",
+              "url": "https://n.news.naver.com/mnews/article/018/0006284050?sid=101"
             }
           ]
         }
@@ -94,46 +102,50 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🌊",
-          "title": "GS25 바다숨 프로젝트",
-          "summary": "GS리테일이 2025년부터 시작한 해양 생물다양성 보호 ESG 캠페인으로, 임직원과 NGO 참여를 통해 생태계 복원 중심의 친환경 마케팅 전개.",
-          "articleCount": 2,
+          "emoji": "🚀",
+          "title": "GS25 24시간 배달 전개",
+          "summary": "GS25가 쿠팡이츠와 손잡고 24시간 배달 서비스를 전국 1000여 점포로 확대하며 심야 퀵커머스 시장 공략",
+          "articleCount": 3,
           "relatedLinks": [
             {
-              "title": "GS리테일, 해양 생물다양성 보호 '바다숨 프로젝트' 전개",
-              "url": "http://www.metroseoul.co.kr/article/20260517500195"
+              "title": "GS25, 심야 배달 승부수…전국 24시간 배송 확대",
+              "url": "https://www.newspim.com/news/view/20260518000072"
             },
             {
-              "title": "GS리테일, 양양 해양 정화 활동…임직원·NGO 참여해 생태계 복원",
-              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=202219"
+              "title": "편의점도 '24시간 배달 전쟁'… CU·GS25, 심야 퀵커머스 정면 승부",
+              "url": "https://www.viva100.com/article/20260518500077"
             }
           ]
         },
         {
-          "emoji": "🥛",
-          "title": "세븐일레븐 산가리아우유 완판",
-          "summary": "세븐일레븐이 일본 인기 음료 산가리아우유 2종을 출시 1주일 만에 초도 물량 5만개 완판, 추가 입고로 일본 트렌드 상품 차별화 전략 강화.",
+          "emoji": "🌶️",
+          "title": "세븐일레븐 온정돈까스 2탄",
+          "summary": "세븐일레븐이 온정돈까스와의 협업 2탄으로 13단계 매운맛 '매워디짐' 시리즈를 출시하며 펀슈머 수요 공략",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "일주일 만에 5만개 완판...세븐일레븐, 일본 '산가리아 우유' 추가 입고",
-              "url": "https://n.news.naver.com/mnews/article/008/0005358865?sid=101"
+              "title": "'전작보다 3단계 더 매워'…세븐일레븐, 온정돈까스 협업 2탄 출시",
+              "url": "https://n.news.naver.com/mnews/article/015/0005288009?sid=101"
             },
             {
-              "title": "[잘먹잘살+]파리바게뜨·CU·세븐일레븐·GS리테일·마마치킨",
-              "url": "https://www.businessplus.kr/news/articleView.html?idxno=111868"
+              "title": "세븐일레븐, 온정돈까스 협업 확대…13단계 '매워디짐' 시리즈 출시",
+              "url": "https://n.news.naver.com/mnews/article/003/0013950382?sid=101"
             }
           ]
         },
         {
-          "emoji": "🏞️",
-          "title": "이마트24 이색점포 확대",
-          "summary": "이마트24가 난지한강공원에 라이더파크·비어캠프 콘셉트의 체류형 이색점포 2개점 오픈, 단순 구매를 넘어 경험 제공 전략으로 차별화.",
-          "articleCount": 1,
+          "emoji": "💰",
+          "title": "이마트24 고유가 할인 확대",
+          "summary": "이마트24가 고유가 피해지원금 2차 지급에 맞춰 PB 상품과 간편식 40% 페이백 행사로 체감형 할인 전략 강화",
+          "articleCount": 3,
           "relatedLinks": [
             {
-              "title": "이마트24, 난지한강공원서 '라이더파크·비어캠프' 이색점포 선봬",
-              "url": "https://n.news.naver.com/mnews/article/081/0003644401?sid=101"
+              "title": "이마트24, 고유가 피해지원금 지급 맞춰 '40% 페이백'…물가 안정 총력",
+              "url": "https://n.news.naver.com/mnews/article/015/0005287994?sid=101"
+            },
+            {
+              "title": "이마트24, 고유가 지원금 맞춰 PB·간편식 40% 페이백",
+              "url": "https://n.news.naver.com/mnews/article/018/0006284008?sid=101"
             }
           ]
         }
@@ -145,24 +157,12 @@
         {
           "emoji": "🎲",
           "title": "랜덤 소비 마케팅 확산",
-          "summary": "식음료업계가 이디야커피 포켓몬 협업 굿즈 등 랜덤 마케팅에 뛰어들며, 2030세대의 도파민 소비 트렌드를 반영한 가챠형 프로모션 강화.",
+          "summary": "이디야커피 등 식음료 업계가 포켓몬 협업 등 랜덤 굿즈 행사로 2030 세대의 도파민 소비 트렌드 공략",
           "articleCount": 1,
           "relatedLinks": [
             {
               "title": "\"가챠 망해도 도파민 뿜뿜\"… 2030 사로잡은 '랜덤 소비'",
               "url": "https://n.news.naver.com/mnews/article/469/0000931107?sid=102"
-            }
-          ]
-        },
-        {
-          "emoji": "💪",
-          "title": "초저가 프로틴 음료 확대",
-          "summary": "유통업계가 980원 프로틴쉐이크 등 초저가 건강식품으로 PB 라인업을 확대, 생필품 중심에서 비타민·단백질 음료로 카테고리 다각화.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "980원 프로틴쉐이크…초저가에 고객만족 더하다",
-              "url": "https://n.news.naver.com/mnews/article/011/0004621628?sid=101"
             }
           ]
         }
