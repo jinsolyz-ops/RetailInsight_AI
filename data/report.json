@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-05-16T23:49:54.533Z",
+  "generatedAt": "2026-05-17T11:05:26.447Z",
   "summary": [
-    "GS25 신선강화형매장 연내 1000호점 목표로 신선식품 강화 전략 가속화",
-    "이마트24 난지한강공원 체류형 콘셉트점포 오픈으로 경험형 소비 공략",
-    "CU 우베 디저트 6종 출시로 트렌디한 신제품 선점 경쟁 심화"
+    "세븐일레븐 산가리아우유 1주일 5만개 완판, 일본 인기상품 추가입고로 K-편의점 차별화",
+    "현대백화점 외국인 매출 121% 증가, H포인트글로벌·헤이디글로벌 AI활용 맞춤형 마케팅 성과",
+    "CU 생과일샌드위치 사계절 상시판매 확대, 계절한정→상시운영 전환으로 고객접점 강화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌡️",
-          "title": "조기 여름마케팅",
-          "summary": "예년보다 앞당겨진 폭염으로 대형마트·편의점이 5월부터 선풍기·냉감침구·쿨링용품 판매 강화 및 AI 선별 시스템 도입으로 고품질 상품 운영.",
-          "articleCount": 2,
+          "emoji": "🌍",
+          "title": "외국인 고객 유입 확대",
+          "summary": "백화점 업계가 황금연휴를 중심으로 외국인 고객 유입 증가를 경험하며, K콘텐츠 기반 MD강화와 외국인 맞춤형 마케팅으로 추가 성장동력 확보 중.",
+          "articleCount": 3,
           "relatedLinks": [
             {
-              "title": "[비즈톡톡]\"벌써 30도\"… 선풍기·냉감침구·쿨링용품 판매 불티",
-              "url": "https://n.news.naver.com/mnews/article/366/0001164969?sid=101"
+              "title": "외국인이 살렸다…백화점 4사 실적 날개",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=1373293"
             },
             {
-              "title": "'벌써 여름 특수'…대형마트, '수박·선풍기' 물량 20% 늘렸다",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1367543"
+              "title": "백화점 웃고 대형마트 울고…유통가 덮친 'K자형 소비'",
+              "url": "http://www.metroseoul.co.kr/article/20260517500079"
             }
           ]
         },
         {
-          "emoji": "🌍",
-          "title": "방한객 소비 회복",
-          "summary": "CU 1분기 외국인 매출 65.1% 증가로 MZ세대 집객 강화 및 오프라인 매장 경쟁력 부각, 편의점 4사 실적 개선 견인.",
+          "emoji": "💎",
+          "title": "VIP 고객 마케팅 강화",
+          "summary": "롯데백화점 VIP 매출 비중이 2023년 41%에서 2025년 46%로 증가하며, 백화점들이 상위 0.1% 고객층 대상 차별화된 서비스 강화에 집중.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "[분석] 편의점 4사, '외국인·PB'에 희비… CU·GS '방긋' 이마트·세븐 ...",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421368"
+              "title": "'돈 있어도 아무나 못 누린다'…진짜 '상위 0.1%'의 세계",
+              "url": "https://n.news.naver.com/mnews/article/277/0005763833?sid=101"
             }
           ]
         }
@@ -44,17 +44,13 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 커머스 솔루션",
-          "summary": "플래티어 AX 솔루션 24.6% 급증으로 AI 네이티브 맞춤형 커머스 플랫폼 고도화 및 버티컬 커머스 성장 본격화.",
-          "articleCount": 4,
+          "title": "AI 기반 대화형 커머스 확산",
+          "summary": "무신사가 카카오톡 챗GPT 플랫폼에 입점하며 대화형 커머스 서비스를 시작, 패션 유통에서 AI·초개인화를 통한 저성장 돌파구 모색 중.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "플래티어, AX 솔루션 24.6% 급증에 1분기 매출 10%↑…'에이전틱 AI'로 실...",
-              "url": "https://n.news.naver.com/mnews/article/030/0003428066?sid=105"
-            },
-            {
-              "title": "플래티어, 1분기 매출 10% 증가…'AX 솔루션 성장 본격화'",
-              "url": "https://n.news.naver.com/mnews/article/018/0006282584?sid=101"
+              "title": "패션시장, 1% 저성장 고착화…AI·초개인화 돌파구 찾는다",
+              "url": "https://n.news.naver.com/mnews/article/030/0003428329?sid=101"
             }
           ]
         }
@@ -64,26 +60,14 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "✨",
-          "title": "패션 생성형 AI",
-          "summary": "엔젤리그 '스타일룸' 등 한국형 AI 모델이 e커머스 판매자 사이에서 '정말 쓸만한' 평가를 받으며 패션 커머스 혁신 주도.",
+          "emoji": "☕",
+          "title": "AI 바리스타 레시피 대결",
+          "summary": "영도 커피 축제에서 AI와 인간 바리스타의 레시피 대결을 통해 커피 유통업계와 AI의 연결을 알리는 마케팅 기회 창출.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "[AI혁명](199)한국형 AI 모델 핏·감성 인기…엔젤리그 '스타일룸'",
-              "url": "https://n.news.naver.com/mnews/article/277/0005763827?sid=105"
-            }
-          ]
-        },
-        {
-          "emoji": "🎬",
-          "title": "숏폼 AI 기술",
-          "summary": "버즈니 비스킷 AI 숏폼 신기능 추가로 신세계라이브쇼핑·홈앤쇼핑 등 대형 커머스 플랫폼 도입 확대.",
-          "articleCount": 1,
-          "relatedLinks": [
-            {
-              "title": "'URL만 넣으면 숏폼 뚝딱'…버즈니 비스킷 AI, 숏폼 신기능 추가",
-              "url": "http://www.segyebiz.com/newsView/20250516506119?OutUrl=naver"
+              "title": "커피 향에 푹 빠진 영도, 사흘간 12만 명 음미했다",
+              "url": "https://n.news.naver.com/mnews/article/082/0001381146?sid=102"
             }
           ]
         }
@@ -93,14 +77,14 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "❄️",
-          "title": "CU 쿨링웨어 판매",
-          "summary": "CU 5월 1일~중순 쿨링웨어·아이스크림 판매 62.3% 증가로 조기 여름 시즌 마케팅 성공.",
+          "emoji": "🥪",
+          "title": "생과일샌드위치 상시판매 확대",
+          "summary": "CU가 계절 한정 상품이던 생과일 샌드위치를 사계절 상시 운영 상품으로 전환, 고객 접점 강화 및 매출 안정화 전략 추진.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "Retailers try to beat early summer heat with 'cool marketing' for seasona...",
-              "url": "https://n.news.naver.com/mnews/article/640/0000088511?sid=101"
+              "title": "CU, 생과일 샌드위치 사계절 상시 판매 시작",
+              "url": "http://www.metroseoul.co.kr/article/20260517500181"
             }
           ]
         }
@@ -110,42 +94,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥬",
-          "title": "GS25 신선강화형",
-          "summary": "GS25 신선강화형매장 연내 1000호점 목표로 신선식품·간편식 강화 전략 공격적 추진 중.",
-          "articleCount": 1,
+          "emoji": "🌊",
+          "title": "GS25 바다숨 프로젝트",
+          "summary": "GS리테일이 2025년부터 시작한 해양 생물다양성 보호 ESG 캠페인으로, 임직원과 NGO 참여를 통해 생태계 복원 중심의 친환경 마케팅 전개.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "[르포] 연내 1000호점 목표…GS25 효자 '신선강화형매장' 가보니",
-              "url": "https://www.theguru.co.kr/news/article.html?no=101780"
+              "title": "GS리테일, 해양 생물다양성 보호 '바다숨 프로젝트' 전개",
+              "url": "http://www.metroseoul.co.kr/article/20260517500195"
+            },
+            {
+              "title": "GS리테일, 양양 해양 정화 활동…임직원·NGO 참여해 생태계 복원",
+              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=202219"
             }
           ]
         },
         {
-          "emoji": "💜",
-          "title": "우베 디저트 경쟁",
-          "summary": "세븐일레븐·CU 우베 활용 디저트 6종 이상 출시로 LA발 보라빛 열풍 편의점 시장 선점 경쟁 심화.",
-          "articleCount": 1,
+          "emoji": "🥛",
+          "title": "세븐일레븐 산가리아우유 완판",
+          "summary": "세븐일레븐이 일본 인기 음료 산가리아우유 2종을 출시 1주일 만에 초도 물량 5만개 완판, 추가 입고로 일본 트렌드 상품 차별화 전략 강화.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "LA에서 물 건너 온 보라빛 열풍, 뜬금없이 우베 관련 식품이 마트를 점...",
-              "url": "https://www.huffingtonpost.kr/article/257207"
+              "title": "일주일 만에 5만개 완판...세븐일레븐, 일본 '산가리아 우유' 추가 입고",
+              "url": "https://n.news.naver.com/mnews/article/008/0005358865?sid=101"
+            },
+            {
+              "title": "[잘먹잘살+]파리바게뜨·CU·세븐일레븐·GS리테일·마마치킨",
+              "url": "https://www.businessplus.kr/news/articleView.html?idxno=111868"
             }
           ]
         },
         {
           "emoji": "🏞️",
-          "title": "이마트24 체류형점포",
-          "summary": "이마트24 난지한강공원 '라이더파크'·'비어캠프' 오픈으로 한강 상권 공략 및 경험형 소비 공간 확대.",
-          "articleCount": 2,
+          "title": "이마트24 이색점포 확대",
+          "summary": "이마트24가 난지한강공원에 라이더파크·비어캠프 콘셉트의 체류형 이색점포 2개점 오픈, 단순 구매를 넘어 경험 제공 전략으로 차별화.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "\"한강 노을 보며 라면·맥주 한잔\"…이마트24, 난지한강공원에 체류형...",
-              "url": "https://www.viva100.com/article/20260517500049"
-            },
-            {
-              "title": "이마트24, 난지한강공원에 '라이더·맥주' 이색 점포 2개점 개설",
-              "url": "https://n.news.naver.com/mnews/article/001/0016081301?sid=101"
+              "title": "이마트24, 난지한강공원서 '라이더파크·비어캠프' 이색점포 선봬",
+              "url": "https://n.news.naver.com/mnews/article/081/0003644401?sid=101"
             }
           ]
         }
@@ -155,26 +143,26 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍜",
-          "title": "신라면 로제 출시",
-          "summary": "신라면 40주년 기념 '신라면 로제' 출시로 SNS 모디슈머 레시피 기반 4년 R&D 결과물 선보이며 프리미엄 라면 시장 공략.",
+          "emoji": "🎲",
+          "title": "랜덤 소비 마케팅 확산",
+          "summary": "식음료업계가 이디야커피 포켓몬 협업 굿즈 등 랜덤 마케팅에 뛰어들며, 2030세대의 도파민 소비 트렌드를 반영한 가챠형 프로모션 강화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "토마토크림에 고추장 한 스푼, '신라면 로제'...신라면 40주년 기념작...",
-              "url": "https://www.etoday.co.kr/news/view/2584698"
+              "title": "\"가챠 망해도 도파민 뿜뿜\"… 2030 사로잡은 '랜덤 소비'",
+              "url": "https://n.news.naver.com/mnews/article/469/0000931107?sid=102"
             }
           ]
         },
         {
-          "emoji": "🍺",
-          "title": "곰표 밀맥주 콜라보",
-          "summary": "곰표 밀맥주(세븐브로이·CU 협업)가 출시 직후 편의점 수제맥주 판매량 1위 기록으로 밀가루 회사 정체성 활용 성공.",
+          "emoji": "💪",
+          "title": "초저가 프로틴 음료 확대",
+          "summary": "유통업계가 980원 프로틴쉐이크 등 초저가 건강식품으로 PB 라인업을 확대, 생필품 중심에서 비타민·단백질 음료로 카테고리 다각화.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "[윤은기의 X경영(72)] 곰이 미련하다는 사람이 진짜 곰탱이다",
-              "url": "https://www.lecturernews.com/news/articleView.html?idxno=202468"
+              "title": "980원 프로틴쉐이크…초저가에 고객만족 더하다",
+              "url": "https://n.news.naver.com/mnews/article/011/0004621628?sid=101"
             }
           ]
         }
