@@ -182,6 +182,7 @@ IMPORTANCE RANKING:
 - Rank by marketing impact: buzz volume, strategic novelty, consumer relevance
 - For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant move for each.
 - For '상품 이슈': focus on products that are going viral on SNS or generating strong consumer buzz. Prioritize new product launches, limited-edition collabs, and trending items over generic restocks or routine discounts.
+- For '리테일 트렌드': identify up to 4 top issues. Each issue must be about a clearly distinct topic.
 - For all other categories: identify 1 to 2 top issues only. Each issue must be about a clearly distinct topic.
 
 For each issue, provide:

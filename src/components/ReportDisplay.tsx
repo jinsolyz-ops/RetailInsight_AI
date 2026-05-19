@@ -96,22 +96,6 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
           ))}
         </div>
 
-        {/* 3줄 요약 */}
-        {report.summary?.length > 0 && (
-          <div className="bg-slate-50 rounded-2xl border border-slate-100 px-7 py-6">
-            <p className="text-xs font-bold tracking-widest uppercase text-[#00A651] mb-4">3줄 요약</p>
-            <ol className="space-y-3">
-              {report.summary.map((line, i) => (
-                <li key={i} className="flex items-start gap-3">
-                  <span className="w-5 h-5 rounded-full bg-[#00A651] text-white text-xs font-black flex items-center justify-center shrink-0 mt-0.5">
-                    {i + 1}
-                  </span>
-                  <span className="text-slate-700 text-sm leading-relaxed">{line}</span>
-                </li>
-              ))}
-            </ol>
-          </div>
-        )}
 
         {/* 카테고리별 섹션 */}
         <div className="space-y-12">
