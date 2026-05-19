@@ -250,6 +250,12 @@ export async function generateReport(): Promise<ReportData> {
     item => item.title.includes('CU') || item.title.includes('BGF리테일')
   );
 
+  // 경쟁사 이슈: 브랜드별 제목 필터링 후 각 최대 5개씩 전달
+  const competitorBrands = ['GS25', '세븐일레븐', '이마트24'];
+  categorizedNews['경쟁사 이슈'] = competitorBrands.flatMap(brand =>
+    categorizedNews['경쟁사 이슈'].filter(item => item.title.includes(brand)).slice(0, 5)
+  );
+
   const promptData = Object.entries(categorizedNews).map(([catName, news]) => {
     return `Category: ${catName}\nNews Articles:\n` +
       news.map((n, i) => `[${i + 1}] Title: ${n.title}\nDescription: ${n.description}\nLink: ${n.link}\nKeyword: ${n.keyword}`).join('\n\n');
