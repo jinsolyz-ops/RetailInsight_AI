@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-05-17T23:55:10.127Z",
+  "generatedAt": "2026-05-19T00:03:23.053Z",
   "summary": [
-    "CU·GS25, 쿠팡이츠와 24시간 배달 확대로 심야 퀵커머스 경쟁 본격화",
-    "세븐일레븐, 온정돈까스 협업 2탄으로 매운맛 챌린지 수요 공략",
-    "롯데홈쇼핑, ChatGPT 기반 AI 커머스 플랫폼 구축으로 AI 쇼핑 경쟁력 강화"
+    "CU, '애사비 콜라 제로' 5일 만에 3만개 판매로 헬씨 소다 영역 확대",
+    "GS25, 지드래곤 협업 '데이지라거' 출시로 여름 맥주 시장 공략",
+    "LGU+, 보이넥스트도어 팬덤 마케팅으로 온·오프라인 경계 허문 참여형 프로모션 전개"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "K-관광 로드쇼 타이베이",
-          "summary": "CU(BGF리테일)와 현대백화점이 타이베이 K-관광 로드쇼에 참여해 K-패션·K-미식 팝업 부스로 해외 관광객 유입 확대",
-          "articleCount": 3,
+          "emoji": "🎯",
+          "title": "간편식 시장 판 바뀌었다",
+          "summary": "쿠팡·컬리·CJ제일제당 경쟁 격화로 간편식 시장이 단순 즉석식품에서 건강식·프리미엄 제품 중심으로 진화 중.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "한국관광공사, 대만 타이베이서 'K-관광 로드쇼' 개최",
-              "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1091406"
-            },
-            {
-              "title": "'232만명' 대만인 매료…관광公, 타이베이서 중부권 매력 전파",
-              "url": "https://www.ajunews.com/view/20260518084108215"
+              "title": "간편식 시장 판 바뀌었다… 쿠팡·컬리·CJ제일제당 경쟁 격화",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453610"
             }
           ]
         },
         {
-          "emoji": "☕",
-          "title": "바샤커피 프리미엄 확장",
-          "summary": "롯데백화점이 프리미엄 커피 브랜드 바샤커피 4호점을 인천점에 개점하며 온·오프라인 고품질 커피 시장 입지 강화",
-          "articleCount": 1,
+          "emoji": "📱",
+          "title": "LGU+ 보이넥스트도어 협업",
+          "summary": "LGU+가 보이넥스트도어 팬덤의 높은 결속력을 활용해 광고·오프라인 매장·앱·SNS를 연계한 온·오프라인 통합 참여형 마케팅 전개.",
+          "articleCount": 3,
           "relatedLinks": [
             {
-              "title": "롯데百 인천점, 프리미엄 커피 브랜드 '바샤커피' 4호점 개점",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453300"
+              "title": "LGU+, '보이넥스트도어'와 브랜드 캠페인 진행",
+              "url": "https://n.news.naver.com/mnews/article/092/0002423297?sid=105"
+            },
+            {
+              "title": "'컴백 '똑똑똑' 맞춤 저격'…LG유플러스, 보이넥스트도어 손잡고 온·오프라인 캠페인",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=77292"
             }
           ]
         }
@@ -44,13 +44,17 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 쇼핑 에이전트 확대",
-          "summary": "네이버가 AI 쇼핑 에이전트에 선물 추천 특화 기능을 추가하며 대화형 커머스 경험 강화",
-          "articleCount": 1,
+          "title": "LG CNS-컬리 휴머노이드 로봇",
+          "summary": "LG CNS와 컬리가 물류센터에 휴머노이드 로봇을 도입해 신선식품 배송 기반의 리테일테크 인프라를 고도화하고 상품 영역 확장 추진.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "'모바일 선물하기' 10조… 패션-뷰티 '취향소비'로까지 몸집 키워",
-              "url": "https://n.news.naver.com/mnews/article/020/0003720211?sid=101"
+              "title": "[AI 브리프] LG CNS-컬리, 물류센터 휴머노이드 로봇 도입 맞손",
+              "url": "http://www.itdaily.kr/news/articleView.html?idxno=239387"
+            },
+            {
+              "title": "LG CNS-컬리, 로봇기반 물류 자동화 '맞손'",
+              "url": "https://n.news.naver.com/mnews/article/009/0005681781?sid=101"
             }
           ]
         }
@@ -60,18 +64,14 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "롯데 AI 커머스 플랫폼",
-          "summary": "롯데홈쇼핑이 ChatGPT 기반 전용 앱을 선보이며 AI 쇼핑 서비스 고도화로 AI 커머스 경쟁력 확대",
-          "articleCount": 2,
+          "emoji": "💄",
+          "title": "아모레퍼시픽 AI 맞춤형 서비스",
+          "summary": "아모레퍼시픽이 설화수·라네즈·에스트라 등 글로벌 브랜드에 AI 기반 피부 분석과 맞춤형 서비스를 확대해 K뷰티 글로벌 시장 기준 재정의.",
+          "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "롯데홈쇼핑, 챗GPT 기반 전용 앱 선보여…AI 커머스 도입",
-              "url": "http://www.srtimes.kr/news/articleView.html?idxno=203396"
-            },
-            {
-              "title": "'이용자 2300만↑' 챗GPT에 둥지 튼 롯데...'AI 커머스' 가속",
-              "url": "https://www.cstimes.com/news/articleView.html?idxno=705991"
+              "title": "김승환 아모레퍼시픽 대표 'K뷰티 글로벌 스킨케어 시장 새 기준'",
+              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=225307"
             }
           ]
         }
@@ -81,18 +81,18 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🚚",
-          "title": "CU 24시간 배달 확대",
-          "summary": "CU가 쿠팡이츠를 통해 편의점 배달 서비스를 24시간 운영 체제로 확대하며 심야 수요 대응",
-          "articleCount": 2,
+          "emoji": "🥤",
+          "title": "CU 애사비 콜라 제로 출시",
+          "summary": "CU가 '애사비 콜라 제로'를 출시해 5일 만에 3만개를 판매하며 헬씨 소다 영역을 확대하고 여름철 음료 매출 강화.",
+          "articleCount": 3,
           "relatedLinks": [
             {
-              "title": "'시간 제약 없이 언제나' CU, 쿠팡이츠 배달 서비스 24시간 확대",
-              "url": "https://n.news.naver.com/mnews/article/003/0013950433?sid=101"
+              "title": "CU, 애사비 콜라 제로 출시…'헬씨 소다' 영역 확대",
+              "url": "http://www.srtimes.kr/news/articleView.html?idxno=203492"
             },
             {
-              "title": "'야식 수요 잡는다'…GS25·CU, 24시간 배달 운영",
-              "url": "https://n.news.naver.com/mnews/article/018/0006284050?sid=101"
+              "title": "'5일 만에 3만개 팔려' CU, '애사비 콜라 제로' 출시",
+              "url": "https://n.news.naver.com/mnews/article/003/0013952892?sid=101"
             }
           ]
         }
@@ -102,50 +102,50 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "GS25 24시간 배달 전개",
-          "summary": "GS25가 쿠팡이츠와 손잡고 24시간 배달 서비스를 전국 1000여 점포로 확대하며 심야 퀵커머스 시장 공략",
-          "articleCount": 3,
-          "relatedLinks": [
-            {
-              "title": "GS25, 심야 배달 승부수…전국 24시간 배송 확대",
-              "url": "https://www.newspim.com/news/view/20260518000072"
-            },
-            {
-              "title": "편의점도 '24시간 배달 전쟁'… CU·GS25, 심야 퀵커머스 정면 승부",
-              "url": "https://www.viva100.com/article/20260518500077"
-            }
-          ]
-        },
-        {
-          "emoji": "🌶️",
-          "title": "세븐일레븐 온정돈까스 2탄",
-          "summary": "세븐일레븐이 온정돈까스와의 협업 2탄으로 13단계 매운맛 '매워디짐' 시리즈를 출시하며 펀슈머 수요 공략",
+          "emoji": "🍺",
+          "title": "GS25 지드래곤 데이지라거",
+          "summary": "GS25가 지드래곤의 패션 브랜드와 협업한 일본 수제맥주 '데이지라거' 2탄을 유통사 단독으로 출시해 여름 맥주 시장 공략.",
           "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "'전작보다 3단계 더 매워'…세븐일레븐, 온정돈까스 협업 2탄 출시",
-              "url": "https://n.news.naver.com/mnews/article/015/0005288009?sid=101"
+              "title": "GS25, 지드래곤 맥주 2탄 '데이지라거' 출시",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453645"
             },
             {
-              "title": "세븐일레븐, 온정돈까스 협업 확대…13단계 '매워디짐' 시리즈 출시",
-              "url": "https://n.news.naver.com/mnews/article/003/0013950382?sid=101"
+              "title": "GS25, 지드래곤 '데이지라거' 출시 →'더벤티데이' 드래곤스무디 등 할인",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=739902"
             }
           ]
         },
         {
-          "emoji": "💰",
-          "title": "이마트24 고유가 할인 확대",
-          "summary": "이마트24가 고유가 피해지원금 2차 지급에 맞춰 PB 상품과 간편식 40% 페이백 행사로 체감형 할인 전략 강화",
-          "articleCount": 3,
+          "emoji": "🚚",
+          "title": "세븐일레븐 24시간 배달 확대",
+          "summary": "세븐일레븐이 쿠팡이츠와 협업해 24시간 배달 서비스 권역을 확대하며 편의점 배달 시장 경쟁 심화.",
+          "articleCount": 2,
           "relatedLinks": [
             {
-              "title": "이마트24, 고유가 피해지원금 지급 맞춰 '40% 페이백'…물가 안정 총력",
-              "url": "https://n.news.naver.com/mnews/article/015/0005287994?sid=101"
+              "title": "편의점 GS25·CU, 쿠팡이츠 통해 24시간 배달 서비스 시작",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=839533"
             },
             {
-              "title": "이마트24, 고유가 지원금 맞춰 PB·간편식 40% 페이백",
-              "url": "https://n.news.naver.com/mnews/article/018/0006284008?sid=101"
+              "title": "[BS모닝] 편의점 이어 다이소까지…100원 생리대 접점 확대될까",
+              "url": "http://www.segyebiz.com/newsView/20260519502504?OutUrl=naver"
+            }
+          ]
+        },
+        {
+          "emoji": "🧊",
+          "title": "이마트24 여름 특수 상품 강화",
+          "summary": "이마트24가 컵 얼음·봉지 얼음·파우치 음료 등 여름 특수 상품 매출을 80% 이상 신장시키며 계절 수요 대응.",
+          "articleCount": 2,
+          "relatedLinks": [
+            {
+              "title": "'5월인데 벌써' 편의점은 안다…24도엔 아아, 31도엔 쭈쭈바 '여름 특수'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005764636?sid=103"
+            },
+            {
+              "title": "4년 만에 2배 성장··· 혈당 낮춰주는 '냉동 빵' 인기",
+              "url": "https://woman.donga.com/3/all/12/6231238/1"
             }
           ]
         }
@@ -155,14 +155,30 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎲",
-          "title": "랜덤 소비 마케팅 확산",
-          "summary": "이디야커피 등 식음료 업계가 포켓몬 협업 등 랜덤 굿즈 행사로 2030 세대의 도파민 소비 트렌드 공략",
+          "emoji": "🍜",
+          "title": "편의점 24시간 배달 서비스 확대",
+          "summary": "GS25·CU가 쿠팡이츠를 통해 도시락·라면·디저트 등 편의점 간편식을 24시간 배달하며 새로운 성장동력 확보.",
+          "articleCount": 2,
+          "relatedLinks": [
+            {
+              "title": "새벽 4시에도 이젠 OK… '편의점 배달' 달려갑니다",
+              "url": "https://n.news.naver.com/mnews/article/008/0005359547?sid=101"
+            },
+            {
+              "title": "편의점 업계 '24시간 배달서비스' 나서",
+              "url": "https://n.news.naver.com/mnews/article/022/0004129117?sid=101"
+            }
+          ]
+        },
+        {
+          "emoji": "🥣",
+          "title": "신세계푸드 슈퍼곡물 보양 간편식",
+          "summary": "신세계푸드가 건강 식재료 '파로'를 활용한 보양 간편식으로 여름철 HMR 시장을 공략하며 고물가·건강 관리 트렌드 대응.",
           "articleCount": 1,
           "relatedLinks": [
             {
-              "title": "\"가챠 망해도 도파민 뿜뿜\"… 2030 사로잡은 '랜덤 소비'",
-              "url": "https://n.news.naver.com/mnews/article/469/0000931107?sid=102"
+              "title": "'2만원 삼계탕 부담스럽죠'…신세계푸드, '슈퍼곡물' 넣은 보양 간편식 출시",
+              "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=81171"
             }
           ]
         }
