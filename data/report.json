@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-19T11:29:38.686Z",
+  "generatedAt": "2026-05-19T11:36:15.672Z",
   "summary": [
-    "CU, 애사비 콜라·기능성 탄산음료로 여름철 음료 시장 공략",
-    "GS25, 일본 수제맥주 협업 '데이지라거' 2탄 출시로 에일 맥주 확대",
-    "LF몰, 생성형 AI 기반 리뷰 고도화로 사용자 말투 반영 콘텐츠 강화"
+    "CU, 애사비 콜라·기능성 음료로 여름철 음료 시장 선점",
+    "GS25, 데이지라거 2탄 출시로 협업 맥주 30% 매출 비중 달성",
+    "LF몰, 생성형 AI 기반 리뷰 고도화로 구매 전환 핵심 콘텐츠화"
   ],
   "categories": [
     {
@@ -12,30 +12,32 @@
         {
           "emoji": "🤖",
           "title": "LF몰 AI 리뷰 고도화",
-          "summary": "LF몰이 생성형 AI 기반 리뷰 기능을 고도화하여 사용자 말투를 반영한 자동 리뷰 작성 서비스를 제공, 실제 사용자 데이터를 상품 추천 및 구매 전환의 핵심 콘텐츠로 활용하는 전략 추진 중.",
-          "articleCount": 1,
+          "summary": "생성형 AI로 사용자 말투 기반 리뷰 작성 기능을 고도화하며 리뷰를 상품 탐색과 구매 전환의 핵심 콘텐츠로 전환.",
+          "articleIndices": [
+            3
+          ],
           "relatedLinks": [
             {
               "title": "\"AI가 내 말투로 리뷰 작성\"…LF몰, 생성형 AI 기반 리뷰 고도화",
               "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/05/19/2026051980184.html"
             }
-          ]
+          ],
+          "articleCount": 1
         },
         {
-          "emoji": "🏢",
-          "title": "아모레퍼시픽 글로벌 전략",
-          "summary": "아모레퍼시픽이 2026 WWD 뷰티 CEO 서밋에 참석하여 K-뷰티의 지속 성장 전략과 AI·웰니스 기반 개인화 고객 경험 확대 방안을 글로벌 업계 리더들과 논의.",
-          "articleCount": 2,
+          "emoji": "💼",
+          "title": "아모레퍼시픽 K-뷰티 글로벌 전략",
+          "summary": "WWD 뷰티 CEO 서밋 참석으로 AI·웰니스 기반 개인화 고객 경험 확대를 통한 K-뷰티 글로벌 성장 전략 공개.",
+          "articleIndices": [
+            2
+          ],
           "relatedLinks": [
             {
               "title": "아모레퍼시픽, '2026 WWD 뷰티 CEO 서밋' 참석...'K-뷰티 지속 성장 전략",
               "url": "https://www.betanews.net/article/view/beta202605190066"
-            },
-            {
-              "title": "아모레퍼시픽, 'K-뷰티는 새로운 글로벌 기준'… AI·웰니스 확장 본격화",
-              "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=353983"
             }
-          ]
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -45,30 +47,32 @@
         {
           "emoji": "🚀",
           "title": "와디즈 AI 테크 이커머스",
-          "summary": "와디즈가 AI 기술을 전면에 내세운 '테크 이커머스' 전략으로 이슈 감지부터 처리까지 평균 1일 내 대응하는 기민한 AI 체계를 구축, 당일 오픈 가능한 신규 상품 출시 모델 제시.",
-          "articleCount": 1,
+          "summary": "크라우드펀딩 플랫폼이 AI 기술 전면 도입으로 이슈 감지부터 처리까지 1일 내 완료하는 기민한 '테크 이커머스' 모델 구축.",
+          "articleIndices": [
+            2
+          ],
           "relatedLinks": [
             {
               "title": "'아이디어만 있으면 당일 오픈'...와디즈, AI로 '테크 이커머스' 승부수",
               "url": "https://www.techm.kr/news/articleView.html?idxno=151973"
             }
-          ]
+          ],
+          "articleCount": 1
         },
         {
           "emoji": "🎯",
-          "title": "버티컬 커머스 고도화",
-          "summary": "AWW와 플래티어 등 버티컬 커머스 플랫폼들이 AI 기반 큐레이션 및 맞춤형 솔루션으로 콘텐츠·MD·브랜드마케팅을 통합 운영하며 차별화된 쇼핑 경험 제공.",
-          "articleCount": 2,
+          "title": "큐레이션 버티컬 커머스 고도화",
+          "summary": "AWW 플랫폼 리뉴얼을 통해 콘텐츠·MD·브랜드마케팅·CS 통합 운영으로 큐레이션 버티컬 커머스 전략 강화.",
+          "articleIndices": [
+            6
+          ],
           "relatedLinks": [
             {
               "title": "에이더블유더블유, 플랫폼 'AWW' 리뉴얼 통해 큐레이션 커머스 고도화",
               "url": "https://n.news.naver.com/mnews/article/081/0003644571?sid=101"
-            },
-            {
-              "title": "플래티어, 1분기 매출 86억 원…AX 솔루션 성장에 전년比 10.1% 증가",
-              "url": "https://www.hellot.net/news/article.html?no=112630"
             }
-          ]
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -77,19 +81,33 @@
       "issues": [
         {
           "emoji": "🛍️",
-          "title": "AI 커머스 플랫폼 확산",
-          "summary": "아모레퍼시픽의 챗GPT 내 '아모레몰' 앱 출시 등 유통업계가 생성형 AI 서비스 내 전용 앱 구축으로 AI 기반 쇼핑 환경 구축에 드라이브를 걸고 있으며, AI 에이전트가 브랜드와 소비자 간 제3의 행위자로 부상 중.",
-          "articleCount": 2,
+          "title": "아모레 ChatGPT 앱 AI 쇼핑",
+          "summary": "아모레퍼시픽이 ChatGPT 내 전용 앱 출시로 AI 기반 쇼핑 환경을 구축하며 GEO 경쟁 본격화.",
+          "articleIndices": [
+            1
+          ],
           "relatedLinks": [
             {
               "title": "GEO 경쟁 본격화된 유통업계, AI 커머스로 쇼핑 경쟁 '점화'",
               "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401858"
-            },
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🤝",
+          "title": "AI 에이전트 커머스 매개",
+          "summary": "AI 에이전트가 브랜드와 소비자 사이의 제3 행위자로 부상하며 '에이전틱 커머스'가 유통·마케팅에 미치는 영향 확대.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
             {
               "title": "프레인글로벌·숙명여대, AI PR 세미나 개최",
               "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=839605"
             }
-          ]
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -99,30 +117,32 @@
         {
           "emoji": "🥤",
           "title": "CU 애사비 콜라 출시",
-          "summary": "BGF리테일 CU가 사과초모식초 기반 기능성 탄산음료 '애사비 콜라'를 출시하며 기능성 음료 비중 확대, 2026년 1~4월 관련 음료 매출이 전년 동기 대비 23.6% 증가.",
-          "articleCount": 2,
+          "summary": "CU가 사과초모식초 기반 기능성 탄산음료 출시로 관련 음료 매출 증가율 23.6% 달성하며 여름철 음료 시장 선점.",
+          "articleIndices": [
+            5
+          ],
           "relatedLinks": [
             {
               "title": "BGF리테일 CU, 애사비 콜라 선보여…기능성 탄산음료 비중 확대",
               "url": "http://www.lawissue.co.kr/view.php?ud=202605191822401622204ead0791_12"
-            },
-            {
-              "title": "'기능성 탄산음료 vs 지디 라거'…CU·GS25, 여름철 음료 수요 '정조준'",
-              "url": "https://www.youthdaily.co.kr/news/article.html?no=219404"
             }
-          ]
+          ],
+          "articleCount": 1
         },
         {
-          "emoji": "🚚",
-          "title": "CU 24시간 배달 서비스",
-          "summary": "CU가 쿠팡이츠를 통해 24시간 배달 서비스를 시작하여 도시락·라면·디저트·음료·생활용품 등을 심야 시간대에 배송, 퀵커머스 시장 경쟁 강화.",
-          "articleCount": 1,
+          "emoji": "📈",
+          "title": "CU 고유가 지원금 소비 부양",
+          "summary": "고유가 지원금 지급으로 CU 양곡 매출 69.3% 급증, 생활필수품 전반에서 두 자릿수 이상 매출 증가 달성.",
+          "articleIndices": [
+            4
+          ],
           "relatedLinks": [
             {
-              "title": "편의점도 '24시간 배달'…GS25·CU, 쿠팡이츠로 심야 소비 공략",
-              "url": "https://sports.hankooki.com/news/articleView.html?idxno=6933365"
+              "title": "2차 고유가 피해지원금 지급…유통업계에 부는 '소비 훈풍'",
+              "url": "http://www.newsian.co.kr/news/articleView.html?idxno=89851"
             }
-          ]
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -132,42 +152,47 @@
         {
           "emoji": "🍺",
           "title": "GS25 데이지라거 2탄",
-          "summary": "GS25가 일본 수제맥주 브랜드와의 협업 2차 제품 '데이지라거'를 출시하며 여름 성수기 맥주 판매 강화, 1차 제품 출시 후 에일 맥주 매출 비중을 약 30% 수준까지 끌어올린 성과 기반.",
-          "articleCount": 3,
+          "summary": "GS25가 일본 수제맥주 협업 2탄 '데이지라거' 출시로 에일 맥주 매출 비중 30% 달성한 협업 전략 강화.",
+          "articleIndices": [
+            2
+          ],
           "relatedLinks": [
             {
               "title": "GS25, 협업 라거 '데이지라거' 출시…여름 판매 비중 반영",
               "url": "http://www.lawissue.co.kr/view.php?ud=202605191807423650204ead0791_12"
-            },
-            {
-              "title": "[오늘의 언박싱] CU '애사비 콜라 제로'·GS25 '데이지라거' 外",
-              "url": "https://www.mediapen.com/news/view/1099865"
             }
-          ]
+          ],
+          "articleCount": 1
         },
         {
-          "emoji": "🏦",
-          "title": "세븐일레븐 고유가 지원",
-          "summary": "세븐일레븐이 고유가 지원금 신청 고객 대상 생계비통장 프로모션을 진행하며 건전지 매출 97% 급증 등 생필품 판매 증대, 정부 지원금 수혜층의 소비 심화 활용.",
-          "articleCount": 1,
+          "emoji": "📱",
+          "title": "세븐일레븐 고유가 지원금 효과",
+          "summary": "세븐일레븐이 고유가 지원금 지급으로 건전지 매출 97% 급증하며 생활필수품 수요 증가 포착.",
+          "articleIndices": [
+            4
+          ],
           "relatedLinks": [
             {
               "title": "[이슈체크] '고유가 지원금 신청하세요'...소득 하위 70% 대상",
               "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=238858"
             }
-          ]
+          ],
+          "articleCount": 1
         },
         {
-          "emoji": "📦",
+          "emoji": "🚚",
           "title": "이마트24 퀵커머스 확대",
-          "summary": "이마트24가 쿠팡이츠 및 바로퀵 등을 통해 24시간 배달 서비스를 강화하며 반경 3km 내 1시간 내외 배송으로 생활밀착 플랫폼 경쟁력 강화.",
-          "articleCount": 1,
+          "summary": "이마트24가 쿠팡이츠 24시간 배달 서비스 참여로 퀵커머스 경쟁 격화 속 생활밀착 플랫폼 강화.",
+          "articleIndices": [
+            5
+          ],
           "relatedLinks": [
             {
               "title": "편의점도 뛰어든 24시간 배달…'퀵커머스' 경쟁 격화",
               "url": "http://www.srtimes.kr/news/articleView.html?idxno=203548"
             }
-          ]
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -176,22 +201,33 @@
       "issues": [
         {
           "emoji": "🥤",
-          "title": "여름철 기능성 음료 경쟁",
-          "summary": "CU의 애사비 콜라와 GS25의 데이지라거 등 편의점들이 기능성 원료·저당·제로 트렌드·브랜드 협업으로 차별화된 음료 신상품을 출시하며 단순 가격 경쟁에서 벗어난 프리미엄 음료 시장 개척.",
-          "articleCount": 2,
-          "relatedLinks": []
+          "title": "기능성 탄산음료 경쟁",
+          "summary": "CU·GS25가 기능성 원료, 저당·제로 트렌드, 브랜드 협업으로 차별화하며 편의점 음료 시장 경쟁 고도화.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "'기능성 탄산음료 vs 지디 라거'…CU·GS25, 여름철 음료 수요 '정조준'",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=219404"
+            }
+          ],
+          "articleCount": 1
         },
         {
           "emoji": "🍗",
-          "title": "BHC 쏘이갈릭킹 인기",
-          "summary": "BHC의 신제품 '쏘이갈릭킹'이 50일 만에 70만 개 판매를 기록하며 외식 시장의 소스 중심에서 식감 중심으로의 소비 트렌드 변화를 반영한 성공 사례 제시.",
-          "articleCount": 1,
+          "title": "BHC 쏘이갈릭킹 식감 혁신",
+          "summary": "BHC가 소스 중심에서 식감 중심으로 변화하는 소비 트렌드에 대응해 쏘이갈릭킹 50일 만에 70만개 판매 달성.",
+          "articleIndices": [
+            6
+          ],
           "relatedLinks": [
             {
               "title": "\"콰삭킹 잇는다\"…bhc '쏘이갈릭킹', 50일 만에 70만개 판매",
               "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/05/19/2026051980176.html"
             }
-          ]
+          ],
+          "articleCount": 1
         }
       ]
     }
