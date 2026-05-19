@@ -289,17 +289,14 @@ export async function generateReport(): Promise<ReportData> {
     return found ? { ...found, name: cat.name } : { name: cat.name, issues: [] };
   });
 
-  // articleIndices → articleCount 변환 + relatedLinks 없는 이슈 제거
+  // articleIndices → articleCount 변환
   for (const category of (parsed.categories || [])) {
     for (const issue of (category.issues || [])) {
       issue.articleCount = Array.isArray(issue.articleIndices) ? issue.articleIndices.length : 0;
     }
-    category.issues = (category.issues || []).filter(
-      (issue: any) => Array.isArray(issue.relatedLinks) && issue.relatedLinks.length > 0
-    );
   }
 
-  // 최종 링크 dedup
+  // 최종 링크 dedup 후 relatedLinks 없는 이슈 제거
   const seenFinalUrls = new Set<string>();
   for (const category of (parsed.categories || [])) {
     for (const issue of (category.issues || [])) {
@@ -312,6 +309,9 @@ export async function generateReport(): Promise<ReportData> {
       }
       issue.relatedLinks = uniqueLinks;
     }
+    category.issues = (category.issues || []).filter(
+      (issue: any) => Array.isArray(issue.relatedLinks) && issue.relatedLinks.length > 0
+    );
   }
 
   return {
