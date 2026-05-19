@@ -34,7 +34,7 @@ const CATEGORIES = [
   { name: 'AI 트렌드', keywords: ['유통업계 AI', '커머스 AI', '리테일테크'] },
   { name: '당사 이슈', keywords: ['CU', 'BGF리테일'] },
   { name: '경쟁사 이슈', keywords: ['GS25', '세븐일레븐', '이마트24'] },
-  { name: '상품 이슈', keywords: ['편의점 신상품', '편의점 간편식', '편의점 디저트', '유통업계 식품', '외식 트렌드', '식음료 트렌드', 'HMR 트렌드'] },
+  { name: '상품 이슈', keywords: ['편의점 디저트', '편의점 신상', '식품 트렌드', 'F&B 트렌드', 'PB상품'] },
 ];
 
 const CONCURRENCY = 3;
@@ -185,7 +185,7 @@ IMPORTANCE RANKING:
 - For 'AI 트렌드': output EXACTLY 2 issues. Each must be a clearly distinct topic.
 - For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant article for each brand.
 - For '상품 이슈': output EXACTLY 2 issues. Focus on products going viral on SNS or generating strong consumer buzz. Prioritize new launches, limited-edition collabs, and trending items.
-- For '당사 이슈': output 1 to 2 issues. Each must be a clearly distinct topic.
+- For '당사 이슈': output 1 to 2 issues about CU or BGF리테일 only. Each must be a clearly distinct topic. Do NOT include issues about competitors.
 - If a category lacks enough distinct relevant articles to meet the required count, output as many valid issues as possible rather than forcing irrelevant ones.
 
 For each issue, provide:
@@ -244,6 +244,11 @@ export async function generateReport(): Promise<ReportData> {
       }
     }
   }
+
+  // 당사 이슈: CU 또는 BGF리테일이 제목에 포함된 기사만 AI에 전달
+  categorizedNews['당사 이슈'] = categorizedNews['당사 이슈'].filter(
+    item => item.title.includes('CU') || item.title.includes('BGF리테일')
+  );
 
   const promptData = Object.entries(categorizedNews).map(([catName, news]) => {
     return `Category: ${catName}\nNews Articles:\n` +
