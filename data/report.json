@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-19T11:36:15.672Z",
+  "generatedAt": "2026-05-19T11:39:07.776Z",
   "summary": [
-    "CU, 애사비 콜라·기능성 음료로 여름철 음료 시장 선점",
-    "GS25, 데이지라거 2탄 출시로 협업 맥주 30% 매출 비중 달성",
-    "LF몰, 생성형 AI 기반 리뷰 고도화로 구매 전환 핵심 콘텐츠화"
+    "CU·GS25, 기능성 음료·협업 맥주로 여름철 음료 시장 차별화 경쟁",
+    "LF몰·와디즈 등 AI 기반 리뷰·검색 고도화로 이커머스 경험 혁신",
+    "아모레퍼시픽, ChatGPT 앱 출시·글로벌 AI 전략으로 K-뷰티 확장"
   ],
   "categories": [
     {
@@ -11,8 +11,8 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "LF몰 AI 리뷰 고도화",
-          "summary": "생성형 AI로 사용자 말투 기반 리뷰 작성 기능을 고도화하며 리뷰를 상품 탐색과 구매 전환의 핵심 콘텐츠로 전환.",
+          "title": "AI 기반 리뷰 고도화",
+          "summary": "LF몰이 생성형 AI로 사용자 말투 기반 리뷰 작성 기능을 고도화하며 리뷰를 상품 탐색과 구매 전환의 핵심 콘텐츠로 강화.",
           "articleIndices": [
             3
           ],
@@ -23,21 +23,6 @@
             }
           ],
           "articleCount": 1
-        },
-        {
-          "emoji": "💼",
-          "title": "아모레퍼시픽 K-뷰티 글로벌 전략",
-          "summary": "WWD 뷰티 CEO 서밋 참석으로 AI·웰니스 기반 개인화 고객 경험 확대를 통한 K-뷰티 글로벌 성장 전략 공개.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "아모레퍼시픽, '2026 WWD 뷰티 CEO 서밋' 참석...'K-뷰티 지속 성장 전략",
-              "url": "https://www.betanews.net/article/view/beta202605190066"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -45,9 +30,9 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "와디즈 AI 테크 이커머스",
-          "summary": "크라우드펀딩 플랫폼이 AI 기술 전면 도입으로 이슈 감지부터 처리까지 1일 내 완료하는 기민한 '테크 이커머스' 모델 구축.",
+          "emoji": "⚡",
+          "title": "AI 테크 이커머스 확대",
+          "summary": "와디즈가 AI 기술 전면 도입으로 이슈 감지부터 처리까지 1일 내 완료하는 '테크 이커머스' 모델로 신속한 상품 오픈 경쟁력 확보.",
           "articleIndices": [
             2
           ],
@@ -61,18 +46,23 @@
         },
         {
           "emoji": "🎯",
-          "title": "큐레이션 버티컬 커머스 고도화",
-          "summary": "AWW 플랫폼 리뉴얼을 통해 콘텐츠·MD·브랜드마케팅·CS 통합 운영으로 큐레이션 버티컬 커머스 전략 강화.",
+          "title": "버티컬 커머스 고도화",
+          "summary": "플래티어·AWW 등이 AI 네이티브 맞춤형 솔루션과 큐레이션 전략으로 버티컬 플랫폼 경쟁력 강화.",
           "articleIndices": [
+            5,
             6
           ],
           "relatedLinks": [
+            {
+              "title": "플래티어, 1분기 매출 86억 원…AX 솔루션 성장에 전년比 10.1% 증가",
+              "url": "https://www.hellot.net/news/article.html?no=112630"
+            },
             {
               "title": "에이더블유더블유, 플랫폼 'AWW' 리뉴얼 통해 큐레이션 커머스 고도화",
               "url": "https://n.news.naver.com/mnews/article/081/0003644571?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -81,33 +71,23 @@
       "issues": [
         {
           "emoji": "🛍️",
-          "title": "아모레 ChatGPT 앱 AI 쇼핑",
-          "summary": "아모레퍼시픽이 ChatGPT 내 전용 앱 출시로 AI 기반 쇼핑 환경을 구축하며 GEO 경쟁 본격화.",
+          "title": "ChatGPT 앱 기반 AI 쇼핑",
+          "summary": "아모레퍼시픽이 ChatGPT 내 '아모레몰' 앱 출시로 AI 기반 쇼핑 환경 구축, 유통업계 GEO 경쟁 본격화.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
               "title": "GEO 경쟁 본격화된 유통업계, AI 커머스로 쇼핑 경쟁 '점화'",
               "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401858"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🤝",
-          "title": "AI 에이전트 커머스 매개",
-          "summary": "AI 에이전트가 브랜드와 소비자 사이의 제3 행위자로 부상하며 '에이전틱 커머스'가 유통·마케팅에 미치는 영향 확대.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
+            },
             {
-              "title": "프레인글로벌·숙명여대, AI PR 세미나 개최",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=839605"
+              "title": "아모레퍼시픽, 'K-뷰티는 새로운 글로벌 기준'… AI·웰니스 확장 본격화",
+              "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=353983"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -116,10 +96,10 @@
       "issues": [
         {
           "emoji": "🥤",
-          "title": "CU 애사비 콜라 출시",
-          "summary": "CU가 사과초모식초 기반 기능성 탄산음료 출시로 관련 음료 매출 증가율 23.6% 달성하며 여름철 음료 시장 선점.",
+          "title": "애사비 콜라 출시",
+          "summary": "CU가 사과초모식초 기반 기능성 탄산음료 '애사비 콜라'를 출시하며 기능성 음료 비중 확대, 2026년 1~4월 관련 음료 매출 23.6% 증가.",
           "articleIndices": [
-            5
+            4
           ],
           "relatedLinks": [
             {
@@ -130,11 +110,11 @@
           "articleCount": 1
         },
         {
-          "emoji": "📈",
-          "title": "CU 고유가 지원금 소비 부양",
-          "summary": "고유가 지원금 지급으로 CU 양곡 매출 69.3% 급증, 생활필수품 전반에서 두 자릿수 이상 매출 증가 달성.",
+          "emoji": "📦",
+          "title": "고유가 지원금 소비 효과",
+          "summary": "CU가 고유가 지원금 지급으로 양곡(69.3%), 즉석밥(41.2%), 정육(31.6%) 등 생활필수품 매출 급증, 여름 기온 상응으로 얼음(150.7%) 매출도 급증.",
           "articleIndices": [
-            4
+            5
           ],
           "relatedLinks": [
             {
@@ -151,8 +131,8 @@
       "issues": [
         {
           "emoji": "🍺",
-          "title": "GS25 데이지라거 2탄",
-          "summary": "GS25가 일본 수제맥주 협업 2탄 '데이지라거' 출시로 에일 맥주 매출 비중 30% 달성한 협업 전략 강화.",
+          "title": "GS25 협업 맥주 2탄",
+          "summary": "GS25가 일본 수제맥주 브랜드와 협업한 '데이지라거' 2탄을 출시, 1차 제품으로 에일 맥주 매출 비중을 30% 수준까지 끌어올린 성과 기반.",
           "articleIndices": [
             2
           ],
@@ -165,9 +145,9 @@
           "articleCount": 1
         },
         {
-          "emoji": "📱",
-          "title": "세븐일레븐 고유가 지원금 효과",
-          "summary": "세븐일레븐이 고유가 지원금 지급으로 건전지 매출 97% 급증하며 생활필수품 수요 증가 포착.",
+          "emoji": "🔋",
+          "title": "세븐일레븐 고유가 효과",
+          "summary": "세븐일레븐이 고유가 지원금 지급으로 건전지 매출 97% 급증, 생필품 중심 소비 패턴 강화.",
           "articleIndices": [
             4
           ],
@@ -182,7 +162,7 @@
         {
           "emoji": "🚚",
           "title": "이마트24 퀵커머스 확대",
-          "summary": "이마트24가 쿠팡이츠 24시간 배달 서비스 참여로 퀵커머스 경쟁 격화 속 생활밀착 플랫폼 강화.",
+          "summary": "이마트24가 쿠팡이츠 통한 24시간 배달 서비스 확대로 퀵커머스 경쟁 강화, 생활밀착 플랫폼 전략 추진.",
           "articleIndices": [
             5
           ],
@@ -201,8 +181,8 @@
       "issues": [
         {
           "emoji": "🥤",
-          "title": "기능성 탄산음료 경쟁",
-          "summary": "CU·GS25가 기능성 원료, 저당·제로 트렌드, 브랜드 협업으로 차별화하며 편의점 음료 시장 경쟁 고도화.",
+          "title": "여름철 음료 차별화 경쟁",
+          "summary": "CU·GS25가 기능성 원료·저당·제로 트렌드·브랜드 협업으로 편의점 음료 시장을 가격 경쟁에서 차별화 경쟁으로 전환, 신상품 테스트 베드 역할 강화.",
           "articleIndices": [
             1
           ],
@@ -216,8 +196,8 @@
         },
         {
           "emoji": "🍗",
-          "title": "BHC 쏘이갈릭킹 식감 혁신",
-          "summary": "BHC가 소스 중심에서 식감 중심으로 변화하는 소비 트렌드에 대응해 쏘이갈릭킹 50일 만에 70만개 판매 달성.",
+          "title": "BHC 식감 중심 신제품",
+          "summary": "BHC가 '쏘이갈릭킹' 출시 50일 만에 70만개 판매 달성, 외식 시장 소스 중심에서 식감 중심으로의 소비 트렌드 변화 반영.",
           "articleIndices": [
             6
           ],
