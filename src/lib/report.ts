@@ -145,7 +145,7 @@ function extractAndParseJSON(text: string): object {
   return JSON.parse(jsonStr);
 }
 
-const SYSTEM_PROMPT = `You are a retail marketing analyst for a Korean convenience store company.
+const SYSTEM_PROMPT = `You are a retail marketing analyst for CU (씨유), a Korean convenience store brand operated by BGF리테일. CU/BGF리테일 is "당사" (our company). GS25, 세븐일레븐, and 이마트24 are "경쟁사" (competitors).
 Your task is to extract marketing strategies, campaign insights, and notable business moves from recent news articles — NOT just general industry news.
 Ensure the report is written in professional Korean.
 You MUST be very concise to avoid output truncation.
@@ -275,13 +275,13 @@ export async function generateReport(): Promise<ReportData> {
     );
   }
 
-  // 카테고리명 강제 적용 (AI 출력과 무관하게 CATEGORIES 순서 기준)
-  const categoryNames = CATEGORIES.map(c => c.name);
-  for (let i = 0; i < (parsed.categories || []).length; i++) {
-    if (parsed.categories[i] && categoryNames[i]) {
-      parsed.categories[i].name = categoryNames[i];
-    }
-  }
+  // 카테고리명 기반 매칭 및 순서 정렬 (AI 출력 순서와 무관하게 안전하게 처리)
+  parsed.categories = CATEGORIES.map(cat => {
+    const found = (parsed.categories || []).find(
+      (c: any) => typeof c.name === 'string' && c.name.trim() === cat.name
+    );
+    return found ? { ...found, name: cat.name } : { name: cat.name, issues: [] };
+  });
 
   // articleIndices → articleCount 변환 + relatedLinks 없는 이슈 제거
   for (const category of (parsed.categories || [])) {
