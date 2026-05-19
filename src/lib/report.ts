@@ -180,10 +180,13 @@ CRITICAL FORMAT RULES:
 
 IMPORTANCE RANKING:
 - Rank by marketing impact: buzz volume, strategic novelty, consumer relevance
-- For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant move for each.
-- For '상품 이슈': focus on products that are going viral on SNS or generating strong consumer buzz. Prioritize new product launches, limited-edition collabs, and trending items over generic restocks or routine discounts.
-- For '리테일 트렌드': identify up to 4 top issues. Each issue must be about a clearly distinct topic.
-- For all other categories: identify 1 to 2 top issues only. Each issue must be about a clearly distinct topic.
+- For '리테일 트렌드': output EXACTLY 4 issues. Each must be a clearly distinct topic.
+- For '이커머스 트렌드': output EXACTLY 2 issues. Each must be a clearly distinct topic.
+- For 'AI 트렌드': output EXACTLY 2 issues. Each must be a clearly distinct topic.
+- For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant article for each brand.
+- For '상품 이슈': output EXACTLY 2 issues. Focus on products going viral on SNS or generating strong consumer buzz. Prioritize new launches, limited-edition collabs, and trending items.
+- For '당사 이슈': output 1 to 2 issues. Each must be a clearly distinct topic.
+- If a category lacks enough distinct relevant articles to meet the required count, output as many valid issues as possible rather than forcing irrelevant ones.
 
 For each issue, provide:
 1. title: Concise title (max 15 chars) referencing the actual campaign or event name.
@@ -241,6 +244,17 @@ export async function generateReport(): Promise<ReportData> {
       }
     }
   }
+
+  // 경쟁사 이슈: 브랜드명이 제목에 포함된 기사만 브랜드별로 필터링
+  const competitorBrands = ['GS25', '세븐일레븐', '이마트24'];
+  categorizedNews['경쟁사 이슈'] = competitorBrands.flatMap(brand =>
+    categorizedNews['경쟁사 이슈'].filter(item => item.title.includes(brand)).slice(0, 5)
+  );
+
+  // 당사 이슈: CU 또는 BGF리테일이 제목에 포함된 기사만 필터링
+  categorizedNews['당사 이슈'] = categorizedNews['당사 이슈'].filter(
+    item => item.title.includes('CU') || item.title.includes('BGF리테일')
+  );
 
   const promptData = Object.entries(categorizedNews).map(([catName, news]) => {
     return `Category: ${catName}\nNews Articles:\n` +
