@@ -1,7 +1,7 @@
 import { readFileSync } from 'fs';
 import path from 'path';
 import { Newspaper } from 'lucide-react';
-import ReportDisplay from '@/components/ReportDisplay';
+import TabLayout from '@/components/TabLayout';
 import type { ReportData } from '@/lib/report';
 
 function getReport(): ReportData | null {
@@ -30,8 +30,8 @@ export default function Home() {
         </div>
       </header>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-        <ReportDisplay report={report} />
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <TabLayout report={report} />
       </main>
     </div>
   );

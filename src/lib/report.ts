@@ -29,7 +29,7 @@ export interface ReportData {
 }
 
 const CATEGORIES = [
-  { name: '리테일 트렌드', keywords: ['유통업계 이슈', '백화점 마케팅', '마트 마케팅', '오프라인 유통', '일본 유통업계'] },
+  { name: '리테일 트렌드', keywords: ['유통업계', '편의점', '백화점'] },
   { name: '이커머스 트렌드', keywords: ['이커머스 이슈', '온라인쇼핑 이슈', '버티컬커머스'] },
   { name: 'AI 트렌드', keywords: ['유통업계 AI', '커머스 AI', '리테일테크'] },
   { name: '당사 이슈', keywords: ['CU', 'BGF리테일'] },
