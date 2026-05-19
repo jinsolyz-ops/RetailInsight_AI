@@ -180,7 +180,7 @@ CRITICAL FORMAT RULES:
 
 IMPORTANCE RANKING:
 - Rank by marketing impact: buzz volume, strategic novelty, consumer relevance
-- For '리테일 트렌드': output EXACTLY 4 issues. Each must be a clearly distinct topic.
+- For '리테일 트렌드': output EXACTLY 2 issues. Each must be a clearly distinct topic.
 - For '이커머스 트렌드': output EXACTLY 2 issues. Each must be a clearly distinct topic.
 - For 'AI 트렌드': output EXACTLY 2 issues. Each must be a clearly distinct topic.
 - For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant article for each brand.
