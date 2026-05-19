@@ -188,7 +188,7 @@ IMPORTANCE RANKING:
 For each issue, provide:
 1. title: Concise title (max 15 chars) referencing the actual campaign or event name.
 2. summary: 1-sentence insight explaining the marketing angle or strategic significance, based ONLY on the articles.
-3. articleCount: Estimated number of articles covering this issue.
+3. articleIndices: Array of article [N] numbers from the input that cover this issue (e.g. [1, 3, 7]). Use the exact numbers from the input list.
 4. relatedLinks: 1 to 2 article links (prefer 2).
 5. emoji: A single relevant emoji. Use 💜 for issues about '우베' (Ube).
 
@@ -206,7 +206,7 @@ Output STRICTLY in the following JSON schema without any markdown formatting or 
           "emoji": "🔥",
           "title": "Issue Title",
           "summary": "Issue Summary...",
-          "articleCount": 5,
+          "articleIndices": [1, 3, 7],
           "relatedLinks": [
             { "title": "Article Title", "url": "http://..." }
           ]
@@ -278,6 +278,16 @@ export async function generateReport(): Promise<ReportData> {
     if (parsed.categories[i] && categoryNames[i]) {
       parsed.categories[i].name = categoryNames[i];
     }
+  }
+
+  // articleIndices → articleCount 변환 + relatedLinks 없는 이슈 제거
+  for (const category of (parsed.categories || [])) {
+    for (const issue of (category.issues || [])) {
+      issue.articleCount = Array.isArray(issue.articleIndices) ? issue.articleIndices.length : 0;
+    }
+    category.issues = (category.issues || []).filter(
+      (issue: any) => Array.isArray(issue.relatedLinks) && issue.relatedLinks.length > 0
+    );
   }
 
   // 최종 링크 dedup

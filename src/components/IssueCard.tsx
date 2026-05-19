@@ -13,8 +13,8 @@ interface Issue {
   relatedLinks: Link[];
 }
 
-export default function IssueCard({ issue }: { issue: Issue }) {
-  const indexPercentage = Math.min((issue.articleCount / 20) * 100, 100);
+export default function IssueCard({ issue, maxInCategory }: { issue: Issue; maxInCategory: number }) {
+  const indexPercentage = maxInCategory > 0 ? Math.round((issue.articleCount / maxInCategory) * 100) : 0;
 
   return (
     <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col h-full group relative overflow-hidden">

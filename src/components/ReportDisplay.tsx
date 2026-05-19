@@ -108,9 +108,12 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
               </div>
 
               <div className={`grid grid-cols-1 ${category.name === '경쟁사 이슈' ? 'md:grid-cols-3' : 'md:grid-cols-2'} gap-6 lg:gap-8`}>
-                {category.issues.map((issue, issueIdx) => (
-                  <IssueCard key={issueIdx} issue={issue} />
-                ))}
+                {(() => {
+                  const maxCount = Math.max(...category.issues.map(i => i.articleCount ?? 0), 1);
+                  return category.issues.map((issue, issueIdx) => (
+                    <IssueCard key={issueIdx} issue={issue} maxInCategory={maxCount} />
+                  ));
+                })()}
                 {category.issues.length === 0 && (
                   <p className="text-slate-400 col-span-full italic text-sm">
                     이 카테고리에 해당하는 주요 이슈가 분석되지 않았습니다.
