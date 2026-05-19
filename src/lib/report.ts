@@ -29,7 +29,7 @@ export interface ReportData {
 }
 
 const CATEGORIES = [
-  { name: '리테일 트렌드', keywords: ['유통업계', '편의점', '백화점'] },
+  { name: '리테일 트렌드', keywords: ['유통업계 이슈', '유통업계 마케팅'] },
   { name: '이커머스 트렌드', keywords: ['이커머스 이슈', '온라인쇼핑 이슈', '버티컬커머스'] },
   { name: 'AI 트렌드', keywords: ['유통업계 AI', '커머스 AI', '리테일테크'] },
   { name: '당사 이슈', keywords: ['CU', 'BGF리테일'] },
@@ -223,12 +223,12 @@ export async function generateReport(): Promise<ReportData> {
   const allKeywords = CATEGORIES.flatMap(c => c.keywords);
   const keywordResults = await fetchAllKeywords(allKeywords);
 
-  const seenUrls = new Set<string>();
-  const seenTitles = new Set<string>();
   const categorizedNews: { [key: string]: any[] } = {};
   CATEGORIES.forEach(c => { categorizedNews[c.name] = []; });
 
   for (const category of CATEGORIES) {
+    const seenUrls = new Set<string>();
+    const seenTitles = new Set<string>();
     for (const keyword of category.keywords) {
       for (const item of keywordResults.get(keyword) || []) {
         const normalizedTitle = item.title.replace(/[\s\W]+/g, '').toLowerCase();
@@ -244,17 +244,6 @@ export async function generateReport(): Promise<ReportData> {
       }
     }
   }
-
-  // 경쟁사 이슈: 브랜드명이 제목에 포함된 기사만 브랜드별로 필터링
-  const competitorBrands = ['GS25', '세븐일레븐', '이마트24'];
-  categorizedNews['경쟁사 이슈'] = competitorBrands.flatMap(brand =>
-    categorizedNews['경쟁사 이슈'].filter(item => item.title.includes(brand)).slice(0, 5)
-  );
-
-  // 당사 이슈: CU 또는 BGF리테일이 제목에 포함된 기사만 필터링
-  categorizedNews['당사 이슈'] = categorizedNews['당사 이슈'].filter(
-    item => item.title.includes('CU') || item.title.includes('BGF리테일')
-  );
 
   const promptData = Object.entries(categorizedNews).map(([catName, news]) => {
     return `Category: ${catName}\nNews Articles:\n` +
