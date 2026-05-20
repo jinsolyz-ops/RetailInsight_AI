@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-05-19T22:56:27.039Z",
+  "generatedAt": "2026-05-20T23:04:03.735Z",
   "summary": [
-    "CU, 빅데이터 기반 트렌드 포착으로 편의점 신상 경쟁 주도",
-    "편의점 업계 24시간 배달 서비스 본격화로 유통 채널 경쟁 심화",
-    "프리미엄 디저트·기능성 음료로 편의점 상품 고급화 추세 확산"
+    "CU, 즉석 떡볶이 한 달 3만개 판매·DIY 전통주로 체험형 홈술 시장 공략",
+    "GS25, IP 협업 상품 4종 밀리언셀러 달성·캐릭터 초콜릿 초도 20만개 완판",
+    "세븐일레븐, 야끼소바롤 출시·이마트24는 게임 IP 협업으로 오프라인 확장 가속"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🚚",
-          "title": "편의점 24시간 배달 확대",
-          "summary": "CU·GS25가 쿠팡이츠와 손잡고 전국 편의점에서 24시간 배달 서비스를 본격화하며 유통 채널 경쟁 심화.",
+          "emoji": "⚠️",
+          "title": "마케팅 리스크 경계",
+          "summary": "온라인 밈과 정치·젠더 이슈에 민감해진 소비자 반응으로 유통업계 전반에 마케팅 사고 리스크 증가.",
           "articleIndices": [
-            2
+            1,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "CU·GS25, 쿠팡이츠와 손잡고 '편의점도 24시간 배달' 본격화",
-              "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1057235"
+              "title": "[Why] GS25 '손가락'부터 스타벅스 '탱크데이'까지… 유통업계 반복...",
+              "url": "https://n.news.naver.com/mnews/article/366/0001165976?sid=101"
+            },
+            {
+              "title": "스타벅스 대표 하루만에 경질…정용진, 1조원대 콜옵션 리스크 의식했나",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16067178"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "📊",
-          "title": "스타벅스 마케팅 논란",
-          "summary": "신세계그룹 스타벅스코리아의 부적절한 마케팅 이슈로 유통업계 브랜드 신뢰도 관리 중요성 대두.",
+          "emoji": "🎮",
+          "title": "게임 IP 컬래버 확대",
+          "summary": "게임사들이 편의점·카페·자동차 등 오프라인 산업과 협업하며 체험형 마케팅 수요 확대.",
           "articleIndices": [
-            1
+            6
           ],
           "relatedLinks": [
             {
-              "title": "스타벅스 논란, 어디까지가 비판이고 어디부터가 정치 프레임인가",
-              "url": "https://sateconomy.co.kr/news/view/1065604804971597"
+              "title": "[N2 게임] 애니·편의점·자동차까지 손잡았다…'컬래버 마케팅' 확대",
+              "url": "https://www.news2day.co.kr/article/20260520500171"
             }
           ],
           "articleCount": 1
@@ -45,37 +50,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 기반 테크 이커머스 확산",
-          "summary": "와디즈·플래티어·AWW 등 이커머스 플랫폼이 AI 기술을 활용한 큐레이션·맞춤형 커머스로 고도화 경쟁 심화.",
+          "emoji": "🚨",
+          "title": "중국산 라벨갈이 의혹",
+          "summary": "에이블리 등 국내 패션 플랫폼에서 중국 이커머스 상품과 유사한 제품의 라벨갈이 논란 발생, 모니터링 강화 필요.",
           "articleIndices": [
-            3,
-            6,
-            7
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'아이디어만 있으면 당일 오픈'...와디즈, AI로 '테크 이커머스' 승부수",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=151973"
-            },
-            {
-              "title": "에이더블유더블유, 플랫폼 'AWW' 리뉴얼 통해 큐레이션 커머스 고도화",
-              "url": "https://n.news.naver.com/mnews/article/081/0003644571?sid=101"
+              "title": "'브랜드인 줄 알았는데 사입품' 에이블리 덮친 中제품 라벨갈이 의혹",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260520010005580"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "네이버-우버 배민 인수 검토",
-          "summary": "네이버가 우버와 손잡고 배달의민족 경영권 확보 추진으로 국내 이커머스 시장 판도 재편 예상.",
+          "emoji": "📱",
+          "title": "패션·뷰티 멀티채널 전략",
+          "summary": "마르디 등 브랜드가 무신사·29CM 같은 버티컬 플랫폼에서 쿠팡·네이버 종합 이커머스로 확대, 채널 다각화 가속.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "네이버, 8조짜리 '배달의 민족' 우버와 인수 검토…플랫폼 전선 넓힌다",
-              "url": "http://www.seouleconews.com/news/articleView.html?idxno=91328"
+              "title": "쿠팡 입점한 마르디, 네이버 기획전은 2주 만에 18억…패션·뷰티 '멀티...",
+              "url": "https://n.news.naver.com/mnews/article/243/0000098085?sid=105"
             }
           ],
           "articleCount": 1
@@ -86,39 +85,24 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎙️",
-          "title": "AI 쇼핑호스트·챗봇 도입 확산",
-          "summary": "NS홈쇼핑·유통가가 AI 아나운서·챗GPT 기반 대화형 쇼핑 서비스를 확대하며 새로운 검색·탐색 채널 구축.",
+          "emoji": "📺",
+          "title": "홈쇼핑 AI 제작 혁신",
+          "summary": "롯데홈쇼핑 가상 인간 쇼호스트 '루시' 등 AI 챗봇·자동화로 제작비 절감 및 모바일 라이브커머스 확대.",
           "articleIndices": [
-            1,
-            4
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "NS홈쇼핑, AI 쇼핑호스트 전격 도입…10분 상생방송으로 협력사 부담 확대",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=77401"
+              "title": "10분 방송에도 AI 투입…TV홈쇼핑 제작비 혁명",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026052017330480926"
             },
             {
-              "title": "'검색 말고 대화로 산다' 유통가, 챗GPT 타고 'AI 쇼핑' 선점 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/003/0013955343?sid=101"
+              "title": "[N2 뷰] 홈쇼핑업계, '탈TV' 가속…모바일·글로벌·체험형 커머스 강...",
+              "url": "https://www.news2day.co.kr/article/20260520500233"
             }
           ],
           "articleCount": 2
-        },
-        {
-          "emoji": "🤖",
-          "title": "물류 로봇 기술 선점 경쟁",
-          "summary": "컬리·쿠팡·네이버가 피지컬 AI 로봇 기술 기업 투자로 유통 물류 혁신 경쟁 본격화.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "'물류 로봇이 온다'… 컬리·쿠팡·네이버, '피지컬 AI' 대전 돌입",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421448"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -126,31 +110,31 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📈",
-          "title": "CU 트렌드 포착 경쟁력",
-          "summary": "CU가 빅데이터팀 기반 CX 전략으로 경쟁사보다 한발 앞서 식음료 트렌드를 포착·상품화하며 '트렌드맛집' 위상 강화.",
+          "emoji": "🍜",
+          "title": "즉석 떡볶이 3만개 판매",
+          "summary": "CU가 즉석 라면 조리기를 활용한 즉석 떡볶이를 출시 한 달 만에 누적 판매량 3만개 돌파, 조리기 활용 범위 확대.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[비즈人워치]무당보다 잘 맞춘다…'트렌드맛집 CU' 만든 그 사람",
-              "url": "https://n.news.naver.com/mnews/article/648/0000047290?sid=101"
+              "title": "BGF리테일, '한강라면' 끓이던 기계로 떡볶이까지… 인기↑[세계 속 ...",
+              "url": "https://n.news.naver.com/mnews/article/081/0003645622?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥤",
-          "title": "애사비 콜라 출시",
-          "summary": "BGF리테일 CU가 사과초모식초 기반 기능성 탄산음료 '애사비 콜라 제로'를 출시하며 프리미엄 음료 포트폴리오 확대.",
+          "emoji": "🍶",
+          "title": "DIY 전통주 시장 진출",
+          "summary": "CU가 막걸리·칵테일 DIY 상품으로 체험형 홈술 시장 공략, 취향·재미·경험 중심 소비 문화 대응.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일 CU, 애사비 콜라 선보여…기능성 탄산음료 비중 확대",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202605191822401622204ead0791_12"
+              "title": "'이젠 막걸리도 직접 만든다'...CU, DIY 전통주 시장 뛰어들었다",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=520722"
             }
           ],
           "articleCount": 1
@@ -161,34 +145,55 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "GS25 위클리 팝업·와인25플러스",
-          "summary": "GS25가 '우리동네GS' 내 '와인25플러스' 픽업 서비스와 위클리 팝업으로 진열 한계 극복 및 차별화 전략 추진.",
+          "emoji": "⭐",
+          "title": "GS25 IP 협업 밀리언셀러",
+          "summary": "GS25가 1분기 출시한 인기 콘텐츠·캐릭터 협업 상품 4종 모두 밀리언셀러 달성, 캐릭터 초콜릿 초도 20만개 완판 후 추가 공급.",
           "articleIndices": [
-            1
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'명상 하세요' 별걸 다 파는 CU '위클리 팝업' 뜻밖의 인기",
-              "url": "https://n.news.naver.com/mnews/article/003/0013955368?sid=101"
+              "title": "GS리테일, IP 제휴 상품 4종 모두 '밀리언셀러' 등극[세계 속 K푸드]",
+              "url": "https://n.news.naver.com/mnews/article/081/0003645617?sid=101"
+            },
+            {
+              "title": "GS25, 캐릭터 협업 초콜릿 초도 물량 20만개 판매 후 추가 공급",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202605202201087247204ead0791_12"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍜",
+          "title": "세븐일레븐 야끼소바롤",
+          "summary": "세븐일레븐이 일본 편의점 대표 메뉴 야끼소바빵을 한국인 입맛에 맞게 재해석한 '소시지&야끼소바롤' 출시.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "[편의점] 세븐일레븐, '소시지&야끼소바롤' 선봬→CU, '라면국물 제로' ...",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=740424"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍰",
-          "title": "세븐일레븐 프리미엄 디저트 강화",
-          "summary": "세븐일레븐이 고유가 지원금 수혜로 고급 디저트(81%)·냉장 베이커리(91%) 등 프리미엄 상품군 매출 신장 주도.",
+          "emoji": "🎮",
+          "title": "이마트24 게임 IP 협업",
+          "summary": "이마트24가 엔씨의 '리니지 클래식' 게임 IP 협업으로 몬스터 콘셉트 먹거리 상품 출시, 오프라인 확장 가속.",
           "articleIndices": [
-            4
+            7,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "2차 고유가 피해지원금 지급…유통업계에 부는 '소비 훈풍'",
-              "url": "http://www.newsian.co.kr/news/articleView.html?idxno=89851"
+              "title": "게임 IP, 편의점·카페·차량으로 확장…오프라인 협업 잇달아",
+              "url": "https://sateconomy.co.kr/news/view/1065602507140752"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -196,36 +201,40 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "편의점 프리미엄 디저트 열풍",
-          "summary": "편의점 업계가 원물 과일·시각적 재미·프리미엄 젤라또 등으로 무장한 고급 디저트로 소비자 시선 사로잡으며 가심비 저격 전략 전개.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 트렌드",
+          "summary": "GS25 1500원 균일가 디저트 시리즈, 초콜릿 협업 상품 등으로 편의점 디저트 시장 확대, 가성비 강조.",
           "articleIndices": [
             1,
-            2,
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'한입도 취향 시대'…줄어드는 빙과 시장, 프리미엄 디저트가 채운다",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=134345"
+              "title": "K-푸드 소비법 달라졌다…스낵은 디저트화, 라면은 현지 재료 결합",
+              "url": "https://www.news2day.co.kr/article/20260520500218"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
-          "emoji": "🌾",
-          "title": "파로(Farro) 활용 신제품 확산",
-          "summary": "CJ제일제당·롯데칠성·신세계푸드 등 식품업계가 혈당 관리 트렌드에 부응해 고대 곡물 파로 활용 신제품 잇달아 출시.",
+          "emoji": "🥛",
+          "title": "기능성 발효유 강화",
+          "summary": "동원F&B가 덴마크 드링킹 요구르트에 식이섬유 강화 신제품 출시, 파이버맥싱 트렌드 반영한 건강 기능성 강조.",
           "articleIndices": [
-            8
+            11,
+            12
           ],
           "relatedLinks": [
             {
-              "title": "'혈당 관리족 잡아라'...CJ제일제당·롯데칠성·신세계푸드 '파로' 신제품",
-              "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=756047"
+              "title": "동원F&B, 식이섬유 강화 발효유 출시…하루 권장량 36% 함유",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3587758"
+            },
+            {
+              "title": "동원F&B '덴마크 드링킹 요구르트 액티브' 2종 출시",
+              "url": "http://www.finomy.com/news/articleView.html?idxno=254663"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     }
