@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-20T23:04:03.735Z",
+  "generatedAt": "2026-05-21T22:57:56.270Z",
   "summary": [
-    "CU, 즉석 떡볶이 한 달 3만개 판매·DIY 전통주로 체험형 홈술 시장 공략",
-    "GS25, IP 협업 상품 4종 밀리언셀러 달성·캐릭터 초콜릿 초도 20만개 완판",
-    "세븐일레븐, 야끼소바롤 출시·이마트24는 게임 IP 협업으로 오프라인 확장 가속"
+    "스타벅스 '탱크데이' 논란으로 유통가 마케팅 컴플라이언스 강화 바람",
+    "네이버 배민 인수 추진으로 AI 커머스 플랫폼 경쟁 심화",
+    "GS25 축산물 할인·배달 확대로 편의점 가격경쟁 가속화"
   ],
   "categories": [
     {
@@ -11,35 +11,37 @@
       "issues": [
         {
           "emoji": "⚠️",
-          "title": "마케팅 리스크 경계",
-          "summary": "온라인 밈과 정치·젠더 이슈에 민감해진 소비자 반응으로 유통업계 전반에 마케팅 사고 리스크 증가.",
+          "title": "탱크데이 파문, 유통가 마케팅 경계령",
+          "summary": "스타벅스 '5·18 탱크데이' 논란 이후 유통업계 전반이 마케팅 콘텐츠 검수 강화 및 컴플라이언스 체계 재정비에 나서며 역사·사회 이슈 관련 표현 자제 움직임 확산.",
           "articleIndices": [
             1,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "[Why] GS25 '손가락'부터 스타벅스 '탱크데이'까지… 유통업계 반복...",
-              "url": "https://n.news.naver.com/mnews/article/366/0001165976?sid=101"
-            },
-            {
-              "title": "스타벅스 대표 하루만에 경질…정용진, 1조원대 콜옵션 리스크 의식했나",
-              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16067178"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🎮",
-          "title": "게임 IP 컬래버 확대",
-          "summary": "게임사들이 편의점·카페·자동차 등 오프라인 산업과 협업하며 체험형 마케팅 수요 확대.",
-          "articleIndices": [
+            2,
+            4,
             6
           ],
           "relatedLinks": [
             {
-              "title": "[N2 게임] 애니·편의점·자동차까지 손잡았다…'컬래버 마케팅' 확대",
-              "url": "https://www.news2day.co.kr/article/20260520500171"
+              "title": "스벅 탱크데이 후폭풍...'B급감성, 밈도 싹 빼라' 유통사 마케팅 경계령",
+              "url": "https://n.news.naver.com/mnews/article/008/0005361298?sid=101"
+            },
+            {
+              "title": "극우 AI 합성물 확산까지···'탱크데이' 사태에 스벅 법적 대응?",
+              "url": "https://www.globale.co.kr/news/articleView.html?idxno=38397"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "🌍",
+          "title": "K-푸드 글로벌 확장 가속",
+          "summary": "농수산식품유통공사가 암스테르담 PLMA 박람회에서 유럽 유통사와 협력 확대를 추진하며 K-푸드의 글로벌 판로 개척 및 현지화 마케팅 강화.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "'유럽 유통망 안방 공략' 농수산식품유통공사(aT), 암스테르담 PLMA 박람회 참가",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=706860"
             }
           ],
           "articleCount": 1
@@ -50,56 +52,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚨",
-          "title": "중국산 라벨갈이 의혹",
-          "summary": "에이블리 등 국내 패션 플랫폼에서 중국 이커머스 상품과 유사한 제품의 라벨갈이 논란 발생, 모니터링 강화 필요.",
+          "emoji": "🛒",
+          "title": "네이버 배민 인수전 본격화",
+          "summary": "네이버가 배민 인수 참여를 공식화하며 쿠팡과의 이커머스 양강 구도 재편 및 AI 커머스 플랫폼 강화 전략 추진.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'브랜드인 줄 알았는데 사입품' 에이블리 덮친 中제품 라벨갈이 의혹",
-              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260520010005580"
+              "title": "[더벨]네이버, 배민 인수전 참여 공식화 '실익 계산 돌입'",
+              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605191546239040105973"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📱",
-          "title": "패션·뷰티 멀티채널 전략",
-          "summary": "마르디 등 브랜드가 무신사·29CM 같은 버티컬 플랫폼에서 쿠팡·네이버 종합 이커머스로 확대, 채널 다각화 가속.",
+          "emoji": "💼",
+          "title": "버티컬 커머스 특화 지원 확대",
+          "summary": "한유원이 중소기업 온라인판로 종합지원 2차 모집을 통해 타임딜·기획전·버티컬커머스 특화 마케팅 등 플랫폼별 맞춤형 판촉 지원 강화.",
           "articleIndices": [
-            6
+            8,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "쿠팡 입점한 마르디, 네이버 기획전은 2주 만에 18억…패션·뷰티 '멀티...",
-              "url": "https://n.news.naver.com/mnews/article/243/0000098085?sid=105"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
-    },
-    {
-      "name": "AI 트렌드",
-      "issues": [
-        {
-          "emoji": "📺",
-          "title": "홈쇼핑 AI 제작 혁신",
-          "summary": "롯데홈쇼핑 가상 인간 쇼호스트 '루시' 등 AI 챗봇·자동화로 제작비 절감 및 모바일 라이브커머스 확대.",
-          "articleIndices": [
-            6,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "10분 방송에도 AI 투입…TV홈쇼핑 제작비 혁명",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026052017330480926"
+              "title": "한유원, '온라인판로 종합지원' 참여 中企 2차 모집...300개사 목표",
+              "url": "https://www.ajunews.com/view/20260521145131100"
             },
             {
-              "title": "[N2 뷰] 홈쇼핑업계, '탈TV' 가속…모바일·글로벌·체험형 커머스 강...",
-              "url": "https://www.news2day.co.kr/article/20260520500233"
+              "title": "한유원, 중소기업 '온라인판로 종합지원' 2차 모집 시작",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=1375170"
             }
           ],
           "articleCount": 2
@@ -107,34 +89,60 @@
       ]
     },
     {
-      "name": "당사 이슈",
+      "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🍜",
-          "title": "즉석 떡볶이 3만개 판매",
-          "summary": "CU가 즉석 라면 조리기를 활용한 즉석 떡볶이를 출시 한 달 만에 누적 판매량 3만개 돌파, 조리기 활용 범위 확대.",
+          "emoji": "🤖",
+          "title": "AI 커머스 플랫폼 경쟁 심화",
+          "summary": "네이버·카카오·알리바바 등 주요 플랫폼이 AI 기반 쇼핑 에이전트·대화형 검색·상품 추천 시스템 도입으로 커머스 패러다임 전환 가속화.",
           "articleIndices": [
-            2
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일, '한강라면' 끓이던 기계로 떡볶이까지… 인기↑[세계 속 ...",
-              "url": "https://n.news.naver.com/mnews/article/081/0003645622?sid=101"
+              "title": "'검색 대신 AI와 대화한다'…유통가, 커머스 패러다임 대전환",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=134590"
+            },
+            {
+              "title": "신사업 늘리는 네이버 vs 계열사 파는 카카오",
+              "url": "https://n.news.naver.com/mnews/article/648/0000047367?sid=105"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "⛔",
+          "title": "부적절한 AI 광고 논란 확산",
+          "summary": "페리카나치킨 등 유통사의 AI 광고 부작용(불륜·역사 비하 소재)으로 인한 소비자 공분 증가로 마케팅 검수 강화 필요성 대두.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "불륜부터 역사 비하까지…유통가 마케팅 잔혹사에 '얼음'",
+              "url": "https://news.mtn.co.kr/news-detail/2026052115385018760"
             }
           ],
           "articleCount": 1
-        },
+        }
+      ]
+    },
+    {
+      "name": "당사 이슈",
+      "issues": [
         {
-          "emoji": "🍶",
-          "title": "DIY 전통주 시장 진출",
-          "summary": "CU가 막걸리·칵테일 DIY 상품으로 체험형 홈술 시장 공략, 취향·재미·경험 중심 소비 문화 대응.",
+          "emoji": "⚡",
+          "title": "CU 화물노동자 사망사고 후속",
+          "summary": "BGF리테일 CU 화물노동자 파업 중 사망사고 이후 화물연대가 경찰청 전담 수사팀 구성 요구로 사건 수사 및 노사관계 개선 촉구.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'이젠 막걸리도 직접 만든다'...CU, DIY 전통주 시장 뛰어들었다",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=520722"
+              "title": "화물연대, CU 사태에 '경찰청 전담 수사팀 구성해야'",
+              "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=234549"
             }
           ],
           "articleCount": 1
@@ -145,55 +153,49 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "⭐",
-          "title": "GS25 IP 협업 밀리언셀러",
-          "summary": "GS25가 1분기 출시한 인기 콘텐츠·캐릭터 협업 상품 4종 모두 밀리언셀러 달성, 캐릭터 초콜릿 초도 20만개 완판 후 추가 공급.",
+          "emoji": "🥩",
+          "title": "GS25 축산물 할인 공세",
+          "summary": "GS25가 축산물 가격 고공행진에 대응해 양념육 2개 이상 구매 시 최대 20% 할인 프로모션 전개로 전월 대비 85.5% 매출 증가 달성.",
           "articleIndices": [
-            3,
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "GS리테일, IP 제휴 상품 4종 모두 '밀리언셀러' 등극[세계 속 K푸드]",
-              "url": "https://n.news.naver.com/mnews/article/081/0003645617?sid=101"
-            },
-            {
-              "title": "GS25, 캐릭터 협업 초콜릿 초도 물량 20만개 판매 후 추가 공급",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202605202201087247204ead0791_12"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍜",
-          "title": "세븐일레븐 야끼소바롤",
-          "summary": "세븐일레븐이 일본 편의점 대표 메뉴 야끼소바빵을 한국인 입맛에 맞게 재해석한 '소시지&야끼소바롤' 출시.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "[편의점] 세븐일레븐, '소시지&야끼소바롤' 선봬→CU, '라면국물 제로' ...",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=740424"
+              "title": "'닭고기 너마저'…축산물 가격 고공행진, 유통가 할인 총력",
+              "url": "https://n.news.naver.com/mnews/article/277/0005766551?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎮",
-          "title": "이마트24 게임 IP 협업",
-          "summary": "이마트24가 엔씨의 '리니지 클래식' 게임 IP 협업으로 몬스터 콘셉트 먹거리 상품 출시, 오프라인 확장 가속.",
+          "emoji": "🌏",
+          "title": "세븐일레븐 K뷰티 글로벌 확장",
+          "summary": "일본 세븐일레븐에 K뷰티 전용 코너 '큐텐픽' 오픈으로 편의점 채널을 통한 한국 뷰티 브랜드의 해외 진출 가속화.",
           "articleIndices": [
-            7,
-            9
+            5
           ],
           "relatedLinks": [
             {
-              "title": "게임 IP, 편의점·카페·차량으로 확장…오프라인 협업 잇달아",
-              "url": "https://sateconomy.co.kr/news/view/1065602507140752"
+              "title": "日 세븐일레븐에 K뷰티 코너 생긴다",
+              "url": "https://n.news.naver.com/mnews/article/020/0003721491?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
+        },
+        {
+          "emoji": "📦",
+          "title": "이마트24 신세계 경영 영향",
+          "summary": "스타벅스 '탱크데이' 논란으로 신세계 계열사 이마트24의 경영 리스크 우려 증가 및 광주 복합개발 사업 불똥 가능성 제기.",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "'5·18 모욕 논란' 스타벅스 파문…신세계 광주 복합개발 사업 불똥 우려",
+              "url": "https://n.news.naver.com/mnews/article/629/0000501449?sid=101"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -201,37 +203,42 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 디저트 트렌드",
-          "summary": "GS25 1500원 균일가 디저트 시리즈, 초콜릿 협업 상품 등으로 편의점 디저트 시장 확대, 가성비 강조.",
+          "emoji": "🚚",
+          "title": "쿠팡이츠 전회원 배달비 무료 확대",
+          "summary": "쿠팡이츠가 8월까지 전 회원 대상 매 주문 배달비 0원 프로모션 실시로 음식·디저트·편의점·마트 장보기까지 확대 적용하며 물가 부담 완화 마케팅 전개.",
           "articleIndices": [
             1,
+            2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "K-푸드 소비법 달라졌다…스낵은 디저트화, 라면은 현지 재료 결합",
-              "url": "https://www.news2day.co.kr/article/20260520500218"
+              "title": "일반 회원도 누린다… 쿠팡이츠, 와우 회원 전용 '배달비 무료' 혜택 확대",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=305184"
+            },
+            {
+              "title": "\"와우 아니어도 된다\"...쿠팡이츠, 8월까지 전 주문 배달비 무료",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065617208041004"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         },
         {
-          "emoji": "🥛",
-          "title": "기능성 발효유 강화",
-          "summary": "동원F&B가 덴마크 드링킹 요구르트에 식이섬유 강화 신제품 출시, 파이버맥싱 트렌드 반영한 건강 기능성 강조.",
+          "emoji": "🌏",
+          "title": "K-푸드·뷰티 해외 확장 가속",
+          "summary": "K-콘텐츠 인기에 힘입어 국내 식품·뷰티 기업들의 중국·대만 등 해외 시장 공략 및 현지화 체험형 마케팅 강화로 글로벌 소비 트렌드 선도.",
           "articleIndices": [
-            11,
-            12
+            6,
+            10
           ],
           "relatedLinks": [
             {
-              "title": "동원F&B, 식이섬유 강화 발효유 출시…하루 권장량 36% 함유",
-              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3587758"
+              "title": "K-콘텐츠 타고 '훨훨'…K-푸드·뷰티 해외 확장 가속",
+              "url": "https://www.news2day.co.kr/article/20260521500187"
             },
             {
-              "title": "동원F&B '덴마크 드링킹 요구르트 액티브' 2종 출시",
-              "url": "http://www.finomy.com/news/articleView.html?idxno=254663"
+              "title": "농식품부, 대만 'K-푸드 팝업스토어' 인기 몰이",
+              "url": "http://www.amnews.co.kr/news/articleView.html?idxno=72652"
             }
           ],
           "articleCount": 2
