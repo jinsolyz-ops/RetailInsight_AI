@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-21T22:57:56.270Z",
+  "generatedAt": "2026-05-22T22:49:18.380Z",
   "summary": [
-    "스타벅스 '탱크데이' 논란으로 유통가 마케팅 컴플라이언스 강화 바람",
-    "네이버 배민 인수 추진으로 AI 커머스 플랫폼 경쟁 심화",
-    "GS25 축산물 할인·배달 확대로 편의점 가격경쟁 가속화"
+    "스타벅스 탱크데이 논란으로 유통사 마케팅 컴플라이언스 강화 추세",
+    "AI 에이전틱 커머스 시대 도래로 소비자 쇼핑 경로 변화 가속화",
+    "K-디저트 해외 수출 확대로 편의점 PB 글로벌 경쟁력 강화"
   ],
   "categories": [
     {
@@ -11,37 +11,35 @@
       "issues": [
         {
           "emoji": "⚠️",
-          "title": "탱크데이 파문, 유통가 마케팅 경계령",
-          "summary": "스타벅스 '5·18 탱크데이' 논란 이후 유통업계 전반이 마케팅 콘텐츠 검수 강화 및 컴플라이언스 체계 재정비에 나서며 역사·사회 이슈 관련 표현 자제 움직임 확산.",
+          "title": "스타벅스 탱크데이 파문",
+          "summary": "역사 비하 마케팅 논란으로 유통업계 전반에 브랜드 리스크 관리 및 공격적 마케팅 자제 기조 확산.",
           "articleIndices": [
-            1,
             2,
-            4,
-            6
+            3
           ],
           "relatedLinks": [
             {
-              "title": "스벅 탱크데이 후폭풍...'B급감성, 밈도 싹 빼라' 유통사 마케팅 경계령",
-              "url": "https://n.news.naver.com/mnews/article/008/0005361298?sid=101"
+              "title": "'스벅 논란'에 흔들리는 신세계…정용진 향한 책임론 어디까지",
+              "url": "https://www.kukinews.com/article/view/kuk202605220097"
             },
             {
-              "title": "극우 AI 합성물 확산까지···'탱크데이' 사태에 스벅 법적 대응?",
-              "url": "https://www.globale.co.kr/news/articleView.html?idxno=38397"
+              "title": "'5·18 탱크데이 파문' 스타벅스…美 본사 콜옵션 행사 가능성도 거론",
+              "url": "https://www.newspim.com/news/view/20260522001040"
             }
           ],
-          "articleCount": 4
+          "articleCount": 2
         },
         {
-          "emoji": "🌍",
-          "title": "K-푸드 글로벌 확장 가속",
-          "summary": "농수산식품유통공사가 암스테르담 PLMA 박람회에서 유럽 유통사와 협력 확대를 추진하며 K-푸드의 글로벌 판로 개척 및 현지화 마케팅 강화.",
+          "emoji": "♻️",
+          "title": "생분해성 소재 교육 캠페인",
+          "summary": "CJ제일제당의 초등학생 대상 PHA·자원순환 교육으로 ESG 마케팅과 브랜드 신뢰도 강화 전략 추진.",
           "articleIndices": [
-            7
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'유럽 유통망 안방 공략' 농수산식품유통공사(aT), 암스테르담 PLMA 박람회 참가",
-              "url": "https://www.cstimes.com/news/articleView.html?idxno=706860"
+              "title": "[오늘의 유통街] CJ제일제당, 초등학생 대상 생분해성 소재 'PHA'·자원순환 교육 진행",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=260179"
             }
           ],
           "articleCount": 1
@@ -52,39 +50,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "네이버 배민 인수전 본격화",
-          "summary": "네이버가 배민 인수 참여를 공식화하며 쿠팡과의 이커머스 양강 구도 재편 및 AI 커머스 플랫폼 강화 전략 추진.",
+          "emoji": "🌍",
+          "title": "리커머스 글로벌 확장",
+          "summary": "중고거래 플랫폼이 국경을 넘어 개인 수출 시대를 열며 글로벌 신뢰 체계 구축이 핵심 경쟁력으로 부상.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[더벨]네이버, 배민 인수전 참여 공식화 '실익 계산 돌입'",
-              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605191546239040105973"
+              "title": "국경 없어진 중고거래... 리커머스, '개인 수출' 시대 연다",
+              "url": "https://n.news.naver.com/mnews/article/138/0002228726?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💼",
-          "title": "버티컬 커머스 특화 지원 확대",
-          "summary": "한유원이 중소기업 온라인판로 종합지원 2차 모집을 통해 타임딜·기획전·버티컬커머스 특화 마케팅 등 플랫폼별 맞춤형 판촉 지원 강화.",
+          "emoji": "🚨",
+          "title": "마케팅 컴플라이언스 강화령",
+          "summary": "스타벅스 논란 후폭풍으로 이커머스·편의점 업체들이 홍보 문구·이미지 검토 강화 및 법적 리스크 관리 중.",
           "articleIndices": [
-            8,
-            9
+            2
           ],
           "relatedLinks": [
             {
-              "title": "한유원, '온라인판로 종합지원' 참여 中企 2차 모집...300개사 목표",
-              "url": "https://www.ajunews.com/view/20260521145131100"
-            },
-            {
-              "title": "한유원, 중소기업 '온라인판로 종합지원' 2차 모집 시작",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1375170"
+              "title": "스벅 탱크데이 후폭풍...'B급감성, 밈도 싹 빼라' 유통사 마케팅 경계령",
+              "url": "https://n.news.naver.com/mnews/article/008/0005361298?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -93,36 +86,35 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 커머스 플랫폼 경쟁 심화",
-          "summary": "네이버·카카오·알리바바 등 주요 플랫폼이 AI 기반 쇼핑 에이전트·대화형 검색·상품 추천 시스템 도입으로 커머스 패러다임 전환 가속화.",
+          "title": "AI 에이전틱 커머스 시대",
+          "summary": "ChatGPT 등 AI가 상품 검색·추천·구매 결정을 주도하는 'AI 에이전틱 커머스' 시대 도래로 소비자 쇼핑 경로 근본 변화.",
           "articleIndices": [
-            2,
             3,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "검색창 대신 챗GPT에 '뭐 사야해?'…쇼핑 '판'이 바뀐다 [트렌드+]",
+              "url": "https://n.news.naver.com/mnews/article/015/0005290381?sid=101"
+            },
+            {
+              "title": "한국패션협회, '글로벌 패션 포럼' 개최...\"AI는 패션 산업의 새 경쟁력\"",
+              "url": "https://n.news.naver.com/mnews/article/011/0004623788?sid=101"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🎯",
+          "title": "전통시장 AI 기반 디지털 전환",
+          "summary": "서울 전통시장이 라이브커머스·AI 기반 홍보 콘텐트 제작 등으로 MZ세대 집객 및 판로 확대 추진.",
+          "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "'검색 대신 AI와 대화한다'…유통가, 커머스 패러다임 대전환",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=134590"
-            },
-            {
-              "title": "신사업 늘리는 네이버 vs 계열사 파는 카카오",
-              "url": "https://n.news.naver.com/mnews/article/648/0000047367?sid=105"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "⛔",
-          "title": "부적절한 AI 광고 논란 확산",
-          "summary": "페리카나치킨 등 유통사의 AI 광고 부작용(불륜·역사 비하 소재)으로 인한 소비자 공분 증가로 마케팅 검수 강화 필요성 대두.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "불륜부터 역사 비하까지…유통가 마케팅 잔혹사에 '얼음'",
-              "url": "https://news.mtn.co.kr/news-detail/2026052115385018760"
+              "title": "시장에 옥상정원·입체보행로…'MZ 핫플' 노리는 서울 전통시장",
+              "url": "https://n.news.naver.com/mnews/article/025/0003525279?sid=102"
             }
           ],
           "articleCount": 1
@@ -133,9 +125,9 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "⚡",
-          "title": "CU 화물노동자 사망사고 후속",
-          "summary": "BGF리테일 CU 화물노동자 파업 중 사망사고 이후 화물연대가 경찰청 전담 수사팀 구성 요구로 사건 수사 및 노사관계 개선 촉구.",
+          "emoji": "⚖️",
+          "title": "CU 화물노동자 사망사고",
+          "summary": "BGF리테일 CU 화물노동자 파업 중 사망사고 발생으로 노사 관계 및 기업 책임 논의 심화.",
           "articleIndices": [
             1
           ],
@@ -153,46 +145,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥩",
-          "title": "GS25 축산물 할인 공세",
-          "summary": "GS25가 축산물 가격 고공행진에 대응해 양념육 2개 이상 구매 시 최대 20% 할인 프로모션 전개로 전월 대비 85.5% 매출 증가 달성.",
+          "emoji": "🥤",
+          "title": "GS25 제로 음료 확대",
+          "summary": "GS25가 이탈리아 캔디 브랜드 '페를레 디 솔레'와 협업해 제로 칼로리·제로 슈가 음료 2종 출시로 저당 음료 경쟁 강화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'닭고기 너마저'…축산물 가격 고공행진, 유통가 할인 총력",
-              "url": "https://n.news.naver.com/mnews/article/277/0005766551?sid=101"
+              "title": "식품업계, 저당 음료·빙과 경쟁 확대",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026052216424172170"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌏",
-          "title": "세븐일레븐 K뷰티 글로벌 확장",
-          "summary": "일본 세븐일레븐에 K뷰티 전용 코너 '큐텐픽' 오픈으로 편의점 채널을 통한 한국 뷰티 브랜드의 해외 진출 가속화.",
+          "emoji": "🎁",
+          "title": "세븐일레븐 메모리얼데이 할인",
+          "summary": "세븐일레븐이 7NOW 앱에서 배달 주문 시 20달러 할인 프로모션으로 디지털 채널 활성화 및 고객 확보 추진.",
           "articleIndices": [
-            5
+            2
           ],
           "relatedLinks": [
             {
-              "title": "日 세븐일레븐에 K뷰티 코너 생긴다",
-              "url": "https://n.news.naver.com/mnews/article/020/0003721491?sid=101"
+              "title": "2달러 도넛, 무료 버거…메모리얼데이 연휴 할인 풍성",
+              "url": "https://www.koreadaily.com/article/20260522090006885"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📦",
-          "title": "이마트24 신세계 경영 영향",
-          "summary": "스타벅스 '탱크데이' 논란으로 신세계 계열사 이마트24의 경영 리스크 우려 증가 및 광주 복합개발 사업 불똥 가능성 제기.",
+          "emoji": "🌽",
+          "title": "이마트 제철 식품 할인",
+          "summary": "이마트가 초당 옥수수 개당 500원 할인으로 제철 식품 기반 나들이 가족 고객 공략 및 연휴 수요 확보.",
           "articleIndices": [
-            8
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'5·18 모욕 논란' 스타벅스 파문…신세계 광주 복합개발 사업 불똥 우려",
-              "url": "https://n.news.naver.com/mnews/article/629/0000501449?sid=101"
+              "title": "연휴 장보기부터 여름 가전까지…유통가, 5월 마지막 할인전 커진다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004130171?sid=101"
             }
           ],
           "articleCount": 1
@@ -203,45 +195,34 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🚚",
-          "title": "쿠팡이츠 전회원 배달비 무료 확대",
-          "summary": "쿠팡이츠가 8월까지 전 회원 대상 매 주문 배달비 0원 프로모션 실시로 음식·디저트·편의점·마트 장보기까지 확대 적용하며 물가 부담 완화 마케팅 전개.",
+          "emoji": "🍰",
+          "title": "K-디저트 일본 진출",
+          "summary": "세븐일레븐재팬이 한국 인기 디저트·음료 브랜드와 협업한 한정 상품 출시로 K-편의점 문화 글로벌 확산 가속화.",
           "articleIndices": [
-            1,
-            2,
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "일반 회원도 누린다… 쿠팡이츠, 와우 회원 전용 '배달비 무료' 혜택 확대",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=305184"
-            },
-            {
-              "title": "\"와우 아니어도 된다\"...쿠팡이츠, 8월까지 전 주문 배달비 무료",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065617208041004"
+              "title": "日 여행 간다면 편의점부터…세븐일레븐재팬, K-디저트 PB 출시",
+              "url": "https://n.news.naver.com/mnews/article/138/0002228760?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "🌏",
-          "title": "K-푸드·뷰티 해외 확장 가속",
-          "summary": "K-콘텐츠 인기에 힘입어 국내 식품·뷰티 기업들의 중국·대만 등 해외 시장 공략 및 현지화 체험형 마케팅 강화로 글로벌 소비 트렌드 선도.",
+          "emoji": "🍦",
+          "title": "빙그레 K-디저트 태국 수출",
+          "summary": "빙그레가 THAIFEX 3년 연속 참가로 메로나·바나나맛우유 등 K-편의점 문화 대표 제품의 해외 인지도 강화.",
           "articleIndices": [
-            6,
-            10
+            2
           ],
           "relatedLinks": [
             {
-              "title": "K-콘텐츠 타고 '훨훨'…K-푸드·뷰티 해외 확장 가속",
-              "url": "https://www.news2day.co.kr/article/20260521500187"
-            },
-            {
-              "title": "농식품부, 대만 'K-푸드 팝업스토어' 인기 몰이",
-              "url": "http://www.amnews.co.kr/news/articleView.html?idxno=72652"
+              "title": "빙그레, 태국 식품박람회서 K-디저트 알린다…THAIFEX 3년 연속 참가",
+              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=129981"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     }
