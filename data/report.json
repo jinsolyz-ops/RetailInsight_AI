@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-05-23T22:41:47.449Z",
+  "generatedAt": "2026-05-24T22:45:17.027Z",
   "summary": [
-    "AI 쇼핑비서 경쟁 본격화로 검색 기반 상품 발견 구조 재편 중",
-    "쿠팡이츠 무료배달 확대로 편의점 24시간 심야배달 전쟁 점화",
-    "K-디저트 해외 수출 및 일본 편의점 협업으로 글로벌 확산 가속"
+    "스타벅스 논란으로 유통업계 SNS 캠페인 검수 강화 추세",
+    "GS25 초저가 생리대·소용량 신선식품으로 가성비 시장 선점",
+    "BGF리테일 1분기 고마진 식품 유입·고정비 절감으로 턴어라운드 진입"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "쿠팡이츠 무료배달 경쟁",
-          "summary": "CU·GS25가 쿠팡이츠와 손잡고 24시간 심야배달 체제 돌입, 03~06시 공백 제거로 퀵커머스 생태계 재편 가속화.",
+          "emoji": "⚠️",
+          "title": "스타벅스 논란과 유통업계 리스크 관리",
+          "summary": "스타벅스 마케팅 논란이 단순 실수를 넘어 기업 사회적 감수성 문제로 확대되면서 유통업계 전반의 SNS 캠페인 내부 검수 절차 강화 필요성 대두.",
           "articleIndices": [
-            1
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[주간 유통 나침반] 성장보다 생존...홈플러스 위기·쿠팡 무료배달·편...",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=521414"
+              "title": "정용진, 스타벅스 논란 책임지고 전면 등판…26일 기자회견",
+              "url": "http://www.metroseoul.co.kr/article/20260525500003"
+            },
+            {
+              "title": "스벅 직원에 \"똑같은 X\" 폭언… 신세계 \"의도 없다 해명해도 믿겠나",
+              "url": "https://n.news.naver.com/mnews/article/023/0003978224?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "☕",
-          "title": "스타벅스 불매 속 카톡선물",
-          "summary": "스타벅스 브랜드 호감도 하락에도 카카오톡 선물하기에서 1~4위 독점, 플랫폼 기반 구매 채널의 영향력 확대.",
+          "emoji": "💰",
+          "title": "근로장려금 시즌 소비 심리 회복",
+          "summary": "근로장려금 지급 시즌이 단순 복지 정책을 넘어 저소득층 생활 체력과 연결된 유통업계 관찰 대상으로 부상하며 소비 심리 회복 신호.",
           "articleIndices": [
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "스벅 불매 조짐에도 '1~4위 싹쓸이'…카톡 선물하기 인기 여전",
-              "url": "https://n.news.naver.com/mnews/article/009/0005684107?sid=102"
+              "title": "근로장려금 시즌 본격화…가계마다 다른 '체감 속도'에 관심 쏠려",
+              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=576845"
             }
           ],
           "articleCount": 1
@@ -45,31 +50,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "리커머스 글로벌 확산",
-          "summary": "중고거래 플랫폼이 개인 수출 시대로 진화, 해외 소비자까지 확대하며 글로벌 신뢰 체계 구축 경쟁 심화.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "국경 없어진 중고거래... 리커머스, '개인 수출' 시대 연다",
-              "url": "https://n.news.naver.com/mnews/article/138/0002228726?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "⚖️",
-          "title": "네이버 쇼핑 알고리즘 규제",
-          "summary": "대법원 파기환송으로 네이버 쇼핑검색 과징금 재심 중, 온라인 해외직구 시장 점유율 규제 논쟁 확대.",
+          "emoji": "🎫",
+          "title": "스타벅스 카드 환불 논란과 표준약관 개정",
+          "summary": "스타벅스 카드 100% 환불 불가 이슈가 표준약관 60% 사용 조건 문제로 확대되면서 공정위의 신유형 상품권 약관 개정 검토 촉발.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "[취재후 Talk] 흔들리며 다듬은 지난 공정위 1년",
-              "url": "https://n.news.naver.com/mnews/article/448/0000613897?sid=101"
+              "title": "스벅 카드 100% 환불 안 된다는데… 회사가 결단하면 가능",
+              "url": "https://n.news.naver.com/mnews/article/005/0001850821?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🤖",
+          "title": "AI 기반 결제 서비스 국내 규제 장벽",
+          "summary": "구글·비자 등 글로벌 기업이 AI 결제 시스템 도입을 추진하는 가운데 국내 금융 규제가 장벽으로 작용하며 온라인 상거래 혁신 지연 우려.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "구글·비자 뛰어든 'AI 결제'…금융연 \"국내선 규제 장벽\"",
+              "url": "https://n.news.naver.com/mnews/article/119/0003093791?sid=101"
             }
           ],
           "articleCount": 1
@@ -80,36 +85,56 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 쇼핑비서 경쟁 본격화",
-          "summary": "생성형 AI 경험률 44.5% 도달, 검색 기반 상품 발견 순서 재편으로 브랜드 AI 노출도가 새로운 경쟁력으로 부상.",
+          "emoji": "💄",
+          "title": "GS25 AI 뷰티 키오스크 차별화 전략",
+          "summary": "GS25가 AI 뷰티 키오스크로 3초 내 피부 진단 서비스를 제공하며 K콘텐츠 체험 거점으로서 편의점 차별화 추진.",
           "articleIndices": [
-            1,
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "치킨집 가도 '나 빼고 다 외국인'...한국인처럼 먹고 입는다",
+              "url": "https://n.news.naver.com/mnews/article/008/0005362251?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🔍",
+          "title": "네이버 AI 커머스·광고 사업 확대",
+          "summary": "네이버가 검색·쇼핑 AI 정교화와 B2B 데이터센터 사업으로 광고 매출 9.3% 성장을 견인하며 AI 기반 커머스 플랫폼 강화.",
+          "articleIndices": [
+            2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "검색창 대신 챗GPT에 묻는다…생성형 AI 경험률 44.5%, 유통업계 쇼핑판...",
-              "url": "https://n.news.naver.com/mnews/article/022/0004130260?sid=101"
+              "title": "AI 돈 쏟는 네이버…카톡 올인하는 카카오",
+              "url": "https://n.news.naver.com/mnews/article/015/0005290583?sid=105"
             },
             {
-              "title": "검색 대신 대화한다…유통업계, AI 쇼핑비서 경쟁 본격화",
-              "url": "https://n.news.naver.com/mnews/article/022/0004130251?sid=101"
+              "title": "1분기 호실적 네카오, 광고 사업 확 키운다",
+              "url": "https://n.news.naver.com/mnews/article/009/0005684326?sid=105"
             }
           ],
           "articleCount": 2
-        },
+        }
+      ]
+    },
+    {
+      "name": "당사 이슈",
+      "issues": [
         {
-          "emoji": "💄",
-          "title": "AI 뷰티 키오스크 차별화",
-          "summary": "GS25 뉴안녕인사동점이 AI 뷰티 키오스크 도입, 얼굴 인식 3초 진단으로 외국인 관광객 타겟 차별화 전략 추진.",
+          "emoji": "📈",
+          "title": "BGF리테일 1분기 턴어라운드 진입",
+          "summary": "BGF리테일이 고마진 식품 유입과 고정비 절감으로 1분기 컨센서스 상회 실적을 기록하며 내수 소비 심리 회복 수혜.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "명동은 기본, 이젠 성수·잠실까지…외국인 관광객이 바꾼 '서울 유통 지...",
-              "url": "https://n.news.naver.com/mnews/article/008/0005362106?sid=101"
+              "title": "고마진 식품 유입·고정비 절감…BGF리테일, 완연한 턴어라운드 진입",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=455018"
             }
           ],
           "articleCount": 1
@@ -117,69 +142,57 @@
       ]
     },
     {
-      "name": "당사 이슈",
-      "issues": []
-    },
-    {
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎰",
-          "title": "GS25 로또 판매점 확대",
-          "summary": "GS25 뉴양산혜인점이 제1225회 로또 1등 당첨점으로 부상, 편의점 로또 판매 채널 강화로 고객 집객력 증대.",
+          "emoji": "🎁",
+          "title": "GS25 초저가 생리대·무료택배 기획전",
+          "summary": "GS25가 여성청소년 생리용품 바우처 사업과 연계해 44종 생리대 무료택배 기획전을 운영하며 가성비 시장 선점 및 매출 증대.",
           "articleIndices": [
             1,
-            2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "'이번엔 자동이 대세' 제1225회 로또 1등 13명 중 12명 '자동'... 대박 명...",
-              "url": "https://www.insight.co.kr/news/555381"
+              "title": "고물가 부담 낮추는 초저가 생리대 '봇물'…'소비자 반응 좋네'",
+              "url": "https://n.news.naver.com/mnews/article/421/0008964135?sid=101"
             },
             {
-              "title": "[로또당첨번호 조회]1225회 로또복권 1등 당첨 지역 및 연금복권 720+ 당...",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421520"
+              "title": "생리대 한 팩 1000원까지…지원금 넓어지자 편의점·마트도 움직였다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004130437?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
-          "emoji": "🥚",
-          "title": "세븐일레븐 간식·디저트 성장",
-          "summary": "세븐일레븐에서 간식·디저트 소비 38% 증가, 건강식품 38%, 전통주 33% 증가로 간편식 수요 다각화.",
+          "emoji": "🌏",
+          "title": "세븐일레븐 K뷰티 해외 리테일 확대",
+          "summary": "일본 세븐일레븐이 K뷰티 상품 입점을 확대하며 온라인 중심 K뷰티가 해외 오프라인 채널로 영토 확장.",
           "articleIndices": [
-            4
+            5
           ],
           "relatedLinks": [
             {
-              "title": "지원금도 되나요?…편의점 도시락·달걀부터 담았다",
-              "url": "https://n.news.naver.com/mnews/article/022/0004130261?sid=101"
+              "title": "프랑스 백화점·일본 편의점까지…K뷰티는 영토 확장중",
+              "url": "https://n.news.naver.com/mnews/article/025/0003525468?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "🍺",
-          "title": "이마트24 무알코올 맥주 확대",
-          "summary": "이마트 비·무알코올 맥주 매출 21% 증가, 주류 출고량 10년 17% 급감 속 무알코올 시장 공략 강화.",
+          "title": "이마트24 무알코올 음료 트렌드 대응",
+          "summary": "이마트24가 주류 출고 감소 추세 속 무알코올 맥주 등 건강 음료 카테고리 강화로 소비 변화 대응.",
           "articleIndices": [
-            5,
-            6,
-            7,
-            8
+            7
           ],
           "relatedLinks": [
             {
-              "title": "주류 출고량 최근 10년 17% 급감…'무알코올·수출로 돌파구'",
-              "url": "https://n.news.naver.com/mnews/article/001/0016095973?sid=101"
-            },
-            {
-              "title": "한판 1만원 시대 눈앞…물가 부담에 외국산 계란 전면 내세운 대형마트",
-              "url": "https://n.news.naver.com/mnews/article/421/0008963074?sid=101"
+              "title": "술 덜 먹는 사회… 주류 출고 10년 새 17% 급감",
+              "url": "https://n.news.naver.com/mnews/article/022/0004130443?sid=101"
             }
           ],
-          "articleCount": 4
+          "articleCount": 1
         }
       ]
     },
@@ -187,36 +200,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "K-디저트 해외 확산",
-          "summary": "빙그레 메로나·바나나맛우유가 태국·일본에서 'K-편의점 문화' 대표 제품으로 자리잡으며 글로벌 수출 가속화.",
+          "emoji": "☕",
+          "title": "편의점 건강 디저트 음료 경쟁 심화",
+          "summary": "편의점 냉장고에서 카페인 제로·저칼로리 건강 디저트 음료 선택 시간이 길어지며 식품업계 건강 지향 신제품 출시 경쟁 가속.",
           "articleIndices": [
-            4,
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "日 여행 간다면 편의점부터…세븐일레븐재팬, K-디저트 PB 출시",
-              "url": "https://n.news.naver.com/mnews/article/138/0002228760?sid=101"
-            },
-            {
-              "title": "빙그레, 태국 식품박람회서 K-디저트 알린다…THAIFEX 3년 연속 참가",
-              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=129981"
+              "title": "커피 맛은 살리고 카페인은 뺐다…식품업계, '건강 디저트' 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/022/0004130466?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🍅",
-          "title": "토마토 디저트 신상 열풍",
-          "summary": "토마토가 생과일·샐러드 재료에서 디저트·음료로 확장, 편의점 젊은층 공략 신상 트렌드로 부상.",
+          "emoji": "✨",
+          "title": "기프티콘 스몰 럭셔리 트렌드 확산",
+          "summary": "기프티콘이 커피·베이커리를 넘어 호텔 프리미엄 F&B로 영역 확대하며 고급 브랜드 소비 트렌드인 스몰 럭셔리 확산.",
           "articleIndices": [
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'동네 싹 돌았는데 못 샀어요'…지갑 열린다, '5kg 9000원' 빨간 채소 시...",
-              "url": "https://n.news.naver.com/mnews/article/277/0005766966?sid=101"
+              "title": "'카톡으로 '12만원짜리 호텔빙수' 보냈어'…기프티콘 올라 탄 '스몰 럭셔리'",
+              "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=841685"
             }
           ],
           "articleCount": 1
