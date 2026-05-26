@@ -1,45 +1,47 @@
 {
-  "generatedAt": "2026-05-25T22:51:05.730Z",
+  "generatedAt": "2026-05-26T23:00:20.259Z",
   "summary": [
-    "CU, 쿠팡플레이 '봉주르빵집' 협업으로 콘텐츠 기반 디저트 5종 출시",
-    "GS25, 강원도 양조장과 협업해 1L 가성비 막걸리 '일생막걸리' 출시",
-    "신세계 정용진 회장 스타벅스 탱크데이 사과로 유통업계 신뢰 회복 움직임"
+    "CU, 토니모리와 1020 겨냥 가성비 색조 화장품 선론칭으로 뷰티 카테고리 강화",
+    "스타벅스 5·18 마케팅 논란으로 불매운동 실제 소비 지표 반영, 유통업계 이슈 민감성 논쟁 심화",
+    "롯데, 7개사 연합군으로 온오프라인 통합 캠페인 'L.PASS' 전개하며 신세계와 경쟁 심화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🔥",
-          "title": "신세계 정용진 회장 스타벅스 사과",
-          "summary": "신세계 그룹 총수가 직접 나서 스타벅스 탱크데이 마케팅 논란에 대국민 사과 및 진상조사 결과 발표로 유통업계 신뢰 회복 신호.",
+          "emoji": "⚠️",
+          "title": "유통업계 이슈 민감성 논란",
+          "summary": "GS25 젠더 갈등 논란, 스타벅스 5·18 마케팅 파문 등 유통사들의 이슈 판단 실패가 반복되면서 신뢰 리스크 심화.",
           "articleIndices": [
             1,
-            3
+            5,
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] 신세계 정용진 회장, '탱크데이' 직접 사과…스타벅스 후폭풍",
-              "url": "https://www.seoultimes.news/news/article.html?no=2000095979"
+              "title": "유통업계, 이슈 판단 실패 논란 반복… 신뢰 리스크 지속",
+              "url": "http://www.newslock.co.kr/news/articleView.html?idxno=130550"
             },
             {
-              "title": "\"대국민 사과, 조사결과도 발표\"…정용진, 오늘 '스벅 5·18사태' 직",
-              "url": "https://n.news.naver.com/mnews/article/009/0005684748?sid=102"
+              "title": "스타벅스 불매 현실화…카카오 선물하기 1위 '배민'에 내줬다",
+              "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000037701"
             }
           ],
-          "articleCount": 2
+          "articleCount": 4
         },
         {
-          "emoji": "🌍",
-          "title": "K뷰티·K푸드 유럽 진출 확대",
-          "summary": "국내 68개 기업이 체코 행사에 참여해 K뷰티 스킨케어가 유럽 대표 브랜드를 웃도는 매출 기록하며 글로벌 시장 확대 가속화.",
+          "emoji": "🛍️",
+          "title": "롯데 7개사 연합 온오프라인 공습",
+          "summary": "롯데그룹이 7개 계열사와 통합 캠페인 'L.PASS'를 전개하며 신세계와의 유통업계 양강 경쟁 심화.",
           "articleIndices": [
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "K뷰티·푸드, 체코서 '일상 소비' 진입 … 화장품 수출 5년새 10배",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=84932"
+              "title": "정용진 고개 숙인 날..롯데, '7개사 연합군'으로 온오프라인 공습",
+              "url": "https://n.news.naver.com/mnews/article/293/0000085317?sid=101"
             }
           ],
           "articleCount": 1
@@ -50,34 +52,25 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "CJ대한통운 매일오네 성장",
-          "summary": "CJ대한통운이 매일오네 출범 1년 만에 주말·당일·새벽배송 수요 흡수로 대형 이커머스 고객 물량 급증 및 '탈쿠팡' 흐름 포착.",
+          "emoji": "🚨",
+          "title": "스타벅스 탱크데이 마케팅 파문",
+          "summary": "스타벅스코리아 이커머스팀의 5·18 폄훼 마케팅 논란으로 4단계 결재 시스템 부실, 검증 체계 미흡 드러남.",
           "articleIndices": [
-            2
+            1,
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "CJ대한통운, '매일오네 1년' 점유율 성과…쿠팡과 격전",
-              "url": "https://n.news.naver.com/mnews/article/421/0008965027?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "⚖️",
-          "title": "14년 유통법 개정 논의 본격화",
-          "summary": "대형마트 규제 중심 유통법이 이커머스 성장(연평균 10.1%)으로 시대 부적응 상태로 지방선거 이후 개정 가능성 대두.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
+              "title": "'탱크데이' 왜 터졌나 ①역사의식 미비 ②부실 검증 ③실적 우선",
+              "url": "https://n.news.naver.com/mnews/article/469/0000932825?sid=101"
+            },
             {
-              "title": "[손바닥 경제] '14년 족쇄' 유통법… 이번 지방선거 끝나면 바뀔까",
-              "url": "https://n.news.naver.com/mnews/article/082/0001382287?sid=101"
+              "title": "'4단계 결재절차 있었지만 시안 못 걸러… 검증시스템 부실'",
+              "url": "https://n.news.naver.com/mnews/article/014/0005526665?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     },
@@ -86,30 +79,34 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "두산로보틱스 리테일 AI 확대",
-          "summary": "두산로보틱스가 제조업 중심 로봇 활용을 푸드테크·물류·리테일 등 서비스 분야로 확대하며 생성형 AI 접목 차세대 로봇 개발 투자 가속화.",
+          "title": "AI 기반 푸드테크 확대",
+          "summary": "식품산업이 2026년 하반기 본격화를 목표로 AI 기반 수요예측과 스마트팩토리 구축 확대 중.",
           "articleIndices": [
-            8
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[기로에 선 K-피지컬 AI] ⑥글로벌 영토 넓히는 두산로보틱스",
-              "url": "https://www.ajunews.com/view/20260525131755894"
+              "title": "[FT 창간 21주년 특집②] 넥스트 코리아 : 식품산업",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=359491"
+            },
+            {
+              "title": "AI와 로봇이 여는 K-푸드의 미래…서울푸드 2026서 글로벌 성장 전략 제시",
+              "url": "https://www.mhns.co.kr/news/articleView.html?idxno=748399"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎯",
-          "title": "AI 안경 커머스 기능 탑재",
-          "summary": "AI 안경이 실시간 번역·광고·커머스 기능 탑재 시 새로운 콘텐츠 유통 창구로 기능할 가능성으로 엔터·극장업계 주목.",
+          "emoji": "💄",
+          "title": "군 PX 뷰티 AI 추천 열풍",
+          "summary": "국군복지단 WA몰에서 뷰티 AI 추천 서비스 도입으로 뷰티업계 경쟁 심화.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "화면 밖으로 나온 콘텐츠…극장·엔터가 'AI 안경'에 꽂힌 이유",
-              "url": "https://news.mtn.co.kr/news-detail/2026052211325414140"
+              "title": "\"PX 화장품 추천 좀요\" 군인들 열광하자…뷰티업계 경쟁 붙었다",
+              "url": "https://n.news.naver.com/mnews/article/011/0004624729?sid=101"
             }
           ],
           "articleCount": 1
@@ -120,16 +117,31 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "CU 봉주르빵집 IP 협업",
-          "summary": "CU가 쿠팡플레이 예능 '봉주르빵집' 레시피 활용 디저트 5종 출시로 콘텐츠 연결성을 통한 팬덤 수요 겨냥 및 IP 협업 차별화 전략 추진.",
+          "emoji": "💄",
+          "title": "CU 토니모리 색조 화장품 선론칭",
+          "summary": "CU가 토니모리와 협력해 1020 잘파세대 겨냥 가성비 색조 화장품 9종을 업계 단독 선론칭.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'IP협업 통해 차별화 꾀한다'···CU, '봉주르빵집' 레시피 활용한 상품",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2432599"
+              "title": "[편의점] CU, 토니모리와 가성비 색조 선론칭→세븐일레븐 '공정거래 자...",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=741476"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥗",
+          "title": "CU PBICK 더 키친 확대",
+          "summary": "CU가 헬시플레저 트렌드에 맞춰 지중해식 건강 간편식 'PBICK 더 키친' 라인 확대.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, 'PBICK 더 키친' 확대... 지중해식 건강 간편식 선보인다",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=199964"
             }
           ],
           "articleCount": 1
@@ -140,52 +152,47 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍶",
-          "title": "GS25 1L 막걸리 출시",
-          "summary": "GS25가 강원도 소규모 양조장 낙천과 협업해 1L 대용량 가성비 막걸리 '일생막걸리'를 1,950원에 출시하며 지역 상생 모델 확대.",
+          "emoji": "🎮",
+          "title": "GS25 캐릭터 키캡 도시락 1위",
+          "summary": "GS25가 MZ세대 스트레스 해소템 '키캡'을 동봉한 도시락으로 카테고리 매출 1위 달성.",
           "articleIndices": [
-            1,
-            3,
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "다이소도 아닌데 1리터 막걸리 1000원에…어디야?",
-              "url": "https://n.news.naver.com/mnews/article/374/0000512095?sid=101"
-            },
-            {
-              "title": "GS25, 지역 양조장과 상생..강원도 지장수 1L 막걸리 출시",
-              "url": "https://kpenews.com/View.aspx?No=4089534"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🕯️",
-          "title": "세븐일레븐 창시자 별세",
-          "summary": "세븐일레븐을 일본에 도입해 '편의점의 아버지'로 불리던 스즈키 도시후미 명예고문이 94세로 별세하며 편의점 산업 역사 마감.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "세븐일레븐 키운 '편의점의 아버지'… 日 스즈키 명예고문, 94세로 별",
-              "url": "https://n.news.naver.com/mnews/article/020/0003722191?sid=102"
+              "title": "여기저기서 '딸깍딸깍'…MZ 스트레스 해소템 '키캡' 인기 비결",
+              "url": "https://n.news.naver.com/mnews/article/003/0013969054?sid=102"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "이마트 신세계건설 유상증자",
-          "summary": "이마트가 신세계건설 유상증자에 5,000억 원 추가 수혈을 의결하며 지방 미분양 부동산 사업 지원 강화.",
+          "emoji": "✅",
+          "title": "세븐일레븐 공정거래 자율준수 강화",
+          "summary": "코리아세븐이 공정거래 핵심 가치 전파와 준법·윤리경영 의지 표명을 위해 선포식 개최.",
           "articleIndices": [
+            5,
             6
           ],
           "relatedLinks": [
             {
-              "title": "이마트 5000억 추가 수혈에도…지방 미분양에 묶인 신세계건설",
-              "url": "https://realty.chosun.com/site/data/html_dir/2026/05/25/2026052500404.html"
+              "title": "코리아세븐 임직원, ESG 준법경영 한 뜻 모아..공정거래 자율준수 강화...",
+              "url": "https://kpenews.com/View.aspx?No=4091175"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "☕",
+          "title": "이마트24 스타벅스 매출 영향",
+          "summary": "스타벅스 불매운동으로 신세계그룹 자회사 이마트24의 주요 수익원 타격 우려.",
+          "articleIndices": [
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "[탱크데이 파문] 오너 등판에도 불매 여진 계속…스타벅스 '카톡 선물 1...",
+              "url": "https://www.newspim.com/news/view/20260526001056"
             }
           ],
           "articleCount": 1
@@ -196,37 +203,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎂",
-          "title": "CU 봉주르빵집 디저트 5종",
-          "summary": "CU가 쿠팡플레이 예능 '봉주르빵집' 속 레시피를 활용한 디저트·빵 5종을 5월 13일부터 출시하며 콘텐츠 경험의 오프라인 확장 추진.",
-          "articleIndices": [
-            1,
-            3,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "예능 속 '그 빵', 집 앞 CU에서 맛본다…'봉주르빵집' 빵 5종 출시",
-              "url": "https://n.news.naver.com/mnews/article/008/0005362347?sid=101"
-            },
-            {
-              "title": "CU, 쿠팡플레이 예능 '봉주르빵집' 협업 디저트 론칭",
-              "url": "https://www.etoday.co.kr/news/view/2587491"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "☕",
-          "title": "편의점 디저트 고도화 트렌드",
-          "summary": "일본 편의점의 정교한 디저트·도시락 상품 전략이 소개되며 편의점이 단순 소매점을 넘어 고품질 식음 경험 제공처로 진화하는 추세 강조.",
+          "emoji": "🍰",
+          "title": "편의점 SNS 트렌드 상품 경쟁",
+          "summary": "로제, 마라, 두바이초콜릿 등 SNS 화제 메뉴가 편의점·카페·식품업계로 연쇄 확산되는 트렌드 경쟁 심화.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "[한준호의 모시모시] '물건'이 아니라 '시간'을 판 일본 편의점의 아버",
-              "url": "https://www.ajunews.com/view/20260525160304988"
+              "title": "유행 뜨면 비슷한 제품 줄줄이⋯ 식품업계 '트렌드 경쟁' 이유는",
+              "url": "https://www.viva100.com/article/20260526500517"
             }
           ],
           "articleCount": 1
