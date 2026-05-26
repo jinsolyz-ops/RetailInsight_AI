@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "News Summary",
+  title: "RetailInsight AI",
   description: "리테일 업계 일일 트렌드 리포트",
 };
 

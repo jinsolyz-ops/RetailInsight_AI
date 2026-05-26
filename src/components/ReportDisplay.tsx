@@ -77,9 +77,9 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
         {/* 헤더 */}
         <div className="text-center">
           <div className="text-[#00A651] font-bold mb-3 tracking-wide uppercase">{dateStr}</div>
-          <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight">Trend Summary</h1>
+          <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight">News Summary</h1>
           <p className="text-slate-500 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-            자사/경쟁사 최신 이슈를 한눈에 파악하세요.
+            최신 리테일 트렌드 이슈를 한눈에 파악하세요.
           </p>
         </div>
 
