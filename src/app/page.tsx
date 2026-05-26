@@ -25,7 +25,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center">
           <div className="flex items-center gap-2 text-[#00A651]">
             <Newspaper className="w-6 h-6" />
-            <h1 className="text-xl font-bold tracking-tight">RetailInsight AI</h1>
+            <h1 className="text-xl font-bold tracking-tight">News Summary</h1>
           </div>
         </div>
       </header>
