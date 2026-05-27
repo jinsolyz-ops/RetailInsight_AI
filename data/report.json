@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-26T23:00:20.259Z",
+  "generatedAt": "2026-05-27T06:15:54.124Z",
   "summary": [
-    "CU, 토니모리와 1020 겨냥 가성비 색조 화장품 선론칭으로 뷰티 카테고리 강화",
-    "스타벅스 5·18 마케팅 논란으로 불매운동 실제 소비 지표 반영, 유통업계 이슈 민감성 논쟁 심화",
-    "롯데, 7개사 연합군으로 온오프라인 통합 캠페인 'L.PASS' 전개하며 신세계와 경쟁 심화"
+    "스타벅스 '탱크데이' 논란으로 유통가 검증 시스템 강화 및 AI 활용 광고 심의 확대",
+    "CU, 토니모리 협업으로 잘파세대 겨냥 색조화장품 189.9% 매출 급증 주도",
+    "편의점 4사, MZ세대 공략 위해 뷰티·전통주·푸드테크 차별화 경쟁 본격화"
   ],
   "categories": [
     {
@@ -11,37 +11,36 @@
       "issues": [
         {
           "emoji": "⚠️",
-          "title": "유통업계 이슈 민감성 논란",
-          "summary": "GS25 젠더 갈등 논란, 스타벅스 5·18 마케팅 파문 등 유통사들의 이슈 판단 실패가 반복되면서 신뢰 리스크 심화.",
+          "title": "스타벅스 탱크데이 파동",
+          "summary": "신세계 스타벅스의 역사 감수성 부재 마케팅 논란으로 유통가 전반에 SNS 콘텐츠 사전 심의 강화 및 생성형 AI 활용 광고 검증 시스템 도입 확산",
           "articleIndices": [
             1,
-            5,
-            6,
-            7
+            3,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "유통업계, 이슈 판단 실패 논란 반복… 신뢰 리스크 지속",
-              "url": "http://www.newslock.co.kr/news/articleView.html?idxno=130550"
+              "title": "신세계 사태, 남 일 아니다…유통가 덮친 '스타벅스 탱크데이 쇼크",
+              "url": "https://n.news.naver.com/mnews/article/009/0005685514?sid=103"
             },
             {
-              "title": "스타벅스 불매 현실화…카카오 선물하기 1위 '배민'에 내줬다",
-              "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000037701"
+              "title": "정용진 고개 숙인 날..롯데, '7개사 연합군'으로 온오프라인 공습",
+              "url": "https://n.news.naver.com/mnews/article/293/0000085317?sid=101"
             }
           ],
-          "articleCount": 4
+          "articleCount": 3
         },
         {
-          "emoji": "🛍️",
-          "title": "롯데 7개사 연합 온오프라인 공습",
-          "summary": "롯데그룹이 7개 계열사와 통합 캠페인 'L.PASS'를 전개하며 신세계와의 유통업계 양강 경쟁 심화.",
+          "emoji": "🍅",
+          "title": "토마토 코어 헬시 트렌드",
+          "summary": "국내 유통업계가 토마토 활용 신제품 출시로 MZ세대 헬시 푸드 수요 공략, 편의점·식품사 신제품 경쟁 심화",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "정용진 고개 숙인 날..롯데, '7개사 연합군'으로 온오프라인 공습",
-              "url": "https://n.news.naver.com/mnews/article/293/0000085317?sid=101"
+              "title": "[이슈PICK+] '토마토 코어' 입은 식품업계, 헬시 트렌드 수요 '꽉'",
+              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401796"
             }
           ],
           "articleCount": 1
@@ -52,9 +51,9 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚨",
-          "title": "스타벅스 탱크데이 마케팅 파문",
-          "summary": "스타벅스코리아 이커머스팀의 5·18 폄훼 마케팅 논란으로 4단계 결재 시스템 부실, 검증 체계 미흡 드러남.",
+          "emoji": "🔍",
+          "title": "신세계 탱크데이 검증 부실",
+          "summary": "신세계 스타벅스 이커머스팀의 4단계 결재절차 존재에도 불구하고 역사 감수성 검증 미흡으로 대규모 논란 발생, 이커머스 콘텐츠 검증 시스템 개선 필요성 대두",
           "articleIndices": [
             1,
             2,
@@ -62,12 +61,33 @@
           ],
           "relatedLinks": [
             {
-              "title": "'탱크데이' 왜 터졌나 ①역사의식 미비 ②부실 검증 ③실적 우선",
-              "url": "https://n.news.naver.com/mnews/article/469/0000932825?sid=101"
+              "title": "[Epic Why] 스타벅스 '탱크데이' 왜 터졌나",
+              "url": "http://www.globalepic.co.kr/view.php?ud=20260527104921916148439a4874_29"
             },
             {
-              "title": "'4단계 결재절차 있었지만 시안 못 걸러… 검증시스템 부실'",
-              "url": "https://n.news.naver.com/mnews/article/014/0005526665?sid=101"
+              "title": "'탱크데이' 왜 터졌나 ①역사의식 미비 ②부실 검증 ③실적 우선",
+              "url": "https://n.news.naver.com/mnews/article/469/0000932825?sid=101"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "🤖",
+          "title": "AI 기반 버티컬 커머스 확산",
+          "summary": "AI 에이전트 기반 커머스 자동화 플랫폼 투자 확대로 인플루언서 마케팅·콘텐츠 제작 자동화 및 구매 전환율 최적화 경쟁 심화",
+          "articleIndices": [
+            7,
+            8,
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "[주간스타트업동향] 디노티시아, 창신대와 방산 AI 실무 인재 양성 산학...",
+              "url": "https://it.donga.com/108948/"
+            },
+            {
+              "title": "[26' 하반기 생존전략] AI 에이전트 전쟁 개막…네이버·카카오 수익화...",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710260"
             }
           ],
           "articleCount": 3
@@ -78,35 +98,32 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 기반 푸드테크 확대",
-          "summary": "식품산업이 2026년 하반기 본격화를 목표로 AI 기반 수요예측과 스마트팩토리 구축 확대 중.",
+          "emoji": "🛡️",
+          "title": "생성형 AI 마케팅 검증 강화",
+          "summary": "스타벅스 탱크데이 논란 이후 유통가가 생성형 AI 활용 광고 문구에 대한 사전 심의 강화 및 역사 감수성 경영 필요성 확산",
           "articleIndices": [
+            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "[FT 창간 21주년 특집②] 넥스트 코리아 : 식품산업",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=359491"
-            },
-            {
-              "title": "AI와 로봇이 여는 K-푸드의 미래…서울푸드 2026서 글로벌 성장 전략 제시",
-              "url": "https://www.mhns.co.kr/news/articleView.html?idxno=748399"
+              "title": "[뉴스+]'K컬처' 브랜딩 시대…'역사 감수성 경영' 필요 목소리",
+              "url": "https://www.businessplus.kr/news/articleView.html?idxno=112245"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "💄",
-          "title": "군 PX 뷰티 AI 추천 열풍",
-          "summary": "국군복지단 WA몰에서 뷰티 AI 추천 서비스 도입으로 뷰티업계 경쟁 심화.",
+          "emoji": "🎯",
+          "title": "편의점 MZ 공략 AI·테크 활용",
+          "summary": "CU·GS25·세븐일레븐이 색조화장품·전통주·푸드테크 등 MZ세대 타겟 상품 강화 및 AI 기반 추천·개인화 서비스 확대로 차별화 경쟁",
           "articleIndices": [
-            1
+            12
           ],
           "relatedLinks": [
             {
-              "title": "\"PX 화장품 추천 좀요\" 군인들 열광하자…뷰티업계 경쟁 붙었다",
-              "url": "https://n.news.naver.com/mnews/article/011/0004624729?sid=101"
+              "title": "'뷰티부터 막걸리까지'…편의점업계, 'MZ 공략전' 본격화",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=219771"
             }
           ],
           "articleCount": 1
@@ -118,33 +135,24 @@
       "issues": [
         {
           "emoji": "💄",
-          "title": "CU 토니모리 색조 화장품 선론칭",
-          "summary": "CU가 토니모리와 협력해 1020 잘파세대 겨냥 가성비 색조 화장품 9종을 업계 단독 선론칭.",
+          "title": "CU 토니모리 색조화장품 협업",
+          "summary": "CU가 토니모리와 협업해 잘파세대 겨냥 가성비 색조화장품 9종 선론칭, 올해 색조화장품 매출 189.9% 급증으로 뷰티 카테고리 신성장 주도",
           "articleIndices": [
-            1
+            1,
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[편의점] CU, 토니모리와 가성비 색조 선론칭→세븐일레븐 '공정거래 자...",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=741476"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🥗",
-          "title": "CU PBICK 더 키친 확대",
-          "summary": "CU가 헬시플레저 트렌드에 맞춰 지중해식 건강 간편식 'PBICK 더 키친' 라인 확대.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
+              "title": "잘파세대 겨냥…CU, 토니모리와 가성비 색조 화장품 출시",
+              "url": "https://n.news.naver.com/mnews/article/092/0002424311?sid=105"
+            },
             {
-              "title": "CU, 'PBICK 더 키친' 확대... 지중해식 건강 간편식 선보인다",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=199964"
+              "title": "CU, 잘파세대 뷰티 수요 공략…토니모리와 협업, 신제품 9종 선 출시",
+              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=360549"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     },
@@ -152,47 +160,36 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎮",
-          "title": "GS25 캐릭터 키캡 도시락 1위",
-          "summary": "GS25가 MZ세대 스트레스 해소템 '키캡'을 동봉한 도시락으로 카테고리 매출 1위 달성.",
+          "emoji": "🎁",
+          "title": "세븐일레븐 칸쵸 시즌2 캠페인",
+          "summary": "롯데웰푸드의 '칸쵸 내 이름을 찾아라' 시즌2 캠페인으로 SNS 바이럴 마케팅 강화, 세븐일레븐 상품권 경품 제공으로 고객 유입 극대화",
           "articleIndices": [
-            2
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "여기저기서 '딸깍딸깍'…MZ 스트레스 해소템 '키캡' 인기 비결",
-              "url": "https://n.news.naver.com/mnews/article/003/0013969054?sid=102"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "✅",
-          "title": "세븐일레븐 공정거래 자율준수 강화",
-          "summary": "코리아세븐이 공정거래 핵심 가치 전파와 준법·윤리경영 의지 표명을 위해 선포식 개최.",
-          "articleIndices": [
-            5,
-            6
-          ],
-          "relatedLinks": [
+              "title": "SNS 달군 '칸쵸깡' 열풍…롯데웰푸드, 시즌2로 이어간다",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1371049"
+            },
             {
-              "title": "코리아세븐 임직원, ESG 준법경영 한 뜻 모아..공정거래 자율준수 강화...",
-              "url": "https://kpenews.com/View.aspx?No=4091175"
+              "title": "롯데웰푸드, 가정의 달 맞아 '칸쵸 내 이름을 찾아라' 시즌2",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=840981"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "☕",
-          "title": "이마트24 스타벅스 매출 영향",
-          "summary": "스타벅스 불매운동으로 신세계그룹 자회사 이마트24의 주요 수익원 타격 우려.",
+          "emoji": "🌏",
+          "title": "세븐일레븐 체험형 특화점 확대",
+          "summary": "세븐일레븐이 '뉴웨이브' 체험형 특화 매장을 부산·광주·강원 등으로 확대 출점, 지역 상권 앵커테넌트 전략 강화",
           "articleIndices": [
-            9
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[탱크데이 파문] 오너 등판에도 불매 여진 계속…스타벅스 '카톡 선물 1...",
-              "url": "https://www.newspim.com/news/view/20260526001056"
+              "title": "'지방 1번지가 미래 가른다' 유통 공룡들…지역 투자 '불' 붙었다",
+              "url": "https://n.news.naver.com/mnews/article/018/0006291559?sid=101"
             }
           ],
           "articleCount": 1
@@ -203,16 +200,36 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 SNS 트렌드 상품 경쟁",
-          "summary": "로제, 마라, 두바이초콜릿 등 SNS 화제 메뉴가 편의점·카페·식품업계로 연쇄 확산되는 트렌드 경쟁 심화.",
+          "emoji": "🍪",
+          "title": "BTS 한정판 오레오 쿠키 출시",
+          "summary": "오레오가 BTS 멤버 이름 한정판 쿠키 출시로 K-팝 팬덤 기반 SNS 바이럴 마케팅 강화, 편의점·대형마트 한정 판매로 즉시성 소비 유도",
           "articleIndices": [
-            2
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "유행 뜨면 비슷한 제품 줄줄이⋯ 식품업계 '트렌드 경쟁' 이유는",
-              "url": "https://www.viva100.com/article/20260526500517"
+              "title": "[유통소식] 롯데百, 써코니 국내 1호 매장 개점",
+              "url": "http://www.4th.kr/news/articleView.html?idxno=2112304"
+            },
+            {
+              "title": "롯데웰푸드·오뚜기·오레오, 길거리 간식 모티브 신제품 출시",
+              "url": "http://www.wsobi.com/news/articleView.html?idxno=312565"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍺",
+          "title": "카스 제로 무알콜 맥주 출시",
+          "summary": "카스가 맥주 풍미를 살린 무알콜 제로 제품 출시로 건강 음주 트렌드 공략, 편의점·대형마트·온라인 전채널 판매로 대중 접근성 극대화",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "[오늘의신상]'맥주 풍미 살렸는데 알코올 0%'…더 청량한 '카스 제로'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005768252?sid=101"
             }
           ],
           "articleCount": 1
