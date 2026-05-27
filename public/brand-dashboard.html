@@ -226,7 +226,25 @@
   .stat-card.site-card .value { color: var(--theqoo); }
 
   /* Keyword Stats Tab */
-  .keyword-section { margin-bottom: 28px; }
+  #tab-keywords {
+    min-height: calc(100vh - 104px);
+  }
+
+  .keyword-cloud-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 24px;
+    min-height: calc(100vh - 176px);
+    align-items: stretch;
+  }
+
+  .keyword-section {
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 176px);
+  }
+
   .keyword-section h2 {
     font-size: 15px;
     font-weight: 700;
@@ -234,8 +252,10 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    flex-wrap: wrap;
     color: var(--text);
   }
+
   .keyword-section h2::before {
     content: '';
     display: block;
@@ -246,11 +266,23 @@
   .cu-section h2::before { background: var(--cu); }
   .gs-section h2::before { background: var(--gs); }
 
-  .keyword-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 8px;
+  .wordcloud {
+    width: 100%;
+    height: clamp(560px, calc(100vh - 220px), 780px);
+    flex: 1 1 auto;
+    display: block;
+    background:
+      radial-gradient(circle at 50% 45%, rgba(15,23,42,0.035), transparent 48%),
+      var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    box-shadow:
+      inset 0 0 0 1px rgba(15,23,42,0.025),
+      0 12px 32px rgba(15,23,42,0.08);
   }
+  .cu-section .wordcloud { border-color: rgba(108, 99, 255, 0.28); }
+  .gs-section .wordcloud { border-color: rgba(0, 166, 81, 0.28); }
+
   .keyword-item {
     background: var(--surface);
     border: 1px solid var(--border);
@@ -302,6 +334,15 @@
     width: 24px;
     text-align: right;
     font-weight: 600;
+  }
+
+  @media (max-width: 1100px) {
+    .keyword-cloud-layout {
+      grid-template-columns: 1fr;
+      min-height: auto;
+    }
+    .keyword-section { min-height: auto; }
+    .wordcloud { height: 560px; }
   }
 
   /* Monitoring Tab */
@@ -562,12 +603,29 @@
 </head>
 <body>
 
+  <div id="loading" style="
+  position:fixed;
+  inset:0;
+  background:rgba(248,250,252,0.94);
+  z-index:99999;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  gap:12px;
+  color:#0f172a;
+  font-size:14px;
+">
+  <div style="font-size:24px;">⏳</div>
+  <div>Supabase에서 데이터를 불러오는 중입니다...</div>
+</div>
+
 <div class="header">
   <div class="header-left">
     <h1>편의점 브랜드 <span>모니터링</span> 대시보드</h1>
-    <p>수집기간: 2026.05.06 ~ 2026.05.12 &nbsp;|&nbsp; 수집사이트: 더쿠 · 에펨코리아 · 인스티즈</p>
+    <p>수집기간: <span id="display-period">-</span> &nbsp;|&nbsp; 수집사이트: 더쿠 · 에펨코리아 · 인스티즈</p>
   </div>
-  <div class="header-badge">최종 업데이트: <span>2026.05.12</span></div>
+  <div class="header-badge">최종 업데이트: <span id="display-updated">-</span></div>
 </div>
 
 <div class="tabs">
@@ -582,31 +640,34 @@
   <div class="stat-cards">
     <div class="stat-card total-card">
       <div class="label">총 수집 게시글</div>
-      <div class="value" id="stat-total">-</div>
-      <div class="sub">05.06 ~ 05.12 기준</div>
+      <div class="value" style="color: var(--accent)" id="stat-total">-</div>
+      <div class="sub" id="display-period-short">- 기준</div>
     </div>
     <div class="stat-card cu-card">
       <div class="label">CU 관련 게시글</div>
-      <div class="value" id="stat-cu">-</div>
+      <div class="value" style="color: var(--cu-light)" id="stat-cu">-</div>
       <div class="sub">CU · 씨유 · 포켓CU · 포켓씨유</div>
     </div>
     <div class="stat-card gs-card">
       <div class="label">GS25 관련 게시글</div>
-      <div class="value" id="stat-gs">-</div>
+      <div class="value" style="color: var(--gs-light)" id="stat-gs">-</div>
       <div class="sub">GS25 · 우동지 · 우리동네GS</div>
     </div>
     <div class="stat-card site-card">
       <div class="label">수집 사이트</div>
-      <div class="value">3</div>
+      <div class="value" style="color: var(--theqoo)">3</div>
       <div class="sub">더쿠 · 에펨코리아 · 인스티즈</div>
     </div>
   </div>
 
   <div class="summary-grid">
+    <!-- 키워드별 게시글 수 -->
     <div class="card">
       <h3>키워드별 게시글 수</h3>
       <div id="kw-bars"></div>
     </div>
+
+    <!-- 사이트별 게시글 수 -->
     <div class="card">
       <h3>사이트별 게시글 수</h3>
       <div class="donut-container">
@@ -624,15 +685,18 @@
 
 <!-- ===== 키워드 통계 탭 ===== -->
 <div class="tab-content" id="tab-keywords">
+  <div class="keyword-cloud-layout">
 
-  <div class="keyword-section cu-section">
-    <h2>CU 연관 키워드 Top 10 <small style="font-size:11px;color:var(--muted);font-weight:400;">※ 05.06~05.12 제목+본문 명사 분석</small></h2>
-    <div class="keyword-grid" id="cu-keyword-grid"></div>
-  </div>
+    <div class="keyword-section cu-section">
+      <h2 style="color:var(--cu-light)">CU 연관 키워드 TOP 50 <small style="font-size:11px;color:var(--muted);font-weight:400;">※ <span class="display-period-compact">-</span> 제목+본문 명사 분석</small></h2>
+      <canvas class="wordcloud" id="cu-keyword-grid"></canvas>
+    </div>
 
-  <div class="keyword-section gs-section" style="margin-top:28px">
-    <h2>GS25 연관 키워드 Top 10 <small style="font-size:11px;color:var(--muted);font-weight:400;">※ 05.06~05.12 제목+본문 명사 분석</small></h2>
-    <div class="keyword-grid" id="gs-keyword-grid"></div>
+    <div class="keyword-section gs-section">
+      <h2 style="color:var(--gs-light)">GS25 연관 키워드 TOP 50 <small style="font-size:11px;color:var(--muted);font-weight:400;">※ <span class="display-period-compact">-</span> 제목+본문 명사 분석</small></h2>
+      <canvas class="wordcloud" id="gs-keyword-grid"></canvas>
+    </div>
+
   </div>
 </div>
 
@@ -707,83 +771,18 @@
   </div>
 </div>
 
-<script>
-const cuPosts = [
-  {title:"CU 편택 일요일 저녁에 접수했는데 아직도 택배 기사가 안가져가서 편의점 안에 있던데",site:"더쿠",keyword:"CU",date:"2026-05-12",url:"https://theqoo.net/talk/4199303240",content:"대체 언제 가져가 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",views:20,comments:2},
-  {title:"어제 Cu편택 앱에서 결제까지하고 포스에서 등록을 안했는데 어쩌지??",site:"더쿠",keyword:"CU",date:"2026-05-11",url:"https://theqoo.net/talk/4198596898",content:"지금이라도 가서 할까?",views:29,comments:3},
-  {title:"소라과자 좋아하는 덬들 cu pb제품 먹어봐",site:"더쿠",keyword:"CU",date:"2026-05-10",url:"https://theqoo.net/talk/4197447966",content:"얇아서 파삭파삭 부서지고 안달라붙고 맛있음. 여지껏 먹어본 것중에 얘가 제일 맛있어.",views:27,comments:3},
-  {title:"할인되는 편의점이 세븐씨유인데 집앞엔 이마트24와지에스만잇는",site:"더쿠",keyword:"씨유",date:"2026-05-10",url:"https://theqoo.net/talk/4197623578",content:"매번 고민함 세븐까지갈래말래갈래말래",views:13,comments:0},
-  {title:"회사 앞 씨유 알바생 잘생겼었는데..",site:"더쿠",keyword:"씨유",date:"2026-05-10",url:"https://theqoo.net/talk/4197473571",content:"세븐틴민규 닮았었음. 근데 어느순간 안보여 그만뒀나봐... 직장생활의 소소한 즐거움이었는데.",views:72,comments:0},
-  {title:"반값 씨유가 훨씬 빠르네 지에스는 세월아 네월아",site:"더쿠",keyword:"씨유",date:"2026-05-09",url:"https://theqoo.net/talk/4195710585",content:"씨유 하루만에 가네ㄷ. 지에스 반택은 진짜 느린 것 같음.",views:37,comments:1},
-  {title:"씨유 반택 운송장조회 집하 해야 떠?",site:"더쿠",keyword:"씨유",date:"2026-05-09",url:"https://theqoo.net/talk/4195561576",content:"접수만 하면 뜨는게 아니라? 집하 완료가 돼야 운송장 조회가 되는 건지 궁금함.",views:15,comments:0},
-  {title:"CU 편의점 맛있는 거 추천 좀 해주라!!",site:"더쿠",keyword:"CU",date:"2026-05-08",url:"https://theqoo.net/talk/4194372552",content:"아님 덬들이 좋아하는것도 ㄱㅊ아.",views:17,comments:1},
-  {title:"고등학교 매점 cu엿는데 나름 좋앗던거같음",site:"더쿠",keyword:"CU",date:"2026-05-08",url:"https://theqoo.net/talk/4194307683",content:"(이미지 게시글) 고등학교 시절 CU 매점 관련 추억 게시글.",views:40,comments:2},
-  {title:"Cu에서 영양제 13개 6500원에 털어왔다",site:"더쿠",keyword:"CU",date:"2026-05-08",url:"https://theqoo.net/talk/4194134262",content:"(이미지 게시글) CU 영양제 할인 행사에서 13개를 6500원에 구매한 후기.",views:64,comments:1},
-  {title:"배러레스트 여기 씨유에는 안파네",site:"더쿠",keyword:"씨유",date:"2026-05-08",url:"https://theqoo.net/talk/4194861148",content:"잠 잘오는지 궁금했는디. 씨유에서 파는 줄 알았는데 없네.",views:7,comments:0},
-  {title:"토스에서 씨유 쿠폰 뿌릴때마다 진상손님 개많아지는 기분",site:"더쿠",keyword:"씨유",date:"2026-05-06",url:"https://theqoo.net/talk/6145",content:"토스 씨유 쿠폰 행사마다 진상 손님이 많아지는 것 같아서 알바 입장에서 힘들다는 내용.",views:null,comments:null},
-  {title:"씨유 새콤달콤포도맛 먹을사람",site:"더쿠",keyword:"씨유",date:"2026-05-06",url:"https://theqoo.net/talk/6144",content:"씨유에서 새콤달콤 포도맛 나눔 관련 게시글.",views:null,comments:null},
-  {title:"중고거래할때 꼭 씨유반택써",site:"더쿠",keyword:"씨유",date:"2026-05-06",url:"https://theqoo.net/talk/6143",content:"중고거래 할 때 씨유 반값택배 추천. 빠르고 저렴해서 강력 추천.",views:null,comments:null},
-  {title:"씨유 반택도 알바가 큐알 찍어야 카톡으로 찾아가라고 톡옴??",site:"더쿠",keyword:"씨유",date:"2026-05-06",url:"https://theqoo.net/talk/6142",content:"씨유 반값택배 맡길 때 알바생이 QR 찍어야 카톡 알림이 오는지 문의하는 글.",views:null,comments:null},
-  {title:"cu앱에 깊티 등록한거 금액권이랑은 같이 쓸수있나..?",site:"더쿠",keyword:"CU",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194628521",content:"츄파춥스 깊티 등록한거 있는데 김득템 한봉지로 받아오려고 했더니 재고 있는곳이 없네. 금액권 등록해둔 것들 있는데 같이 결제 가능하려나...",views:192,comments:12},
-  {title:"cu 영양제 동아5 종근당6 이렇게도 되니까 재고 보고 조합해바",site:"더쿠",keyword:"CU",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194591691",content:"한 회사에 5개 넘으면 둘 다 살수잇슴. 동아제약 5개 + 종근당 6개 조합으로 CU 영양제 할인 최대한 받는 팁.",views:94,comments:0},
-  {title:"뚜쥬 갔다가 cu 가보려는데 영양제 아직 할인 하는거 맞지?",site:"더쿠",keyword:"CU",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194565538",content:"근데 전에 cu결제 할때 전액 포인트 사용 안되는 이유는 뭘까? 지점마다 다른걸까?",views:187,comments:2},
-  {title:"오늘 처음으로 cu 영양제 사고왔다 이제 15일 남은거지?",site:"더쿠",keyword:"CU",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194491248",content:"몇종류 없어서 거의 내가 다 털어옴ㅋㅋ",views:202,comments:0},
-  {title:"Cu 영양제 사고 뚜쥬갔다가 문닫는다는 동네홈플왔어...",site:"더쿠",keyword:"씨유",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194436874",content:"홈플 알만도 파스타면 1990원 개미쳤는데.",views:821,comments:2},
-  {title:"씨유 영양제 5개만 사도 할인되지??",site:"더쿠",keyword:"씨유",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194690520",content:"딱 5개만 사두 되나 아님 더 사야해?",views:227,comments:2},
-  {title:"씨유 영양제 산 덬들 뭐샀어?",site:"더쿠",keyword:"씨유",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194578112",content:"머선 영양제 샀는지 궁근하다.",views:138,comments:2},
-  {title:"씨유 영양제 또 참여 가능하지?",site:"더쿠",keyword:"씨유",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194081452",content:"(이미지 게시글) CU 영양제 할인 행사 재참여 가능한지 문의.",views:154,comments:1},
-  {title:"씨유 새콤달콤 먹을 덬",site:"더쿠",keyword:"씨유",date:"2026-05-06",url:"https://theqoo.net/theqdeal/4192318606",content:"우리집 근처 씨유엔 없더라구 ㅠㅠ 포도맛이고 오늘까지임!! 메일로 보내줄게.",views:310,comments:5},
-  {title:"씨유 멘토스 원플원하더라 900원",site:"더쿠",keyword:"씨유",date:"2026-05-06",url:"https://theqoo.net/theqdeal/4191192769",content:"나머지는 내일까지라 일단 내일할래.",views:137,comments:1},
-  {title:"씨유 총 1000원 결제하고 받아옴",site:"더쿠",keyword:"씨유",date:"2026-05-06",url:"https://theqoo.net/theqdeal/4191116696",content:"저 티슈 800원이더라! 걍 저걸로 쓸어옴.",views:866,comments:7},
-  {title:"[핫딜] CU모바일상품권 10,000원 (8,620원) (무배)",site:"에펨코리아",keyword:"CU",date:"2026-05-10",url:"https://www.fmkorea.com/9809649141",content:"쿠폰+카드할인 조합 15,390원인데 CU2천원 증정이라 체감은 13,390원.",views:14092,comments:6},
-  {title:"편의점은 걍 gs25가 1황인듯 그 다음이 cu",site:"에펨코리아",keyword:"CU",date:"2026-05-10",url:"https://www.fmkorea.com/9809203373",content:"그 다음이 cu. 젤 구린게 세븐일레븐. 일단 도시락 부터 좆같음.",views:86,comments:0},
-  {title:"CU 반값택배는 편의점 자체 물류가 아니라 롯데택배 위탁인가",site:"에펨코리아",keyword:"CU",date:"2026-05-08",url:"https://www.fmkorea.com/9801087969",content:"당근 할 일이 생겨서 반값택배 보냈는데 GS25랑 달리 편의점자체 물류가 아니라 롯데택배 위탁인가보네.",views:21,comments:0},
-  {title:"사회 초년생인데 요샌 그냥 점심에 씨유 편도 괜춘",site:"에펨코리아",keyword:"씨유",date:"2026-05-09",url:"https://www.fmkorea.com/9806095548",content:"요새 씨유 편도 괜춘... 편도에 닭가슴살 하나 먹으면 7천원 정도였나.",views:120,comments:6},
-  {title:"와 반택으로 물건 팔았는데 배송 개느려서 눈치보임",site:"인스티즈",keyword:"CU",date:"2026-05-12",url:"https://www.instiz.net/name/66403042",content:"9일에 팔려서 당일 저녁에 바로 발송했는데 12일인데 아직 우리지역에 있음.",views:31,comments:0},
-  {title:"Cu상품권 오천원있는데 뭐사오지",site:"인스티즈",keyword:"CU",date:"2026-05-10",url:"https://www.instiz.net/name/66388409",content:"장요구르트?",views:10,comments:0},
-  {title:"익들아 cu 두쫀쿠 이거진짜맛있음...",site:"인스티즈",keyword:"CU",date:"2026-05-10",url:"https://www.instiz.net/name/66383755",content:"모모즈랩 그 지에스꺼는 겉에가루가 너무써서 오히려별로였는데 이거 개맛있음ㄹㅇ.",views:962,comments:0},
-  {title:"나 알바 경력직이라 그런가 여기저기 잘만 합격됨",site:"인스티즈",keyword:"CU",date:"2026-05-09",url:"https://www.instiz.net/name/66378913",content:"편의점 고작 4개월인데 CU도 가고 GS가고 세븐도 가고 그랬음.",views:16,comments:0},
-  {title:"30대인데 아직 20대랑 멀지 않다고 생각했거든?",site:"인스티즈",keyword:"CU",date:"2026-05-08",url:"https://www.instiz.net/name/66362828",content:"30대지만 28~29 나이때 기억은 아직 선명하고, 회사에서 제일 나이 어린 후배도 26이라 심한 세대차를 못 느꼈음.",views:59,comments:0},
-  {title:"자소서 아르바이트 똑같은 브랜드지만 다른 지점일때",site:"인스티즈",keyword:"CU",date:"2026-05-07",url:"https://www.instiz.net/name/66361319",content:"CU 같은 브랜드 다른 지점 알바 경력을 자소서에 어떻게 쓰는지 문의.",views:null,comments:null},
-  {title:"픽업 꼭 시간 맞춰가야해?",site:"인스티즈",keyword:"CU",date:"2026-05-07",url:"https://www.instiz.net/name/66353125",content:"CU 픽업 주문 시간 지나도 찾으러 갈 수 있는지 문의하는 글.",views:null,comments:null},
-  {title:"알바생 살려",site:"인스티즈",keyword:"CU",date:"2026-05-06",url:"https://www.instiz.net/name/66346866",content:"CU 알바 관련 힘든 상황을 토로하는 글.",views:null,comments:null},
-  {title:"토스 씨유 페이스페이 쿠폰 하루 한번만 가능해??",site:"인스티즈",keyword:"씨유",date:"2026-05-09",url:"https://www.instiz.net/name/66378331",content:"한번에 다 못 써?",views:15,comments:0},
-  {title:"씨유 아무데나 토스 페이스 결제 돼?",site:"인스티즈",keyword:"씨유",date:"2026-05-08",url:"https://www.instiz.net/name/66369260",content:"어룬이날 그거 쓰려는데 다 되려나..?? 걍 가서 토스 결제할래요 하면 돼!??",views:21,comments:0},
-  {title:"씨유에서 머머그까? 맛있는거 추천좀",site:"인스티즈",keyword:"씨유",date:"2026-05-07",url:"https://www.instiz.net/name/66352642",content:"!!",views:13,comments:0},
-  {title:"씨유 알바생 익들 있을까...?",site:"인스티즈",keyword:"씨유",date:"2026-05-07",url:"https://www.instiz.net/name/66352353",content:"이건 매장마다 다른걸로 아는데 우린 그 비닐봉투 큰든 작든 다 100원에 파는데.",views:29,comments:0},
-  {title:"씨유 가본 익들 급해급해급해",site:"인스티즈",keyword:"씨유",date:"2026-05-07",url:"https://www.instiz.net/name/66352249",content:"그 커피머신 아메리카노 뜨거운거 사면 종이컵은 그냥 주는거야 아님 따로 또 종이컵값 추가야??",views:230,comments:0},
-  {title:"씨유 가려는데 봉투2개사면 2개값 받아??",site:"인스티즈",keyword:"씨유",date:"2026-05-06",url:"https://www.instiz.net/name/66351613",content:"진짜??",views:19,comments:0},
-  {title:"씨유에 있대서 왔는데 왜 없어요",site:"인스티즈",keyword:"씨유",date:"2026-05-06",url:"https://www.instiz.net/name/66342858",content:"왜ㅐㅐㅐㅐㅐㅐㅐㅐㅐ",views:6,comments:0},
-  {title:"씨유 미니숟가락이랑 배달 보냉백 다 없는데 안시키는 점장님",site:"인스티즈",keyword:"씨유",date:"2026-05-06",url:"https://www.instiz.net/name/66340558",content:"짜증난다 진짜 ㅠ 씨유인데 물류 파업이라 발주 안되는건 알겠는데.",views:8,comments:0},
-  {title:"씨유 모찌바치케초코 먹어본사람",site:"인스티즈",keyword:"씨유",date:"2026-05-06",url:"https://www.instiz.net/name/66339458",content:"맛있나?? 그거 사올까 아님 올더어글리 두쫀쿠사올까.",views:6,comments:0},
-  {title:"씨유 알바생들아ㅠ 씨유 토스 페이스페이 쿠폰",site:"인스티즈",keyword:"씨유",date:"2026-05-06",url:"https://www.instiz.net/name/66339262",content:"하루에 한 번만 쓸 수 있나?? 안내에는 머니/계좌 연결시라되어있던데.",views:66,comments:0},
-];
 
-const gsPosts = [
-  {title:"Gs25 계란딜 알려준 덬 진짜 감사링 계란 한판에 5300원 됨 (kt일반)",site:"더쿠",keyword:"GS25",date:"2026-05-12",url:"https://theqoo.net/theqdeal/4199769904",content:"물건찍고 통신사할인 페이코 3천원 쿠폰 바코드 찍고 결제. 페이코로 7천원 결제되고 해당카드로는 950원 결제했어!!",views:738,comments:4},
-  {title:"gs25 계란딜 알려준덬 고마워ㅎㅎ",site:"더쿠",keyword:"GS25",date:"2026-05-12",url:"https://theqoo.net/theqdeal/4199728897",content:"난 gs vvip 3천원 쿠폰있어서 30구 4300원에 엄청 싸게샀어.",views:1092,comments:2},
-  {title:"GS25) 샐러드판다 입점기념🥗 전품목 2,800원?",site:"더쿠",keyword:"GS25",date:"2026-05-12",url:"https://theqoo.net/theqdeal/4199492297",content:"현카 추가하면 2800원.",views:2936,comments:40},
-  {title:"gs25에서 계란 싸게살수있어 (복잡하고 까다롭지만)",site:"더쿠",keyword:"GS25",date:"2026-05-12",url:"https://theqoo.net/theqdeal/4199091361",content:"gs25에서 삼성/신한/국민/비씨카드+페이코 조합으로 계란 최대 반값.",views:4313,comments:40},
-  {title:"Gs25 슈퍼마리오 도시락에 랜덤 키캡 있어서 2개샀는데",site:"더쿠",keyword:"GS25",date:"2026-05-10",url:"https://theqoo.net/talk/4197447966",content:"GS25 슈퍼마리오 도시락 키캡 랜덤 증정 후기.",views:92,comments:3},
-  {title:"혹시 지금 gs25 근처인 덬 있어?",site:"더쿠",keyword:"GS25",date:"2026-05-08",url:"https://theqoo.net/talk/4194544553",content:"댓글에 깊콘 하나 뿌릴테니까 썼으면 댓 좀 남겨조.",views:55,comments:5},
-  {title:"요즘 gs25 날치알명란계란말이 삼김 먹는디 개존맛이야",site:"더쿠",keyword:"GS25",date:"2026-05-06",url:"https://theqoo.net/talk/4191278418",content:"GS25 날치알명란계란말이 삼각김밥 강력 추천 글.",views:null,comments:null},
-  {title:"GS25 히나쿠우 콜라보 쿠숭이 미니 카메라 키링",site:"더쿠",keyword:"GS25",date:"2026-05-06",url:"https://theqoo.net/square/4191999174",content:"정가 24,900원 사전예약가 19,900원 (품절). GS25 히나쿠우 콜라보 굿즈 키링.",views:2868,comments:15},
-  {title:"네이버) 올리브영기프트카드 / GS25 모바일상품권 3만원권 (27,930원)",site:"더쿠",keyword:"GS25",date:"2026-05-10",url:"https://theqoo.net/theqdeal/4196742351",content:"GS25 모바일 상품권 3만원권 핫딜. 27930원에 구매 가능.",views:919,comments:7},
-  {title:"gs25 슈퍼마리오 도시락 2트",site:"더쿠",keyword:"GS25",date:"2026-05-10",url:"https://theqoo.net/theqdeal/4196649719",content:"1트는 요시 2트는 꽃 나왔어. 집에있는 키링에 끼워봄 ㅎㅎ",views:1465,comments:3},
-  {title:"gs25 진정성 밀크티 5월도 1+1이네!",site:"더쿠",keyword:"GS25",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194279919",content:"신나서 4개 삿당!!!! 히히 진정성좋아.",views:805,comments:8},
-  {title:"GS25) 김밥&삼각김밥 50퍼 할인쿠폰 받아(대상상품만)",site:"더쿠",keyword:"GS25",date:"2026-05-08",url:"https://theqoo.net/theqdeal/4194266685",content:"이번주도 쿠폰 3장 준다!! 우리동네GS25앱에서 픽업 누르면 배너 뜨는데 넘기면 나와.",views:2025,comments:27},
-  {title:"마리오도시락 & 키캡 (농협카드50% 할인)",site:"더쿠",keyword:"GS25",date:"2026-05-07",url:"https://theqoo.net/theqdeal/4193454161",content:"gs25에서 마리오도시락 농협카드 50퍼 할인해. 6300원짜리 3150원에 구매함.",views:1321,comments:9},
-  {title:"편의점은 걍 gs25가 1황인듯",site:"에펨코리아",keyword:"GS25",date:"2026-05-10",url:"https://www.fmkorea.com/9809203373",content:"그 다음이 cu. 젤 구린게 세븐일레븐.",views:86,comments:0},
-  {title:"gs25에 아사히산 신상 하이볼 들어와서 사봤는데",site:"에펨코리아",keyword:"GS25",date:"2026-05-09",url:"https://www.fmkorea.com/9806568265",content:"자세히 보니 주정으로 만든거네 ㅅㅂ ㅋㅋ.",views:207,comments:11},
-  {title:"Gs25에 몽골맥주 생구르?맥주가나왔다길래",site:"에펨코리아",keyword:"GS25",date:"2026-05-09",url:"https://www.fmkorea.com/9806500223",content:"무봤는데 뭐 특별한건없고 걍 테라마시는느낌..",views:235,comments:2},
-  {title:"GS25가서 까까 머사먹죠",site:"에펨코리아",keyword:"GS25",date:"2026-05-08",url:"https://www.fmkorea.com/9802280751",content:"GS25 과자 추천 요청 글.",views:160,comments:14},
-  {title:"편의점 교환권 가질사람",site:"에펨코리아",keyword:"GS25",date:"2026-05-08",url:"https://www.fmkorea.com/9800877569",content:"gs25랑 세븐일레븐 중에 5000원임.",views:191,comments:31},
-  {title:"GS25 슈퍼마리오 편의점 도시락 먹음",site:"에펨코리아",keyword:"GS25",date:"2026-05-08",url:"https://www.fmkorea.com/9800219797",content:"농협카드 있으면 반값도 가능! 예쁜 키캡도 주네요~^^",views:279,comments:3},
-  {title:"알바 지원할 곳 골라주라 (GS25 포함)",site:"인스티즈",keyword:"GS25",date:"2026-05-11",url:"https://www.instiz.net/name/66397004",content:"서브웨이/피시방/빽다방/gs25편의점 중 GS25 편의점 알바 후보로 고민하는 글.",views:28,comments:0},
-  {title:"gs25 반값택배 매일 수거해가는 거 아냐?",site:"인스티즈",keyword:"GS25",date:"2026-05-11",url:"https://www.instiz.net/name/66393737",content:"요즘 며칠씩 걸리는 것 같네 뭐지.",views:7,comments:2},
-  {title:"gs25 고사리 미나리 비빔밥 존맛❤️",site:"인스티즈",keyword:"GS25",date:"2026-05-08",url:"https://www.instiz.net/name/66364998",content:"간장 베이스에 너무 맛있다❤️❤️",views:558,comments:0},
-  {title:"GS25 요거트 나눔하면 받을 사람?",site:"인스티즈",keyword:"GS25",date:"2026-05-06",url:"https://www.instiz.net/name/66343152",content:"요건데 주위에 있으면 나눔하께!",views:61,comments:0},
-];
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.3/src/wordcloud2.min.js"></script>
+
+<script>
+// ===== 탭 전환 =====
+let cuPosts = [];
+let gsPosts = [];
+let cuFiltered = [];
+let gsFiltered = [];
+
+
 
 function showTab(name) {
   document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
@@ -804,19 +803,127 @@ function showMonitor(brand) {
   else tabs[1].classList.add('active');
 }
 
-const START_DATE = '2026-05-06';
-const END_DATE   = '2026-05-12';
+// ===== 최근 7일 기간 자동 계산 =====
+function formatDate(date) {
+  return date.toISOString().split('T')[0];
+}
 
+const today = new Date();
+
+const endDateObj = new Date(today);
+const startDateObj = new Date(today);
+
+startDateObj.setDate(startDateObj.getDate() - 6);
+
+const START_DATE = formatDate(startDateObj);
+const END_DATE   = formatDate(endDateObj);
+
+function formatDisplayDate(dateStr) {
+  return dateStr.replaceAll('-', '.');
+}
+
+function formatShortPeriod(startStr, endStr) {
+  const start = startStr.slice(5).replace('-', '.');
+  const end = endStr.slice(5).replace('-', '.');
+  return `${start} ~ ${end}`;
+}
+
+function updateDateLabels() {
+  const fullPeriod = `${formatDisplayDate(START_DATE)} ~ ${formatDisplayDate(END_DATE)}`;
+  const shortPeriod = formatShortPeriod(START_DATE, END_DATE);
+  const compactPeriod = shortPeriod.replace(' ~ ', '~');
+
+  document.getElementById('display-period').textContent = fullPeriod;
+  document.getElementById('display-updated').textContent = formatDisplayDate(END_DATE);
+  document.getElementById('display-period-short').textContent = `${shortPeriod} 기준`;
+
+  document.querySelectorAll('.display-period-compact').forEach(el => {
+    el.textContent = compactPeriod;
+  });
+}
+
+console.log(`수집 기간: ${START_DATE} ~ ${END_DATE}`);
+
+// ===== 실제 수집 데이터 =====
+
+
+// ===== 날짜 필터 적용 =====
 const filterByDate = posts => posts.filter(p => p.date >= START_DATE && p.date <= END_DATE);
-const cuFiltered  = filterByDate(cuPosts);
-const gsFiltered  = filterByDate(gsPosts);
 
+  const SUPABASE_URL = 'https://gntaqfwkfolmufbwjmkk.supabase.co';
+  const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdudGFxZndrZm9sbXVmYndqbWtrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg3NjQxNjUsImV4cCI6MjA5NDM0MDE2NX0.QN0ZyBsN0OrZBkrhWPi60WHKOFdRWpjGZCWj5seGJ38';
+
+  const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+function showLoading() {
+  const loading = document.getElementById('loading');
+  if (loading) loading.style.display = 'flex';
+}
+
+function hideLoading() {
+  const loading = document.getElementById('loading');
+  if (loading) loading.style.display = 'none';
+}
+
+async function loadPosts() {
+  showLoading();
+
+  try {
+    const { data, error } = await supabaseClient
+      .from('posts')
+      .select('*')
+      .gte('post_date', START_DATE)
+      .lte('post_date', END_DATE)
+      .order('post_date', { ascending: false });
+
+    if (error) {
+      console.error(error);
+      alert('Supabase 데이터를 불러오지 못했습니다.');
+      return;
+    }
+
+    const posts = data.map(p => ({
+      title: p.title,
+      site: p.site,
+      keyword: p.keyword,
+      date: p.post_date,
+      url: p.url,
+      content: p.content,
+      views: p.views,
+      comments: p.comments,
+      brand: p.brand
+    }));
+
+    cuPosts = posts.filter(p => p.brand === 'cu');
+    gsPosts = posts.filter(p => p.brand === 'gs');
+
+    cuFiltered = filterByDate(cuPosts);
+    gsFiltered = filterByDate(gsPosts);
+
+    updateDateLabels();
+
+    buildSummary();
+    buildKeywords();
+    renderTable('cu');
+    renderTable('gs');
+
+  } catch (err) {
+    console.error(err);
+    alert('데이터 처리 중 오류가 발생했습니다.');
+  } finally {
+    hideLoading();
+  }
+}
+
+
+// ===== 요약 탭: 실제 데이터 기반 통계 =====
 function buildSummary() {
   const all = [...cuFiltered, ...gsFiltered];
   document.getElementById('stat-total').textContent  = all.length;
   document.getElementById('stat-cu').textContent     = cuFiltered.length;
   document.getElementById('stat-gs').textContent     = gsFiltered.length;
 
+  // 키워드별 게시글 수
   const kwCount = {};
   all.forEach(p => { kwCount[p.keyword] = (kwCount[p.keyword]||0) + 1; });
   const kwMax = Math.max(...Object.values(kwCount));
@@ -830,11 +937,14 @@ function buildSummary() {
   }).join('');
   document.getElementById('kw-bars').innerHTML = kwHtml;
 
+  // 사이트별 게시글 수
   const siteCount = {};
   all.forEach(p => { siteCount[p.site] = (siteCount[p.site]||0) + 1; });
   const total = all.length;
-  const siteColors = {'더쿠':'#f97316','에펨코리아':'#3b82f6','인스티즈':'#7c3aed'};
+  const siteColors = {'더쿠':'#ff9f43','에펨코리아':'#54a0ff','인스티즈':'#a29bfe'};
+  const badgeClass = {'더쿠':'badge-theqoo','에펨코리아':'badge-fmkorea','인스티즈':'badge-instiz'};
 
+  // 도넛 SVG 계산
   let offset = 0;
   const C = 2 * Math.PI * 52;
   const segments = Object.entries(siteCount).map(([site,cnt]) => {
@@ -865,6 +975,7 @@ function buildSummary() {
   document.getElementById('site-legend').innerHTML = legendHtml;
 }
 
+// ===== 키워드 TOP10: 실제 title+content 명사 추출 =====
 function buildKeywords() {
   const stopwords = new Set([
     '이','가','을','를','은','는','의','에','에서','으로','로','와','과','도','만','한테',
@@ -882,11 +993,12 @@ function buildKeywords() {
   ]);
 
   const extract = (text) => {
-    const words = text.replace(/[^가-힣a-zA-Z0-9\s]/g, ' ').split(/\s+/);
+    const words = text.replace(/[^\uAC00-\uD7A3a-zA-Z0-9\s]/g, ' ').split(/\s+/);
     return words.filter(w => {
       if (w.length < 2) return false;
       if (stopwords.has(w)) return false;
       if (/^\d+$/.test(w)) return false;
+      if (/^[a-zA-Z]{1}$/.test(w)) return false;
       return true;
     });
   };
@@ -897,7 +1009,7 @@ function buildKeywords() {
       const text = (p.title || '') + ' ' + (p.content || '');
       extract(text).forEach(w => { freq[w] = (freq[w]||0) + 1; });
     });
-    return Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,10);
+    return Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,50);
   };
 
   const cuTop  = countWords(cuFiltered);
@@ -905,21 +1017,88 @@ function buildKeywords() {
   const cuMax  = cuTop[0] ? cuTop[0][1] : 1;
   const gsMax  = gsTop[0] ? gsTop[0][1] : 1;
 
-  const renderKeywords = (top, max, cls, containerId) => {
-    const html = top.map(([word, cnt], i) => `
-      <div class="keyword-item ${cls}">
-        <span class="keyword-rank ${i<3?'top3':''}">${String(i+1).padStart(2,'0')}</span>
-        <span class="keyword-word">${word}</span>
-        <div class="keyword-bar-mini"><div class="keyword-bar-fill ${cls==='gs-kw'?'gs':''}" style="width:${Math.round(cnt/max*100)}%"></div></div>
-        <span class="keyword-count">${cnt}</span>
-      </div>`).join('');
-    document.getElementById(containerId).innerHTML = html;
+const renderKeywords = (top, max, cls, containerId) => {
+  const canvas = document.getElementById(containerId);
+  const isGs = cls === 'gs-kw';
+
+  const width = Math.max(320, canvas.parentElement.clientWidth);
+  const cssHeight = parseInt(getComputedStyle(canvas).height, 10);
+  const height = Number.isFinite(cssHeight) ? cssHeight : 620;
+
+  canvas.width = Math.floor(width * window.devicePixelRatio);
+  canvas.height = Math.floor(height * window.devicePixelRatio);
+  canvas.style.width = '100%';
+  canvas.style.height = `${height}px`;
+
+  const hexToRgb = hex => {
+    const clean = hex.replace('#', '');
+    return [
+      parseInt(clean.slice(0, 2), 16),
+      parseInt(clean.slice(2, 4), 16),
+      parseInt(clean.slice(4, 6), 16)
+    ];
   };
 
+  const rgbToHex = ([r, g, b]) =>
+    '#' + [r, g, b].map(v => Math.round(v).toString(16).padStart(2, '0')).join('');
+
+  const mixColor = (lightHex, darkHex, t) => {
+    const light = hexToRgb(lightHex);
+    const dark = hexToRgb(darkHex);
+    const eased = Math.pow(Math.max(0, Math.min(1, t)), 0.72);
+    return rgbToHex(light.map((v, i) => v + (dark[i] - v) * eased));
+  };
+
+  const gradient = isGs
+    ? { light: '#D1FAE5', dark: '#00A651' }
+    : { light: '#DDD6FE', dark: '#4F46E5' };
+
+  const colorByWord = new Map();
+
+  const list = top.map(([word, cnt], index) => {
+    const ratio = cnt / max;
+    const baseSize = 15 + ratio * 34;
+    const top10Boost = index < 10 ? 2 : 1;
+    const size = baseSize * top10Boost;
+
+    // 빈도수가 높을수록 더 진한 색으로 보이도록 50개 항목 전체에 연속 그라데이션 적용
+    colorByWord.set(word, mixColor(gradient.light, gradient.dark, ratio));
+
+    return [word, size];
+  });
+
+  WordCloud(canvas, {
+    list,
+    gridSize: Math.round(12 * window.devicePixelRatio),
+    weightFactor: window.devicePixelRatio,
+
+    fontFamily: 'Noto Sans KR, sans-serif',
+    fontWeight: '900',
+
+    color: (word) => colorByWord.get(word) || gradient.light,
+    backgroundColor: '#ffffff',
+
+    // 키워드 크기 차이를 더 잘 보이게 하되, 읽기 흐름은 유지
+    rotateRatio: 0.015,
+    rotationSteps: 2,
+    minRotation: -Math.PI / 48,
+    maxRotation: Math.PI / 48,
+
+    // 큰 TOP10 키워드가 캔버스 밖으로 잘리지 않도록 유지
+    drawOutOfBound: false,
+    shrinkToFit: true,
+
+    origin: [canvas.width / 2, canvas.height / 2],
+    ellipticity: 0.64,
+
+    clearCanvas: true
+  });
+}
   renderKeywords(cuTop, cuMax, '', 'cu-keyword-grid');
   renderKeywords(gsTop, gsMax, 'gs-kw', 'gs-keyword-grid');
 }
 
+// ===== 팝업 =====
 const popup = document.createElement('div');
 popup.className = 'popup-overlay';
 popup.innerHTML = `<div class="popup-box">
@@ -964,6 +1143,7 @@ document.addEventListener('mousemove', e => {
   popup.style.top  = top  + 'px';
 });
 
+// ===== 페이지네이션 + 정렬 상태 =====
 const state = {
   cu: { page:1, filter:'all', sort:'date_desc' },
   gs: { page:1, filter:'all', sort:'date_desc' }
@@ -1019,6 +1199,7 @@ function renderTable(brand) {
     });
   }
 
+  // 페이지네이션
   const totalPages = Math.ceil(total / PAGE_SIZE);
   const pg = document.getElementById(`${brand}-pagination`);
   pg.innerHTML = '';
@@ -1047,10 +1228,10 @@ function sortTable(el, brand, sortVal) {
   renderTable(brand);
 }
 
-buildSummary();
-buildKeywords();
-renderTable('cu');
-renderTable('gs');
-</script>
+// ===== 초기 렌더링 =====  
+loadPosts();
+
+
+// ===== 데이터 (content: 실제 수집 본문) =====</script>
 </body>
 </html>
