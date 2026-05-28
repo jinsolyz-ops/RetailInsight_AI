@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-05-27T23:08:06.485Z",
+  "generatedAt": "2026-05-28T23:06:52.160Z",
   "summary": [
-    "CU, 에스파 협업 음료·토니모리 뷰티 제품으로 1020세대 공략 강화",
-    "세븐일레븐, 엔제리너스 디저트 협업으로 카페형 편의점 디저트 시장 선점",
-    "BGF리테일, 해외시장 확대로 국내 포화 시장 극복·몽골 CU 연평균 12% 성장"
+    "GS25, 지드래곤 협업 '데이지맥주' 100만캔 판매로 에일 매출 30% 상승",
+    "이마트24, 특화 점포 전략으로 '한강르네상스' 등 매출 10배 달성",
+    "편의점 간편식·디저트 시장 확대, GS25·세븐일레븐·이마트24 PB 경쟁 심화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "⚠️",
-          "title": "스타벅스 탱크데이 파장",
-          "summary": "스타벅스 마케팅 논란 이후 유통업계 전반에서 역사·사회적 이슈와 맞물린 캠페인 재점검 움직임 확산, 브랜드 리스크 관리 강화.",
+          "emoji": "🎯",
+          "title": "K브랜드 도쿄 집결",
+          "summary": "도쿄 쇼핑지구에 K브랜드 노출 급증으로 글로벌 관광객 대상 마케팅 강화 추세.",
           "articleIndices": [
-            1,
-            2
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[박성은의 쇼트컷] 스타벅스 사태로 가장 우려되는 것",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024809"
-            },
-            {
-              "title": "8·15에 일본 캐릭터?… 유통가, 마케팅 부랴부랴 재점검",
-              "url": "https://n.news.naver.com/mnews/article/005/0001851475?sid=101"
+              "title": "도쿄 '쇼핑성지'에 집결한 K브랜드…日 찾은 외국인에 스며든다",
+              "url": "https://n.news.naver.com/mnews/article/018/0006292696?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "외국인 명품 소비 확대",
-          "summary": "외국인 관광객 증가로 백화점·면세점 명품·패션 판매 호조, 유통업계 전반 수익성 개선 기대감 확산.",
+          "emoji": "⚠️",
+          "title": "SNS 표현 검수 강화",
+          "summary": "스벅 논란 이후 유통가 SNS 리스크 관리 시스템 강화 및 내부 모니터링 체계 구축.",
           "articleIndices": [
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[이슈in] '명품 사러 한국 온다'… 외국인 몰리자 웃는 백화점·면세점",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3404376"
+              "title": "스벅 논란에 유통가 긴장...\"표현 하나도 조심\" SNS 검수 강화",
+              "url": "https://www.kukinews.com/article/view/kuk202605280158"
             }
           ],
           "articleCount": 1
@@ -50,37 +45,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 기반 커머스 자동화",
-          "summary": "AI 에이전트 기반 버티컬 커머스 플랫폼 확산, 인플루언서 마케팅·콘텐츠 자동화 등 전환율 중심 수익화 경쟁 심화.",
+          "emoji": "🛍️",
+          "title": "버티컬 커머스 확장",
+          "summary": "무신사·올리브영·다이소 등 버티컬 플랫폼이 PB·가전 등으로 카테고리 확장하며 종합 C2C 플랫폼 경쟁 심화.",
           "articleIndices": [
-            5,
-            6,
-            7
+            10,
+            12
           ],
           "relatedLinks": [
             {
-              "title": "[주간스타트업동향] 디노티시아, 창신대와 방산 AI 실무 인재 양성 산학...",
-              "url": "https://it.donga.com/108948/"
+              "title": "[테크M 트렌드] '무신사 갔다가, 올리브영 가자'…'올다무' 3사 몸값만",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=152210"
             },
             {
-              "title": "[26' 하반기 생존전략] AI 에이전트 전쟁 개막…네이버·카카오 수익화...",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710260"
+              "title": "크림, '리셀 플랫폼' 넘어 PB·가전 확장…'종합 C2C 플랫폼' 승부수",
+              "url": "https://n.news.naver.com/mnews/article/030/0003432358?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
-          "emoji": "📸",
-          "title": "AI 기반 이커머스 콘텐츠 혁신",
-          "summary": "세기몰 등 이커머스 플랫폼이 AI 생성 이미지·영상 기술을 활용한 사진영상 산업 허브 구축, 신규 AI 안경 등 카테고리 확장 추진.",
+          "emoji": "📱",
+          "title": "플랫폼 규제 강화",
+          "summary": "정부의 플랫폼·이커머스 판매대금 지급 기한 단축 등 규제 강화로 업계 비용 절감 압박 증가.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'계란 한 줄을 쥐고 상경한 14세 소년이 60년 만에 AI 앞에 다시 섰다'…...",
-              "url": "https://kr.aving.net/news/articleView.html?idxno=1811254"
+              "title": "[이재명 정부 1년] 플랫폼 규율 강화 물꼬 텄지만…온플법·노란봉투법",
+              "url": "https://n.news.naver.com/mnews/article/119/0003095593?sid=101"
             }
           ],
           "articleCount": 1
@@ -91,36 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "☕",
-          "title": "스타벅스 결제액 급감",
-          "summary": "AI 기반 모바일인덱스 분석으로 스타벅스 탱크데이 논란 이후 주간 결제금액 84억 급감 추적, 저가 커피 경쟁 심화 가시화.",
+          "emoji": "🤖",
+          "title": "AI 커머스 확대",
+          "summary": "롯데웰푸드 등 유통업계가 ChatGPT 내 전용 앱 출시 등 AI 기반 추천·구매 서비스 시장 진출 가속화.",
           "articleIndices": [
-            3,
-            11
+            3
           ],
           "relatedLinks": [
             {
-              "title": "저가커피 공세 속… 스벅 일주일간 결제금액 84억 급감",
-              "url": "https://n.news.naver.com/mnews/article/005/0001851512?sid=101"
-            },
-            {
-              "title": "\"원두값·환율 부담도 벅찬데\"…스타벅스 논란, 신세계그룹 실적 흔드...",
-              "url": "https://www.viva100.com/article/20260527500726"
+              "title": "'선물하기 좋은 상품 추천해 줄래?'… 유통업계, AI로 온라인 구매 방식",
+              "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=41452"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🛒",
-          "title": "AI 쇼핑 기술 외부 판매",
-          "summary": "아마존이 '알렉사 포 쇼핑' 기술을 소매업체에 제공, 자체 AI 쇼핑 도구 구축 지원으로 글로벌 유통 채널 혁신 가속화.",
+          "emoji": "💄",
+          "title": "웰니스 시장 AI 활용",
+          "summary": "신세계백화점·CJ올리브영 등이 AI 기반 피부 진단 기술과 웨어러블 뷰티 디바이스로 웰니스 시장 주도.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "AI쇼핑도 AWS처럼...아마존, '알렉사 포 쇼핑' 기술 외부에 판다",
-              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=669673"
+              "title": "유통업계 덮친 '웰니스 열풍' … \"내 몸엔 돈 안 아낀다\" 건강 소비",
+              "url": "https://sateconomy.co.kr/news/view/1065602403081518"
             }
           ],
           "articleCount": 1
@@ -129,88 +118,52 @@
     },
     {
       "name": "당사 이슈",
-      "issues": [
-        {
-          "emoji": "🌏",
-          "title": "CU 해외시장 성장 견인",
-          "summary": "BGF리테일 CU가 국내 포화 시장 극복을 위해 해외 진출 강화, 몽골 CU 연평균 매출 12% 증가·현지화 전략 성공.",
-          "articleIndices": [
-            1,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "내수시장 한계 극복한 CU…BGF리테일, 해외시장서 실적 '견인'",
-              "url": "https://www.youthdaily.co.kr/news/article.html?no=219788"
-            },
-            {
-              "title": "[신성장 엔진 장착] BGF리테일, 주력 편의점 사업 고도화…글로벌 점포...",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=260657"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "💄",
-          "title": "CU 뷰티 특화 매장 확대",
-          "summary": "CU가 토니모리와 협업해 1020 잘파세대 겨냥 가성비 색조 화장품 출시, 전국 600여 개 뷰티 특화 매장 중심 확대.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "'이젠 뷰티까지 잘 파네'··· CU, 1020 잘파세대 겨냥 편의점 뷰티 키운...",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421588"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
+      "issues": []
     },
     {
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🚚",
-          "title": "GS25 24시간 배달 서비스",
-          "summary": "GS25가 19일부터 서울·경기·6대 광역시 약 1000개 점포에서 24시간 배달 서비스 시작, 편의점 배달 경쟁 심화.",
+          "emoji": "🍺",
+          "title": "GS25 지드래곤 맥주",
+          "summary": "GS25의 '데이지에일' 지드래곤 협업 제품이 100만캔 이상 판매되며 에일 맥주 전체 매출 30% 상승 견인.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[장욱희의 중장년 취업에세이] 배달 가방을 멘 중장년들, 플랫폼 노동시...",
-              "url": "https://www.newspim.com/news/view/20260527000267"
+              "title": "[오늘밤편술]에일부터 라거까지 지드래곤 '픽'…GS25 '데이지맥주'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005769258?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍰",
-          "title": "세븐일레븐 엔제리너스 디저트 협업",
-          "summary": "세븐일레븐이 커피 프랜차이즈 엔제리너스와 첫 디저트 협업, 카페형 디저트를 편의점 소비로 연결하는 전략 강화.",
+          "emoji": "✨",
+          "title": "세븐일레븐 산리오 협업",
+          "summary": "세븐일레븐의 38주년 '럭키 세븐 페스타'에서 산리오캐릭터즈 협업 굿즈가 SNS 화제 모으며 캐릭터 팬덤 마케팅 강화.",
           "articleIndices": [
-            3
+            6
           ],
           "relatedLinks": [
             {
-              "title": "CU, 에스파와 '레모네이드 하이볼'→세븐일레븐, 엔제리너스 '디저트 3종...",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=741720"
+              "title": "[IP경제학 下] 유통가 휩쓴 '캐릭터 팬덤'...놀이 공간으로 진화하는 마",
+              "url": "https://www.banronbodo.com/news/articleView.html?idxno=32370"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "이마트24 스타벅스 파장 영향",
-          "summary": "스타벅스 탱크데이 논란으로 신세계그룹 계열 이마트24 포함 유통 실적 악영향, 기프티콘 순위 급락 등 소비 심리 위축.",
+          "emoji": "🍜",
+          "title": "이마트24 특화 점포 전략",
+          "summary": "이마트24가 '한강르네상스' 등 특화 점포로 상권·방문객 특성 분석해 매장 콘셉트 차별화, 매출 10배 달성.",
           "articleIndices": [
-            5
+            9
           ],
           "relatedLinks": [
             {
-              "title": "'부동의 1위' 스벅 기프티콘, 8위로… 매출·주가 뚝, 4200억대 충전금 ...",
-              "url": "https://n.news.naver.com/mnews/article/469/0000933085?sid=101"
+              "title": "최진일號 이마트24, 특화 점포 '한강르네상스' 가보니",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605271140042260114"
             }
           ],
           "articleCount": 1
@@ -221,20 +174,25 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "☕",
-          "title": "편의점 카페형 디저트 확산",
-          "summary": "CU·세븐일레븐 등 편의점이 카페 브랜드와 협업한 고품질 디저트 출시, 전문 카페 경험을 편의점에서 제공하는 트렌드 확산.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 확대",
+          "summary": "GS25·세븐일레븐·이마트24 등 편의점이 스무디·카페형 디저트 등 프리미엄 간편식 라인 확대로 디저트 시장 경쟁 심화.",
           "articleIndices": [
             1,
-            2
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "\"카페 디저트도 편의점에서\"..세븐일레븐, 엔제리너스와 첫 디저트 협...",
-              "url": "https://kpenews.com/View.aspx?No=4093251"
+              "title": "[Cooking&Food] 건강·재미·경험을 다 맛본다, 스무디 열풍",
+              "url": "https://n.news.naver.com/mnews/article/025/0003526634?sid=103"
+            },
+            {
+              "title": "'나도 10만원 받았어' 편의점서 고기·술 한가득...유가 지원금에 '방긋",
+              "url": "https://n.news.naver.com/mnews/article/008/0005364472?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         }
       ]
     }
