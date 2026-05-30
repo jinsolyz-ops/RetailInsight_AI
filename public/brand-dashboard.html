@@ -599,6 +599,70 @@
     font-weight: 500;
   }
   .popup-row:hover td { background: var(--surface2); cursor: default; }
+
+  /* ===== AI Summary Section ===== */
+  .summary-section {
+    margin-top: 24px;
+  }
+  .summary-section-title {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 14px;
+  }
+  .summary-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .summary-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .summary-card.cu-summary { border-top: 3px solid var(--cu); }
+  .summary-card.gs-summary { border-top: 3px solid var(--gs); }
+  .summary-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+  .summary-card-title {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+  }
+  .summary-card.cu-summary .summary-card-title { color: var(--cu); }
+  .summary-card.gs-summary .summary-card-title { color: var(--gs); }
+  .summary-card-meta {
+    font-size: 11px;
+    color: var(--muted);
+    background: var(--surface2);
+    border-radius: 20px;
+    padding: 3px 10px;
+  }
+  .summary-lines {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .summary-line {
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.6;
+    word-break: keep-all;
+    padding-left: 4px;
+  }
+  .summary-empty {
+    font-size: 13px;
+    color: var(--muted);
+    font-style: italic;
+  }
 </style>
 </head>
 <body>
@@ -681,6 +745,31 @@
       </div>
     </div>
   </div>
+
+  <!-- AI Summary Section -->
+  <div class="summary-section">
+    <div class="summary-cards">
+      <div class="summary-card cu-summary">
+        <div class="summary-card-header">
+          <span class="summary-card-title">CU Summary</span>
+          <span class="summary-card-meta" id="cu-summary-meta">-</span>
+        </div>
+        <div class="summary-lines" id="cu-summary-content">
+          <span class="summary-empty">요약 데이터를 불러오는 중...</span>
+        </div>
+      </div>
+      <div class="summary-card gs-summary">
+        <div class="summary-card-header">
+          <span class="summary-card-title">GS25 Summary</span>
+          <span class="summary-card-meta" id="gs-summary-meta">-</span>
+        </div>
+        <div class="summary-lines" id="gs-summary-content">
+          <span class="summary-empty">요약 데이터를 불러오는 중...</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 <!-- ===== 키워드 통계 탭 ===== -->
@@ -805,18 +894,30 @@ function showMonitor(brand) {
 
 // ===== 최근 7일 기간 자동 계산 =====
 function formatDate(date) {
-  return date.toISOString().split('T')[0];
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
 }
 
-const today = new Date();
+function parseLocalDate(dateStr) {
+  const [year, month, day] = dateStr.split('-').map(Number);
+  return new Date(year, month - 1, day);
+}
 
-const endDateObj = new Date(today);
-const startDateObj = new Date(today);
+let START_DATE = null;
+let END_DATE = null;
 
-startDateObj.setDate(startDateObj.getDate() - 6);
+function setCollectionPeriodByLatestPostDate(latestPostDate) {
+  END_DATE = latestPostDate;
 
-const START_DATE = formatDate(startDateObj);
-const END_DATE   = formatDate(endDateObj);
+  const startDateObj = parseLocalDate(latestPostDate);
+  startDateObj.setDate(startDateObj.getDate() - 6);
+
+  START_DATE = formatDate(startDateObj);
+
+  console.log(`수집 기간: ${START_DATE} ~ ${END_DATE}`);
+}
 
 function formatDisplayDate(dateStr) {
   return dateStr.replaceAll('-', '.');
@@ -829,6 +930,8 @@ function formatShortPeriod(startStr, endStr) {
 }
 
 function updateDateLabels() {
+  if (!START_DATE || !END_DATE) return;
+
   const fullPeriod = `${formatDisplayDate(START_DATE)} ~ ${formatDisplayDate(END_DATE)}`;
   const shortPeriod = formatShortPeriod(START_DATE, END_DATE);
   const compactPeriod = shortPeriod.replace(' ~ ', '~');
@@ -848,7 +951,6 @@ console.log(`수집 기간: ${START_DATE} ~ ${END_DATE}`);
 
 
 // ===== 날짜 필터 적용 =====
-const filterByDate = posts => posts.filter(p => p.date >= START_DATE && p.date <= END_DATE);
 
   const SUPABASE_URL = 'https://gntaqfwkfolmufbwjmkk.supabase.co';
   const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdudGFxZndrZm9sbXVmYndqbWtrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg3NjQxNjUsImV4cCI6MjA5NDM0MDE2NX0.QN0ZyBsN0OrZBkrhWPi60WHKOFdRWpjGZCWj5seGJ38';
@@ -869,6 +971,25 @@ async function loadPosts() {
   showLoading();
 
   try {
+    const { data: latestRows, error: latestError } = await supabaseClient
+      .from('posts')
+      .select('post_date')
+      .order('post_date', { ascending: false })
+      .limit(1);
+
+    if (latestError) {
+      console.error(latestError);
+      alert('최신 수집일을 불러오지 못했습니다.');
+      return;
+    }
+
+    if (!latestRows || latestRows.length === 0) {
+      alert('수집된 데이터가 없습니다.');
+      return;
+    }
+
+    setCollectionPeriodByLatestPostDate(latestRows[0].post_date);
+
     const { data, error } = await supabaseClient
       .from('posts')
       .select('*')
@@ -897,8 +1018,8 @@ async function loadPosts() {
     cuPosts = posts.filter(p => p.brand === 'cu');
     gsPosts = posts.filter(p => p.brand === 'gs');
 
-    cuFiltered = filterByDate(cuPosts);
-    gsFiltered = filterByDate(gsPosts);
+    cuFiltered = cuPosts;
+    gsFiltered = gsPosts;
 
     updateDateLabels();
 
@@ -1228,8 +1349,61 @@ function sortTable(el, brand, sortVal) {
   renderTable(brand);
 }
 
+
+// ===== Summary 테이블 조회 및 렌더링 =====
+async function loadSummary() {
+  const SUPABASE_URL = 'https://gntaqfwkfolmufbwjmkk.supabase.co';
+  const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdudGFxZndrZm9sbXVmYndqbWtrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg3NjQxNjUsImV4cCI6MjA5NDM0MDE2NX0.QN0ZyBsN0OrZBkrhWPi60WHKOFdRWpjGZCWj5seGJ38';
+
+  try {
+    const res = await fetch(
+      `${SUPABASE_URL}/rest/v1/summary?select=*&order=created_at.desc&limit=2`,
+      { headers: { apikey: SUPABASE_KEY, Authorization: `Bearer ${SUPABASE_KEY}` } }
+    );
+    if (!res.ok) throw new Error('summary 조회 실패');
+    const rows = await res.json();
+
+    rows.forEach(row => {
+      const brand = row.brand; // 'cu' or 'gs'
+      const lines = row.summary_content
+        ? row.summary_content.split('\n').filter(l => l.trim())
+        : [];
+      // UTC 파싱 시 하루 밀림 방지: split('-')로 직접 파싱
+      const fmtDate = (str) => {
+        if (!str) return '-';
+        const [y, m, d] = str.split('-');
+        return `${parseInt(m)}월 ${parseInt(d)}일`;
+      };
+      const meta = row.period_start && row.period_end
+        ? `${fmtDate(row.period_start)} ~ ${fmtDate(row.period_end)} | ${row.post_count}건`
+        : row.created_at || '-';
+
+      const contentEl = document.getElementById(`${brand}-summary-content`);
+      const metaEl    = document.getElementById(`${brand}-summary-meta`);
+
+      if (metaEl) metaEl.textContent = meta;
+      if (contentEl) {
+        if (lines.length === 0) {
+          contentEl.innerHTML = '<span class="summary-empty">요약 데이터가 없습니다</span>';
+        } else {
+          contentEl.innerHTML = lines
+            .map(l => `<div class="summary-line">${l}</div>`)
+            .join('');
+        }
+      }
+    });
+  } catch(e) {
+    console.error('Summary 로드 실패:', e);
+    ['cu', 'gs'].forEach(brand => {
+      const el = document.getElementById(`${brand}-summary-content`);
+      if (el) el.innerHTML = '<span class="summary-empty">요약 데이터를 불러올 수 없습니다</span>';
+    });
+  }
+}
+
 // ===== 초기 렌더링 =====  
 loadPosts();
+loadSummary();
 
 
 // ===== 데이터 (content: 실제 수집 본문) =====</script>
