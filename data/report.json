@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-05-29T23:02:31.914Z",
+  "generatedAt": "2026-05-30T22:45:36.194Z",
   "summary": [
-    "식품업계 신제품 전략 변화: 올·다·무 등 버티컬 커머스에서 먼저 출시 후 채널 확대",
-    "세븐일레븐 일본 멸균우유 '산가리아' 출시 1주일 만에 5만개 완판으로 경쟁사 차별화",
-    "AI 기반 개인화 추천 서비스 확대로 온라인 쇼핑 플랫폼 경쟁 심화"
+    "CU, 에스파 협업 '레모네이드 하이볼' 출시로 IP 협업 주류 시장 선점",
+    "편의점업계 마케팅 리스크 심화: 생성형 AI 활용 광고 논란 확산",
+    "커피 소비처 이동 가속화로 편의점 카페 경쟁 심화, 소비자 선택 다양화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "👓",
-          "title": "K-아이웨어 전성기",
-          "summary": "K-뷰티 이후 소비 카테고리가 K-아이웨어로 이동하며 젠틀몬스터 등 국내 브랜드의 글로벌 경쟁력 강화 중.",
+          "emoji": "☕",
+          "title": "편의점 카페 경쟁 심화",
+          "summary": "스타벅스 브랜드 이슈로 인한 소비자 이탈이 편의점 카페 채널로의 소비 이동을 가속화하며 유통 채널 재편 현상 발생.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "K아이웨어 '뜨거운' 전성기 시작됐다… 젠틀몬스터 vs 블루엘리펀트",
-              "url": "https://n.news.naver.com/mnews/article/243/0000098451?sid=101"
+              "title": "스타벅스 안 가도 된다고요?…10만 카페 시대, 소비자 발길 달라졌...",
+              "url": "https://n.news.naver.com/mnews/article/022/0004131744?sid=101"
+            },
+            {
+              "title": "[주간 유통 나침반] 대국민 사과에도 고객 떠난 스타벅스, 팔아도 안 팔...",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=522713"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "📱",
-          "title": "신제품 출시 전략 변화",
-          "summary": "식품업계가 올·다·무 등 버티컬 커머스에서 먼저 신제품을 선보인 후 입소문을 통해 채널을 확대하는 경험형 마케팅으로 전환.",
+          "emoji": "👓",
+          "title": "K-아이웨어 시장 확대",
+          "summary": "K-뷰티 이후 K-아이웨어가 차세대 소비 카테고리로 부상하며 젠틀몬스터, 블루엘리펀트 등 브랜드 간 경쟁 심화.",
           "articleIndices": [
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[#유통365] '올·다·무'에 먼저 푼다···식품업계 신제품 공식 변화",
-              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=421376"
+              "title": "젠틀몬스터 vs 블루엘리펀트 박 터지는 경쟁..K아이웨어 '뜨거운' 전...",
+              "url": "https://n.news.naver.com/mnews/article/243/0000098451?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,31 +50,16 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "버티컬 커머스 성장",
-          "summary": "무신사, 올리브영, 당근마켓 등 버티컬 커머스 플랫폼이 프리미엄 포지셔닝으로 1인당 거래 단가 13만원을 기록하며 대표 기업 반열 진입.",
+          "emoji": "🌏",
+          "title": "K-소스 해외 이커머스 확대",
+          "summary": "방글라데시 등 신흥시장에서 K-소스 수요 증가로 오프라인·이커머스 채널 다각화 추진 중.",
           "articleIndices": [
-            9
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[테크M 트렌드] '무신사 갔다가, 올리브영 가자'…'올다무' 3사 몸값만",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=152210"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🌾",
-          "title": "농산물 유통 마케팅 전환",
-          "summary": "농협이 양파 소비 촉진을 위해 홈쇼핑·이커머스 마케터와 협력하며 농산물 유통이 단순 공급에서 기획·마케팅 중심으로 전환.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[농협 소식] 농협, 양파 소비 촉진 나서…가격 하락 속 '가치 소비' 확산",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=85090"
+              "title": "1억8000만 방글라데시의 입맛을 사로잡는 K-소스",
+              "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=241271"
             }
           ],
           "articleCount": 1
@@ -80,36 +70,36 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 개인화 추천 확대",
-          "summary": "11번가, 쿠팡 등 온라인 플랫폼이 AI 기반 개인화 추천 서비스를 강화하며 여름 시즌 고객 확보 경쟁 심화.",
+          "emoji": "⚠️",
+          "title": "AI 광고 마케팅 리스크 확산",
+          "summary": "생성형 AI 활용 광고에서 사회적 논란 사례 증가로 유통업계가 마케팅 검수 강화 필요성 대두.",
           "articleIndices": [
             1,
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "벌써 수영복 찾는다…25조 온라인 쇼핑 시장, 여름 대전 빨라졌다",
-              "url": "https://n.news.naver.com/mnews/article/022/0004131688?sid=101"
+              "title": "'사내 '일베 감별사' 둬야 하나'… 유통가, '스벅 사태' 불똥 튈라 초긴...",
+              "url": "https://n.news.naver.com/mnews/article/469/0000933587?sid=101"
             },
             {
-              "title": "수영복부터 캠핑용품까지…막 오른 여름 쇼핑 대전[주말e커머스]",
-              "url": "https://n.news.naver.com/mnews/article/003/0013976865?sid=101"
+              "title": "[마켓타임스] '재미 쫓다간 역풍'···5월 유통가 덮친 마케팅 리스크",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2434349"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🎬",
-          "title": "AI 홈쇼핑 제작 혁신",
-          "summary": "KT알파가 AI를 활용한 차세대 방송 운영 체계로 제작 시간 단축을 넘어 홈쇼핑 산업의 디지털 전환 주도.",
+          "emoji": "🤖",
+          "title": "AI 에이전트 커머스 확산",
+          "summary": "카카오VX 골프 예약 서비스 등 AI가 탐색·비교·선택을 자동화하는 에이전틱 커머스 모델 확산.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "[무엇이든 리뷰] AI가 방송 기획부터 제작 현장까지 파고든다…'KT알파'",
-              "url": "https://n.news.naver.com/mnews/article/030/0003432786?sid=101"
+              "title": "골프장 찾고 예약까지 한 번에…카카오VX, AI 예약 시대 연다",
+              "url": "https://www.goodkyung.com/news/articleView.html?idxno=287613"
             }
           ],
           "articleCount": 1
@@ -120,24 +110,19 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📊",
-          "title": "BGF리테일 지분 구조 변화",
-          "summary": "홍석준 회장이 BGF리테일 지분을 전량 매각하며 오너 일가의 편의점 사업 직접 보유 구조에 변화 발생.",
+          "emoji": "🎤",
+          "title": "에스파 협업 주류 출시",
+          "summary": "CU가 SM엔터테인먼트 에스파와 협업한 '에스파 레모네이드 하이볼'을 출시하며 IP 협업 주류 시장 선점.",
           "articleIndices": [
-            1,
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'BGF 오너일가' 보광창업투자 회장 홍석준 BGF리테일 지분 모두 매도",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=438934"
-            },
-            {
-              "title": "홍석준 회장, BGF리테일 지분 전량 매각…오너 일가 편의점 사업 구조 변화",
-              "url": "https://www.tokenpost.kr/news/economy/364456"
+              "title": "[신상 열전] 삼립, 배스킨라빈스, CU, 매일유업 등",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=137742"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -146,45 +131,45 @@
       "issues": [
         {
           "emoji": "🍺",
-          "title": "GS25 지드래곤 맥주 2탄",
-          "summary": "GS25가 지드래곤 패션 브랜드와 일본 수제맥주 브랜드의 협업 '데이지라거' 2탄을 출시하며 프리미엄 주류 전략 강화.",
+          "title": "GS25 지드래곤 협업 맥주",
+          "summary": "GS25가 지드래곤 협업 '데이지라거'를 출시하며 편의점 IP 협업 주류 경쟁 심화.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "월드컵이 불붙이는 여름 주류 전쟁 …승자는?",
-              "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=201447"
+              "title": "더위에 월드컵 특수도 노린다…편의점업계, 'IP 협업 맥주'로 여름 시...",
+              "url": "https://www.etoday.co.kr/news/view/2588778"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥛",
-          "title": "세븐일레븐 일본 멸균우유 완판",
-          "summary": "세븐일레븐의 일본 인기 멸균우유 '산가리아' 출시 1주일 만에 초도 물량 5만개 완판으로 차별화된 상품 전략 성공.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "'이제 일본 안 가도 살수 있대' 일주일 만에 5만개 팔렸다…멸균우유 열풍",
-              "url": "https://n.news.naver.com/mnews/article/277/0005769734?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "♻️",
-          "title": "세븐일레븐 환경 기금 조성",
-          "summary": "세븐일레븐이 BC카드와 협력하여 종이영수증 미출력 절감액을 환경기금으로 조성하며 ESG 경영 강화.",
+          "emoji": "🍷",
+          "title": "세븐일레븐 하정우 와인 성공",
+          "summary": "세븐일레븐의 '하정우 와인'이 맛·가격·디자인·마케팅·원산지·스토리 등 6개 요소를 갖춘 '육각형 상품'으로 주목.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "BC카드 종이영수증 미출력 환경기금으로 몽골에 '기후대응숲' 가꾼다",
-              "url": "https://www.inthenews.co.kr/news/article.html?no=87474"
+              "title": "[인터뷰①] '육각형 와인이 목표죠'...세븐일레븐 MD가 말한 '하정우 와...",
+              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=802390"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥗",
+          "title": "이마트24 디저트·양곡 매출 증가",
+          "summary": "이마트24에서 디저트·빵 매출이 크게 증가하며 편의점 간 상품 카테고리 경쟁 심화.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"10만원 들어오자 고기·달걀부터 담았다\"…편의점 매출 72%↑",
+              "url": "https://n.news.naver.com/mnews/article/022/0004131710?sid=101"
             }
           ],
           "articleCount": 1
@@ -195,34 +180,25 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "편의점 제로·저당 디저트 열풍",
-          "summary": "편의점과 카페 업계가 무당파 트렌드에 맞춰 제로 음료, 저당 아이스크림, 단백질 간식 등 제품군을 빠르게 다양화.",
+          "emoji": "🍨",
+          "title": "편의점 디저트 SNS 트렌드",
+          "summary": "수박 냉동 레시피, 바나나우유·커피 믹스 등 편의점 상품 활용 DIY 디저트가 SNS·틱톡에서 폭발적 반응 생성.",
           "articleIndices": [
-            2
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[요즘 뜨는 트렌드] 무당(無糖)파가 뜬다…대학가 'ZERO 열풍'",
-              "url": "http://www.kwangju.co.kr/article.php?aid=1780056000799493391"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍗",
-          "title": "맘스터치 체험형 신제품 마케팅",
-          "summary": "맘스터치가 700만개 판매 기록의 치킨 신제품으로 1030세대의 '찍심'을 겨냥한 시각적 즐거움과 퍼포먼스 마케팅 강화.",
-          "articleIndices": [
-            8
-          ],
-          "relatedLinks": [
+              "title": "수박 잘라서 냉동실에 넣어보세요…\"이게 된다고?\" 다들 놀랍니다",
+              "url": "https://www.wikitree.co.kr/articles/1138980"
+            },
             {
-              "title": "[현장] '버거집 맞아?'…700만개 팔린 맘스터치 치킨, 더 강해져 돌아왔다",
-              "url": "https://n.news.naver.com/mnews/article/119/0003096021?sid=101"
+              "title": "'어? 그걸 섞어요?' 한국인도 몰랐다...외국인들 먼저 찾는 'K레시피'",
+              "url": "https://n.news.naver.com/mnews/article/008/0005365071?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     }
