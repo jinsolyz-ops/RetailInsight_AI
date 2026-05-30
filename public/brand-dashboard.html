@@ -808,15 +808,24 @@ function formatDate(date) {
   return date.toISOString().split('T')[0];
 }
 
-const today = new Date();
+function parseLocalDate(dateStr) {
+  const [year, month, day] = dateStr.split('-').map(Number);
+  return new Date(year, month - 1, day);
+}
 
-const endDateObj = new Date(today);
-const startDateObj = new Date(today);
+let START_DATE = null;
+let END_DATE = null;
 
-startDateObj.setDate(startDateObj.getDate() - 6);
+function setCollectionPeriodByLatestPostDate(latestPostDate) {
+  END_DATE = latestPostDate;
 
-const START_DATE = formatDate(startDateObj);
-const END_DATE   = formatDate(endDateObj);
+  const startDateObj = parseLocalDate(latestPostDate);
+  startDateObj.setDate(startDateObj.getDate() - 6);
+
+  START_DATE = formatDate(startDateObj);
+
+  console.log(`수집 기간: ${START_DATE} ~ ${END_DATE}`);
+}
 
 function formatDisplayDate(dateStr) {
   return dateStr.replaceAll('-', '.');
@@ -829,6 +838,8 @@ function formatShortPeriod(startStr, endStr) {
 }
 
 function updateDateLabels() {
+  if (!START_DATE || !END_DATE) return;
+
   const fullPeriod = `${formatDisplayDate(START_DATE)} ~ ${formatDisplayDate(END_DATE)}`;
   const shortPeriod = formatShortPeriod(START_DATE, END_DATE);
   const compactPeriod = shortPeriod.replace(' ~ ', '~');
@@ -848,7 +859,6 @@ console.log(`수집 기간: ${START_DATE} ~ ${END_DATE}`);
 
 
 // ===== 날짜 필터 적용 =====
-const filterByDate = posts => posts.filter(p => p.date >= START_DATE && p.date <= END_DATE);
 
   const SUPABASE_URL = 'https://gntaqfwkfolmufbwjmkk.supabase.co';
   const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdudGFxZndrZm9sbXVmYndqbWtrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg3NjQxNjUsImV4cCI6MjA5NDM0MDE2NX0.QN0ZyBsN0OrZBkrhWPi60WHKOFdRWpjGZCWj5seGJ38';
@@ -869,6 +879,25 @@ async function loadPosts() {
   showLoading();
 
   try {
+    const { data: latestRows, error: latestError } = await supabaseClient
+      .from('posts')
+      .select('post_date')
+      .order('post_date', { ascending: false })
+      .limit(1);
+
+    if (latestError) {
+      console.error(latestError);
+      alert('최신 수집일을 불러오지 못했습니다.');
+      return;
+    }
+
+    if (!latestRows || latestRows.length === 0) {
+      alert('수집된 데이터가 없습니다.');
+      return;
+    }
+
+    setCollectionPeriodByLatestPostDate(latestRows[0].post_date);
+
     const { data, error } = await supabaseClient
       .from('posts')
       .select('*')
@@ -897,8 +926,8 @@ async function loadPosts() {
     cuPosts = posts.filter(p => p.brand === 'cu');
     gsPosts = posts.filter(p => p.brand === 'gs');
 
-    cuFiltered = filterByDate(cuPosts);
-    gsFiltered = filterByDate(gsPosts);
+    cuFiltered = cuPosts;
+    gsFiltered = gsPosts;
 
     updateDateLabels();
 
