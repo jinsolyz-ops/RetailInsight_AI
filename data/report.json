@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-05-30T22:45:36.194Z",
+  "generatedAt": "2026-05-31T22:46:22.626Z",
   "summary": [
-    "CU, 에스파 협업 '레모네이드 하이볼' 출시로 IP 협업 주류 시장 선점",
-    "편의점업계 마케팅 리스크 심화: 생성형 AI 활용 광고 논란 확산",
-    "커피 소비처 이동 가속화로 편의점 카페 경쟁 심화, 소비자 선택 다양화"
+    "CU, 여름 시즌 맥주·아이스크림 대규모 할인 프로모션 전개",
+    "세븐일레븐, FIFA 월드컵 맞춰 즉석식품 20여종 할인·증정 행사",
+    "GS25, 신선식품 강화형 매장(FCS) 확대로 편의점 판도 변화 주도"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "☕",
-          "title": "편의점 카페 경쟁 심화",
-          "summary": "스타벅스 브랜드 이슈로 인한 소비자 이탈이 편의점 카페 채널로의 소비 이동을 가속화하며 유통 채널 재편 현상 발생.",
+          "emoji": "🏆",
+          "title": "스포츠 이벤트 연계 가성비 마케팅",
+          "summary": "편의점 업계가 FIFA 월드컵 등 국제 스포츠 이벤트와 하절기 성수기를 겨냥해 즉석식품 중심의 가성비 프로모션을 대규모 전개하며 홈어라운드 소비 트렌드 포착.",
           "articleIndices": [
-            1,
-            2
+            7,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "스타벅스 안 가도 된다고요?…10만 카페 시대, 소비자 발길 달라졌...",
-              "url": "https://n.news.naver.com/mnews/article/022/0004131744?sid=101"
+              "title": "세븐일레븐, 6월 국제 축구 이벤트 맞춰 즉석식품 대규모 프로모션 전개",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=78375"
             },
             {
-              "title": "[주간 유통 나침반] 대국민 사과에도 고객 떠난 스타벅스, 팔아도 안 팔...",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=522713"
+              "title": "[월드컵 맞는 유통가 D-10]⑤카타르 땐 297% 뛰었는데…치킨업계의 고민",
+              "url": "https://www.inthenews.co.kr/news/article.html?no=87480"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "👓",
-          "title": "K-아이웨어 시장 확대",
-          "summary": "K-뷰티 이후 K-아이웨어가 차세대 소비 카테고리로 부상하며 젠틀몬스터, 블루엘리펀트 등 브랜드 간 경쟁 심화.",
+          "emoji": "🥤",
+          "title": "웰니스 음료 K-팝 마케팅",
+          "summary": "롯데마트가 저당·저칼로리 콤부차에 K-팝 마케팅을 접목해 글로벌 팬덤과 해외 관광객 수요를 동시에 흡수하는 전략 시행.",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "젠틀몬스터 vs 블루엘리펀트 박 터지는 경쟁..K아이웨어 '뜨거운' 전...",
-              "url": "https://n.news.naver.com/mnews/article/243/0000098451?sid=101"
+              "title": "롯데마트, 외국인 '싹쓸이' 나선 콤부차에 K-팝 날개 달았다",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=78376"
             }
           ],
           "articleCount": 1
@@ -50,16 +50,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "K-소스 해외 이커머스 확대",
-          "summary": "방글라데시 등 신흥시장에서 K-소스 수요 증가로 오프라인·이커머스 채널 다각화 추진 중.",
+          "emoji": "📺",
+          "title": "홈쇼핑 브랜드평판 상승",
+          "summary": "롯데홈쇼핑이 6월 홈쇼핑 브랜드평판 1위를 기록하며 온라인·모바일 채널과의 경쟁 속에서 콘텐츠 경쟁력 강화 성과 입증.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "1억8000만 방글라데시의 입맛을 사로잡는 K-소스",
-              "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=241271"
+              "title": "[브랜드평판] 롯데홈쇼핑, 홈쇼핑 6월 1위... 공영홈쇼핑, 현대홈쇼핑 뒤...",
+              "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=50664"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "☕",
+          "title": "스타벅스 브랜드 신뢰도 추락",
+          "summary": "스타벅스 '518 탱크데이' 논란 이후 마케팅 행사 전반 중단 및 4000억원대 환불 사태로 브랜드 이미지 심각한 손상.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "[주간 유통 나침반] 대국민 사과에도 고객 떠난 스타벅스, 팔아도 안 팔...",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=522713"
             }
           ],
           "articleCount": 1
@@ -70,36 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "⚠️",
-          "title": "AI 광고 마케팅 리스크 확산",
-          "summary": "생성형 AI 활용 광고에서 사회적 논란 사례 증가로 유통업계가 마케팅 검수 강화 필요성 대두.",
+          "emoji": "🤖",
+          "title": "아마존 AI 쇼핑 기술 유통업계 공개",
+          "summary": "아마존이 '알렉사 포 쇼핑' 기술 구조와 운영 경험을 유통업계에 제공하기로 결정하며 AI 쇼핑 에이전트의 산업 표준화 추진.",
           "articleIndices": [
-            1,
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "[AI핫이슈] 애플·MS AI 전략 심판대..AI 비용 급증 논란",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670687"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "❄️",
+          "title": "AI 냉방가전 수요 확대",
+          "summary": "이른 무더위와 전기요금 부담으로 AI 기능 탑재 프리미엄 에어컨 수요가 확대되며 여름 성수기 가전 판매 전략 재편.",
+          "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "'사내 '일베 감별사' 둬야 하나'… 유통가, '스벅 사태' 불똥 튈라 초긴...",
-              "url": "https://n.news.naver.com/mnews/article/469/0000933587?sid=101"
-            },
-            {
-              "title": "[마켓타임스] '재미 쫓다간 역풍'···5월 유통가 덮친 마케팅 리스크",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2434349"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🤖",
-          "title": "AI 에이전트 커머스 확산",
-          "summary": "카카오VX 골프 예약 서비스 등 AI가 탐색·비교·선택을 자동화하는 에이전틱 커머스 모델 확산.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "골프장 찾고 예약까지 한 번에…카카오VX, AI 예약 시대 연다",
-              "url": "https://www.goodkyung.com/news/articleView.html?idxno=287613"
+              "title": "롯데하이마트, 6월 '하이라이트 세일' 진행...에어컨·냉방가전 할인 확...",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=122668"
             }
           ],
           "articleCount": 1
@@ -110,16 +120,31 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎤",
-          "title": "에스파 협업 주류 출시",
-          "summary": "CU가 SM엔터테인먼트 에스파와 협업한 '에스파 레모네이드 하이볼'을 출시하며 IP 협업 주류 시장 선점.",
+          "emoji": "🍺",
+          "title": "CU 여름 시즌 파격 할인전",
+          "summary": "CU가 맥주, 하이볼, 아이스크림, 즉석 원두커피 등 주요 하절기 상품을 6월 한 달간 대규모 할인 프로모션으로 여름 성수기 수요 선점.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[신상 열전] 삼립, 배스킨라빈스, CU, 매일유업 등",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=137742"
+              "title": "CU, 여름맞이 파격 할인전...세븐일레븐, 즉석치킨∙피자 프로모션",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=742494"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥬",
+          "title": "CU 스마트 크로서리 장보기 특화",
+          "summary": "CU가 신선식품과 식재료 구색을 강화한 '스마트 크로서리' 특화 점포 확대로 근거리 장보기 수요 공략.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "편의점도 '식재료 경쟁'…CU·GS25, 장보기 특화 전략 강화",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841700"
             }
           ],
           "articleCount": 1
@@ -130,46 +155,32 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "GS25 지드래곤 협업 맥주",
-          "summary": "GS25가 지드래곤 협업 '데이지라거'를 출시하며 편의점 IP 협업 주류 경쟁 심화.",
+          "emoji": "🥬",
+          "title": "GS25 신선식품 강화형 매장 확대",
+          "summary": "GS25가 신선식품 강화형 매장(FCS) 확대에 집중하며 1분기 매출 3.7% 증가, 영업이익 23.8% 증가로 편의점 판도 주도.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "더위에 월드컵 특수도 노린다…편의점업계, 'IP 협업 맥주'로 여름 시...",
-              "url": "https://www.etoday.co.kr/news/view/2588778"
+              "title": "세븐일레븐 반등 성공, 이마트24는 하락…편의점 판도 변화",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=456634"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🍷",
-          "title": "세븐일레븐 하정우 와인 성공",
-          "summary": "세븐일레븐의 '하정우 와인'이 맛·가격·디자인·마케팅·원산지·스토리 등 6개 요소를 갖춘 '육각형 상품'으로 주목.",
+          "emoji": "☕",
+          "title": "이마트24 스타벅스 환불 사태 대응",
+          "summary": "이마트(이마트24 최대 주주)가 스타벅스 카드 환불 기준을 한시적으로 완화하며 브랜드 신뢰도 회복 시도.",
           "articleIndices": [
-            5
+            9
           ],
           "relatedLinks": [
             {
-              "title": "[인터뷰①] '육각형 와인이 목표죠'...세븐일레븐 MD가 말한 '하정우 와...",
-              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=802390"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🥗",
-          "title": "이마트24 디저트·양곡 매출 증가",
-          "summary": "이마트24에서 디저트·빵 매출이 크게 증가하며 편의점 간 상품 카테고리 경쟁 심화.",
-          "articleIndices": [
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"10만원 들어오자 고기·달걀부터 담았다\"…편의점 매출 72%↑",
-              "url": "https://n.news.naver.com/mnews/article/022/0004131710?sid=101"
+              "title": "스타벅스 카드 전액 환불 시작…오늘부터 2주간 접수",
+              "url": "https://n.news.naver.com/mnews/article/015/0005293368?sid=101"
             }
           ],
           "articleCount": 1
@@ -180,25 +191,19 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍨",
-          "title": "편의점 디저트 SNS 트렌드",
-          "summary": "수박 냉동 레시피, 바나나우유·커피 믹스 등 편의점 상품 활용 DIY 디저트가 SNS·틱톡에서 폭발적 반응 생성.",
+          "emoji": "🥤",
+          "title": "콤부차 저당·저칼로리 트렌드",
+          "summary": "롯데마트 5월 콤부차 매출이 전년 동기 대비 42.7% 급증하며 웰니스 음료 시장에서 저당·저칼로리 제품의 강세 입증.",
           "articleIndices": [
-            2,
-            3,
-            4
+            9
           ],
           "relatedLinks": [
             {
-              "title": "수박 잘라서 냉동실에 넣어보세요…\"이게 된다고?\" 다들 놀랍니다",
-              "url": "https://www.wikitree.co.kr/articles/1138980"
-            },
-            {
-              "title": "'어? 그걸 섞어요?' 한국인도 몰랐다...외국인들 먼저 찾는 'K레시피'",
-              "url": "https://n.news.naver.com/mnews/article/008/0005365071?sid=101"
+              "title": "\"한국인도 외국인도 찾는다\" 롯데마트, 티젠 콤부차 2종 선봬",
+              "url": "https://n.news.naver.com/mnews/article/018/0006294876?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     }
