@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-05-31T22:46:22.626Z",
+  "generatedAt": "2026-06-01T23:21:30.354Z",
   "summary": [
-    "CU, 여름 시즌 맥주·아이스크림 대규모 할인 프로모션 전개",
-    "세븐일레븐, FIFA 월드컵 맞춰 즉석식품 20여종 할인·증정 행사",
-    "GS25, 신선식품 강화형 매장(FCS) 확대로 편의점 판도 변화 주도"
+    "CU, 러닝 스테이션 제주 확대로 라이프스타일 플랫폼 전략 강화",
+    "편의점 업계, 지역 특산물·제철 식재료 활용한 프리미엄 상품 경쟁 심화",
+    "유통업계, AI 추천 서비스·개인화 데이터로 '에이전틱 커머스' 선점 경쟁"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🏆",
-          "title": "스포츠 이벤트 연계 가성비 마케팅",
-          "summary": "편의점 업계가 FIFA 월드컵 등 국제 스포츠 이벤트와 하절기 성수기를 겨냥해 즉석식품 중심의 가성비 프로모션을 대규모 전개하며 홈어라운드 소비 트렌드 포착.",
+          "emoji": "📉",
+          "title": "초저가 무기 약화, 품질·신뢰도 중심 전환",
+          "summary": "중국 C커머스의 초저가 공세가 소비자 신뢰 이슈로 약화되면서 유통업계가 저가 경쟁에서 품질과 브랜드 신뢰도 중심으로 전략 전환 중.",
           "articleIndices": [
-            7,
-            8
+            1
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 6월 국제 축구 이벤트 맞춰 즉석식품 대규모 프로모션 전개",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=78375"
-            },
-            {
-              "title": "[월드컵 맞는 유통가 D-10]⑤카타르 땐 297% 뛰었는데…치킨업계의 고민",
-              "url": "https://www.inthenews.co.kr/news/article.html?no=87480"
+              "title": "초저가 무기 안 통하나… 흔들리는 C커머스",
+              "url": "https://www.viva100.com/article/20260601500787"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🥤",
-          "title": "웰니스 음료 K-팝 마케팅",
-          "summary": "롯데마트가 저당·저칼로리 콤부차에 K-팝 마케팅을 접목해 글로벌 팬덤과 해외 관광객 수요를 동시에 흡수하는 전략 시행.",
+          "emoji": "🎯",
+          "title": "AI 추천 서비스로 '에이전틱 커머스' 선점",
+          "summary": "유통업계가 소비자 쇼핑 이력·검색 데이터 기반 AI 추천 서비스를 고도화하며 검색창에서 AI로 이동하는 소비 트렌드에 대응 중.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "롯데마트, 외국인 '싹쓸이' 나선 콤부차에 K-팝 날개 달았다",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=78376"
+              "title": "제로클릭 쇼핑시대② '개인화 데이터' 가 AI쇼핑 경쟁 승부 가른다",
+              "url": "https://www.viva100.com/article/20260518500916"
             }
           ],
           "articleCount": 1
@@ -50,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📺",
-          "title": "홈쇼핑 브랜드평판 상승",
-          "summary": "롯데홈쇼핑이 6월 홈쇼핑 브랜드평판 1위를 기록하며 온라인·모바일 채널과의 경쟁 속에서 콘텐츠 경쟁력 강화 성과 입증.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "[브랜드평판] 롯데홈쇼핑, 홈쇼핑 6월 1위... 공영홈쇼핑, 현대홈쇼핑 뒤...",
-              "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=50664"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "☕",
-          "title": "스타벅스 브랜드 신뢰도 추락",
-          "summary": "스타벅스 '518 탱크데이' 논란 이후 마케팅 행사 전반 중단 및 4000억원대 환불 사태로 브랜드 이미지 심각한 손상.",
+          "emoji": "🔄",
+          "title": "배민 매각, 네이버·우버 동맹설로 커머스판 지각변동",
+          "summary": "딜리버리히어로의 배민 매각 추진으로 네이버·우버 vs 쿠팡 구도 형성, 국내 이커머스·물류 시장의 거대한 구조 변화 예고.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[주간 유통 나침반] 대국민 사과에도 고객 떠난 스타벅스, 팔아도 안 팔...",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=522713"
+              "title": "[이슈 포커스] 몸값 8조 배민 어디로...네이버·우버 동맹설에 커머스 판...",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=306001"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌍",
+          "title": "올리브영 미국 1호점 오픈, 글로벌 확장 본격화",
+          "summary": "올리브영이 미국 뉴욕에 1호점을 오픈하며 온·오프라인 연동 픽업 서비스 도입, 한국식 뷰티 리테일의 글로벌 진출 신호.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "[테크M 이슈] '400m 대기줄, CNN·ABC 헬기까지'…올리브영 미국 1호점, ...",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=152277"
             }
           ],
           "articleCount": 1
@@ -86,30 +81,35 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "아마존 AI 쇼핑 기술 유통업계 공개",
-          "summary": "아마존이 '알렉사 포 쇼핑' 기술 구조와 운영 경험을 유통업계에 제공하기로 결정하며 AI 쇼핑 에이전트의 산업 표준화 추진.",
+          "title": "컬리, AI솔루션 원지랩스 인수로 AX 가속화",
+          "summary": "리테일 테크 기업 컬리가 AI 솔루션 전문기업 원지랩스를 인수하며 AI 기반 사업 경쟁력 강화 및 경영 효율성 제고 추진.",
           "articleIndices": [
-            1
+            7,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "[AI핫이슈] 애플·MS AI 전략 심판대..AI 비용 급증 논란",
-              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=670687"
+              "title": "[출근길 포인트] 4일 방한 젠슨 황,  성수서 '삼겹 소맥' 회동... 피지컬...",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=306748"
+            },
+            {
+              "title": "'AI 직접 키운다'··· 컬리, 원지랩스 품고 'AX 드라이브'",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421666"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "❄️",
-          "title": "AI 냉방가전 수요 확대",
-          "summary": "이른 무더위와 전기요금 부담으로 AI 기능 탑재 프리미엄 에어컨 수요가 확대되며 여름 성수기 가전 판매 전략 재편.",
+          "emoji": "🛍️",
+          "title": "생성형 AI 기반 쇼핑 검색 전환, 유통업계 고객 확보 전략 변화",
+          "summary": "소비자의 상품 검색 방식이 검색창에서 생성형 AI로 빠르게 이동하면서 유통업계의 고객 확보 및 추천 전략이 근본적으로 변화 중.",
           "articleIndices": [
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "롯데하이마트, 6월 '하이라이트 세일' 진행...에어컨·냉방가전 할인 확...",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=122668"
+              "title": "메트로신문 6월 2일 한줄뉴스",
+              "url": "http://www.metroseoul.co.kr/article/20260601500410"
             }
           ],
           "articleCount": 1
@@ -120,31 +120,31 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "CU 여름 시즌 파격 할인전",
-          "summary": "CU가 맥주, 하이볼, 아이스크림, 즉석 원두커피 등 주요 하절기 상품을 6월 한 달간 대규모 할인 프로모션으로 여름 성수기 수요 선점.",
+          "emoji": "🏃",
+          "title": "러닝 스테이션 제주 상륙, 라이프스타일 플랫폼 확대",
+          "summary": "CU가 업계 최초 러닝 특화 편의점 '러닝 스테이션'을 제주까지 확대하며 단순 상품 판매를 넘어 라이프스타일 플랫폼으로의 포지셔닝 강화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "CU, 여름맞이 파격 할인전...세븐일레븐, 즉석치킨∙피자 프로모션",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=742494"
+              "title": "한강 넘어 제주까지…CU, 러닝 스테이션 제주 상륙",
+              "url": "https://n.news.naver.com/mnews/article/277/0005770707?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥬",
-          "title": "CU 스마트 크로서리 장보기 특화",
-          "summary": "CU가 신선식품과 식재료 구색을 강화한 '스마트 크로서리' 특화 점포 확대로 근거리 장보기 수요 공략.",
+          "emoji": "🍙",
+          "title": "겟모닝 시리즈 200만개 판매, 차별화 레시피 성공",
+          "summary": "CU의 겟모닝 김밥이 단무지 제거 등 차별화된 레시피로 200만개 판매 달성, 간편식 상품 개발의 소비자 니즈 반영 사례.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "편의점도 '식재료 경쟁'…CU·GS25, 장보기 특화 전략 강화",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841700"
+              "title": "[인터뷰] 김유주 MD '단무지를 뺐습니다'···200만개 팔린 CU 겟모닝의...",
+              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=421447"
             }
           ],
           "articleCount": 1
@@ -155,32 +155,47 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥬",
-          "title": "GS25 신선식품 강화형 매장 확대",
-          "summary": "GS25가 신선식품 강화형 매장(FCS) 확대에 집중하며 1분기 매출 3.7% 증가, 영업이익 23.8% 증가로 편의점 판도 주도.",
+          "emoji": "🍙",
+          "title": "GS25, 김밥 큐레이터 협업 '제철 맞은 김밥' 론칭",
+          "summary": "GS25가 김밥 큐레이터 정다현 작가와 협업해 지역 특산물 활용 '제철 맞은 김밥' 시리즈 론칭, 로컬·제철 상품 경쟁 강화.",
           "articleIndices": [
             1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐 반등 성공, 이마트24는 하락…편의점 판도 변화",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=456634"
+              "title": "[오늘의신상]지역 특산물 김밥 선보이는 GS25…첫 상품 '영양부추오리김...",
+              "url": "https://n.news.naver.com/mnews/article/277/0005770719?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "☕",
-          "title": "이마트24 스타벅스 환불 사태 대응",
-          "summary": "이마트(이마트24 최대 주주)가 스타벅스 카드 환불 기준을 한시적으로 완화하며 브랜드 신뢰도 회복 시도.",
+          "emoji": "🌏",
+          "title": "세븐일레븐, 로컬·글로벌 디저트로 소비자 관심도 증가",
+          "summary": "세븐일레븐이 로컬 특화 상품과 글로벌 디저트 확대 전략으로 소비자 언급량 증가, 제철 식재료 활용 경쟁 주도.",
           "articleIndices": [
-            9
+            1
           ],
           "relatedLinks": [
             {
-              "title": "스타벅스 카드 전액 환불 시작…오늘부터 2주간 접수",
-              "url": "https://n.news.naver.com/mnews/article/015/0005293368?sid=101"
+              "title": "세븐일레븐, 로코노미·제철코어 공략...소비자 관심도 증가",
+              "url": "http://www.thebigdata.co.kr/view.php?ud=20260602081349960a79b9f00ab_23"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍺",
+          "title": "이마트24, 월드컵 특수 맥주·안주 번들 마케팅 강화",
+          "summary": "이마트24가 월드컵 시즌을 겨냥해 맥주 번들 균일가 판매 및 안주류 추가할인으로 카드사 제휴 마케팅 강화.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "'월드컵 특수 반갑다'…편의점업계, TV에 맥주까지 마케팅 본격화",
+              "url": "https://n.news.naver.com/mnews/article/421/0008978841?sid=101"
             }
           ],
           "articleCount": 1
@@ -191,16 +206,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🥤",
-          "title": "콤부차 저당·저칼로리 트렌드",
-          "summary": "롯데마트 5월 콤부차 매출이 전년 동기 대비 42.7% 급증하며 웰니스 음료 시장에서 저당·저칼로리 제품의 강세 입증.",
+          "emoji": "💄",
+          "title": "K뷰티 수출 2위 도약, 미국 시장 공략 본격화",
+          "summary": "국내 화장품 수출액이 114억달러로 미국 시장 2위 달성, 빠른 제품 개발 사이클과 프리미엄 포지셔닝으로 프랑스 추격 전략 추진.",
           "articleIndices": [
-            9
+            4
           ],
           "relatedLinks": [
             {
-              "title": "\"한국인도 외국인도 찾는다\" 롯데마트, 티젠 콤부차 2종 선봬",
-              "url": "https://n.news.naver.com/mnews/article/018/0006294876?sid=101"
+              "title": "K뷰티, 미국 잡고 수출 2위…1위 프랑스 추격 전략은",
+              "url": "https://www.ngetnews.com/news/articleView.html?idxno=550541"
             }
           ],
           "articleCount": 1
