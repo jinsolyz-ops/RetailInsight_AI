@@ -1,40 +1,46 @@
 {
-  "generatedAt": "2026-06-01T23:21:30.354Z",
+  "generatedAt": "2026-06-02T23:25:57.911Z",
   "summary": [
-    "CU, 러닝 스테이션 제주 확대로 라이프스타일 플랫폼 전략 강화",
-    "편의점 업계, 지역 특산물·제철 식재료 활용한 프리미엄 상품 경쟁 심화",
-    "유통업계, AI 추천 서비스·개인화 데이터로 '에이전틱 커머스' 선점 경쟁"
+    "스타벅스 '탱크데이' 마케팅 논란으로 소비자 신뢰 추락, 조직문화 검수 체계 개선 필요",
+    "AI 에이전트 커머스 경쟁 가속화, 네이버·컬리 등 추천 기술로 이커머스 판도 재편",
+    "CU 여름철 '10년 전 가격' 할인 행사로 물가 부담 소비자 공략, 시즌별 수요 대응"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "📉",
-          "title": "초저가 무기 약화, 품질·신뢰도 중심 전환",
-          "summary": "중국 C커머스의 초저가 공세가 소비자 신뢰 이슈로 약화되면서 유통업계가 저가 경쟁에서 품질과 브랜드 신뢰도 중심으로 전략 전환 중.",
+          "emoji": "🔥",
+          "title": "스타벅스 탱크데이 마케팅 파동",
+          "summary": "역사적 민감성을 간과한 마케팅 콘텐츠로 소비자 신뢰 추락, 조직 검수 체계 개선 필요성 대두.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "초저가 무기 안 통하나… 흔들리는 C커머스",
-              "url": "https://www.viva100.com/article/20260601500787"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎯",
-          "title": "AI 추천 서비스로 '에이전틱 커머스' 선점",
-          "summary": "유통업계가 소비자 쇼핑 이력·검색 데이터 기반 AI 추천 서비스를 고도화하며 검색창에서 AI로 이동하는 소비 트렌드에 대응 중.",
-          "articleIndices": [
+            4,
+            5,
             6
           ],
           "relatedLinks": [
             {
-              "title": "제로클릭 쇼핑시대② '개인화 데이터' 가 AI쇼핑 경쟁 승부 가른다",
-              "url": "https://www.viva100.com/article/20260518500916"
+              "title": "세무조사 마친 스타벅스…'탱크데이' 후폭풍에 경영 타격까지",
+              "url": "https://www.sjsori.com/news/articleView.html?idxno=86283"
+            },
+            {
+              "title": "'80억 증발한 스타벅스…정용진 사과에도 소비자는 돌아오지 않았다'",
+              "url": "https://www.sjsori.com/news/articleView.html?idxno=86281"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "🤖",
+          "title": "AI 쇼핑 에이전트 도입 확대",
+          "summary": "골프존커머스 등 유통사들이 AI 에이전트로 구매 의사결정을 지원하는 스마트 쇼핑 환경 구축 중.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "골프채도 AI가 골라준다…메가존클라우드, '골핑'에 쇼핑 에이전트 구축",
+              "url": "https://n.news.naver.com/mnews/article/092/0002425080?sid=105"
             }
           ],
           "articleCount": 1
@@ -45,31 +51,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🔄",
-          "title": "배민 매각, 네이버·우버 동맹설로 커머스판 지각변동",
-          "summary": "딜리버리히어로의 배민 매각 추진으로 네이버·우버 vs 쿠팡 구도 형성, 국내 이커머스·물류 시장의 거대한 구조 변화 예고.",
+          "emoji": "🤖",
+          "title": "AI 에이전트 커머스 경쟁 심화",
+          "summary": "네이버·컬리 등이 AI 추천 기술로 상품 탐색부터 구매까지 자동화하며 이커머스 경쟁 방식 재편.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[이슈 포커스] 몸값 8조 배민 어디로...네이버·우버 동맹설에 커머스 판...",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=306001"
+              "title": "'AI가 대신 고르고 추천한다'… AI 에이전트 커머스 경쟁 가속",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3405974"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "올리브영 미국 1호점 오픈, 글로벌 확장 본격화",
-          "summary": "올리브영이 미국 뉴욕에 1호점을 오픈하며 온·오프라인 연동 픽업 서비스 도입, 한국식 뷰티 리테일의 글로벌 진출 신호.",
+          "emoji": "📦",
+          "title": "에이전틱 커머스 시대 물류 혁신",
+          "summary": "품고의 XFC센터 VIP 투어로 셀러 지원 강화, 글로벌 배송 예측 서비스 런칭으로 물류 경쟁력 확보.",
           "articleIndices": [
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[테크M 이슈] '400m 대기줄, CNN·ABC 헬기까지'…올리브영 미국 1호점, ...",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=152277"
+              "title": "품고, 신규 XFC센터 VIP 투어...'에이전틱 커머스 시대 물류 청사진'",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841976"
             }
           ],
           "articleCount": 1
@@ -80,36 +86,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "컬리, AI솔루션 원지랩스 인수로 AX 가속화",
-          "summary": "리테일 테크 기업 컬리가 AI 솔루션 전문기업 원지랩스를 인수하며 AI 기반 사업 경쟁력 강화 및 경영 효율성 제고 추진.",
+          "emoji": "💎",
+          "title": "반도체 수요 증가로 명품 매출 급증",
+          "summary": "AI 서버·HBM 수요 확대로 반도체 업계 호황, 롯데백화점 동탄점 매출 25% 증가로 명품 판매 급증.",
           "articleIndices": [
-            7,
-            8
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[출근길 포인트] 4일 방한 젠슨 황,  성수서 '삼겹 소맥' 회동... 피지컬...",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=306748"
-            },
-            {
-              "title": "'AI 직접 키운다'··· 컬리, 원지랩스 품고 'AX 드라이브'",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421666"
+              "title": "'반세권' 백화점에 몰리는 '삼전·닉스' 성과급…명품 매출 '껑충'",
+              "url": "https://n.news.naver.com/mnews/article/011/0004627196?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "생성형 AI 기반 쇼핑 검색 전환, 유통업계 고객 확보 전략 변화",
-          "summary": "소비자의 상품 검색 방식이 검색창에서 생성형 AI로 빠르게 이동하면서 유통업계의 고객 확보 및 추천 전략이 근본적으로 변화 중.",
+          "emoji": "🛒",
+          "title": "신선식품 유통사 AI 서비스 도입",
+          "summary": "컬리·오아시스 등 신선식품 플랫폼이 생성형 AI 열풍을 타고 추천 서비스 도입, 실제 소비자 활용도 검증 필요.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "메트로신문 6월 2일 한줄뉴스",
-              "url": "http://www.metroseoul.co.kr/article/20260601500410"
+              "title": "신선식품 넘어 AI로…컬리·오아시스, 몸값 재평가 승부수",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026060216165342962"
             }
           ],
           "articleCount": 1
@@ -120,31 +121,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🏃",
-          "title": "러닝 스테이션 제주 상륙, 라이프스타일 플랫폼 확대",
-          "summary": "CU가 업계 최초 러닝 특화 편의점 '러닝 스테이션'을 제주까지 확대하며 단순 상품 판매를 넘어 라이프스타일 플랫폼으로의 포지셔닝 강화.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "한강 넘어 제주까지…CU, 러닝 스테이션 제주 상륙",
-              "url": "https://n.news.naver.com/mnews/article/277/0005770707?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍙",
-          "title": "겟모닝 시리즈 200만개 판매, 차별화 레시피 성공",
-          "summary": "CU의 겟모닝 김밥이 단무지 제거 등 차별화된 레시피로 200만개 판매 달성, 간편식 상품 개발의 소비자 니즈 반영 사례.",
+          "emoji": "💜",
+          "title": "CU 여름철 '10년 전 가격' 할인 행사",
+          "summary": "CU가 주류·아이스크림 등 하절기 상품 중심 할인으로 물가 부담 소비자 공략, 시즌별 수요 반영 전략 강화.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "[인터뷰] 김유주 MD '단무지를 뺐습니다'···200만개 팔린 CU 겟모닝의...",
-              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=421447"
+              "title": "요즘 같은 물가에 반가운 소식…CU가 꺼내든 '10년 전 가격' 행사",
+              "url": "https://www.wikitree.co.kr/articles/1139121"
             }
           ],
           "articleCount": 1
@@ -155,47 +141,56 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍙",
-          "title": "GS25, 김밥 큐레이터 협업 '제철 맞은 김밥' 론칭",
-          "summary": "GS25가 김밥 큐레이터 정다현 작가와 협업해 지역 특산물 활용 '제철 맞은 김밥' 시리즈 론칭, 로컬·제철 상품 경쟁 강화.",
+          "emoji": "🍺",
+          "title": "GS25 월드컵 특수 주류 프로모션",
+          "summary": "GS25가 대표팀 경기 전후 주류·조리식품 할인으로 월드컵 특수 노리며, 데이지라거 단독 출시로 여름 수요 선점.",
           "articleIndices": [
             1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의신상]지역 특산물 김밥 선보이는 GS25…첫 상품 '영양부추오리김...",
-              "url": "https://n.news.naver.com/mnews/article/277/0005770719?sid=101"
+              "title": "[트렌드+] 카스부터 무신사까지…월드컵 특수 노리는 유통가",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026559"
+            },
+            {
+              "title": "30도 이른 더위에 여름 시계 빨라졌다…편의점·마트·베이커리 벌써",
+              "url": "https://n.news.naver.com/mnews/article/022/0004132581?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🌏",
-          "title": "세븐일레븐, 로컬·글로벌 디저트로 소비자 관심도 증가",
-          "summary": "세븐일레븐이 로컬 특화 상품과 글로벌 디저트 확대 전략으로 소비자 언급량 증가, 제철 식재료 활용 경쟁 주도.",
+          "emoji": "🤝",
+          "title": "세븐일레븐 가맹점 상생 프로그램 '세븐 RE:START'",
+          "summary": "세븐일레븐이 전국 6개 권역 순회 경영주 소통 프로그램으로 가맹점 교육·의견 교류 강화, 상생 문화 조성.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "세븐일레븐, 로코노미·제철코어 공략...소비자 관심도 증가",
-              "url": "http://www.thebigdata.co.kr/view.php?ud=20260602081349960a79b9f00ab_23"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍺",
-          "title": "이마트24, 월드컵 특수 맥주·안주 번들 마케팅 강화",
-          "summary": "이마트24가 월드컵 시즌을 겨냥해 맥주 번들 균일가 판매 및 안주류 추가할인으로 카드사 제휴 마케팅 강화.",
-          "articleIndices": [
+            5,
             6
           ],
           "relatedLinks": [
             {
-              "title": "'월드컵 특수 반갑다'…편의점업계, TV에 맥주까지 마케팅 본격화",
-              "url": "https://n.news.naver.com/mnews/article/421/0008978841?sid=101"
+              "title": "세븐일레븐, 전국 가맹점 상생 프로그램 '세븐 RE:START' 운영",
+              "url": "https://n.news.naver.com/mnews/article/030/0003433934?sid=101"
+            },
+            {
+              "title": "세븐일레븐, 가맹점 교육·현장 소통 강화…전국 6개 권역 순회 프로그램",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202606030704553163204ead0791_12"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🎮",
+          "title": "GS25 게임 IP 협업 마케팅",
+          "summary": "GS25가 '승리의 여신: 니케' 등 게임 IP와 협업해 한정판 스티커 동봉 상품 출시, 일상 접점 활용 마케팅.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "게임 밖으로 나온 IP…이색 협업이 새 마케팅 무기",
+              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092163185"
             }
           ],
           "articleCount": 1
@@ -206,16 +201,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "💄",
-          "title": "K뷰티 수출 2위 도약, 미국 시장 공략 본격화",
-          "summary": "국내 화장품 수출액이 114억달러로 미국 시장 2위 달성, 빠른 제품 개발 사이클과 프리미엄 포지셔닝으로 프랑스 추격 전략 추진.",
+          "emoji": "🍙",
+          "title": "GS25 지역 특산물 김밥 큐레이션",
+          "summary": "GS25가 김밥 큐레이터와 협업해 '제철 맞은 김밥 x GS25' 시리즈 론칭, 영양부추오리김밥 첫 출시로 프리미엄 포지셔닝.",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "K뷰티, 미국 잡고 수출 2위…1위 프랑스 추격 전략은",
-              "url": "https://www.ngetnews.com/news/articleView.html?idxno=550541"
+              "title": "[오늘의신상]지역 특산물 김밥 선보이는 GS25…첫 상품 '영양부추오리김밥'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005770719?sid=101"
             }
           ],
           "articleCount": 1
