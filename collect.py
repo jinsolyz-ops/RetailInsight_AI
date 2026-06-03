@@ -1,13 +1,14 @@
 """
 collect.py
 ----------
-Claude Code가 생성한 new_posts.json을 읽어
-Supabase posts 테이블에 upsert하는 주간 갱신 스크립트.
+Claude in Chrome(브라우저 자동화)이 생성한 new_posts.json을 읽어
+Supabase posts 테이블에 upsert하고, 완료 후 generate_summary.js를 실행하는 스크립트.
 
 실행 흐름:
-  1. Claude Code가 크롤링 → new_posts.json 생성
+  1. Claude in Chrome이 크롤링 → new_posts.json 생성
   2. collect.py 실행 → new_posts.json 읽기 → Supabase upsert
-  3. 완료 후 new_posts.json 백업 보관 (덮어쓰지 않음)
+  3. 완료 후 new_posts.json 백업 보관
+  4. generate_summary.js 자동 실행 → summary 테이블 업데이트
 
 사용법:
     python collect.py
@@ -15,6 +16,7 @@ Supabase posts 테이블에 upsert하는 주간 갱신 스크립트.
 .env 파일:
     SUPABASE_URL=https://xxxx.supabase.co
     SUPABASE_SERVICE_ROLE_KEY=eyJ...
+    ANTHROPIC_API_KEY=sk-ant-...
 """
 
 import json
@@ -41,7 +43,7 @@ def load_new_posts(filepath: str) -> list[dict]:
     if not path.exists():
         raise FileNotFoundError(
             f"'{filepath}' 파일이 없습니다.\n"
-            "Claude Code가 크롤링을 완료한 후 다시 실행하세요."
+            "Claude in Chrome 크롤링을 완료한 후 다시 실행하세요."
         )
 
     with open(path, encoding="utf-8") as f:
