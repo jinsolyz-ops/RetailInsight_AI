@@ -1,6 +1,8 @@
 // generate_summary.js
 // Supabase posts 테이블 → Claude API 요약 → summary 테이블 저장
 
+require('dotenv').config();
+
 const SUPABASE_URL = "https://gntaqfwkfolmufbwjmkk.supabase.co";
 const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY;
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
@@ -87,6 +89,7 @@ async function generateSummary(brand, posts) {
 - 한 줄당 30~50자 내외
 - 구체적인 트렌드/이슈/감성 위주로 작성
 - 마케팅 인사이트 관점으로 작성
+- 제목, 헤더(##), 서론 문구 없이 • 로 시작하는 3줄만 출력
 
 게시글 목록:
 ${postTexts}
