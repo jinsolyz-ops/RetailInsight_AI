@@ -1,49 +1,48 @@
 {
-  "generatedAt": "2026-06-03T23:26:11.614Z",
+  "generatedAt": "2026-06-04T22:59:57.908Z",
   "summary": [
-    "CU, 우유 라면 '치트키' 출시로 편의점 신제품 차별화 강화",
-    "CU 해외점포 800개 돌파, K편의점 글로벌 확산 가속",
-    "GS25, 농식품 바우처 결제액 2년새 14배 폭증으로 정부사업 핵심채널 확보"
+    "CU·세븐일레븐, 우베 제품군 공격적 출시로 편의점 디저트 시장 선점",
+    "유통업계, AI 기반 상품 추천·큐레이션으로 마케팅 패러다임 전환 가속",
+    "GS25, 베트남 시장 진출 강화로 해외 확장 전략 본격화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "4050세대 정조준 마케팅",
-          "summary": "유통업계가 MZ세대를 넘어 구매력 강한 4050세대를 타겟으로 디지털과 오프라인 마케팅을 입체적으로 병행하며 새로운 소비층 공략에 나서고 있다.",
+          "emoji": "♻️",
+          "title": "롯데百 자원순환 모델",
+          "summary": "롯데백화점이 환경영화제 후원과 중고 패션 제품 재활용 서비스(누적 1만1000건)로 ESG 기반 유통 차별화 전략 추진 중.",
           "articleIndices": [
-            5
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'진짜 큰손' 4050이 움직인다…유통업계, MZ 넘어 중장년층 정조준",
-              "url": "https://n.news.naver.com/mnews/article/468/0001244426?sid=101"
+              "title": "롯데百, 영화제 품고 자원순환 모델 가속",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=306523"
+            },
+            {
+              "title": "롯데백화점, 서울국제환경영화제 후원…ESG 행보 확대",
+              "url": "https://www.seoultimes.news/news/article.html?no=2000096294"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🎬",
-          "title": "롯데백화점 환경영화제 후원",
-          "summary": "롯데백화점이 서울국제환경영화제를 후원하며 친환경 상품 판매를 넘어 문화 콘텐츠를 통한 ESG 경영으로 브랜드 가치를 강화하고 있다.",
+          "emoji": "🤖",
+          "title": "AI 기반 상품 추천 전환",
+          "summary": "유통업계가 상품 정보를 AI 친화적으로 구조화하며, 고객 앱 진입 전 AI가 먼저 추천하는 마케팅 구조로 전환 중.",
           "articleIndices": [
-            1,
-            2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "롯데백화점, 제23회 서울국제환경영화제 후원… 문화 콘텐츠로 ESG 경영",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=112488"
-            },
-            {
-              "title": "롯데백화점, 아시아 최대 규모 서울국제환경영화제 전격 후원하며 ESG 문화마케팅",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=78605"
+              "title": "AI에게 선택받는 브랜드③",
+              "url": "http://www.newsian.co.kr/news/articleView.html?idxno=90389"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -51,44 +50,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🔐",
-          "title": "멤버십 기반 고객 고착화",
-          "summary": "이커머스 시장에서 멤버십을 중심으로 한 고객 락인 효과가 두드러지며, 쿠팡·네이버 등이 배송·OTT 등 서비스 번들링으로 플랫폼 의존도를 높이고 있다.",
+          "emoji": "🚀",
+          "title": "퀵커머스 급성장",
+          "summary": "GS더프레시 거래 40% 급증, SSG·이마트24 등 편의점 3사가 1~2시간 내 배달 서비스 본격화하며 신선식품 배송 경쟁 심화.",
           "articleIndices": [
-            1,
-            3
+            6
           ],
           "relatedLinks": [
             {
-              "title": "배달 묶은 쿠팡, OTT 묶은 네이버…이커머스 가입자 76%, 멤버십 가입",
-              "url": "https://n.news.naver.com/mnews/article/018/0006296526?sid=105"
-            },
-            {
-              "title": "공공 배달앱 이용자 10명 중 8명 '다시 이용하겠다'",
-              "url": "https://n.news.naver.com/mnews/article/018/0006296527?sid=105"
+              "title": "슈퍼·편의점 '1시간내 배달' 퀵커머스 급성장",
+              "url": "https://n.news.naver.com/mnews/article/009/0005689454?sid=103"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "인디 브랜드 이커머스 확대",
-          "summary": "SNS와 글로벌 이커머스 기반 인디 브랜드 증가로 ODM 수요가 확대되며, K뷰티 등이 해외 이커머스 채널에서 실적 개선 추세를 보이고 있다.",
+          "emoji": "🎯",
+          "title": "버티컬 플랫폼 AI 큐레이션",
+          "summary": "무신사·컬리가 AI 기반 큐레이션 역량으로 글로벌 IPO 목표, 플랫폼·AI·큐레이션 삼각형 전략으로 고밸류 포지셔닝.",
           "articleIndices": [
-            4,
-            5
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] 코스맥스 A급 진입…인디 브랜드 호황에 해외사업 회복세",
-              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=802659"
-            },
-            {
-              "title": "'美·유럽서 터진 K뷰티…주가 빠진 화장품株 다시 보자'",
-              "url": "https://n.news.naver.com/mnews/article/277/0005771200?sid=101"
+              "title": "무신사ㆍ컬리, AI에 큐레이션 역량 더해 고밸류 IPO 노린다",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606041110326360046"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -96,31 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "카카오 AI 에이전트 통합",
-          "summary": "카카오가 메신저, 커머스, 예약 등 일상 서비스에 고도화된 AI 에이전트를 유기적으로 결합하여 플랫폼 경쟁력을 강화하는 전략을 추진 중이다.",
+          "emoji": "🛍️",
+          "title": "AI 라이브커머스 솔루션",
+          "summary": "제일기획이 AI 쇼호스트·챗봇 기반 라이브커머스 솔루션과 가상 매장 레이아웃 시뮬레이션으로 소매 혁신 주도.",
           "articleIndices": [
-            3
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[단독] '카톡방서 챗GPT 쓴다'…AI 힘주는 카카오",
-              "url": "https://n.news.naver.com/mnews/article/015/0005294793?sid=105"
+              "title": "'이러면 안 사곤 못 배길걸'…생존 위기에 업계 1위도 '대변신'",
+              "url": "https://n.news.naver.com/mnews/article/015/0005295213?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌐",
-          "title": "쿠팡 AI·로보틱스 글로벌 확장",
-          "summary": "쿠팡이 포춘 500대 기업 132위에 올라 AI·맞춤형 로보틱스와 글로벌 영토 확장을 통해 럭셔리 커머스 플랫폼 파페치로 190개국 고객 연결을 강화하고 있다.",
+          "emoji": "🥽",
+          "title": "AI 글래스 팝업 경험",
+          "summary": "무신사가 오클리 메타 AI 글래스 팝업 스토어로 차세대 웨어러블 기술 기반 차별화된 리테일 경험 제공.",
           "articleIndices": [
-            4
+            8
           ],
           "relatedLinks": [
             {
-              "title": "쿠팡, 美 포춘지 500대 기업 132위…'AI·글로벌 영토 확장' 통했다",
-              "url": "https://www.theguru.co.kr/news/article.html?no=102609"
+              "title": "무신사, AI 글래스 '오클리 메타' 팝업 스토어 운영",
+              "url": "https://n.news.naver.com/mnews/article/092/0002425383?sid=105"
             }
           ],
           "articleCount": 1
@@ -131,40 +120,19 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍜",
-          "title": "CU 라면 '치트키' 출시",
-          "summary": "CU가 국내 최초로 우유를 넣어 먹는 라면 브랜드 '치트키'를 출시하며 기존 라면의 깊고 풍부한 맛을 강조한 차별화 신제품으로 편의점 라면 시장을 공략하고 있다.",
+          "emoji": "⚠️",
+          "title": "CU 포인트 소멸 투명성",
+          "summary": "BGF리테일의 CU 포인트 소멸 정산 투명성 문제로 가맹점주와 갈등, 고객 적립 비용 부담 구조 재검토 필요.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의신상]우유 한팩을 라면에?…CU, 라면 브랜드 '치트키' 출시",
-              "url": "https://n.news.naver.com/mnews/article/277/0005771516?sid=101"
+              "title": "CU 소멸 포인트에 커지는 투명성 의문",
+              "url": "https://www.pressman.kr/news/articleView.html?idxno=102148"
             }
           ],
           "articleCount": 1
-        },
-        {
-          "emoji": "🌏",
-          "title": "CU 해외점포 800개 돌파",
-          "summary": "CU의 해외 점포수가 800개를 돌파하며 2018년 진출 이후 8년 만에 40배 가까이 증가했으며, K푸드 수출 플랫폼으로서 글로벌 확산을 가속화하고 있다.",
-          "articleIndices": [
-            2,
-            3,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 해외점포 800개 돌파…K편의점 글로벌 확산",
-              "url": "https://n.news.naver.com/mnews/article/011/0004627485?sid=101"
-            },
-            {
-              "title": "몽골·하와이 등 사로잡은 CU… K푸드 '수출 플랫폼'으로",
-              "url": "https://n.news.naver.com/mnews/article/014/0005530116?sid=101"
-            }
-          ],
-          "articleCount": 3
         }
       ]
     },
@@ -172,40 +140,45 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎫",
-          "title": "GS25 농식품 바우처 14배 폭증",
-          "summary": "GS25와 GS더프레시가 정부의 농식품 바우처 사업의 핵심 유통 채널로 자리 잡으며 2년 새 결제액이 14배 증가하여 정책 사업 활성화를 주도하고 있다.",
+          "emoji": "🌏",
+          "title": "GS25 베트남 시장 확대",
+          "summary": "GS25 운영사 손킴 리테일이 베트남 K-프리미엄 소비재전 주도로 1000건 수출 상담 진행, 해외 시장 선점 강화.",
           "articleIndices": [
             1,
-            3,
-            4
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "GS25·GS더프레시, 농식품 바우처 이용액 2년 새 14배↑",
-              "url": "https://n.news.naver.com/mnews/article/018/0006296955?sid=101"
+              "title": "'베트남 지갑 잡아라'…K-뷰티·푸드 167개사, 호치민 총출동",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065567269999112"
             },
             {
-              "title": "GS리테일, '농식품 바우처' 결제액 2년새 14배 폭증",
-              "url": "https://n.news.naver.com/mnews/article/629/0000504833?sid=101"
+              "title": "무협·코엑스, 베트남서 'K-프리미엄 소비재전' 개최",
+              "url": "https://n.news.naver.com/mnews/article/016/0002652286?sid=101"
             }
           ],
           "articleCount": 3
         },
         {
-          "emoji": "🥤",
-          "title": "세븐일레븐 즉석 스무디 강화",
-          "summary": "세븐일레븐이 건강 콘셉트의 즉석 스무디 신제품 '케일&파인 스무디'를 출시하며 하절기 상품 라인업을 강화하여 건강식 트렌드에 대응하고 있다.",
+          "emoji": "📱",
+          "title": "세븐일레븐 우베 제품 강화",
+          "summary": "세븐일레븐이 우베 기반 디저트·음료 라인업 공격적 출시로 편의점 프리미엄 간식 시장 선점 경쟁 가열.",
           "articleIndices": [
-            5
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐-CU, 독특한 콘셉트 신제품 출시...스무디·라면",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=743201"
+              "title": "'이번엔 우베'… 식품·유통업계, 치열한 보랏빛 경쟁",
+              "url": "https://news.mtn.co.kr/news-detail/2026060416400684604"
+            },
+            {
+              "title": "[오늘의 언박싱] CU '치트키 리얼 크림 불닭맛'·세븐일레븐 '케일&파인'",
+              "url": "https://www.mediapen.com/news/view/1102684"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -213,36 +186,38 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "편의점 디저트 글로벌 인기",
-          "summary": "편의점 팥 아이스크림 등 한국 편의점 디저트가 해외 유명인사(젠슨 황)를 통해 SNS에서 화제가 되며 K푸드 수출 플랫폼으로서 편의점의 글로벌 매력을 입증하고 있다.",
+          "emoji": "💜",
+          "title": "우베 제품 열풍",
+          "summary": "CU·세븐일레븐·파리바게뜨·노티드 등 식품·유통업계가 우베 생크림빵·도넛·라떼 등 다양한 제품군 출시로 보랏빛 트렌드 주도.",
           "articleIndices": [
             1,
             2,
-            5
+            3,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "255조원 자산에도 골목 맛집 누벼…반전 매력 '젠슨이츠'",
-              "url": "https://n.news.naver.com/mnews/article/032/0003449769?sid=102"
+              "title": "[신상 열전] 파리바게뜨, 투썸플레이스, 하림, 동원F&B 등",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=138009"
             }
           ],
-          "articleCount": 3
+          "articleCount": 4
         },
         {
-          "emoji": "🎒",
-          "title": "F&B 굿즈 마케팅 확대",
-          "summary": "식음료 업계가 과자 향수 등 이색 굿즈로 카테고리를 확장하며 제품 중심 경쟁에서 벗어나 브랜드 감성을 파는 '굿즈 경제'로 2030세대 지갑을 열고 있다.",
+          "emoji": "🍜",
+          "title": "CU 치트키 라면 시리즈",
+          "summary": "CU가 우유를 넣어 먹는 차별화 라면 '치트키' 시리즈 출시로 편의점 라면 품질 한 단계 개선, 프리미엄 포지셔닝.",
           "articleIndices": [
-            10
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'먹지 말고 뿌리세요'…2030 지갑 여는 '굿즈 마케팅'",
-              "url": "https://n.news.naver.com/mnews/article/015/0005294414?sid=101"
+              "title": "[A 오늘의 유통] 이디야커피·젝시믹스·신세계까사 外",
+              "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=251369"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     }
