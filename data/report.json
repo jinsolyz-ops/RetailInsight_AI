@@ -1,43 +1,48 @@
 {
-  "generatedAt": "2026-06-05T22:56:29.084Z",
+  "generatedAt": "2026-06-06T22:53:25.865Z",
   "summary": [
-    "젠슨 황 방한으로 BBQ·하이트진로·빙그레 등 식음료 브랜드 자연발생적 노출 효과",
-    "컬리·무신사 등 버티컬 커머스가 AI·큐레이션 강화로 IPO 재도전 준비",
-    "편의점 업계 BTS 부산 공연 대비 재고·인력 확대 및 와인·디저트 상품 강화"
+    "2026 월드컵 대비 편의점 치킨·주류 할인 마케팅 경쟁 본격화",
+    "K팝·캐릭터 협업 한정판 상품으로 팬덤 기반 소비 확대 추세",
+    "AI 쇼핑비서·크리에이터 협업으로 유통업계 디지털 마케팅 고도화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎤",
-          "title": "BTS 부산 공연 편의점 대비",
-          "summary": "편의점 업계가 BTS 부산 공연(6월 12~13일)을 앞두고 재고·인력 확대 및 간편식·디저트·바나나우유 등 인기 상품 공급량 증대로 관광객 수요 대응.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "BTS 부산 공연에 편의점도 '들썩'…재고·인력 늘리고 굿즈 판매",
-              "url": "https://n.news.naver.com/mnews/article/421/0008988565?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍷",
-          "title": "편의점 와인 시장 확대",
-          "summary": "이마트24의 자체 와인 브랜드 '꼬모'가 1만원대 데일리 와인으로 편의점 판도를 변화시키며 디저트와 함께 구매하는 소비 트렌드 형성.",
+          "emoji": "⚽",
+          "title": "월드컵 응원 마케팅",
+          "summary": "2026 북중미 월드컵 개막을 앞두고 편의점들이 오전 경기 시간대 맞춰 치킨·맥주·안주류 할인 행사로 새로운 응원 소비층 공략",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "\"레드보다 화이트?\"…편의점 판도 바꾼 1만원대 와인",
-              "url": "https://n.news.naver.com/mnews/article/015/0005295599?sid=101"
+              "title": "밤샘 응원은 옛말…오전 10시 월드컵에 편의점 치킨 불붙었다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004133428?sid=101"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🌞",
+          "title": "여름 성수기 마케팅",
+          "summary": "장마·휴가철 겹치는 6~7월을 겨냥해 레인웨어·제철과일·냉감용품 중심 소비 수요 확대 및 친환경 제품 할인·쿠폰 프로모션 강화",
+          "articleIndices": [
+            5,
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "여름 소비 잡아라…백화점·마트, 레인부츠부터 9990원 수박까지",
+              "url": "https://n.news.naver.com/mnews/article/022/0004133427?sid=101"
+            },
+            {
+              "title": "6월엔 녹색사자…할인 쿠폰 앞세운 유통가, 친환경 소비 잡는다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004133426?sid=101"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -46,43 +51,33 @@
       "issues": [
         {
           "emoji": "🚀",
-          "title": "컬리 IPO 재도전 AI 강화",
-          "summary": "컬리가 네이버와 협력하여 AI 기반 큐레이션 역량을 강화하고 수익성 중심의 시장 평가에 대응하며 구체적인 IPO 로드맵 준비 중.",
+          "title": "컬리 IPO 재도전",
+          "summary": "네이버 투자 유치로 AI 기술 결합 및 수익성 중심 경영으로 이커머스 시장 혁신 선도 목표",
           "articleIndices": [
-            1,
-            8
+            2
           ],
           "relatedLinks": [
             {
               "title": "IPO 재도전 컬리, 네이버·AI로 성장판 다시 연다",
               "url": "https://www.ngetnews.com/news/articleView.html?idxno=550631"
-            },
-            {
-              "title": "무신사ㆍ컬리, AI에 큐레이션 역량 더해 고밸류 IPO 노린다",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606041110326360046"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "⚖️",
-          "title": "대형마트 규제 완화 정책 불확실성",
-          "summary": "6·3 지방선거 이후 대형마트 새벽배송·지역화폐 규제 완화 방향이 불명확해지면서 쿠팡·컬리·SSG닷컴 등 이커머스 업체와의 경쟁 구도 재편 예상.",
+          "emoji": "🏪",
+          "title": "대형마트 규제 완화",
+          "summary": "쿠팡·컬리·SSG닷컴 등 이커머스 업체와 경쟁 강화를 위해 대형마트 규제 완화 논의 가속화",
           "articleIndices": [
-            2,
             3
           ],
           "relatedLinks": [
             {
               "title": "6·3 지방선거 이후 대형마트 정책 어디로…규제 완화 '속도조절'",
               "url": "https://n.news.naver.com/mnews/article/138/0002229936?sid=101"
-            },
-            {
-              "title": "지선 후 대형마트 새벽배송·지역화폐 향방은...",
-              "url": "https://n.news.naver.com/mnews/article/366/0001169480?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -90,31 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "유통업계 AI 쇼핑 경험 혁신",
-          "summary": "유통업계가 AI를 활용하여 단순 검색 수준을 넘어 소비자 취향과 관심사를 분석해 상품을 먼저 제안하는 방식으로 쇼핑 경험 혁신 경쟁 전개.",
+          "emoji": "🎬",
+          "title": "크리에이터 육성 경쟁",
+          "summary": "유통업계가 숏폼 콘텐츠 열풍 속 크리에이터 직접 육성으로 비용 효율적 마케팅 및 취향 파편화 대응",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[N2 뷰] 유통가 새 격전지 된 AI…쇼핑 경험 혁신 경쟁",
-              "url": "https://www.news2day.co.kr/article/20260604500243"
+              "title": "유통업계, 숏폼 열풍 속 크리에이터 직접 키운다",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026060517001009154"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "🤖",
-          "title": "네이버 AI 커머스 플랫폼 통합",
-          "summary": "네이버가 하이퍼클로바X 중심으로 AI 검색·브리핑·커머스 서비스를 확대하고 네이버페이와 연결하여 AI·쇼핑·결제가 통합된 플랫폼 구축.",
+          "title": "AI 쇼핑비서 경쟁",
+          "summary": "유통업계가 개인화된 상품 추천 AI 쇼핑비서 서비스 확대로 고객 맞춤형 쇼핑 경험 제공 경쟁",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'GO 코리아' 외친 젠슨 황…네이버·SK·LG와 그린 韓 AI 청사진",
-              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=130286"
+              "title": "\"아기방 가습기 추천해줘\"…뜨거운 AI 쇼핑비서 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/138/0002230066?sid=101"
             }
           ],
           "articleCount": 1
@@ -125,16 +120,31 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🔒",
-          "title": "CU 택배 서비스 해킹 피해",
-          "summary": "CU 편의점 택배 서비스를 운영하는 BGF네트웍스가 해킹 공격으로 고객 개인정보 유출되어 보안 체계 전반에 대한 우려 제기.",
+          "emoji": "⚠️",
+          "title": "CU POST 정보유출",
+          "summary": "BGF네트웍스 운영 CU POST 택배 서비스에서 고객 개인정보 유출 사고 발생으로 보안 관리 강화 필요",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU 고객정도도 다 털렸다… BGF네트웍스, '머리 숙여 사과'",
+              "url": "https://www.greened.kr/news/articleView.html?idxno=342008"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "❌",
+          "title": "CU PB 제조 오류",
+          "summary": "CU 자체 브랜드 신선식품에서 불고기 김밥 대신 참치김밥 포장 오류 발생으로 품질관리 문제 노출",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[단독] 티빙 이어 'CU'까지…BGF네트웍스 해킹으로 개인정보 유출",
-              "url": "https://www.ngetnews.com/news/articleView.html?idxno=550650"
+              "title": "[단독] '불고기 김밥 샀는데, 참치김밥이?'… CU 편의점 제조·포장 오류",
+              "url": "https://www.abcn.kr/news/articleView.html?idxno=88543"
             }
           ],
           "articleCount": 1
@@ -145,16 +155,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍌",
-          "title": "세븐일레븐 젠슨 황 방한 대응",
-          "summary": "세븐일레븐이 젠슨 황 CEO의 동선 예상 지역 점포에서 자체 PB 상품 '세븐셀렉트 허니바나나맛 HBM 칩스'를 시민에게 배포하여 자연발생적 노출 효과 활용.",
+          "emoji": "🎯",
+          "title": "GS25 캐릭터 협업",
+          "summary": "GS25의 '몬치치 두바이하트초코틴' 한정판 상품이 출시 2주 만에 초도 물량 20만 개 완판으로 팬덤 기반 소비 확대 입증",
           "articleIndices": [
-            12
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'BBQ 드디어 소원성취'…젠슨 황 방한에 K푸드 브랜드 줄노출",
-              "url": "https://www.newspim.com/news/view/20260605000995"
+              "title": "할인보다 강한 건 팬덤…유통업계 'IP 쟁탈전' 이유 있었다",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026060513504582363"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍌",
+          "title": "세븐일레븐 반도체 협업",
+          "summary": "세븐일레븐이 SK하이닉스와 협업해 HBM 모티브 PB 과자 '세븐셀렉트 허니바나나맛 HBM 칩스' 출시로 기술 동맹 마케팅 전개",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "젠슨 황 홀린 K푸드, '테라·참이슬·카스·뚱바·BBQ' 등 함박웃음",
+              "url": "https://n.news.naver.com/mnews/article/008/0005368036?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🧱",
+          "title": "이마트24 레고 팝업",
+          "summary": "이마트24 트렌드랩 성수점이 월드컵 맞춰 업계 최초 레고 축구 테마 팝업존 운영으로 플래그십 스토어 차별화",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "신세계百, 강남점 와인셀라 2주년 행사→이마트24, 성수점 '레고 팝업존'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=743743"
             }
           ],
           "articleCount": 1
@@ -165,16 +205,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "☕",
-          "title": "CU 컵떡볶이 신제품 출시",
-          "summary": "CU가 컵떡볶이, 만두, 치즈, 삼각김밥 등 편의점 상품과의 조합을 고려하여 개발한 신제품으로 편의점 간편식 라인업 강화.",
+          "emoji": "🍦",
+          "title": "프리미엄 디저트 확산",
+          "summary": "6900원대 하겐다즈 등 프리미엄 아이스크림이 '작은 사치' 소비 트렌드로 편의점 냉동고 점유율 확대",
           "articleIndices": [
-            7
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[신상브리핑] CU, 필립모리스, 롯데호텔 서울, 더 키친 일뽀르노, 세븐일...",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1373351"
+              "title": "\"나를 위해 이정돈 괜찮아\"…6900원짜리 '작은 사치'가 뜬다",
+              "url": "https://n.news.naver.com/mnews/article/025/0003528435?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🎤",
+          "title": "K팝 한정판 협업",
+          "summary": "BTS 오레오·에스파 하이볼 등 K팝 아이돌 협업 식음료가 편의점·대형마트 전국 판매로 팬덤 소비 확대",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "'좋은 거+좋은 거' BTS 오레오·에스파 하이볼… K팝 만난 식음료",
+              "url": "https://n.news.naver.com/mnews/article/469/0000934875?sid=101"
             }
           ],
           "articleCount": 1
