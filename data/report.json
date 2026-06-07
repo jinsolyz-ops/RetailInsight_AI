@@ -1,48 +1,43 @@
 {
-  "generatedAt": "2026-06-06T22:53:25.865Z",
+  "generatedAt": "2026-06-07T22:53:30.354Z",
   "summary": [
-    "2026 월드컵 대비 편의점 치킨·주류 할인 마케팅 경쟁 본격화",
-    "K팝·캐릭터 협업 한정판 상품으로 팬덤 기반 소비 확대 추세",
-    "AI 쇼핑비서·크리에이터 협업으로 유통업계 디지털 마케팅 고도화"
+    "젠슨 황 방한으로 K-브랜드 글로벌 홍보 효과 극대화, 세븐일레븐 HBM칩 매출 766% 급증",
+    "CU 축구 대회 프로모션·조리과학고 산학협력으로 고객 접점 확대 및 신상품 개발",
+    "테무의 C커머스 주도권 확보로 국내 이커머스 시장 긴장, 신뢰 확보가 성장 관건"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "⚽",
-          "title": "월드컵 응원 마케팅",
-          "summary": "2026 북중미 월드컵 개막을 앞두고 편의점들이 오전 경기 시간대 맞춰 치킨·맥주·안주류 할인 행사로 새로운 응원 소비층 공략",
+          "emoji": "🌡️",
+          "title": "여름 특수 대비 유통업계 준비",
+          "summary": "때 이른 폭염주의보로 유통업계가 에어컨·보양식 중심의 여름 성수기 대비에 나섰다.",
           "articleIndices": [
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "밤샘 응원은 옛말…오전 10시 월드컵에 편의점 치킨 불붙었다",
-              "url": "https://n.news.naver.com/mnews/article/022/0004133428?sid=101"
+              "title": "[탐사보도 뉴스프리즘] 때 이른 폭염주의보 무더위 대응 어떻게?",
+              "url": "https://n.news.naver.com/mnews/article/422/0000872058?sid=102"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌞",
-          "title": "여름 성수기 마케팅",
-          "summary": "장마·휴가철 겹치는 6~7월을 겨냥해 레인웨어·제철과일·냉감용품 중심 소비 수요 확대 및 친환경 제품 할인·쿠폰 프로모션 강화",
+          "emoji": "🎬",
+          "title": "젠슨 황 방한 K-브랜드 글로벌 홍보",
+          "summary": "엔비디아 CEO 젠슨 황의 한국 방문으로 K-브랜드가 별도 광고비 없이 글로벌 홍보 효과를 얻으며 유통·식품업계가 수혜를 입었다.",
           "articleIndices": [
-            5,
-            6
+            7
           ],
           "relatedLinks": [
             {
-              "title": "여름 소비 잡아라…백화점·마트, 레인부츠부터 9990원 수박까지",
-              "url": "https://n.news.naver.com/mnews/article/022/0004133427?sid=101"
-            },
-            {
-              "title": "6월엔 녹색사자…할인 쿠폰 앞세운 유통가, 친환경 소비 잡는다",
-              "url": "https://n.news.naver.com/mnews/article/022/0004133426?sid=101"
+              "title": "'젠슨황 특수' AI 동맹보다 더 뜨거웠던 K-브랜드...BBQ·진로·카스·초...",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=524204"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -50,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "컬리 IPO 재도전",
-          "summary": "네이버 투자 유치로 AI 기술 결합 및 수익성 중심 경영으로 이커머스 시장 혁신 선도 목표",
+          "emoji": "🛒",
+          "title": "테무의 C커머스 주도권 확보",
+          "summary": "중국 이커머스 테무가 알리익스프레스를 제치고 C커머스 시장 주도권을 잡으며 국내 이커머스 업계에 긴장을 주고 있다.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "IPO 재도전 컬리, 네이버·AI로 성장판 다시 연다",
-              "url": "https://www.ngetnews.com/news/articleView.html?idxno=550631"
+              "title": "테무, 알리 제치고 C커머스 주도권 잡았다…국내 이커머스도 긴장",
+              "url": "https://n.news.naver.com/mnews/article/018/0006300115?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "대형마트 규제 완화",
-          "summary": "쿠팡·컬리·SSG닷컴 등 이커머스 업체와 경쟁 강화를 위해 대형마트 규제 완화 논의 가속화",
+          "emoji": "🤖",
+          "title": "AI 쇼핑 에이전트 도입 확대",
+          "summary": "메가존클라우드가 골프존커머스에 AI 쇼핑 에이전트를 구축하는 등 이커머스 플랫폼의 AI 기반 추천 기능 고도화가 진행 중이다.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "6·3 지방선거 이후 대형마트 정책 어디로…규제 완화 '속도조절'",
-              "url": "https://n.news.naver.com/mnews/article/138/0002229936?sid=101"
+              "title": "[AI핫이슈]'모델 보단 컨텍스트가 먼저'...에이전틱OS 경쟁 고조",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672600"
             }
           ],
           "articleCount": 1
@@ -85,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "크리에이터 육성 경쟁",
-          "summary": "유통업계가 숏폼 콘텐츠 열풍 속 크리에이터 직접 육성으로 비용 효율적 마케팅 및 취향 파편화 대응",
+          "emoji": "🚀",
+          "title": "AI 기반 유통 의사결정 고도화",
+          "summary": "유통업계가 AI를 통해 기획과 실행 속도를 높이고 있으며, 디지털 미디어와 결합해 리스크 관리 체계를 강화하고 있다.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "유통업계, 숏폼 열풍 속 크리에이터 직접 키운다",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026060517001009154"
+              "title": "(시론)의사결정, 속도와 통제 사이에서",
+              "url": "http://www.newstomato.com/ReadNews.aspx?no=1303086&inflow=N"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "AI 쇼핑비서 경쟁",
-          "summary": "유통업계가 개인화된 상품 추천 AI 쇼핑비서 서비스 확대로 고객 맞춤형 쇼핑 경험 제공 경쟁",
+          "emoji": "🌐",
+          "title": "글로벌 이커머스 AI 설계 방향 제시",
+          "summary": "아시아타임즈 'AIRF 2026' 컨퍼런스에서 유통업계 리더들이 AI가 설계하는 미래 유통의 방향을 논의했다.",
           "articleIndices": [
-            2
+            4
           ],
           "relatedLinks": [
             {
-              "title": "\"아기방 가습기 추천해줘\"…뜨거운 AI 쇼핑비서 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/138/0002230066?sid=101"
+              "title": "[사고]'AI가 변화시킬 유통의 미래'…아시아타임즈 'AIRF 2026' 컨퍼런스...",
+              "url": "https://www.asiatime.co.kr/article/20260604500346"
             }
           ],
           "articleCount": 1
@@ -120,31 +115,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "⚠️",
-          "title": "CU POST 정보유출",
-          "summary": "BGF네트웍스 운영 CU POST 택배 서비스에서 고객 개인정보 유출 사고 발생으로 보안 관리 강화 필요",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU 고객정도도 다 털렸다… BGF네트웍스, '머리 숙여 사과'",
-              "url": "https://www.greened.kr/news/articleView.html?idxno=342008"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "❌",
-          "title": "CU PB 제조 오류",
-          "summary": "CU 자체 브랜드 신선식품에서 불고기 김밥 대신 참치김밥 포장 오류 발생으로 품질관리 문제 노출",
+          "emoji": "⚽",
+          "title": "축구 대회 기념 프로모션·산학협력",
+          "summary": "CU가 2026 월드컵 기념 주류·음료 프로모션과 한국조리과학고와의 산학협력을 통해 고객 접점을 확대하고 신상품 개발을 추진 중이다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[단독] '불고기 김밥 샀는데, 참치김밥이?'… CU 편의점 제조·포장 오류",
-              "url": "https://www.abcn.kr/news/articleView.html?idxno=88543"
+              "title": "CU, 축구 대회 기념 프로모션·조리과학고 업무협약",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=743869"
             }
           ],
           "articleCount": 1
@@ -155,46 +135,51 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "GS25 캐릭터 협업",
-          "summary": "GS25의 '몬치치 두바이하트초코틴' 한정판 상품이 출시 2주 만에 초도 물량 20만 개 완판으로 팬덤 기반 소비 확대 입증",
+          "emoji": "🍱",
+          "title": "GS25 시즌 도시락 전략 강화",
+          "summary": "GS25가 6월 초여름 시즌을 맞아 7첩 정찬 콘셉트의 '이달의 도시락 미식편'을 출시하며 시즌성과 소비 트렌드를 반영한 전략 상품을 강화하고 있다.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "할인보다 강한 건 팬덤…유통업계 'IP 쟁탈전' 이유 있었다",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026060513504582363"
+              "title": "GS25 '이달의 도시락 미식편'·세븐일레븐 하절기 푸드 출시",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=743866"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "🍌",
-          "title": "세븐일레븐 반도체 협업",
-          "summary": "세븐일레븐이 SK하이닉스와 협업해 HBM 모티브 PB 과자 '세븐셀렉트 허니바나나맛 HBM 칩스' 출시로 기술 동맹 마케팅 전개",
+          "title": "세븐일레븐 HBM칩 매출 폭증",
+          "summary": "세븐일레븐의 PB 상품 '세븐셀렉트 허니바나나맛 HBM칩'이 젠슨 황 방한 이후 일매출 766% 증가하며 K-브랜드 글로벌 홍보 효과를 극대화했다.",
           "articleIndices": [
+            4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "젠슨 황 홀린 K푸드, '테라·참이슬·카스·뚱바·BBQ' 등 함박웃음",
-              "url": "https://n.news.naver.com/mnews/article/008/0005368036?sid=101"
+              "title": "젠슨 황이 입에 댄 건 다 잘 팔린다…HBM칩 과자 매출 766% 폭증",
+              "url": "https://n.news.naver.com/mnews/article/009/0005690483?sid=103"
+            },
+            {
+              "title": "\"젠슨 황은 K-푸드 전도사?\"…AI 제왕의 '먹방 투어'에 외식업계 웃...",
+              "url": "https://n.news.naver.com/mnews/article/117/0004072325?sid=102"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🧱",
-          "title": "이마트24 레고 팝업",
-          "summary": "이마트24 트렌드랩 성수점이 월드컵 맞춰 업계 최초 레고 축구 테마 팝업존 운영으로 플래그십 스토어 차별화",
+          "emoji": "🧩",
+          "title": "이마트24 레고 팝업존 운영",
+          "summary": "이마트24가 2026 월드컵을 맞아 레고코리아와 협력해 서울 성수동 플래그십 스토어에서 '레고 팝업존'을 운영하며 브랜드 경험 강화에 나섰다.",
           "articleIndices": [
             7
           ],
           "relatedLinks": [
             {
-              "title": "신세계百, 강남점 와인셀라 2주년 행사→이마트24, 성수점 '레고 팝업존'",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=743743"
+              "title": "이마트24, 월드컵 기념 '레고 팝업존' 오픈",
+              "url": "https://n.news.naver.com/mnews/article/081/0003650327?sid=101"
             }
           ],
           "articleCount": 1
@@ -206,30 +191,30 @@
       "issues": [
         {
           "emoji": "🍦",
-          "title": "프리미엄 디저트 확산",
-          "summary": "6900원대 하겐다즈 등 프리미엄 아이스크림이 '작은 사치' 소비 트렌드로 편의점 냉동고 점유율 확대",
+          "title": "일본 아이스크림 한국 시장 확대",
+          "summary": "모리나가·메이지 등 일본 아이스크림 브랜드가 카페 디저트와 결합한 프리미엄 제품으로 한국산 3배 규모로 급증하며 편의점·할인점 채널 확대 중이다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "\"나를 위해 이정돈 괜찮아\"…6900원짜리 '작은 사치'가 뜬다",
-              "url": "https://n.news.naver.com/mnews/article/025/0003528435?sid=101"
+              "title": "[리얼푸드] 규모 커진 일본 아이스크림, 한국산 3배 급증",
+              "url": "https://www.realfoods.co.kr/article/10765408?ref=naver"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎤",
-          "title": "K팝 한정판 협업",
-          "summary": "BTS 오레오·에스파 하이볼 등 K팝 아이돌 협업 식음료가 편의점·대형마트 전국 판매로 팬덤 소비 확대",
+          "emoji": "🍌",
+          "title": "망고킥 신상품 출시 및 소비자 반응",
+          "summary": "편의점 디저트 신상 '망고킥'이 출시되며 기존 바나나킥과의 비교 평가와 함께 1700원 가격대 수용성에 대한 소비자 반응이 활발하다.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'좋은 거+좋은 거' BTS 오레오·에스파 하이볼… K팝 만난 식음료",
-              "url": "https://n.news.naver.com/mnews/article/469/0000934875?sid=101"
+              "title": "\"바나나킥보다 낫네\" vs \"원조는 못이겨\"…망고킥 솔직 후기 [신상...]",
+              "url": "https://n.news.naver.com/mnews/article/011/0004628371?sid=101"
             }
           ],
           "articleCount": 1
