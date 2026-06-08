@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-06-07T22:53:30.354Z",
+  "generatedAt": "2026-06-08T23:06:40.690Z",
   "summary": [
-    "젠슨 황 방한으로 K-브랜드 글로벌 홍보 효과 극대화, 세븐일레븐 HBM칩 매출 766% 급증",
-    "CU 축구 대회 프로모션·조리과학고 산학협력으로 고객 접점 확대 및 신상품 개발",
-    "테무의 C커머스 주도권 확보로 국내 이커머스 시장 긴장, 신뢰 확보가 성장 관건"
+    "세븐일레븐 HBM칩 매출 8배 급증, AI 열풍이 편의점 상품 소비로 직결",
+    "CJ온스타일 럭스뷰티관 매출 43% 증가, 백화점 뷰티 차별화 전략 강화",
+    "이커머스 업계 AI 기반 넥스트 커머스 도입, 플랫폼 패러다임 전환 시동"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌡️",
-          "title": "여름 특수 대비 유통업계 준비",
-          "summary": "때 이른 폭염주의보로 유통업계가 에어컨·보양식 중심의 여름 성수기 대비에 나섰다.",
+          "emoji": "🔥",
+          "title": "AI 열풍, 편의점 상품 소비로 확산",
+          "summary": "젠슨 황의 HBM칩 섭취 이슈로 세븐일레븐 PB 상품 매출이 704% 급증하며, 산업 이슈가 편의점 소비로 직결되는 새로운 마케팅 기회를 입증했다.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[탐사보도 뉴스프리즘] 때 이른 폭염주의보 무더위 대응 어떻게?",
-              "url": "https://n.news.naver.com/mnews/article/422/0000872058?sid=102"
+              "title": "젠슨 황이 뜯자 매출 8배…편의점 과자까지 번진 'AI 열풍'",
+              "url": "https://n.news.naver.com/mnews/article/022/0004133954?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎬",
-          "title": "젠슨 황 방한 K-브랜드 글로벌 홍보",
-          "summary": "엔비디아 CEO 젠슨 황의 한국 방문으로 K-브랜드가 별도 광고비 없이 글로벌 홍보 효과를 얻으며 유통·식품업계가 수혜를 입었다.",
+          "emoji": "📍",
+          "title": "유통업계 현장 마케팅 신공식",
+          "summary": "브랜드 이미지와 일치하는 현장을 선별해 매출·신규 고객·브랜드 경험을 동시에 확보하는 전략이 유통업계 마케팅의 새로운 표준으로 자리잡고 있다.",
           "articleIndices": [
-            7
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'젠슨황 특수' AI 동맹보다 더 뜨거웠던 K-브랜드...BBQ·진로·카스·초...",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=524204"
+              "title": "주담대 금리 더 뛴다…KB·NH, 0.2%P 인상 금리 상단 7%",
+              "url": "https://n.news.naver.com/mnews/article/011/0004629033?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,34 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "테무의 C커머스 주도권 확보",
-          "summary": "중국 이커머스 테무가 알리익스프레스를 제치고 C커머스 시장 주도권을 잡으며 국내 이커머스 업계에 긴장을 주고 있다.",
+          "emoji": "🤖",
+          "title": "AI 기반 넥스트 커머스 시동",
+          "summary": "국내 이커머스 업계가 플랫폼 패러다임 자체를 바꾸는 AI 도입에 사활을 걸고 있으며, 와디즈 등에서 허위 광고 적발 및 검수 자동화에 AI를 활용 중이다.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "테무, 알리 제치고 C커머스 주도권 잡았다…국내 이커머스도 긴장",
-              "url": "https://n.news.naver.com/mnews/article/018/0006300115?sid=101"
+              "title": "'쇼핑의 미래 앞당긴다'...이커머스, AI 기반 '넥스트 커머스' 시동",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=152435"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "AI 쇼핑 에이전트 도입 확대",
-          "summary": "메가존클라우드가 골프존커머스에 AI 쇼핑 에이전트를 구축하는 등 이커머스 플랫폼의 AI 기반 추천 기능 고도화가 진행 중이다.",
+          "emoji": "💄",
+          "title": "CJ온스타일 럭스뷰티 차별화 전략",
+          "summary": "CJ온스타일 럭스뷰티관 매출이 43% 증가하며, 공식 수입사 파트너십과 라이브커머스 콘텐츠로 백화점 뷰티 중심의 차별화 전략을 강화하고 있다.",
           "articleIndices": [
-            3
+            5,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[AI핫이슈]'모델 보단 컨텍스트가 먼저'...에이전틱OS 경쟁 고조",
-              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672600"
+              "title": "CJ온스타일 럭스뷰티관 매출 43% 증가.. 글로벌 프리미엄 브랜드 입점 전...",
+              "url": "https://n.news.naver.com/mnews/article/014/0005532165?sid=101"
+            },
+            {
+              "title": "CJ온스타일, 백화점 뷰티 전략 강화 外 G마켓‧롯데온‧현대리바트 [유...]",
+              "url": "https://www.kukinews.com/article/view/kuk202606080153"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -80,31 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "AI 기반 유통 의사결정 고도화",
-          "summary": "유통업계가 AI를 통해 기획과 실행 속도를 높이고 있으며, 디지털 미디어와 결합해 리스크 관리 체계를 강화하고 있다.",
+          "emoji": "🛍️",
+          "title": "AI 가전·스마트홈 체험형 매장 확대",
+          "summary": "전자유통업계가 AI 가전과 스마트홈 제품군 확대에 맞춰 고객 체험형 매장을 늘리며, 온라인 쇼핑 일상화 속에서 오프라인 강점을 적극 활용하고 있다.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "(시론)의사결정, 속도와 통제 사이에서",
-              "url": "http://www.newstomato.com/ReadNews.aspx?no=1303086&inflow=N"
+              "title": "전자유통점 브랜드평판 6월 빅데이터 분석.. 1위 롯데하이마트, 2위 LG전...",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458520"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌐",
-          "title": "글로벌 이커머스 AI 설계 방향 제시",
-          "summary": "아시아타임즈 'AIRF 2026' 컨퍼런스에서 유통업계 리더들이 AI가 설계하는 미래 유통의 방향을 논의했다.",
+          "emoji": "🔍",
+          "title": "리커머스 AI 검수 기술 도입",
+          "summary": "중고 리세일 시장에서 AI 기술 '아테나'를 활용해 이미지와 데이터베이스로 가품을 판별하며, 희소성과 서사를 추구하는 소비 트렌드가 유통업계 대세로 떠오르고 있다.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "[사고]'AI가 변화시킬 유통의 미래'…아시아타임즈 'AIRF 2026' 컨퍼런스...",
-              "url": "https://www.asiatime.co.kr/article/20260604500346"
+              "title": "중고라서 더 힙한 리커머스 트렌드",
+              "url": "https://woman.donga.com/3/all/12/6259159/1"
             }
           ],
           "articleCount": 1
@@ -115,16 +120,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "⚽",
-          "title": "축구 대회 기념 프로모션·산학협력",
-          "summary": "CU가 2026 월드컵 기념 주류·음료 프로모션과 한국조리과학고와의 산학협력을 통해 고객 접점을 확대하고 신상품 개발을 추진 중이다.",
+          "emoji": "⚠️",
+          "title": "CU 택배 개인정보 유출 사건",
+          "summary": "BGF네트웍스가 운영하는 CU 택배 서비스에서 고객 개인정보가 대량 유출되어 경찰이 내사에 착수했다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "CU, 축구 대회 기념 프로모션·조리과학고 업무협약",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=743869"
+              "title": "경찰, CU편의점 택배 개인정보 유출 내사 착수",
+              "url": "https://n.news.naver.com/mnews/article/422/0000872718?sid=102"
             }
           ],
           "articleCount": 1
@@ -135,51 +140,53 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍱",
-          "title": "GS25 시즌 도시락 전략 강화",
-          "summary": "GS25가 6월 초여름 시즌을 맞아 7첩 정찬 콘셉트의 '이달의 도시락 미식편'을 출시하며 시즌성과 소비 트렌드를 반영한 전략 상품을 강화하고 있다.",
+          "emoji": "⚽",
+          "title": "GS25 월드컵 마케팅 강화",
+          "summary": "GS25가 월드컵을 맞아 주류 브랜드 전면 배치, 식품 안전 관리 캠페인, 고단백 저당 디저트 신맛 출시 등으로 여름철 소비 수요를 적극 공략하고 있다.",
           "articleIndices": [
-            1
+            1,
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "GS25 '이달의 도시락 미식편'·세븐일레븐 하절기 푸드 출시",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=743866"
+              "title": "[푸드·다이닝 트렌드] 세븐일레븐, 여름 먹거리 한 달 앞당겨 출시…",
+              "url": "https://www.ibabynews.com/news/articleView.html?idxno=151880"
+            },
+            {
+              "title": "GS25·GS더프레시, 여름철 '전 과정 위생 점검'…먹거리 안전 총력전",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=60206"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "🍌",
+          "title": "세븐일레븐 HBM칩 매출 폭증",
+          "summary": "세븐일레븐이 SK하이닉스와 협업한 '세븐셀렉트 허니바나나맛 HBM칩'이 AI 열풍으로 매출 704% 증가하며, 모바일 앱 검색량도 급증했다.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "'젠슨황이 먹었대'…'K미식 탐방'에 덩달아 뛴다",
+              "url": "https://n.news.naver.com/mnews/article/215/0001254715?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍌",
-          "title": "세븐일레븐 HBM칩 매출 폭증",
-          "summary": "세븐일레븐의 PB 상품 '세븐셀렉트 허니바나나맛 HBM칩'이 젠슨 황 방한 이후 일매출 766% 증가하며 K-브랜드 글로벌 홍보 효과를 극대화했다.",
-          "articleIndices": [
-            4,
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "젠슨 황이 입에 댄 건 다 잘 팔린다…HBM칩 과자 매출 766% 폭증",
-              "url": "https://n.news.naver.com/mnews/article/009/0005690483?sid=103"
-            },
-            {
-              "title": "\"젠슨 황은 K-푸드 전도사?\"…AI 제왕의 '먹방 투어'에 외식업계 웃...",
-              "url": "https://n.news.naver.com/mnews/article/117/0004072325?sid=102"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
           "emoji": "🧩",
-          "title": "이마트24 레고 팝업존 운영",
-          "summary": "이마트24가 2026 월드컵을 맞아 레고코리아와 협력해 서울 성수동 플래그십 스토어에서 '레고 팝업존'을 운영하며 브랜드 경험 강화에 나섰다.",
+          "title": "이마트24 월드컵 팝업존 운영",
+          "summary": "이마트24가 플래그십 스토어 '트렌드랩 성수점'에서 월드컵을 맞아 레고 팝업존을 운영하며 테마 기반 고객 경험을 강화하고 있다.",
           "articleIndices": [
-            7
+            6
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, 월드컵 기념 '레고 팝업존' 오픈",
-              "url": "https://n.news.naver.com/mnews/article/081/0003650327?sid=101"
+              "title": "[2026 월드컵 이모저모] 쿠팡플레이·아디다스·도미노피자·칠리즈·푸...",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=138193"
             }
           ],
           "articleCount": 1
@@ -190,31 +197,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "일본 아이스크림 한국 시장 확대",
-          "summary": "모리나가·메이지 등 일본 아이스크림 브랜드가 카페 디저트와 결합한 프리미엄 제품으로 한국산 3배 규모로 급증하며 편의점·할인점 채널 확대 중이다.",
+          "emoji": "🥤",
+          "title": "제로 PB 상품 식사류로 확대",
+          "summary": "음료와 디저트를 넘어 제로 마라탕 등 식사류까지 확대되며, 저당 PB 상품군이 간편식 카테고리로 성장하는 새로운 국면에 진입했다.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[리얼푸드] 규모 커진 일본 아이스크림, 한국산 3배 급증",
-              "url": "https://www.realfoods.co.kr/article/10765408?ref=naver"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍌",
-          "title": "망고킥 신상품 출시 및 소비자 반응",
-          "summary": "편의점 디저트 신상 '망고킥'이 출시되며 기존 바나나킥과의 비교 평가와 함께 1700원 가격대 수용성에 대한 소비자 반응이 활발하다.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"바나나킥보다 낫네\" vs \"원조는 못이겨\"…망고킥 솔직 후기 [신상...]",
-              "url": "https://n.news.naver.com/mnews/article/011/0004628371?sid=101"
+              "title": "'제로 콜라' 다음은 '제로 마라탕'…식사류로 번지는 PB 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/138/0002230264?sid=101"
             }
           ],
           "articleCount": 1
