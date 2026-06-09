@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-06-08T23:06:40.690Z",
+  "generatedAt": "2026-06-09T23:08:51.638Z",
   "summary": [
-    "세븐일레븐 HBM칩 매출 8배 급증, AI 열풍이 편의점 상품 소비로 직결",
-    "CJ온스타일 럭스뷰티관 매출 43% 증가, 백화점 뷰티 차별화 전략 강화",
-    "이커머스 업계 AI 기반 넥스트 커머스 도입, 플랫폼 패러다임 전환 시동"
+    "CU, 위스키 '길리모어' 1만원대 출시로 입문 고객층 공략",
+    "이마트24, 빵튜브 뽀니와 협업한 차별화 디저트 5종 시즌2 출시",
+    "GS25, 야구 팬덤 소비 선점으로 잠실야구장 인근 매출 21.5% 증가"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🔥",
-          "title": "AI 열풍, 편의점 상품 소비로 확산",
-          "summary": "젠슨 황의 HBM칩 섭취 이슈로 세븐일레븐 PB 상품 매출이 704% 급증하며, 산업 이슈가 편의점 소비로 직결되는 새로운 마케팅 기회를 입증했다.",
+          "emoji": "⚾",
+          "title": "야구 팬덤 소비 선점전",
+          "summary": "KBO 리그 흥행으로 야구장 인근 편의점과 온라인 굿즈 소비가 급증하며 유통업계의 팬덤 마케팅 경쟁이 심화되고 있다.",
           "articleIndices": [
-            3
+            6
           ],
           "relatedLinks": [
             {
-              "title": "젠슨 황이 뜯자 매출 8배…편의점 과자까지 번진 'AI 열풍'",
-              "url": "https://n.news.naver.com/mnews/article/022/0004133954?sid=101"
+              "title": "야구장 밖으로 번진 KBO 흥행…유통업계, 팬덤 소비 선점전",
+              "url": "https://sateconomy.co.kr/news/view/1065599686844646"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📍",
-          "title": "유통업계 현장 마케팅 신공식",
-          "summary": "브랜드 이미지와 일치하는 현장을 선별해 매출·신규 고객·브랜드 경험을 동시에 확보하는 전략이 유통업계 마케팅의 새로운 표준으로 자리잡고 있다.",
+          "emoji": "🎨",
+          "title": "문화 마케팅 확대 추세",
+          "summary": "유통업계가 대중적 제품과 전통 예술을 결합한 문화 마케팅을 확대하며 브랜드 차별화를 추진 중이다.",
           "articleIndices": [
-            4
+            5
           ],
           "relatedLinks": [
             {
-              "title": "주담대 금리 더 뛴다…KB·NH, 0.2%P 인상 금리 상단 7%",
-              "url": "https://n.news.naver.com/mnews/article/011/0004629033?sid=101"
+              "title": "빙그레 CJ올리브영 쿠팡 外(여기 유통 이슈)",
+              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3065926"
             }
           ],
           "articleCount": 1
@@ -46,38 +46,33 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 기반 넥스트 커머스 시동",
-          "summary": "국내 이커머스 업계가 플랫폼 패러다임 자체를 바꾸는 AI 도입에 사활을 걸고 있으며, 와디즈 등에서 허위 광고 적발 및 검수 자동화에 AI를 활용 중이다.",
+          "title": "AI 커머스 고도화",
+          "summary": "무신사 등 이커머스 플랫폼이 챗GPT 기반 AI 도입으로 개인화 추천·대화형 탐색·자동 구매 연동으로 진화하며 AI 쇼핑 서비스 경쟁이 심화되고 있다.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "'쇼핑의 미래 앞당긴다'...이커머스, AI 기반 '넥스트 커머스' 시동",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=152435"
+              "title": "'내일 출근룩 추천해줘'…무신사, 챗GPT 입성으로 AI 커머스 시대 열었다",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=152483"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💄",
-          "title": "CJ온스타일 럭스뷰티 차별화 전략",
-          "summary": "CJ온스타일 럭스뷰티관 매출이 43% 증가하며, 공식 수입사 파트너십과 라이브커머스 콘텐츠로 백화점 뷰티 중심의 차별화 전략을 강화하고 있다.",
+          "emoji": "💳",
+          "title": "글로벌 플랫폼 신뢰 위기",
+          "summary": "올리브영의 미국 진출 과정에서 포인트 정책 변경으로 충성 고객이 손해를 입으면서 브랜드 신뢰 문제로 확대되어 글로벌 이커머스의 고객 데이터 관리 중요성이 대두되고 있다.",
           "articleIndices": [
-            5,
-            6
+            1
           ],
           "relatedLinks": [
             {
-              "title": "CJ온스타일 럭스뷰티관 매출 43% 증가.. 글로벌 프리미엄 브랜드 입점 전...",
-              "url": "https://n.news.naver.com/mnews/article/014/0005532165?sid=101"
-            },
-            {
-              "title": "CJ온스타일, 백화점 뷰티 전략 강화 外 G마켓‧롯데온‧현대리바트 [유...]",
-              "url": "https://www.kukinews.com/article/view/kuk202606080153"
+              "title": "올리브영 '내 포인트는 어디로 갔나'…글로벌 플랫폼의 조건은 고객 데이터",
+              "url": "https://www.sjsori.com/news/articleView.html?idxno=86491"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -86,30 +81,30 @@
       "issues": [
         {
           "emoji": "🛍️",
-          "title": "AI 가전·스마트홈 체험형 매장 확대",
-          "summary": "전자유통업계가 AI 가전과 스마트홈 제품군 확대에 맞춰 고객 체험형 매장을 늘리며, 온라인 쇼핑 일상화 속에서 오프라인 강점을 적극 활용하고 있다.",
+          "title": "에이전트 커머스 확산",
+          "summary": "AI 에이전트가 거래하는 에이전트 커머스(Agentic Commerce)가 확산되며 단기적으로는 AI 기반 쇼핑 서비스, 중장기적으로는 AI 에이전트 간 거래(A2A Economy)로 확대될 전망이다.",
           "articleIndices": [
-            3
+            6
           ],
           "relatedLinks": [
             {
-              "title": "전자유통점 브랜드평판 6월 빅데이터 분석.. 1위 롯데하이마트, 2위 LG전...",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458520"
+              "title": "[기고] AI 에이전트가 거래하는 시대, 블록체인은 언제 필요한가?",
+              "url": "http://www.segyebiz.com/newsView/20250609517632?OutUrl=naver"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🔍",
-          "title": "리커머스 AI 검수 기술 도입",
-          "summary": "중고 리세일 시장에서 AI 기술 '아테나'를 활용해 이미지와 데이터베이스로 가품을 판별하며, 희소성과 서사를 추구하는 소비 트렌드가 유통업계 대세로 떠오르고 있다.",
+          "emoji": "🎯",
+          "title": "AI 기반 개인화 향수 추천",
+          "summary": "본작이 실제 리테일 매장과 이벤트에서 축적한 시향·구매 데이터를 활용한 AI 기반 개인 맞춤 향수 추천 서비스 'Scent ID'를 공개하며 리테일 데이터 기반 AI 큐레이션이 확대되고 있다.",
           "articleIndices": [
-            4
+            12
           ],
           "relatedLinks": [
             {
-              "title": "중고라서 더 힙한 리커머스 트렌드",
-              "url": "https://woman.donga.com/3/all/12/6259159/1"
+              "title": "본작, VIVATECH 2026서 AI 향 큐레이션 플랫폼 'Scent ID' 공개",
+              "url": "https://kr.aving.net/news/articleView.html?idxno=1811580"
             }
           ],
           "articleCount": 1
@@ -120,16 +115,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "⚠️",
-          "title": "CU 택배 개인정보 유출 사건",
-          "summary": "BGF네트웍스가 운영하는 CU 택배 서비스에서 고객 개인정보가 대량 유출되어 경찰이 내사에 착수했다.",
+          "emoji": "🥃",
+          "title": "길리모어 위스키 출시",
+          "summary": "CU가 위스키 입문 고객층의 부드럽고 달콤한 풍미 수요에 맞춰 1만원대 데일리 위스키 '길리모어'를 출시하며 프리미엄 주류 포트폴리오를 강화하고 있다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "경찰, CU편의점 택배 개인정보 유출 내사 착수",
-              "url": "https://n.news.naver.com/mnews/article/422/0000872718?sid=102"
+              "title": "이마트24, '빵튜브 뽀니 시즌2' 5종 출시→CU, 1만원대 '길리모어' 출시",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=744328"
             }
           ],
           "articleCount": 1
@@ -140,53 +135,16 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "⚽",
-          "title": "GS25 월드컵 마케팅 강화",
-          "summary": "GS25가 월드컵을 맞아 주류 브랜드 전면 배치, 식품 안전 관리 캠페인, 고단백 저당 디저트 신맛 출시 등으로 여름철 소비 수요를 적극 공략하고 있다.",
+          "emoji": "🚀",
+          "title": "편의점 24시간 배송 경쟁",
+          "summary": "GS25, CU, 세븐일레븐, 이마트24 4사가 쿠팡의 퀵커머스에 대응하며 24시간 배송 경쟁에 참전하고 있으며, 간식을 넘어 행사 음료·아이스크림·디저트 등 특정 목적 장보기 수요까지 흡수하고 있다.",
           "articleIndices": [
-            1,
-            2,
-            3,
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[푸드·다이닝 트렌드] 세븐일레븐, 여름 먹거리 한 달 앞당겨 출시…",
-              "url": "https://www.ibabynews.com/news/articleView.html?idxno=151880"
-            },
-            {
-              "title": "GS25·GS더프레시, 여름철 '전 과정 위생 점검'…먹거리 안전 총력전",
-              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=60206"
-            }
-          ],
-          "articleCount": 4
-        },
-        {
-          "emoji": "🍌",
-          "title": "세븐일레븐 HBM칩 매출 폭증",
-          "summary": "세븐일레븐이 SK하이닉스와 협업한 '세븐셀렉트 허니바나나맛 HBM칩'이 AI 열풍으로 매출 704% 증가하며, 모바일 앱 검색량도 급증했다.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "'젠슨황이 먹었대'…'K미식 탐방'에 덩달아 뛴다",
-              "url": "https://n.news.naver.com/mnews/article/215/0001254715?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🧩",
-          "title": "이마트24 월드컵 팝업존 운영",
-          "summary": "이마트24가 플래그십 스토어 '트렌드랩 성수점'에서 월드컵을 맞아 레고 팝업존을 운영하며 테마 기반 고객 경험을 강화하고 있다.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "[2026 월드컵 이모저모] 쿠팡플레이·아디다스·도미노피자·칠리즈·푸...",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=138193"
+              "title": "\"쿠팡 나와\"⋯ 편의점, 24시간 배송 경쟁 참전",
+              "url": "https://www.viva100.com/article/20260609500691"
             }
           ],
           "articleCount": 1
@@ -197,19 +155,41 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🥤",
-          "title": "제로 PB 상품 식사류로 확대",
-          "summary": "음료와 디저트를 넘어 제로 마라탕 등 식사류까지 확대되며, 저당 PB 상품군이 간편식 카테고리로 성장하는 새로운 국면에 진입했다.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 신상 경쟁",
+          "summary": "이마트24의 빵튜브 뽀니 협업 5종, CU의 길리모어 위스키 출시 등 편의점들이 인플루언서 협업과 프리미엄 상품으로 디저트·간식 카테고리 경쟁을 심화시키고 있으며, 젠슨 황 방문으로 인한 붕어빵 매출 60% 증가 등 SNS 버즈도 확대되고 있다.",
           "articleIndices": [
-            2
+            1,
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'제로 콜라' 다음은 '제로 마라탕'…식사류로 번지는 PB 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/138/0002230264?sid=101"
+              "title": "젠슨 황이 먹은 치킨과 붕어빵…'황 픽'에 유통가 들썩",
+              "url": "https://n.news.naver.com/mnews/article/057/0001953052?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
+        },
+        {
+          "emoji": "💰",
+          "title": "초저가 PB 상품 확대",
+          "summary": "롯데마트가 가성비 트렌드에 맞춰 1000원 이하 PB 상품을 2024년 45개에서 2026년 6월 기준 90개로 두 배 확대했으며, 신선식품·음료·과자·생활용품까지 상품군을 다양화하며 밥상 물가 안정 수요를 공략하고 있다.",
+          "articleIndices": [
+            8,
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "980원 숙주·690원 순두부…롯데마트, 1000원 이하 PB 확대",
+              "url": "https://n.news.naver.com/mnews/article/015/0005296967?sid=101"
+            },
+            {
+              "title": "1000원으로 장볼까 어디?…690원에 순두부 팝니다",
+              "url": "https://n.news.naver.com/mnews/article/374/0000515086?sid=101"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     }
