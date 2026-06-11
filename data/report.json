@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-06-10T23:18:30.604Z",
+  "generatedAt": "2026-06-11T23:13:36.053Z",
   "summary": [
-    "CU, 저가 위스키 라인업 확대로 가성비 주류 수요 대응",
-    "GS25, 보이넥스트도어 협업 상품으로 2030 팬덤 공략",
-    "유통업계 AI 활용 확산, 대형사 가격·재고 관리 자동화 추진"
+    "BGF리테일, 한컴과 사내 AI 지식검색 체계 구축으로 조직 효율화 추진",
+    "GS25, 24시간 신선식품 강화로 편의점 차별화 전략 가속",
+    "신세계그룹, SSG닷컴 1조2700억 인수로 이커머스 경쟁력 강화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "월드컵 마케팅 부진",
-          "summary": "한국 조별리그 경기가 평일 낮으로 편성되면서 편의점·외식업계의 월드컵 특수 마케팅이 사실상 실종된 상황.",
+          "emoji": "☕",
+          "title": "스타벅스 브랜드 이슈 영향",
+          "summary": "커피전문점 시장 확대로 브랜드 논란이 소비 흐름에 미치는 영향이 과거보다 커지면서 결제액 반등에도 불구하고 전년 대비 80억원 감소.",
           "articleIndices": [
-            4,
-            7
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'4년만의 성수기인데'..월드컵 낮 경기에 자영업자 울상..특수 실종",
-              "url": "https://n.news.naver.com/mnews/article/014/0005533459?sid=101"
-            },
-            {
-              "title": "월드컵 개막 'D-1'…오전부터 '치맥 특수' 불씨 살린다",
-              "url": "https://n.news.naver.com/mnews/article/277/0005774774?sid=101"
+              "title": "스타벅스, 결제액 반등했지만…논란 전보다 80억원 적었다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004134760?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "유통가 AI 혁신 가속",
-          "summary": "대형 유통사가 AI를 가격 결정·고객 분석·재고 관리 등 핵심 업무에 활용하면서 중소 유통업체와의 양극화 심화.",
+          "emoji": "🏬",
+          "title": "롯데백화점 럭셔리 확대",
+          "summary": "롯데백화점이 인천점 중심으로 럭셔리·리빙 콘텐츠를 확대하며 프리미엄 고객층 수요 공략에 나서는 포지셔닝 전략.",
           "articleIndices": [
-            5
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[유통가 AI혁신] 유통가 '에이전틱 AI' 전환 가속…단순 자동화 넘어 의...",
-              "url": "https://www.ajunews.com/view/20260604152714462"
+              "title": "[이슈] 롯데백화점, 인천 프리미엄 수요 잡는다…럭셔리·리빙존 확대",
+              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=803355"
             }
           ],
           "articleCount": 1
@@ -51,38 +46,43 @@
       "issues": [
         {
           "emoji": "📦",
-          "title": "CJ대한통운 통합 풀필먼트",
-          "summary": "CJ대한통운이 B2B·B2C 통합 풀필먼트로 26개 이커머스 플랫폼 연동 서비스를 확대하며 셀러 물류 부담 경감.",
+          "title": "신세계 SSG닷컴 완전 인수",
+          "summary": "신세계그룹이 SSG닷컴 지분 100% 확보를 위해 1조2700억원을 투자하며 이커머스 경영 효율화와 의사결정 체계 강화에 나섬.",
           "articleIndices": [
-            12,
-            14
+            3,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[택배 & Now] CJ대한통운, B2B·B2C 통합 풀필먼트로 셀러 물류 부담 낮춘...",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712038"
+              "title": "[이슈] 정용진의 승부수...신세계, SSG닷컴 1조2700억 인수",
+              "url": "https://www.seoultimes.news/news/article.html?no=2000096526"
             },
             {
-              "title": "'한 번 입고로 B2B·B2C까지'…CJ대한통운, 통합 풀필먼트 승부수",
-              "url": "http://www.4th.kr/news/articleView.html?idxno=2112982"
+              "title": "신세계그룹, 1.2조 들여 SSG닷컴 지분 100% 확보...'경영효율화' 시동",
+              "url": "https://n.news.naver.com/mnews/article/008/0005370623?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🎯",
-          "title": "컬리 AI 큐레이션 전략",
-          "summary": "컬리가 직매입 중심 버티컬 커머스에서 플랫폼형 사업자로 확장하며 AI 기반 추천 서비스와 3PL 확대 추진.",
+          "emoji": "🤖",
+          "title": "AI 기반 버티컬 커머스 고도화",
+          "summary": "컬리, CJ대한통운 등이 AI 추천 서비스와 통합 풀필먼트로 플랫폼형 사업 확장을 추진하며 버티컬 커머스의 경쟁력 강화.",
           "articleIndices": [
+            10,
             11
           ],
           "relatedLinks": [
             {
               "title": "AI 시대 컬리의 답은 '큐레이션'",
               "url": "http://www.itdaily.kr/news/articleView.html?idxno=239766"
+            },
+            {
+              "title": "[택배 & Now] CJ대한통운, B2B·B2C 통합 풀필먼트로 셀러 물류 부담 낮춘...",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712038"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -90,31 +90,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "💳",
-          "title": "AI 무인계산기 도입",
-          "summary": "오아시스마켓 등 유통사가 AI 무인계산기를 도입해 결제 편의성과 매장 운영 효율을 동시에 개선하는 추세.",
+          "emoji": "🛍️",
+          "title": "AI 기반 고객 유입 효율성",
+          "summary": "검색 대비 AI를 통한 고객 유입이 구매율이 높다는 점이 확인되면서 유통·패션·뷰티 업계의 AI 도입 가속화.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "오아시스마켓, AI 무인계산기 안착…고객 편의·매장 효율 강화",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=843499"
+              "title": "'검색보다 AI로 유입된 고객 구매율 높아'",
+              "url": "https://n.news.naver.com/mnews/article/009/0005692641?sid=103"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "대형사 AI 가격·재고 관리",
-          "summary": "대형 유통사가 AI로 가격 결정과 재고 관리를 자동화하면서 중소 유통업체와의 경쟁력 격차 확대.",
+          "emoji": "🏪",
+          "title": "편의점 신선식품 AI 마케팅",
+          "summary": "GS25가 24시간 신선식품 판매 전략으로 편의점 포지셔닝을 재정의하며 AI 기반 마케팅과 함께 차별화 추진.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[유통가 AI 혁신] 대기업은 가격·재고도 AI로 관리…중소업체는 출발선...",
-              "url": "https://www.ajunews.com/view/20260608160459710"
+              "title": "[비즈&플러스] 젠슨 황 마케팅 한창?‥편의점 신선식품 주력?",
+              "url": "https://n.news.naver.com/mnews/article/214/0001505033?sid=101"
             }
           ],
           "articleCount": 1
@@ -125,24 +125,34 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🥃",
-          "title": "CU 저가 위스키 라인업 확대",
-          "summary": "CU가 스카치 위스키 '길리모어' 등 1만원대 저가 위스키를 출시하며 가성비 주류 수요 대응 강화.",
+          "emoji": "🤖",
+          "title": "BGF리테일 사내 AI 지식검색",
+          "summary": "BGF리테일이 국내 민간 기업 최초로 한컴과 협력해 전사 데이터 연계 지능형 지식 검색 체계를 구축하며 조직 장벽 제거.",
           "articleIndices": [
-            2,
-            3
+            2
           ],
           "relatedLinks": [
             {
-              "title": "1만원대 스카치 '길리모어' 등장…CU, 저가 위스키 수요 대응 확대",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202606101904158822204ead0791_12"
-            },
-            {
-              "title": "'고가보다 실속'... CU, 가성비 위스키 라인업 확대",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=200950"
+              "title": "'담당자 찾는데만 수십분'… BGF리테일, 사내 AI로 조직 장벽 허문다",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=421918"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
+        },
+        {
+          "emoji": "🔒",
+          "title": "CU 택배서비스 개인정보 유출",
+          "summary": "BGF네트웍스 운영 CU 택배 서비스에서 해킹으로 고객 개인정보(아이디, 비밀번호, 주소 등) 유출 사건 발생.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "쿠팡, 세계 최대 과장금에...'정보유출' 티빙·CU도 덜덜",
+              "url": "https://n.news.naver.com/mnews/article/008/0005370890?sid=101"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -150,57 +160,31 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍙",
-          "title": "GS25 소프트 삼각김밥",
-          "summary": "GS25가 1년 이상 품질 개선 프로젝트를 통해 밥알 식감을 살린 '소프트 삼각김밥'을 출시하며 간편식 혁신.",
+          "emoji": "📈",
+          "title": "세븐일레븐 전통주 시장 공략",
+          "summary": "세븐일레븐이 이색 막걸리 시리즈 네 번째 상품을 출시하며 편의점 전통주 시장 확대에 속도를 내고 있음.",
           "articleIndices": [
-            1,
-            5
+            3
           ],
           "relatedLinks": [
             {
-              "title": "성장 멈춘 편의점…'가성비 한 끼' 간편식 혁신 경쟁",
-              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=313391"
-            },
-            {
-              "title": "[오늘의신상]GS25, 밥알 살아있는 '소프트 삼각김밥'",
-              "url": "https://n.news.naver.com/mnews/article/277/0005774553?sid=101"
+              "title": "[유통가] 이마트, 농심, 던킨, 세븐일레븐, CJ프레시웨이, 애경산업, 디...",
+              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=85548"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🎤",
-          "title": "GS25 보이넥스트도어 협업",
-          "summary": "GS25가 글로벌 아이돌 보이넥스트도어의 앨범 발매에 맞춰 편의점 채널 단독 협업 상품을 출시하며 2030 팬덤 공략.",
+          "emoji": "🍹",
+          "title": "이마트24 프리미엄 하이볼 출시",
+          "summary": "이마트24가 저도주·믹솔로지 트렌드를 반영한 차별화 하이볼 '믹스유' 6종을 선보이며 프리미엄 음료 시장 공략.",
           "articleIndices": [
-            3,
-            4,
-            5
+            3
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 보이넥스트도어 정규 1집 'HOME' 발매 기념 단독 협업 상품 출시",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360300"
-            },
-            {
-              "title": "GS25, 보이넥스트도어 'HOME' 발매 맞춰 골전도 캔디·1m 젤리 선보인다",
-              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=60289"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🥤",
-          "title": "이마트24 프리바이오틱 음료",
-          "summary": "이마트24가 hy의 포스트바이오틱스 기술 기반 프리바이오틱 탄산음료 '아리'를 입점하며 건강음료 경쟁 강화.",
-          "articleIndices": [
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "롯데칠성 '해피즈' vs hy '아리'…프리바이오틱 탄산 격돌",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606091533224870680"
+              "title": "이마트24, '믹스유' 하이볼 6종 출시→농심, '신라면 분식' 성수 오픈",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=744737"
             }
           ],
           "articleCount": 1
@@ -211,44 +195,19 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 디저트 경쟁 심화",
-          "summary": "이마트24가 인플루언서 '빵튜브 뽀니'와 협업하고 롯데웰푸드 돼지바 팝업 등 편의점 디저트 차별화 경쟁 가속.",
+          "emoji": "🍫",
+          "title": "오리온 초코파이 글로벌 확장",
+          "summary": "오리온이 러시아·베트남 등에서 K-디저트 열풍을 활용해 편의점 채널과 도매상 유통망을 이원화하며 글로벌 영토 확장.",
           "articleIndices": [
-            2,
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[유통가] 삼립, 배스킨라빈스, 던킨, 세븐일레븐, 이마트24, CJ프레시웨이...",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=85483"
-            },
-            {
-              "title": "[A 현장] '43년 된 빵집?'...하루 1000명 몰린 샤로수길 롯데웰푸드 '돼지...",
-              "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=251904"
+              "title": "[빛나는 오리온] ①'초코파이 외교'…글로벌 영토 확장과 현지화의 미학",
+              "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=658756"
             }
           ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🌾",
-          "title": "K-푸드 글로벌 전략 강화",
-          "summary": "풀무원이 식물성 한식 간편식 'K-원볼밀'을 출시하며 글로벌 웰빙 트렌드에 맞춘 K-푸드 전략 추진.",
-          "articleIndices": [
-            8,
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "풀무원, 'K-푸드 웰빙화' 이끌 식물성 라인업 전격 가동",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=79189"
-            },
-            {
-              "title": "풀무원 'K-원볼밀' 3종 출시…'식물성 한식으로 글로벌 메인스트림 정조...",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360299"
-            }
-          ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     }
