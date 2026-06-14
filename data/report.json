@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-06-13T22:52:43.014Z",
+  "generatedAt": "2026-06-14T22:58:19.107Z",
   "summary": [
-    "월드컵 거리응원 특수로 편의점 맥주·간식 매출 180배~211% 폭증",
-    "BGF리테일 CU, 광화문 인근 점포 매출 3.4배 증가로 응원 수요 포착",
-    "유통업계 AI 품질관리·버티컬커머스 확대로 경쟁력 강화 가속화"
+    "CU, 도수 10도 '스트롱볼 레몬캔' 출시로 프리미엄 RTD 시장 공략",
+    "CU 스마트 그로서리 서울 진출, 장보기 특화 포맷으로 점포 포화 돌파",
+    "유통업계 AI 에이전트 쇼핑 경험 고도화, 네이버플러스 875만 MAU 달성"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "⚽",
-          "title": "월드컵 거리응원 특수",
-          "summary": "한국 축구대표팀 월드컵 첫 경기 승리로 편의점 맥주·간식 매출이 180배~211% 폭증하며 평일 오전 시간대 새로운 수요 창출.",
+          "emoji": "🛒",
+          "title": "쿠팡 공정위 규제 강화",
+          "summary": "대기업집단 성장에 따른 공정위의 감시 강화로 유통업계 규제 환경 변화 신호.",
           "articleIndices": [
-            1,
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "'김범석 총수' 법정 다툼 속…쿠팡 향한 공정위 칼끝 넓어졌다",
+              "url": "https://www.kukinews.com/article/view/kuk202606100131"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌾",
+          "title": "K-쌀가공식품 글로벌 확대",
+          "summary": "국내 쌀가공식품 기업들이 국제 박람회 참여로 글로벌 바이어 확보 및 수출 확대 추진.",
+          "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "역대급 '무관심'이라더니…맥주·치킨 '싹쓸이'한 직장인들",
-              "url": "https://n.news.naver.com/mnews/article/022/0004135209?sid=101"
-            },
-            {
-              "title": "[S-이슈] 2026 북중미 월드컵 '체코戰 역전승' 이어 2연승 가즈아",
-              "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=41735"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🎤",
-          "title": "BTS 부산 공연 팬캉스 마케팅",
-          "summary": "BTS 부산 공연을 계기로 지역 유통업계가 팝업스토어·현수막 등 팬 타겟 마케팅을 전개하며 외국인 투숙객 70% 이상 유입.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "'아미 눈길 잡아라'…BTS 공연에 부산 유통가 '들썩'",
-              "url": "https://n.news.naver.com/mnews/article/421/0009001988?sid=102"
+              "title": "[기획] 세계로 뻗어가는 K-쌀가공식품 '한자리에'",
+              "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=322375"
             }
           ],
           "articleCount": 1
@@ -50,44 +45,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "버티컬커머스 AI 협업 확대",
-          "summary": "컬리·네이버 노크잇 등 버티컬 플랫폼이 AI 기술과 라이브커머스를 결합해 사업 외연을 확대하며 멀티호밍 전략 강화.",
+          "emoji": "🚀",
+          "title": "약사몰 '더샵' 신서비스 확대",
+          "summary": "온라인팜 기반 약사몰이 새벽배송·세탁 등 부가서비스로 차별화하며 이커머스 시장 진입 가속화.",
           "articleIndices": [
-            10,
-            11
+            1
           ],
           "relatedLinks": [
             {
-              "title": "네이버 노크잇 \"입점 브랜드 거래액 60%↑\"… 블프로 성장세 이어간다",
-              "url": "https://n.news.naver.com/mnews/article/020/0003726459?sid=101"
-            },
-            {
-              "title": "첫 연간 흑자 달성한 컬리, 네이버 협업에 AI 더했다",
-              "url": "http://www.lkp.news/news/articleView.html?idxno=80877"
+              "title": "'새벽배송에 가운세탁까지'... 주목받는 약사몰 '더샵' 뉴 서비스",
+              "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=76854"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🔐",
-          "title": "개인정보 보호 규제 강화",
-          "summary": "쿠팡 과징금 폭탄으로 유통·이커머스 기업의 회원 데이터 관리 리스크 증대, 신뢰도 직결 이슈로 부상.",
+          "emoji": "💎",
+          "title": "쿠팡 R.LUX 럭셔리 버티컬 강화",
+          "summary": "쿠팡이 FARFETCH 파트너십 1주년을 맞아 초호화 뷰티·패션 버티컬 서비스 확대로 프리미엄 고객층 공략.",
           "articleIndices": [
-            3,
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "CU·티빙도 뚫렸는데…쿠팡 과징금 폭탄에 유통가 '초긴장'",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1376013"
-            },
-            {
-              "title": "[주간유통잇슈] '과징금 초비상' 쿠팡, '책임경영 실현' 정용진",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5029919"
+              "title": "월드컵 특수 잡아라…응원 먹거리부터 TV까지 할인 행사",
+              "url": "https://n.news.naver.com/mnews/article/374/0000515874?sid=103"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -95,34 +80,39 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🔬",
-          "title": "AI 품질관리 공급망 확대",
-          "summary": "유통업계가 원료·제조·유통 전 단계에 AI 기반 품질관리를 도입하며 협력사와 '안전 동맹' 구축.",
+          "emoji": "🤖",
+          "title": "유통업 AI 에이전트 쇼핑 경험 진화",
+          "summary": "네이버·롯데·신세계 등 주요 유통사가 AI 에이전트 도입으로 소비자에게 먼저 말 거는 능동형 쇼핑 경험 제공.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "유통업계, 협력사와 '안전 동맹'…AI 품질관리·상생교육 확대",
-              "url": "https://n.news.naver.com/mnews/article/022/0004135227?sid=101"
+              "title": "'AI가 먼저 말 걸어와요'…네이버·롯데·신세계·현대백화점, 쇼핑 AX 고...",
+              "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=757070"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "✨",
-          "title": "BGF·컬리 AI 실무 도입",
-          "summary": "BGF리테일과 컬리가 AI 솔루션 기업과 협력해 상품 이미지·홍보 콘텐츠 자동화 등 업무 전반 AI 도입 가속화.",
+          "emoji": "📱",
+          "title": "네이버플러스 AI 커머스 성과",
+          "summary": "네이버플러스 스토어가 AI 기반 초개인화 추천과 멤버십 결합으로 875만 MAU 달성, 11번가 제치고 2위 확보.",
           "articleIndices": [
-            3
+            5,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "BGF·컬리도 'AI 실무'…유통업계, AX 속도전",
-              "url": "https://www.mediapen.com/news/view/1104277"
+              "title": "네이버 AI 쇼핑앱 질주…네플스 MAU 875만명 돌파",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712423"
+            },
+            {
+              "title": "네이버플러스 스토어, 875만명 돌파…11번가 제치고 2위",
+              "url": "https://n.news.naver.com/mnews/article/001/0016138233?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -130,16 +120,36 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📈",
-          "title": "월드컵 거리응원 매출 급증",
-          "summary": "BGF리테일 CU 광화문 인근 점포 매출이 12일 전주 대비 3.4배 증가, 약 1만명 응원 인파 수요 포착.",
+          "emoji": "🥃",
+          "title": "CU 도수 10도 하이볼 출시",
+          "summary": "CU가 국내 최고 도수 RTD 하이볼 '스트롱볼 레몬캔' 출시로 프리미엄 주류 시장 진출.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "체코戰 승리에 편의점도 웃었다…이마트24·CU 매출 급증",
-              "url": "https://n.news.naver.com/mnews/article/030/0003437269?sid=101"
+              "title": "CU, 고도수 하이볼 '스트롱볼 레몬캔'→하이뮨 '액티브 프로틴 쉐이크'...",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=745242"
+            },
+            {
+              "title": "CU, 도수 10도 하이볼 '스트롱볼 레몬캔' 선보여",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202606150713524701204ead0791_12"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🏪",
+          "title": "CU 스마트 그로서리 서울 진출",
+          "summary": "BGF리테일 민승배 대표의 장보기 특화 점포 'CU 스마트 그로서리'가 수원 1호점 후 서울 진출로 전국 확대 시동.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "민승배 승부수 'CU 스마트 그로서리' 서울 상륙…전국 확대 시동",
+              "url": "https://n.news.naver.com/mnews/article/018/0006306240?sid=101"
             }
           ],
           "articleCount": 1
@@ -150,46 +160,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥛",
-          "title": "GS25 '황 픽' 바나나우유 마케팅",
-          "summary": "GS25가 젠슨 황 CEO 언급 상품 마케팅으로 홍대 점포 일 매출 62% 증가, 바나나우유 전년 동기 대비 12% 상승.",
+          "emoji": "🍺",
+          "title": "GS25 월드컵 응원 프로모션",
+          "summary": "GS25가 월드컵 시즌 '집관족' 공략으로 행사카드 맥주 할인, 우리동네GS 앱 번들 픽업 등 다층 프로모션 전개.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'젠슨 황 따라 먹을래'…'황 픽'에 유통가 들썩",
-              "url": "https://n.news.naver.com/mnews/article/277/0005775916?sid=101"
+              "title": "달아오른 응원 열기…유통업계, 월드컵 '집관족' 공략",
+              "url": "http://www.segyebiz.com/newsView/20260615502036?OutUrl=naver"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌏",
-          "title": "이마트24 해외 블루오션 전략",
-          "summary": "이마트24가 CU·GS25 미진출 캄보디아·인도·라오스 3개국 진출로 국내 11분기 연속 적자 개선 및 해외 확장 가속화.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "이마트24, 캄보디아·인도·라오스 '3연타'…미개척 시장 베팅",
-              "url": "https://www.theguru.co.kr/news/article.html?no=102956"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍺",
-          "title": "세븐일레븐 월드컵 특수 매출",
-          "summary": "세븐일레븐 광화문 인근 점포 매출 318% 증가, 맥주 180배 폭증으로 평일 오전 시간대 응원 수요 극대화.",
+          "emoji": "☕",
+          "title": "세븐일레븐 K팝 신상품 판매",
+          "summary": "세븐일레븐이 대만 온라인에서 K팝 신상품 출시 7분 만에 판매 종료되는 등 글로벌 K푸드 열풍 선도.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "\"체코전 승리에 편의점도 웃었다\"…맥주 최대 180배·얼음 6배 팔려",
-              "url": "https://n.news.naver.com/mnews/article/022/0004135198?sid=101"
+              "title": "[K푸드 신영토 대전④完] '에스파 신라면' 먹고 '스키즈 빼빼로' 산다…...",
+              "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=757243"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥬",
+          "title": "이마트24 신선 특화 전략",
+          "summary": "이마트24가 인크커피 협업 커피 출시 및 성수310 팝업스토어 운영으로 카페·디저트 강화 추진.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트24, 유명 카페 '인크커피' 협업 커피 2종 출시",
+              "url": "https://n.news.naver.com/mnews/article/658/0000146628?sid=101"
             }
           ],
           "articleCount": 1
@@ -200,34 +210,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "월드컵 응원 간식·주류 폭발적 수요",
-          "summary": "편의점 맥주·무알콜맥주 1367% 폭증, 김밥·삼각김밥·스낵·디저트 등 간편식 200% 이상 증가로 응원 시간대 신규 수요 창출.",
+          "emoji": "🍗",
+          "title": "월드컵 경기 치킨 주문 10배 급증",
+          "summary": "체코전 경기 당일 편의점 치킨 주문이 10배 증가하며 스포츠 이벤트 연동 식품 소비 트렌드 확인.",
           "articleIndices": [
-            1,
-            2,
-            3,
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "체코전 그날, 치킨 주문 10배 뛰었다",
+              "url": "https://n.news.naver.com/mnews/article/025/0003530398?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍜",
+          "title": "신라면 로제 신상품 출시",
+          "summary": "농심의 신라면 로제가 편의점 신상품으로 출시되며 K푸드 트렌드 및 맛 혁신 소비 열풍 반영.",
+          "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "편의점 무알콜 맥주 1367% 폭증... 월드컵 역전승에 '대낮' 축배 들었다",
-              "url": "https://www.insight.co.kr/news/558444"
-            }
-          ],
-          "articleCount": 4
-        },
-        {
-          "emoji": "🥬",
-          "title": "SNS 트렌드 '꼬마 채소' 열풍",
-          "summary": "미니 양배추·소형 채소가 SNS에서 '귀여움' 마케팅으로 식재료 트렌드로 부상, 영양 관련 소비자 궁금증 증대.",
-          "articleIndices": [
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"귀여워\" SNS 타고 '꼬마 채소' 열풍…작다고 영양도 적을까?",
-              "url": "https://n.news.naver.com/mnews/article/022/0004135230?sid=103"
+              "title": "농심의 무리수일까, 신의 한수일까…화제의 신상 '신라면 로제'",
+              "url": "https://n.news.naver.com/mnews/article/011/0004630889?sid=101"
             }
           ],
           "articleCount": 1
