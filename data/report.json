@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-06-16T23:17:01.786Z",
+  "generatedAt": "2026-06-17T23:15:18.277Z",
   "summary": [
-    "CU 베이크하우스405, 편의점 베이커리 시장 새 기준 제시",
-    "GS25 K팝 협업 디저트 '키키픽 젤라또바' 출시로 아이돌 상품 트렌드 확대",
-    "쿠팡 와우멤버십 규제 논란 속 네이버쇼핑 '탈팡러시' 기회 포착"
+    "CU, 포켓CU 앱에 'CU PLAY' 론칭으로 게임·만보기 등 참여형 포인트 적립 강화",
+    "GS25, B2B 식음솔루션 사업 4년 새 20배 성장으로 기업 복지 시장 선점",
+    "오프뷰티, 쿠팡이츠 입점으로 온라인 채널 확대하며 뷰티 시장 진출 가속화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "드라마 IP 편의점 콘텐츠 커머스",
-          "summary": "CU·GS25·세븐일레븐·이마트24 4사가 tvN 드라마 '취사병 전설'과 협업해 메뉴 상품화, 편의점 콘텐츠 커머스 경쟁 심화.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "드라마 속 메뉴가 현실로…편의점, K-컬처와 만나다",
-              "url": "http://www.segyebiz.com/newsView/20250616512329?OutUrl=naver"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛍️",
-          "title": "쿠팡 와우멤버십 플랫폼 독점 논란",
-          "summary": "쿠팡 와우멤버십이 쇼핑·OTT·배달을 묶어 시장 지배력 확대하는 방식에 국회입법조사처가 경쟁 이슈 지적, 규제 논의 촉발.",
+          "emoji": "💜",
+          "title": "오프뷰티 온라인 확장",
+          "summary": "오프뷰티가 쿠팡이츠 입점으로 온라인 채널을 확대하며 뷰티 시장의 새로운 경쟁자로 부상하고 있다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'쇼핑·OTT·배달' 하나로 묶은 쿠팡 와우멤버십… 국회도 주목한",
-              "url": "https://n.news.naver.com/mnews/article/366/0001172291?sid=101"
+              "title": "[홍승완의 M.S.G] 보라색 쇼핑백의 공습…오프뷰티, 뷰티시장 메기 될까",
+              "url": "https://www.ajunews.com/view/20260617152135379"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🎁",
+          "title": "온라인 장보기 멤버십 경쟁",
+          "summary": "오아시스 등 신규 플레이어 진입으로 온라인 장보기 시장의 멤버십 경쟁이 본격화되며 고객 충성도 확보 경쟁이 심화되고 있다.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "[N2 뷰] 온라인 장보기 '멤버십' 경쟁 본격화…오아시스 가세하며 고객...",
+              "url": "https://www.news2day.co.kr/article/20260617500231"
             }
           ],
           "articleCount": 1
@@ -45,39 +45,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📱",
-          "title": "탈팡러시 조짐, 네이버쇼핑 기회",
-          "summary": "쿠팡 규제 논란으로 소비자 이탈 가능성 증가, 네이버쇼핑 등 대체 플랫폼 선택 움직임 본격화.",
+          "emoji": "🛍️",
+          "title": "쿠팡 와우멤버십 확장",
+          "summary": "쿠팡이 쇼핑·배달·OTT를 통합한 와우멤버십으로 인접 시장 확장을 추진하며 국회 주목을 받고 있다.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "다시 부는 '탈팡러시' 조짐…네이버 쇼핑 '큰 기회'",
-              "url": "https://www.g-enews.com/view.php?ud=202606161014206743d7a510102_1"
+              "title": "'쇼핑·OTT·배달' 하나로 묶은 쿠팡 와우멤버십… 국회도 주목한 '...",
+              "url": "https://n.news.naver.com/mnews/article/366/0001172291?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "⭐",
-          "title": "생활용품 브랜드평판 다이소 1위",
-          "summary": "2026년 6월 생활용품 브랜드평판 순위에서 다이소가 1위, 온라인·이커머스 판매 확대와 친환경 소재 가치 소비 확산이 주도.",
+          "emoji": "🐟",
+          "title": "버티컬 커머스 확대",
+          "summary": "메가플랜 등 신규 플레이어들이 자체 생산 상품을 직접 공급하는 버티컬 커머스 사업을 확대하며 새로운 이커머스 모델이 부상하고 있다.",
           "articleIndices": [
-            3,
-            4
+            7
           ],
           "relatedLinks": [
             {
-              "title": "생활용품 2026년 6월 브랜드평판...다이소, 쿠팡, 이케아 順",
-              "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226123"
-            },
-            {
-              "title": "[빅데이터투데이] 생활용품 2026년 6월 브랜드평판 랭킹",
-              "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=386249"
+              "title": "[VC 포트폴리오] 신규 자금 조달 나선 '메가플랜'...사업 확장 모멘텀 기...",
+              "url": "https://www.news2day.co.kr/article/20260617500213"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -86,30 +81,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 쇼핑 에이전트 시대 데이터 경쟁",
-          "summary": "AI 쇼핑 에이전트 확산으로 초개인화 데이터 수집·활용이 플랫폼 경쟁력 핵심이 되면서 개인정보 보안과 마케팅 활용 간 딜레마 심화.",
+          "title": "AI 쇼핑 경험 확대",
+          "summary": "유통업계가 AI를 활용한 상품 추천·리뷰 요약 등 쇼핑 경험 개편에 나서며 본격적인 AI 쇼핑 시대가 도래하고 있다.",
           "articleIndices": [
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'개인정보 보안 투자 어디까지'…AI 시대 딜레마 빠진 유통",
-              "url": "https://n.news.naver.com/mnews/article/421/0009007472?sid=101"
+              "title": "\"하객룩 추천해줘\" \"리뷰 요약해줘\"… 'AI 쇼핑' 본격화",
+              "url": "https://n.news.naver.com/mnews/article/005/0001855612?sid=103"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "CJ온스타일 AI 추천 서비스 고도화",
-          "summary": "CJ온스타일이 모바일 라이브커머스 거래액 66% 증가 달성하며 고객 데이터 기반 AI 추천 서비스 고도화로 TV홈쇼핑 한계 극복.",
+          "emoji": "💳",
+          "title": "AI 에이전트 결제 혁신",
+          "summary": "비자의 '에이전틱 커머스' 등 AI 에이전트가 소비자 대신 결제하는 자동화 결제 체계가 시범 운영되며 금융 결제 시장의 판도 변화가 예상된다.",
           "articleIndices": [
-            5
+            7
           ],
           "relatedLinks": [
             {
-              "title": "'모바일 백화점'으로 간판 바꾼 CJ온스타일…TV홈쇼핑 한계 넘었다",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1376681"
+              "title": "[비바100] \"인간 대신 AI가 결제\"…금융시장 뒤흔드는 'DIFM' 경제",
+              "url": "https://www.viva100.com/article/20260615501047"
             }
           ],
           "articleCount": 1
@@ -120,34 +115,24 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🥐",
-          "title": "CU 베이크하우스405 베이커리 전략",
-          "summary": "BGF리테일 신은지 MD가 주도하는 '베이크하우스405'가 편의점 베이커리 시장에서 성심당 수준의 고품질 빵으로 새로운 기준 제시.",
+          "emoji": "🎮",
+          "title": "CU PLAY 앱테크 강화",
+          "summary": "CU가 포켓CU 앱에 미니게임·만보기·퀴즈 등 참여형 콘텐츠를 결합한 'CU PLAY' 리워드 플랫폼을 선보이며 앱테크 경쟁력을 강화하고 있다.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[인터뷰①] '편의점 빵도 성심당처럼'...CU '베이크하우스405' MD의 고소한",
-              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=803772"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "💚",
-          "title": "CU 고립·은둔 청년 지원 사업",
-          "summary": "BGF리테일이 제주시와 '온(ON)동네편안' 업무협약 체결, CU 편의점 카드 지원으로 사회 취약층 지원 사업 확대.",
-          "articleIndices": [
+            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "고립.은둔 청년 '집 밖으로'...제주시, CU편의점 카드 지원",
-              "url": "http://www.jejunews.com/news/articleView.html?idxno=2226145"
+              "title": "CU, 참여형 콘텐츠 결합한 포인트 적립 서비스 개편",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202606180737179681204ead0791_12"
+            },
+            {
+              "title": "CU, '씨유플레이'로 앱테크 강화→GS25, B2B 식음솔루션 고속성",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=745963"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -155,46 +140,52 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "GS25 K팝 협업 디저트 '키키픽'",
-          "summary": "GS25가 K팝 그룹 키키(KiiiKiii)와 협업한 '키키픽 젤라또바' 출시, 올해 아이돌 협업 디저트 상품 인기 확대 추세 주도.",
+          "emoji": "📦",
+          "title": "GS25 B2B 식음솔루션 성장",
+          "summary": "GS25의 B2B 식음솔루션 사업이 4년 새 20배 성장하며 기업 복지 시장에서 강력한 포지셔닝을 확보하고 있다.",
           "articleIndices": [
-            1
+            1,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'키키픽 젤라또바 나왔다'…GS25, 딸기·망고 과육 가득 선봬",
-              "url": "https://n.news.naver.com/mnews/article/015/0005299571?sid=101"
+              "title": "GS25, 기업 대상 식음 서비스 매출 4년 만에 20배 확대",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202606180758177965204ead0791_12"
+            },
+            {
+              "title": "GS25, B2B 식음 솔루션 사업 4년 새 20배 성장…'고물가 속 기업 복지 수...",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360655"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         },
         {
-          "emoji": "🧹",
-          "title": "세븐일레븐 점포 청결 캠페인",
-          "summary": "세븐일레븐이 여름 성수기 맞아 전국 1,400여 점포에서 '점포 청결 MAKE-UP 캠페인' 실시, 식중독 예방 및 매장 환경 개선 강화.",
+          "emoji": "⚽",
+          "title": "세븐일레븐 월드컵 프로모션",
+          "summary": "세븐일레븐이 2026 월드컵 조별리그 2차전을 맞아 '원데이 스페셜 프로모션'으로 축구팬 수요를 겨냥한 시간대별 타임세일을 진행하고 있다.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 전국 1천400여개 점포서 '청결 캠페인' 실시",
-              "url": "https://n.news.naver.com/mnews/article/001/0016142685?sid=101"
+              "title": "세븐일레븐, 태극전사 2차전 맞아 '원데이 스페셜' 프로모션",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=745956"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎁",
-          "title": "이마트24 창립 17주년 멤버십 할인",
-          "summary": "이마트24가 창립 17주년 기념으로 T멤버십 회원 대상 전 품목 20% 할인 및 신선식품 최대 50% 할인 행사 진행.",
+          "emoji": "🏪",
+          "title": "이마트24 복권 판매점",
+          "summary": "이마트24가 전국 복권 판매점 네트워크를 운영하며 편의점 채널의 금융 서비스 확대를 추진하고 있다.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "이마트 에브리데이, 창립 17주년 기념 T멤버십 고객 20% 할인",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=460692"
+              "title": "[320회 연금복권720+ 추첨시간 및 당첨확인]...로또 당첨번호 조회![종합...",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=422042"
             }
           ],
           "articleCount": 1
@@ -203,7 +194,48 @@
     },
     {
       "name": "상품 이슈",
-      "issues": []
+      "issues": [
+        {
+          "emoji": "🍦",
+          "title": "GS25 K팝 IP 협업 디저트",
+          "summary": "GS25가 K팝 신예 키키와 협업한 젤라또바를 출시하며 팬덤 소비와 일반 소비자 수요를 동시에 겨냥한 IP 상품 전략을 강화하고 있다.",
+          "articleIndices": [
+            4,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "GS25, K팝 신예 키키와 '맞손'…팬덤 겨냥 젤라또바 선봬",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065600924594278"
+            },
+            {
+              "title": "코오롱FnC·CJ온스타일·GS25, IP 사업 '승부수'",
+              "url": "http://www.srtimes.kr/news/articleView.html?idxno=205477"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🏷️",
+          "title": "노브랜드 10주년 할인전",
+          "summary": "노브랜드가 전문점 출범 10주년을 맞아 대용량·가성비 PB 상품 할인 행사를 진행하며 경기 침체 속 가성비 브랜드로의 입지를 강화하고 있다.",
+          "articleIndices": [
+            10,
+            11
+          ],
+          "relatedLinks": [
+            {
+              "title": "노브랜드, 10주년 맞아 인기상품 할인전",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461013"
+            },
+            {
+              "title": "매출 55배 키운 이마트 노브랜드...10주년 맞아 역대급 할인 행사",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=526629"
+            }
+          ],
+          "articleCount": 2
+        }
+      ]
     }
   ]
 }
