@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-06-17T23:15:18.277Z",
+  "generatedAt": "2026-06-18T23:28:06.430Z",
   "summary": [
-    "CU, 포켓CU 앱에 'CU PLAY' 론칭으로 게임·만보기 등 참여형 포인트 적립 강화",
-    "GS25, B2B 식음솔루션 사업 4년 새 20배 성장으로 기업 복지 시장 선점",
-    "오프뷰티, 쿠팡이츠 입점으로 온라인 채널 확대하며 뷰티 시장 진출 가속화"
+    "CU, 월드컵 시즌 AI 머신러닝으로 치킨 수요 정교하게 예측·대응",
+    "GS25, 월드컵 경기 시간대 맥주 최대 180배 매출 급증으로 시즌 특수 포착",
+    "CU, 포켓CU 앱테크 전면 개편한 'CU PLAY' 신규 리워드 플랫폼 출시"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "💜",
-          "title": "오프뷰티 온라인 확장",
-          "summary": "오프뷰티가 쿠팡이츠 입점으로 온라인 채널을 확대하며 뷰티 시장의 새로운 경쟁자로 부상하고 있다.",
+          "emoji": "⚽",
+          "title": "월드컵 특수 편의점 매출 급증",
+          "summary": "월드컵 시즌 응원 인파 증가로 편의점 치킨, 맥주, 안주류 판매가 급등하며 시즈널 마케팅 기회 포착.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[홍승완의 M.S.G] 보라색 쇼핑백의 공습…오프뷰티, 뷰티시장 메기 될까",
-              "url": "https://www.ajunews.com/view/20260617152135379"
+              "title": "[비즈&플러스] 응원인파에 매출 급등‥월드컵 특수에 웃는 편의점",
+              "url": "https://n.news.naver.com/mnews/article/214/0001506482?sid=101"
+            },
+            {
+              "title": "'치킨 4배 팔릴 줄 알았다'…월드컵 날 대박 난 편의점 비결",
+              "url": "https://n.news.naver.com/mnews/article/015/0005300315?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🎁",
-          "title": "온라인 장보기 멤버십 경쟁",
-          "summary": "오아시스 등 신규 플레이어 진입으로 온라인 장보기 시장의 멤버십 경쟁이 본격화되며 고객 충성도 확보 경쟁이 심화되고 있다.",
+          "emoji": "🎭",
+          "title": "캐릭터·IP 마케팅 재고 리스크",
+          "summary": "인기 캐릭터 에디션 상품의 부정적 이슈 발생 시 악성 재고 전락 위험으로 유통업계 물류·재고 관리 불안정 심화.",
           "articleIndices": [
-            6
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[N2 뷰] 온라인 장보기 '멤버십' 경쟁 본격화…오아시스 가세하며 고객...",
-              "url": "https://www.news2day.co.kr/article/20260617500231"
+              "title": "'캐릭터에 지갑 연다'···생활용품 업계, 캐릭터·스포츠 IP 마케팅 '후...",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440030"
             }
           ],
           "articleCount": 1
@@ -45,34 +50,44 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "쿠팡 와우멤버십 확장",
-          "summary": "쿠팡이 쇼핑·배달·OTT를 통합한 와우멤버십으로 인접 시장 확장을 추진하며 국회 주목을 받고 있다.",
+          "emoji": "⚖️",
+          "title": "쿠팡 공정거래 법무 강화",
+          "summary": "쿠팑 출신 변호사 영입으로 이커머스 플랫폼의 공정거래 컴플라이언스 체계 고도화 추진.",
           "articleIndices": [
-            6
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'쇼핑·OTT·배달' 하나로 묶은 쿠팡 와우멤버십… 국회도 주목한 '...",
-              "url": "https://n.news.naver.com/mnews/article/366/0001172291?sid=101"
+              "title": "법무법인 화우, '공공조달' 정원·'공정거래' 문수헌 변호사 영입",
+              "url": "https://n.news.naver.com/mnews/article/018/0006309158?sid=102"
+            },
+            {
+              "title": "[로펌 iN] 화우, 정원 · 문수헌 변호사 영입",
+              "url": "http://www.legaltimes.co.kr/news/articleView.html?idxno=94573"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
           "emoji": "🐟",
-          "title": "버티컬 커머스 확대",
-          "summary": "메가플랜 등 신규 플레이어들이 자체 생산 상품을 직접 공급하는 버티컬 커머스 사업을 확대하며 새로운 이커머스 모델이 부상하고 있다.",
+          "title": "버티컬 커머스 확대 추세",
+          "summary": "메가플랜 등 스타트업이 자체 생산 수산물을 소비자에게 직접 공급하는 버티컬 커머스 사업 확장으로 직거래 모델 강화.",
           "articleIndices": [
-            7
+            5,
+            6
           ],
           "relatedLinks": [
             {
               "title": "[VC 포트폴리오] 신규 자금 조달 나선 '메가플랜'...사업 확장 모멘텀 기...",
               "url": "https://www.news2day.co.kr/article/20260617500213"
+            },
+            {
+              "title": "네이버도 도전했던 AI 포털…업스테이지·다음의 승부수 통할까?",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=124083"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -80,31 +95,16 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 쇼핑 경험 확대",
-          "summary": "유통업계가 AI를 활용한 상품 추천·리뷰 요약 등 쇼핑 경험 개편에 나서며 본격적인 AI 쇼핑 시대가 도래하고 있다.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"하객룩 추천해줘\" \"리뷰 요약해줘\"… 'AI 쇼핑' 본격화",
-              "url": "https://n.news.naver.com/mnews/article/005/0001855612?sid=103"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "💳",
-          "title": "AI 에이전트 결제 혁신",
-          "summary": "비자의 '에이전틱 커머스' 등 AI 에이전트가 소비자 대신 결제하는 자동화 결제 체계가 시범 운영되며 금융 결제 시장의 판도 변화가 예상된다.",
+          "emoji": "🎮",
+          "title": "CU PLAY 앱테크 리워드 플랫폼",
+          "summary": "BGF리테일이 포켓CU 앱테크 서비스를 전면 개편한 'CU PLAY' 출시로 미니게임·만보기·미션 등 생활형 콘텐츠로 고객 체류시간 및 앱 이용률 증대.",
           "articleIndices": [
             7
           ],
           "relatedLinks": [
             {
-              "title": "[비바100] \"인간 대신 AI가 결제\"…금융시장 뒤흔드는 'DIFM' 경제",
-              "url": "https://www.viva100.com/article/20260615501047"
+              "title": "놀고 걸었는데 포인트가?…CU 앱테크 '주목'",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5032148"
             }
           ],
           "articleCount": 1
@@ -115,21 +115,21 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎮",
-          "title": "CU PLAY 앱테크 강화",
-          "summary": "CU가 포켓CU 앱에 미니게임·만보기·퀴즈 등 참여형 콘텐츠를 결합한 'CU PLAY' 리워드 플랫폼을 선보이며 앱테크 경쟁력을 강화하고 있다.",
+          "emoji": "🌍",
+          "title": "CU 외국인 매출 비중 확대",
+          "summary": "CU 편의점의 외국인 카드·페이 거래액 비중이 1분기 1.6%에서 현재 2%대로 상승하며 인바운드 관광객 증가 효과 포착.",
           "articleIndices": [
             1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "CU, 참여형 콘텐츠 결합한 포인트 적립 서비스 개편",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202606180737179681204ead0791_12"
+              "title": "'BGF리테일, 2분기 실적 서프라이즈 전망'-한국",
+              "url": "https://n.news.naver.com/mnews/article/015/0005300507?sid=101"
             },
             {
-              "title": "CU, '씨유플레이'로 앱테크 강화→GS25, B2B 식음솔루션 고속성",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=745963"
+              "title": "[키-리포트] 한투 'BGF리테일, 분명한 실적 개선'",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=113298"
             }
           ],
           "articleCount": 2
@@ -140,55 +140,60 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "GS25 B2B 식음솔루션 성장",
-          "summary": "GS25의 B2B 식음솔루션 사업이 4년 새 20배 성장하며 기업 복지 시장에서 강력한 포지셔닝을 확보하고 있다.",
+          "emoji": "🍺",
+          "title": "GS25 월드컵 시즌 맥주 판매 폭증",
+          "summary": "GS25가 월드컵 경기 시간대(오전 10시~정오) 맥주 매출 최대 180배 증가 기록하며 시즈널 수요 대응 전략 강화.",
           "articleIndices": [
             1,
-            3,
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 기업 대상 식음 서비스 매출 4년 만에 20배 확대",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202606180758177965204ead0791_12"
-            },
-            {
-              "title": "GS25, B2B 식음 솔루션 사업 4년 새 20배 성장…'고물가 속 기업 복지 수...",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360655"
+              "title": "[2026 북중미 월드컵] 낮에 맥주 180배 판매 상승?···평일 낮 월드컵이...",
+              "url": "http://www.mdilbo.com/detail/c3QycN/756467"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
-          "emoji": "⚽",
-          "title": "세븐일레븐 월드컵 프로모션",
-          "summary": "세븐일레븐이 2026 월드컵 조별리그 2차전을 맞아 '원데이 스페셜 프로모션'으로 축구팬 수요를 겨냥한 시간대별 타임세일을 진행하고 있다.",
+          "emoji": "🎬",
+          "title": "세븐일레븐 셰프 협업 나눔 캠페인",
+          "summary": "세븐일레븐이 김희은 셰프와 협업한 '산채더덕비빔밥' 200개 기부로 고객 참여형 캠페인을 통한 지역사회 나눔 실천.",
           "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "세븐일레븐, 태극전사 2차전 맞아 '원데이 스페셜' 프로모션",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=745956"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🏪",
-          "title": "이마트24 복권 판매점",
-          "summary": "이마트24가 전국 복권 판매점 네트워크를 운영하며 편의점 채널의 금융 서비스 확대를 추진하고 있다.",
-          "articleIndices": [
+            5,
             6
           ],
           "relatedLinks": [
             {
-              "title": "[320회 연금복권720+ 추첨시간 및 당첨확인]...로또 당첨번호 조회![종합...",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=422042"
+              "title": "세븐일레븐, 서울마음편의점에 '김희은산채더덕비빔밥' 200개 기부",
+              "url": "https://n.news.naver.com/mnews/article/030/0003439228?sid=101"
+            },
+            {
+              "title": "인스타 댓글 800개 응원 통했다…세븐일레븐, 소외 이웃에 도시락 기부",
+              "url": "https://n.news.naver.com/mnews/article/629/0000508848?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍗",
+          "title": "이마트 피코크 2+1 전상품 할인",
+          "summary": "이마트가 '반값 옛날통닭' 10분 매진 등 상반기 결산 행사로 PB 상품 강화 및 가격 경쟁력 강조.",
+          "articleIndices": [
+            7,
+            10
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트, '피코크 데이' 개최…최초로 전 품목 2+1",
+              "url": "https://n.news.naver.com/mnews/article/629/0000508847?sid=101"
+            },
+            {
+              "title": "\"2980원 반값통닭, 10분만에 매진\"...치솟은 물가에 수박 한 통 들었다...",
+              "url": "https://www.etoday.co.kr/news/view/2595024"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -196,41 +201,36 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "GS25 K팝 IP 협업 디저트",
-          "summary": "GS25가 K팝 신예 키키와 협업한 젤라또바를 출시하며 팬덤 소비와 일반 소비자 수요를 동시에 겨냥한 IP 상품 전략을 강화하고 있다.",
+          "emoji": "☕",
+          "title": "카페 신상 음료 편의점 확대",
+          "summary": "메가커피 수박 음료, 이디야 말차초콜라떼 등 카페 디저트 음료가 편의점·대형마트로 확대 판매되며 간편식 시장 경쟁 심화.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "메가커피, 수박 음료 호조·이디야, '말차초코라떼' 출시",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=746250"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍜",
+          "title": "냉동면 시장 확대·건강 트렌드",
+          "summary": "면사랑 등 냉동면 브랜드가 100% 메밀면·저당 소스로 헬시플레저 트렌드 공략하며 냉동식품 시장 재편 주도.",
           "articleIndices": [
             4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "GS25, K팝 신예 키키와 '맞손'…팬덤 겨냥 젤라또바 선봬",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065600924594278"
+              "title": "[현장] '냉동면, 맛 위한 선택'…B2B 강자 '면사랑' 소비자 시장 정조준",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360687"
             },
             {
-              "title": "코오롱FnC·CJ온스타일·GS25, IP 사업 '승부수'",
-              "url": "http://www.srtimes.kr/news/articleView.html?idxno=205477"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🏷️",
-          "title": "노브랜드 10주년 할인전",
-          "summary": "노브랜드가 전문점 출범 10주년을 맞아 대용량·가성비 PB 상품 할인 행사를 진행하며 경기 침체 속 가성비 브랜드로의 입지를 강화하고 있다.",
-          "articleIndices": [
-            10,
-            11
-          ],
-          "relatedLinks": [
-            {
-              "title": "노브랜드, 10주년 맞아 인기상품 할인전",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461013"
-            },
-            {
-              "title": "매출 55배 키운 이마트 노브랜드...10주년 맞아 역대급 할인 행사",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=526629"
+              "title": "[Focus] 가장 맛있는 순간을 얼렸다…면사랑, 냉동면으로 '승부수'",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=710262"
             }
           ],
           "articleCount": 2
