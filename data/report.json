@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-06-19T22:42:48.571Z",
+  "generatedAt": "2026-06-20T22:57:07.625Z",
   "summary": [
-    "네이버, AI·N배송으로 쿠팡 이탈 수요 흡수 전략 강화",
-    "편의점 디저트 신상 열풍, SNS 인증 마케팅으로 소비 확대",
-    "CU 등 편의점 4사, 지역 안전망 구축으로 사회공헌 이미지 강화"
+    "CU, 광화문 응원 특수로 매출 3.8배·하이볼 514% 증가 기록",
+    "GS25 뷰티 카테고리 육성으로 소용량 일평균 매출 596.7% 급증",
+    "K팝 협업 상품과 프리미엄 디저트로 편의점 차별화 경쟁 심화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "📊",
-          "title": "유통가 가격경쟁 심화",
-          "summary": "시장 포화와 원자재 가격 상승으로 편의점·마트 간 출혈 가격 경쟁이 심화되며 구조적 수익성 악화 우려.",
+          "emoji": "🎯",
+          "title": "편의점 뷰티 카테고리 확대 경쟁",
+          "summary": "CU 뷰티 특화점 600개 확대, GS25 3천원 균일가 화장품 중심으로 편의점 뷰티 시장 성장 가속화.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "롯데웰푸드, 영업이익 118% 껑충 뛰었는데… 국내 간편식·육가공은 8년...",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3410580"
+              "title": "'초저가' 메이크업 확대…편의점·마트 매출 최대 30%대 증가",
+              "url": "https://n.news.naver.com/mnews/article/001/0016149728?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💳",
-          "title": "핀테크 커머스 성장",
-          "summary": "KG파이낸셜 모빌마켓이 누적 이용자 30만 돌파하며 생활비 부담 소비자 타겟 마케팅으로 새로운 유통 채널 확보.",
+          "emoji": "📊",
+          "title": "오픈마켓 G마켓 광고 화제성으로 존재감 확대",
+          "summary": "쿠팡·네이버쇼핑 중심 시장에서 G마켓이 광고 화제성을 발판으로 성장 전략 추진 중.",
           "articleIndices": [
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "KG파이낸셜, 모빌마켓 누적 이용자 30만 돌파",
-              "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101041"
+              "title": "[비즈톡톡] 광고 화제성 발판 삼아 성장 꾀하는 G마켓",
+              "url": "https://n.news.naver.com/mnews/article/366/0001173228?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,24 +45,24 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "쿠팡 신뢰도 추락",
-          "summary": "쿠팡의 개인정보 유출 및 무단 수집 과징금으로 신뢰도 하락, 네이버 등 경쟁사의 이탈 수요 흡수 기회 확대.",
+          "emoji": "🚀",
+          "title": "쿠팡 과징금 악재, 네이버 AI·N배송으로 탈팡족 유도",
+          "summary": "쿠팡의 개인정보 유출 및 무단 수집 과징금으로 신뢰 추락, 네이버가 AI·N배송 강화로 이탈 고객 흡수 전략 추진.",
           "articleIndices": [
-            1
+            4
           ],
           "relatedLinks": [
             {
-              "title": "쿠팡 '과징금 폭탄'에 입지 흔들…네이버, AI·N배송 앞세워 '탈팡족...",
+              "title": "쿠팡 '과징금 폭탄'에 입지 흔들…네이버, AI·N배송 앞세워 '탈팡족",
               "url": "https://www.ceoscoredaily.com/page/view/2026061716410644139"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎬",
-          "title": "K팝 팬덤 커머스 확장",
-          "summary": "CJ ENM이 K팝 팬덤을 커뮤니티·커머스·라이프스타일로 확장하는 버티컬 OTT 전략으로 글로벌 K콘텐츠 커머스 생태계 구축.",
+          "emoji": "🎭",
+          "title": "K팝 팬덤 기반 버티컬커머스 확장",
+          "summary": "CJ ENM이 K팝 팬덤을 커뮤니티·커머스·라이프스타일로 확장하는 버티컬 OTT 전략으로 글로벌 K콘텐츠 수익화 가속.",
           "articleIndices": [
             6,
             7,
@@ -72,8 +72,8 @@
           ],
           "relatedLinks": [
             {
-              "title": "CJ ENM, 예능 포맷·팬덤 플랫폼·AI로 K콘텐츠 키운다",
-              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=268193"
+              "title": "CJ ENM, 부산 KISF서 K콘텐츠 글로벌 확장 전략 제시",
+              "url": "https://n.news.naver.com/mnews/article/448/0000620928?sid=101"
             },
             {
               "title": "CJ ENM 'K-콘텐츠 다음 무기는 AI·플랫폼·IP'",
@@ -88,16 +88,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "의약품 유통 AI 고도화",
-          "summary": "의약품 도매 선진화를 위해 AI DCM 체계·콜드체인 등 기술 기준 도입으로 유통 효율성 강화.",
+          "emoji": "🧴",
+          "title": "AI 머신러닝으로 향수 트렌드 예측 경쟁",
+          "summary": "코스맥스 등 뷰티 ODM이 AI 머신러닝 모델로 향수 소비 트렌드를 예측하며 K-향료 개발 경쟁 심화.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "3500개 도매상 난립 의약품 유통망, '블록형 거점도매' 선진화 기대",
-              "url": "http://www.newsmp.com/news/articleView.html?idxno=254928"
+              "title": "커지는 국내 향수 시장…양대 뷰티 ODM도 'K-향료' 개발 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/421/0009014538?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "💄",
+          "title": "화장품업계 AI 기반 가상 메이크업·커머스 도입",
+          "summary": "로레알 등 글로벌 화장품사가 ChatGPT 기반 가상 메이크업 체험과 AI 네이티브 커머스로 소비자 경험 혁신.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "'AI부터 유통혁신까지'… 화장품업계, '새 경쟁무기' 장착 총력",
+              "url": "https://www.meconomynews.com/news/articleView.html?idxno=132119"
             }
           ],
           "articleCount": 1
@@ -108,16 +123,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📈",
-          "title": "BGF리테일 2분기 호실적",
-          "summary": "고유가 지원금과 월드컵 특수로 CU 기존점 매출 신장률 3.8~4.1% 기록 전망, 투자의견 '매수' 평가.",
+          "emoji": "⚽",
+          "title": "광화문 응원 특수로 매출 3.8배 급증",
+          "summary": "CU가 광화문 응원 열기에 맞춰 음료·간편식 재고 3배 확대, 즉석 치킨 5배 증량으로 매출 3.8배, 하이볼 514% 증가 달성.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'고유가 지원금·월드컵 특수'... BGF리테일, 2분기 '호실적' 전망",
-              "url": "https://www.insight.co.kr/news/559365"
+              "title": "광화문 응원 특수…CU 매출 3.8배·하이볼 514% 증가",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360788"
             }
           ],
           "articleCount": 1
@@ -128,46 +143,36 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "GS25 캔소맥 동시 판매",
-          "summary": "선양소주의 한국 최초 캔소맥이 CU·GS25·세븐일레븐·이마트24 4사 동시 판매로 프리미엄 소맥 시장 개척.",
+          "emoji": "🎤",
+          "title": "세븐일레븐 K팝 협업 상품 및 프리미엄 맥주 출시",
+          "summary": "세븐일레븐이 K팝 그룹 협업 상품과 프리미엄 수제맥주 브랜드 협업으로 편의점 프리미엄화 전략 추진.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "선양소주, 한국 최초 '캔 소맥' 출시···세계 프리미엄 소맥 시장 개척",
-              "url": "http://www.paxetv.com/news/articleView.html?idxno=275171"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎬",
-          "title": "세븐일레븐 부산영화제 팝업",
-          "summary": "세븐일레븐이 부산국제영화제 'BIKY 놀이터'에 팝업 편의점 운영으로 브랜드 경험 마케팅 강화.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "BTS 열기 잇는 '영화 도시 부산'…해양영화제부터 어린이영화제까지...",
-              "url": "https://n.news.naver.com/mnews/article/021/0002799012?sid=102"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍗",
-          "title": "이마트24 신선식품 할인",
-          "summary": "이마트24가 여름 시즌 신선식품·델리 상품 대폭 할인으로 주말 쇼핑 수요 확보 전략 추진.",
-          "articleIndices": [
+            2,
             5
           ],
           "relatedLinks": [
             {
-              "title": "\"통닭 한 마리 2980원\"…유통가, 여름옷·물놀이용품 할인전",
-              "url": "https://n.news.naver.com/mnews/article/022/0004136847?sid=101"
+              "title": "K팝 덕질도 하고 뚱바라떼도 마시고…SNS서 인기 끄는 'K편의점'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005779100?sid=104"
+            },
+            {
+              "title": "[비즈톡톡] '4캔에 1만원은 잊어라'… 진화하는 편의점 수제맥주",
+              "url": "https://n.news.naver.com/mnews/article/366/0001173234?sid=101"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🏪",
+          "title": "이마트24 스타벅스 논란 속 본업 견조 유지",
+          "summary": "이마트24가 스타벅스 논란에도 불구하고 본업 마진율 유지하며 하반기 홈플러스 수혜 기대.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "[N2 뷰] 스벅 논란에도 이마트 본업은 견조…하반기 홈플러스 수혜 누리",
+              "url": "https://www.news2day.co.kr/article/20260619500191"
             }
           ],
           "articleCount": 1
@@ -178,36 +183,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 디저트 신상 열풍",
-          "summary": "넷플릭스 '흑백요리사' 우승 셰프 협업 '밤 티라미수 컵' 등 SNS 인증 가능한 비주얼 디저트가 편의점 신상 트렌드 주도.",
+          "emoji": "🍦",
+          "title": "중국 디저트 '양즈깐루' SNS 입소문으로 편의점 확대",
+          "summary": "중국 여름 디저트 '양즈깐루'가 SNS 입소문으로 국내 편의점·마트로 확대되며 제2의 버터떡 트렌드 형성.",
           "articleIndices": [
-            1,
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "\"35억 건물 어떻게 샀냐고?\"…권성준 셰프가 밝힌 비결",
-              "url": "https://n.news.naver.com/mnews/article/020/0003728069?sid=103"
-            },
-            {
-              "title": "후르츠 샌드ㆍ샌드 베이글 뜨겁다⋯요즘 뜨는 '디저트 공식'은? [솔드아...",
-              "url": "https://www.etoday.co.kr/news/view/2595491"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🌾",
-          "title": "K-푸드 글로벌 수출 확대",
-          "summary": "라면·두부 등 K-푸드 5월 누적 수출액 59억달러 돌파, 동남아 유통망 공격적 확대로 글로벌 시장 개척.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "'5월 누적 59억달러 돌파'···K-푸드, 라면·두부 앞세워 글로벌 영토...",
-              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=421875"
+              "title": "\"제2의 버터떡?\"...中 디저트 열풍 다음 주자는 '양즈깐루'",
+              "url": "https://n.news.naver.com/mnews/article/011/0004633188?sid=101"
             }
           ],
           "articleCount": 1
