@@ -1,40 +1,75 @@
 {
-  "generatedAt": "2026-06-22T23:11:04.220Z",
+  "generatedAt": "2026-06-23T22:57:57.536Z",
   "summary": [
-    "CU, 이동약자 도움벨 QR 서비스 전국 1만8000개 점포 도입으로 접근성 강화",
-    "GS25, 가성비 뷰티·도시락으로 알뜰 소비층 공략 및 마감할인 매출 35.9% 급증",
-    "편의점 업계, 외국인 관광객 증가에 따른 특화점포 전략으로 디저트·간식 고마진 상품 확대"
+    "CU 기존점 성장률 -2.1%에서 2.7%로 플러스 전환, 경쟁사 대비 강세",
+    "편의점 로컬 콜라보 경쟁 심화, 세븐일레븐·CU 등 맛집 협업 상품 확대",
+    "농심 '육포깡' 일주일 100만 봉 판매, SNS 신상 트렌드 확산"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "스타벅스 전국 영업중단",
-          "summary": "스타벅스가 전국 2160개 매장을 일제히 영업 중단하며 위기 대응 방식의 변화를 보여주는 사례로 평가됨.",
+          "emoji": "🎯",
+          "title": "경험 마케팅 강화",
+          "summary": "유통업계가 브랜드 정체성 기반 경험 마케팅으로 고객 유대감과 충성도를 구축하는 추세 확산.",
           "articleIndices": [
-            1,
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] 스타벅스, 전국 2160개 매장 멈췄다...21억원 매출 접고 감수성",
-              "url": "https://www.seoultimes.news/news/article.html?no=2000096906"
+              "title": "매일유업 롯데웰푸드 外(여기 유통 이슈)",
+              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067422"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥤",
+          "title": "무알코올 음료 확대",
+          "summary": "주류 소비 감소 추세 속 주류사들이 0% 음료 등 무알코올 제품으로 사업 확대를 강화하고 있음.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "'술' 안 팔리는 주류업계···부진 메우는 '0% 음료'의 역설",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2441403"
+            }
+          ],
+          "articleCount": 1
+        }
+      ]
+    },
+    {
+      "name": "이커머스 트렌드",
+      "issues": [
+        {
+          "emoji": "🤖",
+          "title": "AI 쇼핑 앱 출시",
+          "summary": "플래티어가 대화형 AI 쇼핑 앱 '젤라또'를 한·일 양국에 동시 출시하며 글로벌 에이전틱 커머스 시장 선점.",
+          "articleIndices": [
+            2,
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "[이슈] 플래티어, 일본서 150만 SKU 확보...AI 쇼핑 앱 '젤라또' 출시",
+              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=804407"
             },
             {
-              "title": "오후 3시 '불 꺼진' 스타벅스…2160곳 전 매장 셔터 내렸다",
-              "url": "https://n.news.naver.com/mnews/article/018/0006312185?sid=103"
+              "title": "플래티어, 대화형 AI 쇼핑 '젤라또' 전격 출시…일본 이커머스 정조준",
+              "url": "https://www.the-stock.kr/news/articleView.html?idxno=32791"
             }
           ],
           "articleCount": 2
         },
         {
           "emoji": "🥚",
-          "title": "수입 계란 3시간 완판",
-          "summary": "저가 수입란 공급으로 대형마트·이커머스 간 가격 경쟁이 심화되며 수요 대비 공급 부족 현상 발생.",
+          "title": "계란 가격 방어전",
+          "summary": "대형마트·이커머스가 수입란 및 자체 물량으로 계란 가격 경쟁을 벌이며 판매 즉시 품절 현상 발생.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
@@ -47,54 +82,34 @@
       ]
     },
     {
-      "name": "이커머스 트렌드",
-      "issues": [
-        {
-          "emoji": "🏪",
-          "title": "홈플러스 익스프레스 온오프라인 연계",
-          "summary": "NS홈쇼핑 자회사 홈플러스 익스프레스가 TV홈쇼핑과 온라인 채널 검증 상품을 오프라인으로 확대하는 통합 유통 전략 추진.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "[이슈+] 홈플러스 익스프레스, NS홈쇼핑 자회사 '새출발'",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5033150"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
-    },
-    {
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "CU 시각보조 AI 앱 '설리번'",
-          "summary": "CU가 소셜벤처 투아트와 협력해 AI 기반 시각보조 앱 '설리번 플러스'에 'CU 모드'를 개발, 상품명·가격 인식 기능 제공.",
+          "emoji": "🧠",
+          "title": "AI 중심 경영 기조",
+          "summary": "롯데그룹이 세대교체와 외부 인재 수혈로 AI 중심 경영을 추진하며 급변하는 유통 환경에 대응.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "CU, 이동약자 도움벨 QR 도입...GS더프레시, 가맹점 경쟁력 강화",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=746966"
+              "title": "세대교체·외부 인재 수혈...롯데 유통 계열사 '쇄신 드라이브'",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713485"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎮",
-          "title": "CU 플레이 앱테크 플랫폼 개편",
-          "summary": "BGF리테일이 포켓CU 내 앱테크 서비스를 전면 개편한 신규 리워드 콘텐츠 플랫폼 'CU 플레이'를 선보이며 생활형 콘텐츠 기반 고객 참여 강화.",
+          "emoji": "📊",
+          "title": "AI 데이터 세분화 전략",
+          "summary": "AI 시대 고객 데이터 세분화로 취향을 정교하게 분석·활용하는 전략이 유통업계 핵심 경쟁력으로 부상.",
           "articleIndices": [
-            11
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[돋보기] '고유가 지원금과 화물연대 파업' CU 2분기는 냉온탕",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5032873"
+              "title": "1인 100색 취향 '호모 콘스무스'를 읽어라",
+              "url": "https://n.news.naver.com/mnews/article/018/0006313371?sid=103"
             }
           ],
           "articleCount": 1
@@ -105,16 +120,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "CU 특화점포 전략 성과",
-          "summary": "CU가 라면·스낵·K팝·디저트·러닝 등 특화점포 운영으로 디저트 매출을 일반점포 대비 20배 이상 달성하며 새로운 성장 모델 구축.",
+          "emoji": "📈",
+          "title": "CU 기존점 성장 플러스 전환",
+          "summary": "CU 기존점 성장률이 지난해 -2.1%에서 올해 2.7%로 플러스 전환하며 경쟁사 대비 강세 입증.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "CU, '특화점포 전략' 통했다… 2분기 실적 기대감↑",
-              "url": "https://www.viva100.com/article/20260622500318"
+              "title": "GS리테일·BGF리테일, 실적 좋은데 주가 힘 못쓰는 까닭",
+              "url": "https://n.news.naver.com/mnews/article/648/0000048268?sid=101"
             }
           ],
           "articleCount": 1
@@ -125,60 +140,49 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💄",
-          "title": "GS25 가성비 뷰티 전략",
-          "summary": "GS25가 손앤박·무신사와 협업해 3000원 균일가 색조 화장품 '손앤박 하티' 시즌2를 단독 론칭하며 가성비 뷰티 경쟁력 강화.",
+          "emoji": "💊",
+          "title": "GS25 심야 상비약 판매",
+          "summary": "GS25 전체 안전 상비약 판매의 45.3%가 오후 6시~자정에 집중되며 심야 수요 기반 강화.",
           "articleIndices": [
-            1,
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "초저가 '3천원 화장품' 찾는 소비자들...다이소 이어 편의점도 'K-뷰티'...",
-              "url": "https://www.banronbodo.com/news/articleView.html?idxno=32509"
-            },
-            {
-              "title": "화장품 똑 떨어졌다고? 5천원에 해결…우리동네 '뷰티 핫플'",
-              "url": "https://n.news.naver.com/mnews/article/025/0003532347?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍜",
-          "title": "세븐일레븐 삼계탕 사발면",
-          "summary": "농심이 세븐일레븐과 협력해 출시한 '삼계탕 사발면'이 역직구 대란을 일으키며 한국 맛 시리즈 컵라면의 글로벌 수요 증대.",
-          "articleIndices": [
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"얼마나 맛있길래 4배가격에 역직구?\"…'삼계탕 사발면' 탄생비화",
-              "url": "https://n.news.naver.com/mnews/article/009/0005697351?sid=102"
+              "title": "[와글와글 플러스] 편의점 상비약 절반, 심야에 팔린다",
+              "url": "https://n.news.naver.com/mnews/article/214/0001507381?sid=102"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📚",
-          "title": "이마트24 스타벅스 탱크데이 사태",
-          "summary": "신세계그룹 정용진 회장이 이마트 부문 계열사 대표들과 함께 역사 교육 영상을 시청하며 기업의 사회적 책임과 감수성 강화 추진.",
+          "emoji": "⚾",
+          "title": "세븐일레븐 매치데이 스포츠 마케팅",
+          "summary": "세븐일레븐이 롯데 자이언츠와 협력해 경영주·임직원·고객 대상 스포츠 마케팅 이벤트 진행.",
           "articleIndices": [
-            8,
-            9,
-            10
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'88억 포기하고 쓴소리 들었다'…스타벅스, 조기 영업 종료한 '그 날' [쓸...]",
-              "url": "https://n.news.naver.com/mnews/article/014/0005538311?sid=102"
-            },
-            {
-              "title": "스벅 '탱크데이' 사태가 흔든 신세계… 남매 계열분리 '마지막 퍼즐' SS...",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3411267"
+              "title": "롯데 자이언츠, 27일 '세븐일레븐 매치데이'",
+              "url": "https://www.ulsanpress.net/news/articleView.html?idxno=577750"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
+        },
+        {
+          "emoji": "🏢",
+          "title": "이마트 주상복합 생활편의시설",
+          "summary": "이마트가 펜타힐즈W 1단지 초고층 주상복합 개발에 참여하며 생활편의시설로 입점.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "아이에스동서, 초고층 주상복합 '펜타힐즈W 1단지' 선보인다",
+              "url": "https://www.betanews.net/article/view/beta202606240001"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -187,31 +191,36 @@
       "issues": [
         {
           "emoji": "🍰",
-          "title": "편의점 디저트 고마진 확대",
-          "summary": "CU·GS25 등 편의점이 외국인 관광객 증가와 소비 트렌드 변화에 맞춰 디저트·간식 상품을 확대하며 고마진 카테고리로 성장.",
+          "title": "편의점 로컬 콜라보 디저트",
+          "summary": "세븐일레븐·CU 등 편의점이 엔제리너스·크레잇 등 맛집과 협업해 차별화된 디저트 상품 출시 경쟁.",
           "articleIndices": [
-            4,
-            2
+            1,
+            2,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "K편의점에 빠진 외국인들…멈췄던 출점 경쟁 다시 불붙었다[똑똑! 스마...]",
-              "url": "https://n.news.naver.com/mnews/article/011/0004633849?sid=101"
+              "title": "\"검증된 맛 통한다\"…식품업계, 로컬 콜라보로 차별화 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/018/0006313197?sid=101"
+            },
+            {
+              "title": "[이슈PICK+] 식음료 지형 바꾸는 '내시피족'···식품家, 이색 레시피로...",
+              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=402927"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         },
         {
-          "emoji": "🌶️",
-          "title": "GS25 포테이토 초코블럭 SNS 인기",
-          "summary": "GS25의 '포테이토 초코블럭'이 SNS 단짠 디저트 먹방 콘텐츠로 입소문 나며 편의점 신상 스낵의 바이럴 마케팅 성공 사례.",
+          "emoji": "🔥",
+          "title": "농심 육포깡 신상 대박",
+          "summary": "농심 '육포깡'이 출시 일주일 만에 100만 봉 판매하며 편의점·온라인 품절 사태 발생, SNS 신상 트렌드 확산.",
           "articleIndices": [
-            5
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[유프로의 AI 픽] '5000원 앰플부터 출퇴근 생존템까지 입소문'…유통채...",
-              "url": "https://www.mediapen.com/news/view/1105855"
+              "title": "먹태 이어 육포도 통했다... 농심 '육포깡' 출시 일주일 만에 100만 봉 '...",
+              "url": "https://www.insight.co.kr/news/559736"
             }
           ],
           "articleCount": 1
