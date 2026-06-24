@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-06-23T22:57:57.536Z",
+  "generatedAt": "2026-06-24T22:58:31.258Z",
   "summary": [
-    "CU 기존점 성장률 -2.1%에서 2.7%로 플러스 전환, 경쟁사 대비 강세",
-    "편의점 로컬 콜라보 경쟁 심화, 세븐일레븐·CU 등 맛집 협업 상품 확대",
-    "농심 '육포깡' 일주일 100만 봉 판매, SNS 신상 트렌드 확산"
+    "CU, 해남 초당옥수수 활용 빵·디저트 3종 출시로 제철 상품 강화",
+    "GS25, 양산 매출 351% 증가로 MZ세대 트렌드 상품 주도",
+    "유통업계 AI 활용 확대로 맞춤형 추천·마케팅·물류 전반 고도화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "경험 마케팅 강화",
-          "summary": "유통업계가 브랜드 정체성 기반 경험 마케팅으로 고객 유대감과 충성도를 구축하는 추세 확산.",
+          "emoji": "🤖",
+          "title": "유통가 AI+글로벌 생존전략",
+          "summary": "유통업계가 AI를 생산성 향상과 고객 맞춤형 추천·마케팅·물류 전반으로 활용 범위를 확대하며 내수 한계 극복 전략 추진 중.",
           "articleIndices": [
-            1
+            7
           ],
           "relatedLinks": [
             {
-              "title": "매일유업 롯데웰푸드 外(여기 유통 이슈)",
-              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067422"
+              "title": "[창간 12주년 기획] '내수 한계' 유통가, 생존 키워드는 'AI+글로벌'",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=137597"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥤",
-          "title": "무알코올 음료 확대",
-          "summary": "주류 소비 감소 추세 속 주류사들이 0% 음료 등 무알코올 제품으로 사업 확대를 강화하고 있음.",
+          "emoji": "🌍",
+          "title": "백화점 외국인 매출 110% 급증",
+          "summary": "원화약세 효과로 롯데백화점 외국인 매출이 전년 동기 대비 110% 급증하며, 백화점 3사가 결제·멤버십·콘텐츠 전방위 외국인 마케팅 강화.",
           "articleIndices": [
-            6
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'술' 안 팔리는 주류업계···부진 메우는 '0% 음료'의 역설",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2441403"
+              "title": "'원화약세로 할인효과'…백화점 빅3, 외국인 매출 초과 달성",
+              "url": "https://n.news.naver.com/mnews/article/011/0004634722?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,36 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 쇼핑 앱 출시",
-          "summary": "플래티어가 대화형 AI 쇼핑 앱 '젤라또'를 한·일 양국에 동시 출시하며 글로벌 에이전틱 커머스 시장 선점.",
+          "emoji": "🛍️",
+          "title": "네이버 AI 브리핑 광고 전면 도입",
+          "summary": "네이버가 검색에서 정보 탐색·커머스 전환으로 이어지는 '탐색 흐름에 어우러지는 광고'를 통해 검색 지배력 강화 및 AI 수익화 추진.",
           "articleIndices": [
-            2,
-            6
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "네이버, 'AI 브리핑 광고' 전면 도입…검색 지배력 강화·AI 수익화",
+              "url": "https://www.ceoscoredaily.com/page/view/2026062316414004128"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🤖",
+          "title": "플래티어 AI 쇼핑앱 '젤라또' 일본 출시",
+          "summary": "플래티어가 일본 이커머스 시장에서 150만 SKU 확보 후 AI 쇼핑 앱 '젤라또'를 출시하며 B2C 매출 모델 본격화 및 에이전틱 커머스 솔루션 확대.",
+          "articleIndices": [
+            4
           ],
           "relatedLinks": [
             {
               "title": "[이슈] 플래티어, 일본서 150만 SKU 확보...AI 쇼핑 앱 '젤라또' 출시",
               "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=804407"
-            },
-            {
-              "title": "플래티어, 대화형 AI 쇼핑 '젤라또' 전격 출시…일본 이커머스 정조준",
-              "url": "https://www.the-stock.kr/news/articleView.html?idxno=32791"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🥚",
-          "title": "계란 가격 방어전",
-          "summary": "대형마트·이커머스가 수입란 및 자체 물량으로 계란 가격 경쟁을 벌이며 판매 즉시 품절 현상 발생.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "'미국산 계란' 3시간 만에 동났다…'진풍경' 벌어진 이유 [이슈+]",
-              "url": "https://n.news.naver.com/mnews/article/015/0005301545?sid=101"
             }
           ],
           "articleCount": 1
@@ -85,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🧠",
-          "title": "AI 중심 경영 기조",
-          "summary": "롯데그룹이 세대교체와 외부 인재 수혈로 AI 중심 경영을 추진하며 급변하는 유통 환경에 대응.",
+          "emoji": "🤖",
+          "title": "GS샵 AI 통합포털 엑스허브플 구축",
+          "summary": "GS샵이 파편화된 기술을 통합하는 AI 인사이트 포털을 구축하여 현장 업무 혁신과 사내 지식 자산화를 가속화하며 영상 콘텐츠 제작 등 활용 범위 확대.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "세대교체·외부 인재 수혈...롯데 유통 계열사 '쇄신 드라이브'",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713485"
+              "title": "GS샵, 인공지능 전환으로 현장 업무 혁신 가속화…통합 포털 엑스허브플",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=80402"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "AI 데이터 세분화 전략",
-          "summary": "AI 시대 고객 데이터 세분화로 취향을 정교하게 분석·활용하는 전략이 유통업계 핵심 경쟁력으로 부상.",
+          "emoji": "👓",
+          "title": "롯데백화점 AI 스마트안경 전시",
+          "summary": "롯데백화점이 유통업계 최초로 AI 스마트 안경 시장에 진출하며 K-아이웨어를 MZ세대·외국인 관광객 대상 신성장 카테고리로 확대.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "1인 100색 취향 '호모 콘스무스'를 읽어라",
-              "url": "https://n.news.naver.com/mnews/article/018/0006313371?sid=103"
+              "title": "\"안경도 K패션\"…MZ세대·관광객 사로잡고 AI 만난 K아이웨어",
+              "url": "https://n.news.naver.com/mnews/article/005/0001857048?sid=101"
             }
           ],
           "articleCount": 1
@@ -120,16 +115,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📈",
-          "title": "CU 기존점 성장 플러스 전환",
-          "summary": "CU 기존점 성장률이 지난해 -2.1%에서 올해 2.7%로 플러스 전환하며 경쟁사 대비 강세 입증.",
+          "emoji": "🌽",
+          "title": "CU 해남 초당옥수수 빵·디저트 출시",
+          "summary": "CU가 제철 맞은 해남산 초당옥수수를 활용한 빵 3종과 디저트 5종을 출시하며 우리 농가 상생 경영 강화 및 프리미엄 베이커리 라인업 확대.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "GS리테일·BGF리테일, 실적 좋은데 주가 힘 못쓰는 까닭",
-              "url": "https://n.news.naver.com/mnews/article/648/0000048268?sid=101"
+              "title": "CU, 해남 초당옥수수 빵·디저트→롯데마트, 기능성 혼합잡곡 2종 출시",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=747483"
             }
           ],
           "articleCount": 1
@@ -140,46 +135,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💊",
-          "title": "GS25 심야 상비약 판매",
-          "summary": "GS25 전체 안전 상비약 판매의 45.3%가 오후 6시~자정에 집중되며 심야 수요 기반 강화.",
+          "emoji": "☂️",
+          "title": "GS25 양산 매출 351% 급증",
+          "summary": "GS25의 우양산 매출이 전년 대비 351% 증가하고 올해 1~4월도 79.5% 성장하며 MZ세대 트렌드 상품 주도 강화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[와글와글 플러스] 편의점 상비약 절반, 심야에 팔린다",
-              "url": "https://n.news.naver.com/mnews/article/214/0001507381?sid=102"
+              "title": "'라떼는 아줌마 템이었는데'…폭염 속 대학가 점령한 '양산'",
+              "url": "https://n.news.naver.com/mnews/article/003/0014026383?sid=102"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "⚾",
-          "title": "세븐일레븐 매치데이 스포츠 마케팅",
-          "summary": "세븐일레븐이 롯데 자이언츠와 협력해 경영주·임직원·고객 대상 스포츠 마케팅 이벤트 진행.",
+          "emoji": "🍗",
+          "title": "세븐일레븐 김 없는 주먹밥 출시",
+          "summary": "세븐일레븐이 포장·재료 비용 절감으로 김을 제외한 새로운 주먹밥 시리즈를 출시하며 고물가 속 가격 경쟁력 강화.",
           "articleIndices": [
-            3
+            5
           ],
           "relatedLinks": [
             {
-              "title": "롯데 자이언츠, 27일 '세븐일레븐 매치데이'",
-              "url": "https://www.ulsanpress.net/news/articleView.html?idxno=577750"
+              "title": "日 편의점업계, 고물가 속 '김 없는 주먹밥' 확산으로 가격 경쟁",
+              "url": "http://www.kdfnews.com/news/articleView.html?idxno=184515"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏢",
-          "title": "이마트 주상복합 생활편의시설",
-          "summary": "이마트가 펜타힐즈W 1단지 초고층 주상복합 개발에 참여하며 생활편의시설로 입점.",
+          "emoji": "🍱",
+          "title": "이마트24 셰프협업 프리미엄 간편식",
+          "summary": "이마트24의 셰프 협업 간편식이 누적 판매량을 늘리며 프리미엄 식품 수요를 주도하고, PB 상품도 도시락·김밥·샌드위치 등으로 다양화.",
           "articleIndices": [
-            4
+            7
           ],
           "relatedLinks": [
             {
-              "title": "아이에스동서, 초고층 주상복합 '펜타힐즈W 1단지' 선보인다",
-              "url": "https://www.betanews.net/article/view/beta202606240001"
+              "title": "[창간 12주년 기획] 백화점과 다이소의 동거…선택적 지출 뉴노멀",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=137630"
             }
           ],
           "articleCount": 1
@@ -190,37 +185,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 로컬 콜라보 디저트",
-          "summary": "세븐일레븐·CU 등 편의점이 엔제리너스·크레잇 등 맛집과 협업해 차별화된 디저트 상품 출시 경쟁.",
+          "emoji": "🧀",
+          "title": "GS25 황치즈버터맛 생생감자칩",
+          "summary": "GS25가 해태제과와 협업한 '황치즈버터맛 생생감자칩'을 출시하며 '허니버터칩' 개발 노하우를 기반으로 한 히트 상품 전략 추진.",
           "articleIndices": [
-            1,
-            2,
             4
           ],
           "relatedLinks": [
             {
-              "title": "\"검증된 맛 통한다\"…식품업계, 로컬 콜라보로 차별화 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/018/0006313197?sid=101"
-            },
-            {
-              "title": "[이슈PICK+] 식음료 지형 바꾸는 '내시피족'···식품家, 이색 레시피로...",
-              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=402927"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🔥",
-          "title": "농심 육포깡 신상 대박",
-          "summary": "농심 '육포깡'이 출시 일주일 만에 100만 봉 판매하며 편의점·온라인 품절 사태 발생, SNS 신상 트렌드 확산.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "먹태 이어 육포도 통했다... 농심 '육포깡' 출시 일주일 만에 100만 봉 '...",
-              "url": "https://www.insight.co.kr/news/559736"
+              "title": "[오늘의신상]'허니버터칩 DNA 이식'…GS25-해태제과 '황치즈버터맛 생생감자칩'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005780748?sid=101"
             }
           ],
           "articleCount": 1
