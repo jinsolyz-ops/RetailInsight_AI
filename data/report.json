@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-06-24T22:58:31.258Z",
+  "generatedAt": "2026-06-25T23:06:19.913Z",
   "summary": [
-    "CU, 해남 초당옥수수 활용 빵·디저트 3종 출시로 제철 상품 강화",
-    "GS25, 양산 매출 351% 증가로 MZ세대 트렌드 상품 주도",
-    "유통업계 AI 활용 확대로 맞춤형 추천·마케팅·물류 전반 고도화"
+    "바나나우유 열풍으로 외국인 관광객 편의점 쓸어담기 현상 확산",
+    "CU, 해남 초당옥수수 활용 베이커리 확대로 지역 농가 상생 강화",
+    "GS25, 현대자동차와 협업 '현차는 빵빵' 아이스크림 7월 출시"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "유통가 AI+글로벌 생존전략",
-          "summary": "유통업계가 AI를 생산성 향상과 고객 맞춤형 추천·마케팅·물류 전반으로 활용 범위를 확대하며 내수 한계 극복 전략 추진 중.",
+          "emoji": "💳",
+          "title": "VIP 마케팅 확산",
+          "summary": "백화점식 VIP 마케팅이 화장품·패션·이커머스 등 유통업계 전반으로 확대되며 고객 세분화 전략 심화.",
           "articleIndices": [
-            7
+            8
           ],
           "relatedLinks": [
             {
-              "title": "[창간 12주년 기획] '내수 한계' 유통가, 생존 키워드는 'AI+글로벌'",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=137597"
+              "title": "올영·컬리까지… 백화점식 VIP 마케팅",
+              "url": "https://n.news.naver.com/mnews/article/023/0003984142?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "백화점 외국인 매출 110% 급증",
-          "summary": "원화약세 효과로 롯데백화점 외국인 매출이 전년 동기 대비 110% 급증하며, 백화점 3사가 결제·멤버십·콘텐츠 전방위 외국인 마케팅 강화.",
+          "emoji": "🛍️",
+          "title": "선택적 소비 심화",
+          "summary": "프리미엄 침대 500만원대 판매 증가와 편의점 가성비 상품 37% 성장으로 양극화된 소비 패턴 확산.",
           "articleIndices": [
-            5
+            6
           ],
           "relatedLinks": [
             {
-              "title": "'원화약세로 할인효과'…백화점 빅3, 외국인 매출 초과 달성",
-              "url": "https://n.news.naver.com/mnews/article/011/0004634722?sid=101"
+              "title": "침대엔 500만원, 식비엔 5000원⋯ 더 짙어진 '선택적 소비'",
+              "url": "https://www.viva100.com/article/20260625500360"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "네이버 AI 브리핑 광고 전면 도입",
-          "summary": "네이버가 검색에서 정보 탐색·커머스 전환으로 이어지는 '탐색 흐름에 어우러지는 광고'를 통해 검색 지배력 강화 및 AI 수익화 추진.",
+          "emoji": "⚠️",
+          "title": "다크패턴 피해 확산",
+          "summary": "온라인 쇼핑 과정에서 소비자 의도와 무관한 결제·구독 유도 피해가 급증하며 규제 필요성 대두.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "네이버, 'AI 브리핑 광고' 전면 도입…검색 지배력 강화·AI 수익화",
-              "url": "https://www.ceoscoredaily.com/page/view/2026062316414004128"
+              "title": "대구 10대 소비자 상담 3배 급증…온라인 '다크패턴' 피해도 확산",
+              "url": "https://n.news.naver.com/mnews/article/088/0001016246?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "🤖",
-          "title": "플래티어 AI 쇼핑앱 '젤라또' 일본 출시",
-          "summary": "플래티어가 일본 이커머스 시장에서 150만 SKU 확보 후 AI 쇼핑 앱 '젤라또'를 출시하며 B2C 매출 모델 본격화 및 에이전틱 커머스 솔루션 확대.",
+          "title": "AI 에이전트 커머스 경쟁",
+          "summary": "카카오·네이버 등 플랫폼이 AI 에이전트 기반 추천·결제 통합 서비스 출시로 커머스 생태계 재편.",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] 플래티어, 일본서 150만 SKU 확보...AI 쇼핑 앱 '젤라또' 출시",
-              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=804407"
+              "title": "'삼전닉스는 또 급등하는데'…얼어붙은 인터넷株, 믿을건 'AI'",
+              "url": "https://n.news.naver.com/mnews/article/088/0001016195?sid=101"
             }
           ],
           "articleCount": 1
@@ -80,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "GS샵 AI 통합포털 엑스허브플 구축",
-          "summary": "GS샵이 파편화된 기술을 통합하는 AI 인사이트 포털을 구축하여 현장 업무 혁신과 사내 지식 자산화를 가속화하며 영상 콘텐츠 제작 등 활용 범위 확대.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "GS샵, 인공지능 전환으로 현장 업무 혁신 가속화…통합 포털 엑스허브플",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=80402"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "👓",
-          "title": "롯데백화점 AI 스마트안경 전시",
-          "summary": "롯데백화점이 유통업계 최초로 AI 스마트 안경 시장에 진출하며 K-아이웨어를 MZ세대·외국인 관광객 대상 신성장 카테고리로 확대.",
+          "emoji": "🛒",
+          "title": "AI 계산대 실증",
+          "summary": "오아시스의 AI 계산대 실험으로 오프라인 매장 운영 효율과 소비자 경험 개선 가능성 검증 중.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "\"안경도 K패션\"…MZ세대·관광객 사로잡고 AI 만난 K아이웨어",
-              "url": "https://n.news.naver.com/mnews/article/005/0001857048?sid=101"
+              "title": "[PLAY IT] \"상품만 올려놓으세요\"…오아시스 AI 계산대, 직접 써보니",
+              "url": "https://n.news.naver.com/mnews/article/138/0002232149?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🎯",
+          "title": "데이터 기반 오프라인 전략",
+          "summary": "에이블리·GS샵 등이 축적한 빅데이터와 AI 개인화 기술을 활용해 오프라인 쇼룸 진출 가속화.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "에이블리, 성수 쇼룸 10월 초 문 연다…앱 데이터 기반으로 상품 진열",
+              "url": "https://n.news.naver.com/mnews/article/421/0009024710?sid=101"
             }
           ],
           "articleCount": 1
@@ -116,15 +116,15 @@
       "issues": [
         {
           "emoji": "🌽",
-          "title": "CU 해남 초당옥수수 빵·디저트 출시",
-          "summary": "CU가 제철 맞은 해남산 초당옥수수를 활용한 빵 3종과 디저트 5종을 출시하며 우리 농가 상생 경영 강화 및 프리미엄 베이커리 라인업 확대.",
+          "title": "지역 농가 상생 강화",
+          "summary": "CU가 해남 초당옥수수를 활용한 베이커리 신제품 출시로 원물 상품 다양화와 지역 농가 협력 확대.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "CU, 해남 초당옥수수 빵·디저트→롯데마트, 기능성 혼합잡곡 2종 출시",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=747483"
+              "title": "CU, 해남 초당옥수수 활용 베이커리 확대... '지역 농가 상생 강화'",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=202224"
             }
           ],
           "articleCount": 1
@@ -135,46 +135,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "☂️",
-          "title": "GS25 양산 매출 351% 급증",
-          "summary": "GS25의 우양산 매출이 전년 대비 351% 증가하고 올해 1~4월도 79.5% 성장하며 MZ세대 트렌드 상품 주도 강화.",
+          "emoji": "🍦",
+          "title": "GS25 현대차 협업",
+          "summary": "GS25가 현대자동차와 손잡고 차종 모티프 샌드형 아이스크림 '현차는 빵빵' 7월 출시로 IP 협업 확대.",
           "articleIndices": [
-            1
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'라떼는 아줌마 템이었는데'…폭염 속 대학가 점령한 '양산'",
-              "url": "https://n.news.naver.com/mnews/article/003/0014026383?sid=102"
+              "title": "IP 협업 확산… 현대차 아이스크림ㆍ기아 빼빼로 나왔다",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606251115423940741"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍗",
-          "title": "세븐일레븐 김 없는 주먹밥 출시",
-          "summary": "세븐일레븐이 포장·재료 비용 절감으로 김을 제외한 새로운 주먹밥 시리즈를 출시하며 고물가 속 가격 경쟁력 강화.",
+          "emoji": "🇰🇷",
+          "title": "세븐일레븐 해군 모병 지원",
+          "summary": "세븐일레븐이 13년 연속 호국보훈 캠페인으로 해군모병센터에 2천만원 물품 후원하며 사회공헌 강화.",
           "articleIndices": [
-            5
+            6
           ],
           "relatedLinks": [
             {
-              "title": "日 편의점업계, 고물가 속 '김 없는 주먹밥' 확산으로 가격 경쟁",
-              "url": "http://www.kdfnews.com/news/articleView.html?idxno=184515"
+              "title": "세븐일레븐, 13년 뚝심 '나라사랑'…인구절벽 시대 해군 모병 전폭 지원",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=80542"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍱",
-          "title": "이마트24 셰프협업 프리미엄 간편식",
-          "summary": "이마트24의 셰프 협업 간편식이 누적 판매량을 늘리며 프리미엄 식품 수요를 주도하고, PB 상품도 도시락·김밥·샌드위치 등으로 다양화.",
+          "emoji": "🏪",
+          "title": "이마트24 로또 판매",
+          "summary": "이마트24가 연금복권720+ 판매점으로 운영되며 편의점 복합 수익 모델 강화.",
           "articleIndices": [
             7
           ],
           "relatedLinks": [
             {
-              "title": "[창간 12주년 기획] 백화점과 다이소의 동거…선택적 지출 뉴노멀",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=137630"
+              "title": "[종합]321회 연금복권720+ 당첨번호확인 및 로또 당첨번호 조회!",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=422238"
             }
           ],
           "articleCount": 1
@@ -185,19 +185,44 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🧀",
-          "title": "GS25 황치즈버터맛 생생감자칩",
-          "summary": "GS25가 해태제과와 협업한 '황치즈버터맛 생생감자칩'을 출시하며 '허니버터칩' 개발 노하우를 기반으로 한 히트 상품 전략 추진.",
+          "emoji": "🍌",
+          "title": "바나나우유 글로벌 열풍",
+          "summary": "K-바나나우유가 외국인 관광객 사이에서 SNS 입소문으로 편의점 쓸어담기 현상 발생하며 K-음료 대표 상품화.",
           "articleIndices": [
-            4
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의신상]'허니버터칩 DNA 이식'…GS25-해태제과 '황치즈버터맛 생생감자칩'",
-              "url": "https://n.news.naver.com/mnews/article/277/0005780748?sid=101"
+              "title": "'K-바나나우유' 열풍...젠슨 황부터 외국인 관광객 싹쓸이",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=747758"
+            },
+            {
+              "title": "쓸어담는다…'노란 항아리' 열풍",
+              "url": "https://n.news.naver.com/mnews/article/055/0001367440?sid=102"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
+        },
+        {
+          "emoji": "🌽",
+          "title": "CU 초당옥수수 베이커리",
+          "summary": "CU가 해남산 초당옥수수 2톤을 활용한 소보로빵·모찌 페스트리·카스테라 3종 출시로 제철 상품 차별화.",
+          "articleIndices": [
+            4,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "[오늘의 편의점] CU '초당옥수수' 신상 출시, 세븐일레븐 '숨결통식빵'",
+              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=314073"
+            },
+            {
+              "title": "[오늘의신상]해남 초당옥수수 2t 넣었다…CU '옥수수빵'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005781170?sid=101"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     }
