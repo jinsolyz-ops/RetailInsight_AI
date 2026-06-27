@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-26T22:58:20.074Z",
+  "generatedAt": "2026-06-27T22:52:11.846Z",
   "summary": [
-    "CU 러닝 스테이션, 편의점 라이프스타일 공간 확대 전략 본격화",
-    "GS25 무알콜 맥주 86% 급증, 저도주 트렌드 선점 경쟁 심화",
-    "세븐일레븐 숨결통식빵 팝업 투어로 PB 상품 차별화 마케팅 강화"
+    "다이소 러닝 아이템 열풍으로 MZ층 라이프스타일 시장 장악 가속화",
+    "편의점 즉석 스무디 매출 급증, 헬시플레저 트렌드 확산으로 경쟁 심화",
+    "CU 생과일 하이볼 신상 출시로 저도주 시장 선도 지속"
   ],
   "categories": [
     {
@@ -12,9 +12,9 @@
         {
           "emoji": "🏃",
           "title": "다이소 러닝 열풍",
-          "summary": "다이소가 2만원대 저가 러닝 풀세트로 젊은층 라이프스타일 시장을 장악하며 단순 만물상에서 트렌드 주도 브랜드로 전환.",
+          "summary": "다이소가 2만원대 저가 러닝 풀세트로 기성 스포츠 브랜드를 압도하며 MZ층 라이프스타일 시장 주도권 확보.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
@@ -25,16 +25,16 @@
           "articleCount": 1
         },
         {
-          "emoji": "🥃",
-          "title": "소주 브랜드 IP 마케팅",
-          "summary": "진로·처음처럼이 뉴트로 캐릭터 기반 굿즈·팝업·협업으로 병 라벨을 넘어 브랜드 IP 생태계 구축.",
+          "emoji": "🎯",
+          "title": "제헌절 연휴 특수 마케팅",
+          "summary": "7월 17일 황금연휴 대비 대형마트·백화점이 캠핑·바캉스 상품 중심 대규모 할인 행사 추진으로 시장 활성화 기대.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "진로 '두꺼비'·처음처럼 '어린 새'···병 라벨 넘어, 브랜드 IP 각인",
-              "url": "http://www.finomy.com/news/articleView.html?idxno=256377"
+              "title": "'이미 예약 만석'… '7월 17일 황금연휴' 효과에 여행·유통업계 특수 비상",
+              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=584937"
             }
           ],
           "articleCount": 1
@@ -45,11 +45,11 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🌏",
+          "emoji": "🌍",
           "title": "전통시장 K뷰티 핫플화",
-          "summary": "광장시장 등 전통시장이 복고풍 인테리어로 K뷰티 쇼핑 목적지화되며 외국인·MZ세대 유입 증가 및 역직구 재구매 확대.",
+          "summary": "광장시장 등 전통시장이 복고풍 인테리어로 K뷰티 쇼핑 명소화되며 외국인·MZ층 유입 증가 및 역직구 재구매 확대.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
@@ -62,9 +62,9 @@
         {
           "emoji": "🏢",
           "title": "아워홈 구씨반가 상표 포기",
-          "summary": "한화 인수 후 아워홈이 창업주 색채 제거 차원에서 구씨반가 브랜드를 온라인몰에서 철수, 기업 이미지 관리 강화.",
+          "summary": "한화 인수 후 아워홈이 창업주 색채 제거 차원에서 구씨반가 브랜드를 온라인몰에서 단계적으로 철수.",
           "articleIndices": [
-            3
+            4
           ],
           "relatedLinks": [
             {
@@ -80,24 +80,34 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "❄️",
-          "title": "홈플러스 AI 물가안정 프로젝트",
-          "summary": "홈플러스가 여름철 생활용품 최대 50% 할인 'AI 물가안정 프로젝트'로 무더위 수요 공략 및 가격 경쟁력 강화.",
+          "emoji": "📺",
+          "title": "홈쇼핑 라이브커머스 재편",
+          "summary": "홈쇼핑 업계가 라이브커머스·숏폼·팬덤 기반 전략으로 재편하며 AI 기반 콘텐츠 제작 확대로 운영 효율화 추진.",
           "articleIndices": [
-            1,
-            2
+            7
           ],
           "relatedLinks": [
             {
-              "title": "\"냉감 침구 반값·KBO 크록스까지\"…유통가, 무더위 겨냥 여름 행사",
-              "url": "https://n.news.naver.com/mnews/article/022/0004138551?sid=101"
-            },
-            {
-              "title": "\"축구대표팀 라커룸부터 냉감이불까지\"…유통가, 여름 손님 잡기",
-              "url": "https://n.news.naver.com/mnews/article/022/0004138549?sid=101"
+              "title": "[유통가 상반기 돌아보니] ⑥TV 떠난 소비자, 홈쇼핑은 '라이브'로",
+              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=305697"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌾",
+          "title": "농업인 AI 마케팅 교육",
+          "summary": "진안군 농업인들이 AI 활용 라이브커머스·숏폼 제작으로 온라인 판로 개척하며 농산물 직거래 신모델 구축.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "'스마트하게 판다' 진안군 농업인, AI 활용 숏폼·라이브커머스 직접 뜬다",
+              "url": "http://www.jeollailbo.com/news/articleView.html?idxno=803767"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -105,26 +115,11 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🏃",
-          "title": "CU 러닝 스테이션",
-          "summary": "CU가 한강여의도 매장에서 파라솔·러닝 트랙 연상 진입로로 편의점을 러닝 커뮤니티 거점으로 전환, 라이프스타일 공간 확대.",
+          "emoji": "🌶️",
+          "title": "K-떡볶이 콘테스트",
+          "summary": "대구 북구 주최 K-떡볶이 콘테스트 수상작이 BGF리테일과 협업으로 전국 CU 편의점 상품화 추진.",
           "articleIndices": [
             1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[무엇이든 리뷰] 뛸 마음만 있다면 언제나·누구든지…'CU 러닝 스테이션'",
-              "url": "https://n.news.naver.com/mnews/article/030/0003441812?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🌶️",
-          "title": "K-떡볶이 콘테스트 상품화",
-          "summary": "대구 북구 K-떡볶이 콘테스트 수상작이 BGF리테일과 협업으로 전국 CU 편의점 상품화, 지역 특산물 기반 신제품 개발.",
-          "articleIndices": [
-            2
           ],
           "relatedLinks": [
             {
@@ -140,46 +135,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "GS25 무알콜 맥주 86% 급증",
-          "summary": "GS25의 무알콜 맥주 매출이 1~5월 전년 동기 대비 86.1% 급증하며 저도주 트렌드 선점, 2030 핫플 지위 강화.",
+          "emoji": "🥤",
+          "title": "GS25 에너지드링크 신흥강자",
+          "summary": "GS25 판매 기준 한미사이언스 에너지드링크가 출시 2개월 만에 250만 캔 돌파하며 음료 카테고리 매출 1위 달성.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'술보다 좋아' 핫플 찾은 2030 즐겨 먹더니…'대박' 터졌다",
-              "url": "https://n.news.naver.com/mnews/article/015/0005303420?sid=103"
+              "title": "[금주의 제약 톡톡] 한미사이언스, 20·30 맞춤 건기식 브랜드 론칭",
+              "url": "https://www.mediawatch.kr/news/article.html?no=260206"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍞",
-          "title": "세븐일레븐 숨결통식빵 팝업",
-          "summary": "세븐일레븐이 PB 상품 '세븐셀렉트 숨결통식빵' 팝업 투어로 고객 접점 확대 및 자체 브랜드 우수성 마케팅 강화.",
+          "emoji": "📉",
+          "title": "세븐일레븐 적자 구조 개선",
+          "summary": "코리아세븐이 창사 이래 처음 외부인 CEO 영입으로 미니스톱 인수 후 지속된 만성 적자 해소 추진.",
           "articleIndices": [
-            6
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'식빵이 무려 3.8배나 더 팔렸다고?'…세븐일레븐, '세븐셀렉트 숨결통식빵' 팝업 투어",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=263948"
+              "title": "적자 늪 빠진 세븐일레븐…첫 용병 CEO, 해결사 될까?",
+              "url": "https://n.news.naver.com/mnews/article/243/0000099706?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎰",
-          "title": "이마트24 로또 판매점",
-          "summary": "이마트24 순천산단점이 로또 1등 당첨점으로 선정되며 복권 판매 채널 강화 및 고객 유입 증대.",
+          "emoji": "🍉",
+          "title": "이마트 손질 과일 연중 판매",
+          "summary": "이마트가 조각 수박·멜론 수요 증가를 반영해 여름 한정 상품을 연중 판매로 확대하며 1인 가구 공략.",
           "articleIndices": [
-            9
+            8
           ],
           "relatedLinks": [
             {
-              "title": "로또 1229회 당첨번호 조회 1등 8명 35억대 잭팟",
-              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067760"
+              "title": "껍질 떼고 용기에 통째로…1인 가구 겨냥 '손질 과일' 매출 증가",
+              "url": "https://n.news.naver.com/mnews/article/001/0016162929?sid=101"
             }
           ],
           "articleCount": 1
@@ -190,36 +185,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🌽",
-          "title": "CU 초당옥수수 신제품",
-          "summary": "CU가 베이크하우스405를 통해 해남산 초당옥수수 2톤을 활용한 소보로빵·모찌 페스트리·카스테라 3종 출시, 제철 로컬 상품 마케팅.",
+          "emoji": "🥤",
+          "title": "편의점 즉석 스무디 매출 급증",
+          "summary": "이른 폭염으로 편의점 즉석 스무디 매출이 CU 26.4%, GS25 18.7%, 이마트24 18% 증가하며 헬시플레저 트렌드 확산.",
           "articleIndices": [
-            6,
-            7
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의 편의점] CU '초당옥수수' 신상 출시, 세븐일레븐 '숨결통식빵'",
-              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=314073"
-            },
-            {
-              "title": "[오늘의신상]해남 초당옥수수 2t 넣었다…CU '옥수수빵'",
-              "url": "https://n.news.naver.com/mnews/article/277/0005781170?sid=101"
+              "title": "'여름엔 수박이지'…이른 폭염에 편의점 즉석 스무디 매출 급증",
+              "url": "https://n.news.naver.com/mnews/article/421/0009027344?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🍉",
-          "title": "편의점 미니 수박·컵과일",
-          "summary": "1~2인 가구 증가와 간편 소비 트렌드로 편의점·마트의 미니 수박·컵과일 판매 확대, 혼과일 시장 성장.",
+          "emoji": "🍹",
+          "title": "CU 생과일 하이볼 신상",
+          "summary": "CU가 생과일 하이볼 신제품 출시로 저도주 트렌드 확산 속 편의점 하이볼 시장 선도 지속.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "혼밥 이어 '혼과일' 뜬다?…올여름 '미니 수박' 인기라는데 [FOOD+]",
-              "url": "https://n.news.naver.com/mnews/article/022/0004138488?sid=103"
+              "title": "[금주의 주류 신상] 2026년 6월 넷째주",
+              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131287"
             }
           ],
           "articleCount": 1
