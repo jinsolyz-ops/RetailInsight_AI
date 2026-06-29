@@ -1,189 +1,21 @@
 {
-  "generatedAt": "2026-06-28T22:52:09.601Z",
+  "generatedAt": "2026-06-29T22:45:19.640Z",
   "summary": [
-    "CU, 라면 최대 77% 할인·러닝족 기능성 아이스크림으로 여름 시즌 공략",
-    "CU PB상품 타오바오서 3주만에 1만 건 판매, 해외 확장 가속화",
-    "플랫폼 자사우대 효과 입증: 검색 상위 배치 시 구매율 34%P 증가"
+    "CU 와인 브랜드 '음' 누적 500만 병 판매 돌파, 여름 신상 출시로 시장 주도",
+    "GS25, 현대차와 협업한 '현차는 빵빵' 아이스크림 출시로 브랜드 경험 강화",
+    "이마트24, 포차24 냉동 안주 신제품으로 홈술 시장 공략 강화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎮",
-          "title": "e스포츠 팬덤 마케팅 확대",
-          "summary": "유통업계가 e스포츠 구단과 협업해 팝업·굿즈 출시로 구매력 있는 팬덤 수요를 적극 포착하고 있다.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "e스포츠 팬덤 공략 나선 유통家… 팝업 열고, 유니폼 등 굿즈 출시",
-              "url": "https://n.news.naver.com/mnews/article/020/0003729985?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "⚾",
-          "title": "스포츠 연계 통합 쇼핑 행사",
-          "summary": "롯데백화점이 롯데자이언츠와 협업한 '올스타 쇼핑 위크'로 프로야구 흥행을 유통 마케팅으로 확산시키고 있다.",
-          "articleIndices": [
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "부산권 롯데백화점, 7월 12일까지 '올스타 쇼핑 위크'",
-              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2209514"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
-    },
-    {
-      "name": "이커머스 트렌드",
-      "issues": [
-        {
-          "emoji": "📊",
-          "title": "플랫폼 검색순위 자사우대 효과",
-          "summary": "공정위 실험 결과, 온라인 쇼핑몰의 검색 상위 배치만으로 구매율이 34%P 증가하며 소비자 선택 왜곡이 입증됐다.",
-          "articleIndices": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "10% 비싸도 '플랫폼 상단배치 상품' 구매율 34%P 늘어",
-              "url": "https://n.news.naver.com/mnews/article/022/0004138765?sid=101"
-            },
-            {
-              "title": "검색 순위 바꾸자 구매율 35배 '껑충'…공정위, 플랫폼 자사우대 효과",
-              "url": "https://n.news.naver.com/mnews/article/666/0000112974?sid=101"
-            }
-          ],
-          "articleCount": 5
-        }
-      ]
-    },
-    {
-      "name": "AI 트렌드",
-      "issues": [
-        {
-          "emoji": "🤖",
-          "title": "의약품 유통 AI·로봇 자동화",
-          "summary": "의약품 유통사들이 AI 기반 재고관리·자동화 물류센터 등에 수천억원을 투자하며 디지털 혁신을 가속화하고 있다.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "자동화에 AI·로봇 장착…디지털로 진화하는 의약품 유통업계",
-              "url": "https://www.dailypharm.com/user/news/339815?REFERER=NP"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
-    },
-    {
-      "name": "당사 이슈",
-      "issues": [
-        {
-          "emoji": "🍜",
-          "title": "라면 최대 77% 할인 특가전",
-          "summary": "CU가 여름 휴가철을 겨냥해 신제품 '치트키 진한 새우탕면' 출시와 함께 7월 한 달간 대규모 면류 할인 행사를 전개한다.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 최대 77% 할인 '라면 특가전'→롯데온 '런트립 할인 ON'",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=748223"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🏃",
-          "title": "러닝족 겨냥 기능성 아이스크림",
-          "summary": "CU가 러닝 이코노미 시장 공략을 위해 휴대성·편의성을 강화한 기능성 아이스크림을 출시했다.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "커지는 '러닝 이코노미'…CU, 전용 편의시설부터 맞춤형 간식까지",
-              "url": "https://n.news.naver.com/mnews/article/468/0001250592?sid=101"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
-    },
-    {
-      "name": "경쟁사 이슈",
-      "issues": [
-        {
-          "emoji": "📈",
-          "title": "GS25 월드컵 특수 활용",
-          "summary": "GS25가 월드컵 경기 당일 광화문 인근 점포에서 최대 162% 매출 증가를 기록하며 스포츠 이벤트 마케팅 효과를 극대화했다.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "32강 좌절에 꺼진 '월드컵 특수'…유통·가전업계 '한숨'",
-              "url": "https://n.news.naver.com/mnews/article/011/0004635838?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍚",
-          "title": "세븐일레븐 CJ 협업 신제품",
-          "summary": "세븐일레븐이 CJ와 협업한 말차·들기름 햇반 등 SNS 트렌드 기반 신제품으로 편의점의 빠른 트렌드 제안 역할을 강화하고 있다.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "[인터뷰] 말차·들기름 햇반은 어떻게 탄생했나… CJ 마케터·연구원이",
-              "url": "https://n.news.naver.com/mnews/article/366/0001175064?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🌏",
-          "title": "이마트24 PB상품 해외 확장",
-          "summary": "이마트24가 GS25, 세븐일레븐, CU와 함께 편의점 PB상품의 중국·일본 판매 품목을 확대하며 해외 시장 공략에 박차를 가하고 있다.",
-          "articleIndices": [
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "편의점 PB상품, 중국·일본서 잘나간다",
-              "url": "https://n.news.naver.com/mnews/article/009/0005699780?sid=101"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
-    },
-    {
-      "name": "상품 이슈",
-      "issues": [
-        {
           "emoji": "🍷",
-          "title": "CU 와인 브랜드 '음' 500만 병 돌파",
-          "summary": "CU의 가성비 와인 브랜드 '음(mmm!)'이 누적 판매량 500만 병을 넘으며 편의점 와인 시장 성장을 주도하고 있다.",
+          "title": "CU 와인 '음' 500만 병 돌파",
+          "summary": "CU의 가성비 와인 브랜드 '음(mmm!)'이 누적 판매량 500만 병을 넘으며 편의점 와인 시장 주도권 확보, 여름 신상 출시로 성장 지속.",
           "articleIndices": [
-            6,
-            8
+            4,
+            6
           ],
           "relatedLinks": [
             {
@@ -198,21 +30,155 @@
           "articleCount": 2
         },
         {
-          "emoji": "🍪",
-          "title": "두바이 쫀득 쿠키 열풍",
-          "summary": "편의점과 베이커리에서 두바이 콘셉트의 쿠키, 마카롱, 브라우니 등 다양한 디저트를 출시하며 SNS 트렌드 기반 신상품 경쟁이 심화되고 있다.",
+          "emoji": "🍦",
+          "title": "GS25 현대차 협업 '현차는 빵빵'",
+          "summary": "GS25가 현대자동차와 협업해 아이스크림 신제품 '현차는 빵빵'을 출시, 차량 디자인 띠부씰 동봉으로 브랜드 경험 강화 및 젊은 고객층 유입 전략.",
           "articleIndices": [
-            1,
-            5
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[이만훈의 세상만사] 위대한 한류 이야기(3) ㊵ 외국인 입맛 사로잡는",
-              "url": "http://www.econotelling.com/news/articleView.html?idxno=20771"
+              "title": "'고객 흥미 유도·새 브랜드 경험 선사'…현대차·GS25, '현차는 빵빵'",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=264425"
             },
             {
-              "title": "지금 MZ들 난리 났습니다… 너도나도 다 찾고 있는 의외의 '여름 대표 간'",
-              "url": "https://www.wikitree.co.kr/articles/1142554"
+              "title": "[Biz & Now] GS25, 현대차와 손잡고 '현차는 빵빵' 새 메뉴",
+              "url": "https://n.news.naver.com/mnews/article/025/0003534035?sid=101"
+            }
+          ],
+          "articleCount": 2
+        }
+      ]
+    },
+    {
+      "name": "이커머스 트렌드",
+      "issues": [
+        {
+          "emoji": "🛒",
+          "title": "네카오 이어 토스 커머스 진출",
+          "summary": "검색·메신저·금융 플랫폼 기업들의 잇단 커머스 진출로 기존 이커머스 기업과 유통업계의 경쟁 구도 재편, 플랫폼 기업 간 경쟁 심화.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "[더벨][커머스, 플랫폼 군단의 역습] 네카오 이어 토스도 참전…플랫폼...",
+              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606251459453560102884"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌏",
+          "title": "중국 C카페 '알테쉬' 한국 시장 공습",
+          "summary": "알리·테무·쉬인으로 대표되는 중국 이커머스 플랫폼의 한국 시장 진출로 국내 이커머스 레드오션 심화, K카페 경쟁력 시험대 진입.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "[박성은의 쇼트컷] C카페의 공습, 시험대 오른 K카페",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035239"
+            }
+          ],
+          "articleCount": 1
+        }
+      ]
+    },
+    {
+      "name": "AI 트렌드",
+      "issues": [
+        {
+          "emoji": "🤖",
+          "title": "O4O 디지털 전환 핵심 키워드",
+          "summary": "유통업계에서 온라인 고객 데이터와 AI 기술을 활용해 오프라인 매장을 강화하는 'O4O(Online for Offline)' 전략이 디지털 전환의 핵심 키워드로 부상.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "[시사용어] O4O(Online for Offline)",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260629010010147"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍕",
+          "title": "고피자 PC방 진출 푸드테크 확대",
+          "summary": "GS리테일과 협업한 고피자가 편의점 즉석조리 피자 시장 개척 후 PC방 200개 매장 계약으로 푸드테크 솔루션 확대, 새로운 채널 개척.",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "고피자,'편의점' 이어 'PC방' 진출...삼마와 200개 매장 계약 체결",
+              "url": "https://n.news.naver.com/mnews/article/008/0005378821?sid=101"
+            }
+          ],
+          "articleCount": 1
+        }
+      ]
+    },
+    {
+      "name": "당사 이슈",
+      "issues": []
+    },
+    {
+      "name": "경쟁사 이슈",
+      "issues": [
+        {
+          "emoji": "🎉",
+          "title": "세븐일레븐 럭키 칠일일 프로모션",
+          "summary": "세븐일레븐이 7월 11일 세븐일레븐데이를 맞아 음료·주류·아이스크림·신선식품 등 560여 종을 할인하는 '럭키 칠일일' 고객 감사 프로모션 진행.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트24 냉동안주 4종 출시...세븐일레븐 고객 감사 프로모션",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=748490"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍺",
+          "title": "이마트24 포차24 냉동 안주 강화",
+          "summary": "이마트24가 자체 안주 브랜드 포차24의 냉동 안주 신제품을 잇달아 출시, 홈술족 공략으로 집에서 술을 즐기는 시장의 주도권 확보 전략.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트24, 포차24 냉동 안주로 홈술 시장 주도권 잡나",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=80807"
+            }
+          ],
+          "articleCount": 1
+        }
+      ]
+    },
+    {
+      "name": "상품 이슈",
+      "issues": [
+        {
+          "emoji": "🍦",
+          "title": "편의점 디저트 시장 경쟁 심화",
+          "summary": "GS25 '현차는 빵빵', 세븐일레븐 토라쿠 푸딩 등 편의점 디저트 신상품 출시 경쟁 심화, 외국인 고객의 고마진 디저트 소비 증가로 수익성 개선.",
+          "articleIndices": [
+            2,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "[유통 브리핑] GS25, 롯데온, 신세계푸드",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035506"
+            },
+            {
+              "title": "[오늘의신상]'23년 스테디셀러' 日 토라쿠 푸딩, 세븐일레븐에서 만난다",
+              "url": "https://n.news.naver.com/mnews/article/277/0005782486?sid=101"
             }
           ],
           "articleCount": 2
