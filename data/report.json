@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-07-01T23:00:05.564Z",
+  "generatedAt": "2026-07-02T22:54:59.779Z",
   "summary": [
-    "CU, 프리미엄 소주·수제맥주 블렌딩 RTD '키소맥' 출시로 주류 포트폴리오 확대",
-    "GS25, 신선식품 강화로 대형마트 위협…편의점 '장보기' 트렌드 확산",
-    "네이버 AI 쇼핑 에이전트 정식 출시, 에이전틱 커머스 시대 본격화"
+    "CU, 우리은행 삼성월렛머니 제휴로 오프라인 결제 확대",
+    "GS25, 복날 시즌 1만원 미만 가성비 전략으로 경쟁 심화",
+    "네이버 AI 에이전트 쇼핑 정식 출시, 버티컬 커머스 경쟁 본격화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "고물가 시대 유통 할인 전략",
-          "summary": "고물가·고환율 속 유통업계가 할인 행사로 대응하는 반면 식품업계는 가격 인상에 나서며 엇갈린 생존 전략 전개 중.",
+          "emoji": "💰",
+          "title": "고물가 시대 가성비 마케팅",
+          "summary": "유통업계가 고물가·경기 둔화 속 할인 행사와 가성비 상품으로 소비자 심리를 공략하는 전략 전개 중.",
           "articleIndices": [
-            1
+            4,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] 고물가 시대 엇갈린 생존 전략…식품은 가격 인상, 유통은 할인...",
+              "title": "고물가 시대 엇갈린 생존 전략…식품은 가격 인상, 유통은 할인",
               "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=362036"
+            },
+            {
+              "title": "삼계탕 2만원 시대…삼복더위 수요 '가성비'로 쏠린다",
+              "url": "https://www.ekn.kr/web/view.php?key=20260703023568578"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🍞",
-          "title": "포켓몬빵 30년 IP 강력함",
-          "summary": "포켓몬빵이 진열 위치나 마케팅 영향 없이 독보적 판매력을 유지하며 어른 소비층까지 확대하는 강한 브랜드 파워 입증.",
+          "emoji": "👶",
+          "title": "키즈 특수 시장 확대",
+          "summary": "출생아 수 증가세에 따라 유통업계가 키즈 패션·유아 화장품 등 아동 관련 상품 투자 및 마케팅 확대.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "\"아이보다 어른들이 더 사더라\"…30년 누적 IP의 힘 '포켓몬빵'",
-              "url": "https://n.news.naver.com/mnews/article/022/0004139877?sid=101"
+              "title": "7년 만에 최대 출생아…키즈 패션·유아 화장품 '반색'",
+              "url": "https://n.news.naver.com/mnews/article/119/0003107517?sid=101"
             }
           ],
           "articleCount": 1
@@ -46,23 +51,40 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 에이전트 커머스 확산",
-          "summary": "네이버가 AI 쇼핑 에이전트를 정식 출시하며 에이전틱 커머스 시대 본격화, 2030년 미국 이커머스 거래의 10~20%를 AI가 차지할 전망.",
+          "title": "버티컬 AI 에이전트 경쟁",
+          "summary": "네이버·카카오 등이 AI 에이전트를 통한 버티컬 커머스 주도권 확보 경쟁을 본격화하며 플랫폼 생태계 재편 중.",
           "articleIndices": [
-            2,
-            4
+            7,
+            8,
+            9,
+            10
           ],
           "relatedLinks": [
             {
-              "title": "[이슈플러스] 네카오는 생태계 구축, 유통업계는 AI 네이티브…에이전틱...",
-              "url": "https://n.news.naver.com/mnews/article/030/0003443489?sid=101"
+              "title": "네이버 '콘텐츠 내재화' vs 다음 '데이터 확장'…AI 포털 격돌",
+              "url": "http://www.fntimes.com/html/view.php?ud=202607020958546017fd637f543_18"
             },
             {
-              "title": "[컨슈머리뷰]손품 팔던 쇼핑은 끝났다…퍼스널 쇼퍼 된 'AI 쇼핑 에이전...",
-              "url": "https://www.cstimes.com/news/articleView.html?idxno=711866"
+              "title": "[이슈플러스] 네카오는 생태계 구축, 유통업계는 AI 네이티브…에이전틱",
+              "url": "https://n.news.naver.com/mnews/article/030/0003443489?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 4
+        },
+        {
+          "emoji": "🏢",
+          "title": "성수동 이커머스 클러스터 형성",
+          "summary": "쿠팡·오리온 등 유통 공룡들이 성수동·자양동으로 집결하며 고정비 절감과 자산 효율화를 추진하는 새로운 메카 형성.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "[기획] 힙한 성수부터 도곡까지…'오리온·쿠팡·삼양식품' 유통 공룡들",
+              "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=659687"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -70,40 +92,39 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🍗",
-          "title": "닭가슴살 헬시플레져 시장 확대",
-          "summary": "롯데마트·슈퍼의 닭가슴살 매출이 상반기 대폭 증가하며 헬시플레져 트렌드 확산, 조류인플루엔자 여파 속에서도 대규모 물량 확보로 공급 안정화.",
+          "emoji": "🛍️",
+          "title": "G마켓 AI 기술 투자 확대",
+          "summary": "G마켓이 7000억원 규모 1위 탈환 프로젝트의 일환으로 AI 기술 투자를 강화하며 오픈마켓 경쟁 심화.",
           "articleIndices": [
-            1
+            2,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "롯데마트·슈퍼 '닭가슴살 굿즈'로 불붙은 헬시플레져 시장…가격·재미...",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=81025"
+              "title": "7000억 '실탄' 앞세운 G마켓… '점유율 경쟁' 본게임",
+              "url": "https://n.news.naver.com/mnews/article/008/0005380925?sid=101"
+            },
+            {
+              "title": "'G마켓 제대로 키운다'...쿠팡, 네이버 양강구도 견제구 날린 정용진",
+              "url": "https://n.news.naver.com/mnews/article/008/0005380784?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🏪",
-          "title": "AI 기반 광고·커머스 성장",
-          "summary": "네이버의 AI 기반 '애드부스트' 확대와 AI 쇼핑 에이전트 정식 출시로 광고·커머스 매출 성장 견인, 버티컬 AI 전략으로 기존 플랫폼 사업 강화.",
+          "emoji": "🎯",
+          "title": "AI 기반 오프라인 예약 플랫폼",
+          "summary": "에이블리가 AI 취향 추천 기능을 갖춘 오프라인 예약 플랫폼 '플레이스' 출시로 생활 플랫폼 경쟁 확대.",
           "articleIndices": [
-            4,
-            5,
             6
           ],
           "relatedLinks": [
             {
-              "title": "검색 회사 넘어 AI 인프라 사업자로…네이버, 'AI 팩토리' 승부수 통할까",
-              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680310"
-            },
-            {
-              "title": "[클릭 e종목]네이버, 3분기까지 마진 압박 불가피",
-              "url": "https://n.news.naver.com/mnews/article/277/0005784392?sid=101"
+              "title": "에이블리, 오프라인 예약 '플레이스' 출격…AI 취향 추천으로 체험 시장",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=530228"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -111,16 +132,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "CU 프리미엄 RTD '키소맥' 출시",
-          "summary": "CU가 프리미엄 증류식 소주 '키소주'와 생활맥주 페일에일을 블렌딩한 RTD 상품 '키소맥'을 출시하며 주류 포트폴리오 고급화 추진.",
+          "emoji": "💳",
+          "title": "우리은행 삼성월렛머니 제휴",
+          "summary": "CU(BGF리테일)가 우리은행 삼성월렛머니와 제휴하여 전국 1만 8000여 개 점포에서 오프라인 결제 서비스 확대.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "GS샵 여름 보양식·냉동과일 확대...CU '키소맥' 출시",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=748995"
+              "title": "우리은행, 간편결제 서비스 전략가맹점에 다이소·CU 추가",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3625046"
             }
           ],
           "articleCount": 1
@@ -131,36 +152,16 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥬",
-          "title": "GS25 신선식품 강화 전략",
-          "summary": "GS25가 GS더프레시의 신선식품 운영 노하우를 활용해 신선식품 확대에 나서며 편의점의 '장보기' 트렌드 주도, 대형마트 위협 강화.",
+          "emoji": "🤖",
+          "title": "세븐일레븐 AI 로봇 도입",
+          "summary": "세븐일레븐이 AX LAB 3.0에서 휴머노이드 로봇 로이를 고객 응대·매장 안내에 활용하며 피지컬 AI 시대 선도.",
           "articleIndices": [
-            1,
-            2
+            5
           ],
           "relatedLinks": [
             {
-              "title": "출점 대신 '장보기'…대형마트 위협하는 편의점",
-              "url": "https://n.news.naver.com/mnews/article/277/0005784396?sid=101"
-            },
-            {
-              "title": "내수·해외 '투트랙'...GS리테일 성장축 다변화",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714643"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🎨",
-          "title": "세븐일레븐 어린이 미술대회 개최",
-          "summary": "세븐일레븐이 구세군과 함께 제33회 어린이 미술대회를 개최하며 가족 고객층 확보 및 브랜드 이미지 강화 추진.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "구세군·세븐일레븐, 제33회 어린이 미술대회 개최…'가족의 사랑과 행...",
-              "url": "https://www.ngonews.kr/news/articleView.html?idxno=232064"
+              "title": "'튀김 로봇은 옛말'…외식업계 '피지컬 AI' 시대 열린다",
+              "url": "https://n.news.naver.com/mnews/article/119/0003107504?sid=101"
             }
           ],
           "articleCount": 1
@@ -168,14 +169,14 @@
         {
           "emoji": "🍙",
           "title": "이마트24 삼각김밥 리뉴얼",
-          "summary": "이마트24가 삼각김밥 25종 전 상품의 원재료를 업그레이드하며 가격 유지 하에 품질 강화로 경쟁력 강화.",
+          "summary": "이마트24가 더큰삼각 등 25종 삼각김밥을 원재료 품질 대폭 개선하여 리뉴얼하며 핵심 상품 경쟁력 강화.",
           "articleIndices": [
-            5
+            8
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, 가격 그대로 삼각김밥 리뉴얼...핵심 원재료 강화",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=749031"
+              "title": "[유통가] 이마트24, CJ프레시웨이, 농심",
+              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86335"
             }
           ],
           "articleCount": 1
@@ -186,36 +187,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍨",
-          "title": "편의점 빙과류 시장 회복",
-          "summary": "GS25 빙과류 매출 31.3% 증가, CU·세븐일레븐도 각각 10% 이상 성장하며 MZ세대 소비층 공략으로 침체 빙과시장 회복 추진.",
+          "emoji": "🎁",
+          "title": "CU 산리오 협업 상품",
+          "summary": "CU가 일본 캐릭터 기업 산리오와 협업하여 헬로키티 IP를 활용한 간편식·디저트·굿즈 출시로 K-PB 글로벌 역수출.",
           "articleIndices": [
-            2,
-            3
+            2
           ],
           "relatedLinks": [
             {
-              "title": "얼어붙은 빙과시장…MZ 마음부터 녹인다",
-              "url": "https://n.news.naver.com/mnews/article/025/0003534730?sid=101"
-            },
-            {
-              "title": "10년 새 30% 줄어든 빙과 시장…\"더위만으로 성장 어렵다\" 생존 경쟁...",
-              "url": "https://n.news.naver.com/mnews/article/117/0004080443?sid=102"
+              "title": "벤치마킹 넘어 역수출… K-유통, 일본과 협업 지형 바꾼다",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3413986"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🇯🇵",
-          "title": "편의점 일본 디저트 직소싱 확대",
-          "summary": "CU·GS25·세븐일레븐이 일본 인기 디저트 브랜드(치로루초코, 오 오하요, 토라쿠 등)를 직소싱하며 K유통의 일본 마케팅 진화 가속화.",
+          "emoji": "🚀",
+          "title": "편의점 퀵커머스 성장",
+          "summary": "편의점 퀵커머스가 과자·음료·디저트 중심으로 성장하며 대학가 점포에서 일일 200만원대 매출 기록하는 신규 채널 확대.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'역수출' 늘고 협업 넓어지고…유통업계 일본 마케팅 진화",
-              "url": "https://n.news.naver.com/mnews/article/421/0009036123?sid=101"
+              "title": "\"같은 건물 1층 편의점서 배달\"…귀차니즘 노린 '퀵커머스' 뜬다",
+              "url": "https://n.news.naver.com/mnews/article/025/0003535079?sid=101"
             }
           ],
           "articleCount": 1
