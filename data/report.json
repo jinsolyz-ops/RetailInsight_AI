@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-07-02T22:54:59.779Z",
+  "generatedAt": "2026-07-03T22:52:49.841Z",
   "summary": [
-    "CU, 우리은행 삼성월렛머니 제휴로 오프라인 결제 확대",
-    "GS25, 복날 시즌 1만원 미만 가성비 전략으로 경쟁 심화",
-    "네이버 AI 에이전트 쇼핑 정식 출시, 버티컬 커머스 경쟁 본격화"
+    "GS25, AI 크롤링으로 바이럴 상품 선제 포착해 완판 전략 강화",
+    "BGF리테일, 삼성월렛 제휴로 오프라인 결제 생태계 확대",
+    "세븐일레븐, 휴머노이드 로봇·AI 접목한 'AX랩 3.0' 공개"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "💰",
-          "title": "고물가 시대 가성비 마케팅",
-          "summary": "유통업계가 고물가·경기 둔화 속 할인 행사와 가성비 상품으로 소비자 심리를 공략하는 전략 전개 중.",
+          "emoji": "🎯",
+          "title": "GS25 트렌드팀의 AI 바이럴 전략",
+          "summary": "GS25가 해외 SNS와 검색 데이터를 AI로 모니터링하는 '트렌드 상품 차별화팀'을 신설, 바이럴 가능성 높은 신상을 선제 포착해 완판 현상 주도.",
           "articleIndices": [
-            4,
-            6
+            1
           ],
           "relatedLinks": [
             {
-              "title": "고물가 시대 엇갈린 생존 전략…식품은 가격 인상, 유통은 할인",
-              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=362036"
-            },
-            {
-              "title": "삼계탕 2만원 시대…삼복더위 수요 '가성비'로 쏠린다",
-              "url": "https://www.ekn.kr/web/view.php?key=20260703023568578"
+              "title": "'요즘 편의점 왜 이래'…신상 나올 때마다 완판되는 이유",
+              "url": "https://n.news.naver.com/mnews/article/015/0005306128?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "👶",
-          "title": "키즈 특수 시장 확대",
-          "summary": "출생아 수 증가세에 따라 유통업계가 키즈 패션·유아 화장품 등 아동 관련 상품 투자 및 마케팅 확대.",
+          "emoji": "🏪",
+          "title": "플래그십 매장의 경험 마케팅 전환",
+          "summary": "AI 시대 온라인 편의성 증가로 오프라인은 판매 공간에서 브랜드 경험 쇼룸으로 전환, 팝업스토어 마케팅 효과가 플래그십 매장으로 확대되는 추세.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "7년 만에 최대 출생아…키즈 패션·유아 화장품 '반색'",
-              "url": "https://n.news.naver.com/mnews/article/119/0003107517?sid=101"
+              "title": "클릭보다 경험…AI 시대 거리로 나오는 유통 플랫폼",
+              "url": "https://n.news.naver.com/mnews/article/008/0005381342?sid=101"
             }
           ],
           "articleCount": 1
@@ -50,14 +45,27 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "버티컬 AI 에이전트 경쟁",
-          "summary": "네이버·카카오 등이 AI 에이전트를 통한 버티컬 커머스 주도권 확보 경쟁을 본격화하며 플랫폼 생태계 재편 중.",
+          "emoji": "🌏",
+          "title": "NHN KCP 일본 페이페이 진출",
+          "summary": "국내 PG사 최초로 일본 최대 간편결제망 페이페이 연동 확보, K-수출 기업의 일본 이커머스 진출 기반 마련.",
           "articleIndices": [
-            7,
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "NHN KCP, 국내 PG사 최초 '日 페이페이' 뚫었다…코트라와 설명회 성료",
+              "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114548"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🤖",
+          "title": "네이버·카카오 AI 에이전트 버티컬 경쟁",
+          "summary": "네이버는 '그린닷' AI탭으로 검색 지배력 강화, 카카오는 개인비서형 에이전트로 차별화하며 커머스 영역 AI 에이전트 주도권 경쟁 심화.",
+          "articleIndices": [
             8,
-            9,
-            10
+            9
           ],
           "relatedLinks": [
             {
@@ -65,26 +73,11 @@
               "url": "http://www.fntimes.com/html/view.php?ud=202607020958546017fd637f543_18"
             },
             {
-              "title": "[이슈플러스] 네카오는 생태계 구축, 유통업계는 AI 네이티브…에이전틱",
-              "url": "https://n.news.naver.com/mnews/article/030/0003443489?sid=101"
+              "title": "'에이전트 맛집' 어디?… 네이버 '실행형' vs 카카오 '개인비서'",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=422376"
             }
           ],
-          "articleCount": 4
-        },
-        {
-          "emoji": "🏢",
-          "title": "성수동 이커머스 클러스터 형성",
-          "summary": "쿠팡·오리온 등 유통 공룡들이 성수동·자양동으로 집결하며 고정비 절감과 자산 효율화를 추진하는 새로운 메카 형성.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[기획] 힙한 성수부터 도곡까지…'오리온·쿠팡·삼양식품' 유통 공룡들",
-              "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=659687"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -92,36 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "G마켓 AI 기술 투자 확대",
-          "summary": "G마켓이 7000억원 규모 1위 탈환 프로젝트의 일환으로 AI 기술 투자를 강화하며 오픈마켓 경쟁 심화.",
+          "emoji": "💾",
+          "title": "영수증 데이터 기반 타깃 마케팅",
+          "summary": "월 200만장 영수증 데이터를 분석하는 '영끌' 플랫폼, AI 시대 차별화된 데이터 보유가 유통업계 경쟁력 핵심으로 부상.",
           "articleIndices": [
-            2,
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "7000억 '실탄' 앞세운 G마켓… '점유율 경쟁' 본게임",
-              "url": "https://n.news.naver.com/mnews/article/008/0005380925?sid=101"
-            },
-            {
-              "title": "'G마켓 제대로 키운다'...쿠팡, 네이버 양강구도 견제구 날린 정용진",
-              "url": "https://n.news.naver.com/mnews/article/008/0005380784?sid=101"
+              "title": "[인터뷰] 영수증 月 200만장 데이터 분석하는 '영끌'… 배수혁 대표",
+              "url": "https://n.news.naver.com/mnews/article/366/0001176675?sid=105"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🎯",
-          "title": "AI 기반 오프라인 예약 플랫폼",
-          "summary": "에이블리가 AI 취향 추천 기능을 갖춘 오프라인 예약 플랫폼 '플레이스' 출시로 생활 플랫폼 경쟁 확대.",
+          "emoji": "🥽",
+          "title": "AI 스마트 안경 등 이색 팝업 전개",
+          "summary": "유통업계가 하반기 첫 주말 여름 정기 세일과 함께 AI 스마트 안경 등 이색 콘텐츠 팝업스토어로 고객 경험 차별화.",
           "articleIndices": [
-            6
+            1
           ],
           "relatedLinks": [
             {
-              "title": "에이블리, 오프라인 예약 '플레이스' 출격…AI 취향 추천으로 체험 시장",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=530228"
+              "title": "'여름 정기 세일·스마트 안경까지'…유통업계, 하반기 첫 주말 할인 총력",
+              "url": "https://n.news.naver.com/mnews/article/421/0009040478?sid=101"
             }
           ],
           "articleCount": 1
@@ -133,15 +121,15 @@
       "issues": [
         {
           "emoji": "💳",
-          "title": "우리은행 삼성월렛머니 제휴",
-          "summary": "CU(BGF리테일)가 우리은행 삼성월렛머니와 제휴하여 전국 1만 8000여 개 점포에서 오프라인 결제 서비스 확대.",
+          "title": "BGF리테일 삼성월렛 제휴 확대",
+          "summary": "우리은행·삼성월렛이 BGF리테일(CU)과 제휴해 오프라인 결제 서비스 제공, 편의점 결제 생태계 다각화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "우리은행, 간편결제 서비스 전략가맹점에 다이소·CU 추가",
-              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3625046"
+              "title": "우리은행·삼성월렛이 다이소·CU 뚫은 이유",
+              "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=359721"
             }
           ],
           "articleCount": 1
@@ -152,31 +140,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "세븐일레븐 AI 로봇 도입",
-          "summary": "세븐일레븐이 AX LAB 3.0에서 휴머노이드 로봇 로이를 고객 응대·매장 안내에 활용하며 피지컬 AI 시대 선도.",
+          "emoji": "💄",
+          "title": "GS25 초저가 뷰티 전쟁",
+          "summary": "GS25가 무신사·마녀공장 등과 협업해 3천원 균일가 화장품 판매, 편의점 뷰티 카테고리 초저가 경쟁 심화.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'튀김 로봇은 옛말'…외식업계 '피지컬 AI' 시대 열린다",
-              "url": "https://n.news.naver.com/mnews/article/119/0003107504?sid=101"
+              "title": "'다이소'처럼…편의점, 마트도 초저가 '뷰티' 전쟁",
+              "url": "https://n.news.naver.com/mnews/article/079/0004164798?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍙",
-          "title": "이마트24 삼각김밥 리뉴얼",
-          "summary": "이마트24가 더큰삼각 등 25종 삼각김밥을 원재료 품질 대폭 개선하여 리뉴얼하며 핵심 상품 경쟁력 강화.",
+          "emoji": "🤖",
+          "title": "세븐일레븐 AX랩 3.0 로봇 도입",
+          "summary": "코리아세븐이 롯데이노베이트와 휴머노이드 로봇·AI 접목한 미래형 편의점 'AX랩 3.0' 공개, 고객 응대·조리 자동화 추진.",
           "articleIndices": [
-            8
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[유통가] 이마트24, CJ프레시웨이, 농심",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86335"
+              "title": "'키오스크도 옛말'…주문·발주에 조리까지, 프랜차이즈 'AX' 시대",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026070315345379186"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🏬",
+          "title": "이마트 트레이더스 중심 포트폴리오 재편",
+          "summary": "이마트가 기존 할인점 효율화와 함께 창고형 할인점 '트레이더스' 중심으로 사업 포트폴리오 재편, 점포 전략 전환.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "'홈플러스 파산 임박…건설사 PF보증 규모 7163억'",
+              "url": "https://www.asiatime.co.kr/article/20260703500365"
             }
           ],
           "articleCount": 1
@@ -188,30 +191,30 @@
       "issues": [
         {
           "emoji": "🎁",
-          "title": "CU 산리오 협업 상품",
-          "summary": "CU가 일본 캐릭터 기업 산리오와 협업하여 헬로키티 IP를 활용한 간편식·디저트·굿즈 출시로 K-PB 글로벌 역수출.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "벤치마킹 넘어 역수출… K-유통, 일본과 협업 지형 바꾼다",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3413986"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🚀",
-          "title": "편의점 퀵커머스 성장",
-          "summary": "편의점 퀵커머스가 과자·음료·디저트 중심으로 성장하며 대학가 점포에서 일일 200만원대 매출 기록하는 신규 채널 확대.",
+          "title": "럭키밀 마감할인 플랫폼 확산",
+          "summary": "폐기 예정 베이커리·디저트를 '럭키백' 형태로 할인 판매하는 럭키밀 서비스, 편의점 협회 참여로 생태계 확대 중.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "\"같은 건물 1층 편의점서 배달\"…귀차니즘 노린 '퀵커머스' 뜬다",
-              "url": "https://n.news.naver.com/mnews/article/025/0003535079?sid=101"
+              "title": "[기획] 마감할인, 유통의 끝단에서 플랫폼 경쟁의 최전선으로",
+              "url": "https://www.sentv.co.kr/article/view/sentv202606180135"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍕",
+          "title": "편의점 한입피자 불고기 신제품",
+          "summary": "사조대림의 한입피자 시리즈에 불고기 토핑 추가, GS25·세븐일레븐·이마트24 등 주요 편의점에서 학생층 호응 지속.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "'전자레인지 1분이면 끝'···사조대림, '한입피자 불고기' 선봬",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2445473"
             }
           ],
           "articleCount": 1
