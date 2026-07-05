@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-07-04T22:45:14.025Z",
+  "generatedAt": "2026-07-05T22:47:50.268Z",
   "summary": [
-    "CU, 외국인 매출 56.7% 증가로 질적 성장 본격화",
-    "편의점 업계, 캐릭터 IP 협업으로 오프라인 집객 경쟁 심화",
-    "GS25 단백질 음료 베스트셀러 등극, 헬시플레저 트렌드 확산"
+    "CU, 마트형 편의점 '스마트 그로서리' 출시로 근거리 장보기 수요 공략",
+    "편의점 업계 포화 속 디저트·신선식품 강화로 차별화 경쟁 심화",
+    "GS25, 6년 연속 NCSI 1위 유지하며 고객만족도 경쟁에서 우위"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "캐릭터 IP 협업 마케팅",
-          "summary": "편의점·백화점·뷰티 업계가 티니핑, 포켓몬, 산리오 등 캐릭터 IP를 활용한 협업 상품·프로모션으로 오프라인 집객 경쟁을 심화시키고 있으며, 2030 여성층을 중심으로 구매력이 집중되는 추세.",
+          "emoji": "🛒",
+          "title": "일본 브랜드 호조",
+          "summary": "한일 관계 정치 이슈 약화로 일본 맥주·유니클로 등이 품질·가성비·로컬 마케팅 중심으로 사상 최대 실적 달성.",
           "articleIndices": [
-            4,
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'티니핑·포켓몬·가나디' 모셔라…유통가, 캐릭터 IP 확보 특명",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026070314351519733"
-            },
-            {
-              "title": "'흥행·불매' 모두 2030女 손에 …'유통 컬래버 시장' 큰손",
-              "url": "https://n.news.naver.com/mnews/article/008/0005381450?sid=101"
+              "title": "노재팬은 옛말…일본 맥주·유니클로, 사상 최대 실적",
+              "url": "https://n.news.naver.com/mnews/article/666/0000113952?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🏃",
-          "title": "경험 마케팅 공간 활용",
-          "summary": "스타필드 등 복합쇼핑몰이 마라톤 트랙, 팝업존 등 새로운 경험 공간을 활용해 오프라인 방문객을 온라인 구매로 연결하는 경험 마케팅 전략을 강화하고 있음.",
+          "emoji": "⚾",
+          "title": "KBO 팬덤 마케팅",
+          "summary": "야구 팬덤 기반 유통 시장에서 2030 여성의 구매력이 핵심으로 부상하며 올리브영 등 뷰티업계도 협업 강화.",
           "articleIndices": [
-            6
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'쇼핑몰서 10km 러닝대회'…스타필드, 마라톤 트랙으로 변신",
-              "url": "https://realty.chosun.com/site/data/html_dir/2026/07/03/2026070302046.html"
+              "title": "지갑 활짝 열지만 쉽게는 안 연다...흥행도, 불매도 2030 여성 손에 달렸",
+              "url": "https://n.news.naver.com/mnews/article/008/0005381686?sid=101"
             }
           ],
           "articleCount": 1
@@ -50,31 +45,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "💳",
-          "title": "국내 PG사 일본 시장 진출",
-          "summary": "NHN KCP가 국내 PG사 최초로 일본 최대 간편결제망 '페이페이'와 연동하며 K-수출 기업의 일본 이커머스 진출을 지원하는 결제 인프라 확보.",
+          "emoji": "📦",
+          "title": "쿠팡 통상 규제 이슈",
+          "summary": "쿠팡의 1400만 와우 멤버십 기반 무료배달 정책이 미국 통상 갈등 대상이 되며 국내 경쟁 정책과 국제 통상 문제로 확대.",
           "articleIndices": [
-            2
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "NHN KCP, 국내 PG사 최초 '日 페이페이' 뚫었다…코트라와 설명회 성료",
-              "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114548"
+              "title": "대미 통상 갈등 표적이 된 '쿠팡 제재'…공정위 결정 촉각",
+              "url": "https://n.news.naver.com/mnews/article/032/0003456226?sid=101"
+            },
+            {
+              "title": "[주간 유통 나침반] MBK 책임론 커진 홈플러스…쿠팡 보고서는 통상 분",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=530522"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "💄",
-          "title": "CJ온스타일 뷰티 버티컬 강화",
-          "summary": "CJ온스타일이 백화점 뷰티 전문성과 콘텐츠 커머스를 결합해 럭셔리 뷰티 시장에서 차별화된 큐레이션 전략을 구축하고 있음.",
+          "emoji": "🌍",
+          "title": "할랄 식품 트렌드",
+          "summary": "MZ 무슬림 소비층 확대로 할랄 인증 제품이 트렌드화되며 K-소비재의 지역화·디지털 혁신 전략 필요성 대두.",
           "articleIndices": [
-            5
+            8
           ],
           "relatedLinks": [
             {
-              "title": "KCC실리콘·CJ온스타일, 화장품용 실리콘 소재 원료부문 수상...럭셔리 ...",
-              "url": "http://www.wsobi.com/news/articleView.html?idxno=314705"
+              "title": "MZ 무슬림에게 '할랄'은 트렌드…무협, \"K-소비재 'R.I.S.E' 올라타야\"",
+              "url": "https://n.news.naver.com/mnews/article/030/0003444439?sid=100"
             }
           ],
           "articleCount": 1
@@ -85,31 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "AI 편의성 vs 오프라인 경험",
-          "summary": "AI가 온라인 쇼핑을 편리하게 할수록 소비자는 오프라인 경험을 추구하며, 올영·무신사 등 플랫폼이 성수·홍대 등 명당칸 플래그십 매장을 통해 경험을 온라인 구매로 연결하는 전략 강화.",
+          "emoji": "🤖",
+          "title": "AI 물류 시스템 투자",
+          "summary": "쿠팡·네이버·SSG닷컴 등이 AI 기반 물류 시스템에 대규모 투자하며 온라인 유통 경쟁 심화.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "클릭 한 번이면 사는데…올영·무신사, 성수·홍대 '명당칸' 쟁탈전",
-              "url": "https://n.news.naver.com/mnews/article/008/0005381459?sid=101"
+              "title": "'국민마트'는 왜 무너졌나…홈플러스 몰락과 MBK 논란의 전말",
+              "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114563"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "AI 마케팅 환경 변화",
-          "summary": "메타콘 2026에서 AI 검색, 생성형 검색, AI 시대 브랜드 전략, CRM, 콘텐츠, 커머스 등 AI가 마케팅 환경과 고객 여정을 근본적으로 변화시키는 추세 논의.",
+          "emoji": "🎬",
+          "title": "AI 영상 콘텐츠 제작",
+          "summary": "SKT가 AI 영상 합성 기술을 미디어·광고·커머스 등 다각 사업에 적용하며 콘텐츠 제작 부담 경감.",
           "articleIndices": [
-            6
+            5
           ],
           "relatedLinks": [
             {
-              "title": "AI 비즈니스부터 개인의 AI활용까지…메타콘 2026 폐막",
-              "url": "https://n.news.naver.com/mnews/article/448/0000624315?sid=101"
+              "title": "[디투피플] AI로 영상 합성 '뚝딱'...'콘텐츠 제작 부담 확 줄여줄 것'",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681080"
             }
           ],
           "articleCount": 1
@@ -120,16 +120,31 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "외국인 매출 56.7% 증가",
-          "summary": "CU의 1~5월 외국인 매출이 전년 동기 대비 56.7% 증가하며 외국인 고객 확대가 점포 운영 전략의 질적 성장으로 이어지는 체질개선 본격화.",
+          "emoji": "🍲",
+          "title": "복날 보양 간편식",
+          "summary": "CU가 삼계탕·장어·훈제오리 등을 활용한 이색 보양 간편식 6종 출시로 초복 수요 공략.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'외국인이 키우고 점포가 받쳤다'…BGF리테일, 2분기 체질개선 본격화",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1382660"
+              "title": "초복맞아 이마트24 '장어도시락·닭다리 삼계탕'→CU '이색 보양 간편식",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=749743"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🏪",
+          "title": "스마트 그로서리 출시",
+          "summary": "CU가 SSM과 편의점 강점을 결합한 '스마트 그로서리' 포맷으로 근거리 장보기 수요 흡수 전략 추진.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "이랜드 빈자리 꿰찬 CU…'마트형 편의점' 승부수 통할까",
+              "url": "https://n.news.naver.com/mnews/article/243/0000100028?sid=101"
             }
           ],
           "articleCount": 1
@@ -140,51 +155,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💪",
-          "title": "GS25 단백질 음료 베스트셀러",
-          "summary": "GS25의 단백질 음료 카테고리가 헬시플레저 트렌드에 힘입어 바나나우유를 제치고 편의점 베스트셀러로 등극하며 건강식 시장 주도권 확보.",
+          "emoji": "⭐",
+          "title": "GS25 NCSI 1위",
+          "summary": "GS25가 올해 편의점 국가고객만족도 조사에서 77점으로 6년 연속 1위 유지, CU는 76점 2위.",
           "articleIndices": [
-            1,
             4
           ],
           "relatedLinks": [
             {
-              "title": "GS25 '단백질 음료, 바나나우유 제치고 편의점 베스트셀러'",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=749635"
-            },
-            {
-              "title": "[금주의 제약·바이오 톡톡] 의약품 수출 100억 달러 돌파... 한미약품 차...",
-              "url": "https://www.mediawatch.kr/news/article.html?no=260289"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍔",
-          "title": "세븐일레븐 프리미엄 패티 간편식",
-          "summary": "세븐일레븐이 외식 수제 햄버거 가격에 부담을 느끼는 소비자를 겨냥해 패티 혁신을 통한 프리미엄 간편식 라인업을 선보이며 프리미엄 세그먼트 공략.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "세븐일레븐, 프리미엄 패티 간편식 3종 선봬→",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=749633"
+              "title": "'우리동네GS' 앱에서 경영주가 댓글로 직접 소통",
+              "url": "https://n.news.naver.com/mnews/article/023/0003985867?sid=004"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎮",
-          "title": "이마트24 팝업존 경험 마케팅",
-          "summary": "이마트24 '트렌드랩 성수점'이 앙상블스타즈 등 다양한 IP 팝업존을 통해 신상품 진열을 넘어 방문객에게 새로운 경험을 제안하는 차별화 전략 추진.",
+          "emoji": "💪",
+          "title": "세븐일레븐 점포 감소",
+          "summary": "편의점 4사 점포 수 2년 연속 감소 추세 속 세븐일레븐은 트렌드 상품 중심 전략으로 차별화.",
           "articleIndices": [
-            8
+            2
           ],
           "relatedLinks": [
             {
-              "title": "이마트24 성수점, 앙상블스타즈!!X어프어프 팝업존 운영",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=749636"
+              "title": "'평균나이 33살 기막힌 조직'…편의점 히트상품의 비밀",
+              "url": "https://n.news.naver.com/mnews/article/015/0005306458?sid=102"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍤",
+          "title": "이마트24 복날 신상",
+          "summary": "이마트24가 초복 앞두고 장어·닭다리 등 보양식 신상품 출시 및 할인행사로 외식 물가 부담층 공략.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "SSG닷컴, 7일 '쓱7클럽' 적립 2배→이마트24, 7월 '복날 할인행사'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=749750"
             }
           ],
           "articleCount": 1
@@ -193,28 +203,7 @@
     },
     {
       "name": "상품 이슈",
-      "issues": [
-        {
-          "emoji": "🍰",
-          "title": "편의점 디저트 인기 확산",
-          "summary": "유명 크리에이터 콘텐츠를 통해 편의점 디저트가 SNS에서 화제가 되며 간편한 프리미엄 디저트 소비가 증가하는 추세.",
-          "articleIndices": [
-            1,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "김재중, 쯔양 치아에 낀 고춧가루 포착 \"꽃이 피어\" 거울 대령",
-              "url": "https://m.entertain.naver.com/article/609/0001142379"
-            },
-            {
-              "title": "어른이 된 장난감, 어디에 있을까?",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=743060"
-            }
-          ],
-          "articleCount": 2
-        }
-      ]
+      "issues": []
     }
   ]
 }
