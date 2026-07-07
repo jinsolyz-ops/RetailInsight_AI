@@ -1,43 +1,48 @@
 {
-  "generatedAt": "2026-07-06T22:55:15.359Z",
+  "generatedAt": "2026-07-07T22:50:03.001Z",
   "summary": [
-    "CU 히팅 샌드위치 출시 1개월 만에 40만개 돌파, 편의점 간편식 시장 선도",
-    "편의점 디저트·베이커리 신상품 경쟁 심화, SNS 인증 소비 트렌드 확산",
-    "복날 대비 편의점 보양식 신상품 경쟁 가열, 삼계탕 대체 간편식 주목"
+    "CU 히팅 샌드위치 40만개 돌파, 간편식 시장 주도권 확보",
+    "GS25·CU 글로벌 PB 수출 확대로 편의점 채널 고도화",
+    "편의점 디저트·SNS 인증 상품 중심 MZ세대 공략 가속화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "PB 마케팅 강화",
-          "summary": "고물가 시대 자체브랜드(PB)의 위상 상승으로 대형마트가 브랜드 단위 마케팅을 강화하며 품질·경험 영역 확대 중.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "고물가에 더 강해진 PB…대형마트 실적도 끌어올렸다",
-              "url": "https://n.news.naver.com/mnews/article/417/0001150524?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎪",
-          "title": "팝업 마케팅 확대",
-          "summary": "성수기 팝업 2100개 개장으로 브랜드들이 팝업을 마케팅 자산화하며 대형 유통사도 팝업 운영 확대 중.",
+          "emoji": "⏰",
+          "title": "시간 중심 소비 전환",
+          "summary": "유통업계 경쟁 공식이 '상품 가격'에서 '소비자 시간'으로 근본 전환되며 플랫폼 기반 빠른 배송과 추천 서비스가 핵심 차별화 요소로 부상.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "하루 임차료 1000만원에도 줄 선 브랜드…상반기 팝업 2100개",
-              "url": "https://n.news.naver.com/mnews/article/018/0006324162?sid=101"
+              "title": "[유통혁명 2026①] '상품보다 시간'...플랫폼이 다시 쓴 소비 공식",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715323"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🤝",
+          "title": "사회공헌 마케팅 강화",
+          "summary": "유통업계가 단순 후원을 넘어 지속적 사회 이슈 해결에 참여하며 브랜드 신뢰도와 소비자 접점을 동시에 확대.",
+          "articleIndices": [
+            2,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "유통업계, 도움 필요한 곳 직접 찾아간다",
+              "url": "https://www.cnbizm.com/news/articleView.html?idxno=307843"
+            },
+            {
+              "title": "[F&B핫이슈] 농심, 결혼식 사연 공모·투썸플레이스, 텀블러 사용 캠페인...",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=750049"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -45,34 +50,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "당일배송 지역 확대",
-          "summary": "CJ올리브영이 제주 전역으로 '오늘드림' 당일배송 서비스를 확대하며 지역별 물류 인프라 강화 중.",
+          "emoji": "🌏",
+          "title": "글로벌 이커머스 채널 확대",
+          "summary": "국내 화장품·식품 업체들이 아마존, 세포라 등 글로벌 이커머스 플랫폼 입점을 확대하며 '탈중국' 전략으로 수출 성장 견인.",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "CJ올리브영 '오늘드림' 제주 전역 확대",
-              "url": "https://n.news.naver.com/mnews/article/005/0001859327?sid=101"
+              "title": "[테크M 이슈] 상반기 화장품 수출 첫 10조…'탈중국' 통했다, 아모레퍼시...",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=153162"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📈",
-          "title": "쿠팡 결제액 5조 임박",
-          "summary": "쿠팡이 개인정보 유출 논란에도 불구하고 결제액 5조 원대 진입 임박, 국내 이커머스 시장 지배력 강화.",
+          "emoji": "🎬",
+          "title": "라이브 커머스 생태계 확산",
+          "summary": "대형 플랫폼·홈쇼핑·버티컬 서비스 전반에서 라이브 커머스를 핵심 수익 채널로 확대하며 관계형 커머스 경쟁 심화.",
           "articleIndices": [
-            4
+            9,
+            10
           ],
           "relatedLinks": [
             {
-              "title": "'개인정보 유출도 못 흔들었다'…쿠팡 결제액 5조 눈앞",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=153145"
+              "title": "국내 최초 라이브 커머스를 연 그립컴퍼니, 관계형 커머스를 무기로 5만...",
+              "url": "https://www.venturesquare.net/1096474/"
+            },
+            {
+              "title": "AI 수익화 승부수 띄운 네카오… 2분기 실적 개선 전망",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002528"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -81,33 +91,38 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 가전 세트 구매 유도",
-          "summary": "롯데하이마트가 여름 성수기 '하이라이트 세일'에서 프리미엄 AI 가전 중심 혜택으로 교체 수요 선점 중.",
+          "title": "AI 기반 수요 예측 시스템",
+          "summary": "CJ그룹 AI센터가 빵 판매 데이터와 AI를 결합해 매장별 수요 예측 시스템을 개발하며 유통업계 최초 AI 연구소 활용 사례 제시.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "롯데하이마트, 여름 성수기 '하이라이트 세일' 돌입",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=310282"
+              "title": "[Who Is ?] 이재현 CJ그룹 회장",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441569"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛒",
-          "title": "AI 커머스 에이전트 구상",
-          "summary": "카카오가 'AI 에이전트 커머스' 구상으로 카카오톡 체류시간 확대 및 신규 수익 모델 본격화 추진 중.",
+          "emoji": "📊",
+          "title": "현장 중심 AI 시스템 구축",
+          "summary": "GS리테일이 점포 진단·영향 분석·배달 품질 대시보드 등 현업 데이터 기반 AI 시스템을 구축하며 실무자 중심 AI 자산화 추진.",
           "articleIndices": [
-            6
+            5,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "네이버·카카오, 2분기도 나란히 성장…하반기 승부처는 AI",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026070616063189169"
+              "title": "'현장 실무자가 AI 시스템 만든다'… GS리테일, AX 조직 자산화 시동",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=81536"
+            },
+            {
+              "title": "'현업 중심 AX 속도 낸다' GS리테일, 'AX 현장 사례 공유회' 개최",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=125898"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -116,15 +131,30 @@
       "issues": [
         {
           "emoji": "🥪",
-          "title": "히팅 샌드위치 대히트",
-          "summary": "CU의 '히팅 샌드위치' 시리즈가 출시 1개월여 만에 누적 판매량 40만개 돌파, 간편식 시장 선도.",
+          "title": "히팅 샌드위치 40만개 돌파",
+          "summary": "CU의 전자레인지용 히팅 샌드위치가 출시 한 달여 만에 40만개를 판매하며 간편식 시장 주도권 확보 및 신제품 2종 추가 출시.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 디저트·베이커리 신제품...CU '히팅 샌드위치' 판매 호조",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=749993"
+              "title": "CU 히팅 샌드위치 40만개 돌파…핫브레드 시장 확대",
+              "url": "https://www.ppss.kr/news/articleView.html?idxno=301327"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌍",
+          "title": "글로벌 PB 수출 확대",
+          "summary": "CU가 중국 타오바오를 통해 대표 PB 브랜드 'PBICK' 판매를 시작하며 편의점 채널의 글로벌 유통 고도화 추진.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "GS25·CU, 식품PB로 글로벌 시장 공략 '통했다'",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311002"
             }
           ],
           "articleCount": 1
@@ -135,31 +165,47 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍷",
-          "title": "GS25 싱글몰트 위스키 1위",
-          "summary": "GS25의 '와인25플러스' 플랫폼에서 싱글몰트 위스키가 올해 전체 주종 매출 1위 달성, 프리미엄 주류 수요 확대.",
+          "emoji": "📈",
+          "title": "GS25 데이터 기반 상품 기획",
+          "summary": "GS25가 방송 화제성을 데이터로 환산해 선행 기획하는 방식으로 전환하며 트렌드 선점 전략 강화 및 글로벌 PB 수출 확대.",
           "articleIndices": [
-            1
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, 대학생 서포터즈 모집...GS25, 싱글몰트위스키 판매 호조",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=749992"
+              "title": "[데이터가 먼저 읽은 트렌드] ① GS25",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071112087120213"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍰",
+          "title": "세븐일레븐 SNS 디저트 전략",
+          "summary": "세븐일레븐이 화제성 높은 바이럴 디저트와 전통 베이커리 협업 상품으로 MZ세대 인증 소비 공략 및 '집 앞 디저트' 수요 확대.",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "편의점 디저트도 인증샷 시대…세븐일레븐, SNS 디저트 4종 선봬",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607727054164"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍱",
-          "title": "이마트24 복날 보양식",
-          "summary": "이마트24가 초복 대비 보양식 신상품 및 할인 행사 공개로 편의점 복날 간편식 경쟁 심화.",
+          "emoji": "🎓",
+          "title": "이마트24 대학생 서포터즈 프로그램",
+          "summary": "이마트24가 '편슐랭스타' 5기 모집으로 편의점 MD·마케팅 실무 체험 기회 제공하며 유통 인재 확보 및 브랜드 경험 강화.",
           "articleIndices": [
-            7
+            12
           ],
           "relatedLinks": [
             {
-              "title": "'삼계탕 2만원 시대' 편의점업계, 장어도시락·삼계버거로 복날 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/003/0014049665?sid=101"
+              "title": "이마트24, 대학생 서포터즈 '편슐랭스타' 5기 모집 … 유통 인재 확보 나...",
+              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86478"
             }
           ],
           "articleCount": 1
@@ -170,21 +216,36 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
+          "emoji": "🍫",
           "title": "편의점 디저트 SNS 인증 열풍",
-          "summary": "편의점 디저트가 단순 간식을 넘어 SNS 인증·경험 소비 대상으로 확산되며 신상품 경쟁 심화 중.",
+          "summary": "편의점 디저트 시장이 MZ세대의 인증 소비와 SNS 입소문을 타고 급성장하며 생초코파이 등 바이럴 상품 중심 경쟁 심화.",
           "articleIndices": [
-            1,
+            2,
             3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "1억개씩 팔리는 크림빵과 라면…편의점 정체성 바꿨다",
-              "url": "https://n.news.naver.com/mnews/article/417/0001150525?sid=101"
+              "title": "MZ 감각에 매출 껑충… 2030 편의점 창업 새바람",
+              "url": "https://n.news.naver.com/mnews/article/005/0001859578?sid=101"
             }
           ],
           "articleCount": 3
+        },
+        {
+          "emoji": "🍲",
+          "title": "편의점 보양식 간편식 확대",
+          "summary": "복날을 앞두고 편의점들이 삼계버거·장어도시락 등 가성비 보양식 500여 품목을 최대 40% 할인 판매하며 계절 수요 공략.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "[유프로의 AI 픽] '실속형 대안과 캐릭터 IP의 힘'…유통채널 TOP 3",
+              "url": "https://www.mediapen.com/news/view/1108524"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     }
