@@ -1,48 +1,43 @@
 {
-  "generatedAt": "2026-07-07T22:50:03.001Z",
+  "generatedAt": "2026-07-08T22:54:06.491Z",
   "summary": [
-    "CU 히팅 샌드위치 40만개 돌파, 간편식 시장 주도권 확보",
-    "GS25·CU 글로벌 PB 수출 확대로 편의점 채널 고도화",
-    "편의점 디저트·SNS 인증 상품 중심 MZ세대 공략 가속화"
+    "CU 몽골 600호점 돌파로 해외 단일국가 최다점포 달성",
+    "GS25 통오이김밥 전국 확대 판매로 이벤트 상품 정규화 전략",
+    "세븐일레븐 오션월드 입장권 35% 할인 판매로 여름 성수기 수요 선점"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "⏰",
-          "title": "시간 중심 소비 전환",
-          "summary": "유통업계 경쟁 공식이 '상품 가격'에서 '소비자 시간'으로 근본 전환되며 플랫폼 기반 빠른 배송과 추천 서비스가 핵심 차별화 요소로 부상.",
+          "emoji": "🎯",
+          "title": "IP 협업 굿즈 마케팅",
+          "summary": "유통업계가 인기 IP와의 협업 굿즈를 통해 계절 상품의 화제성과 구매 유인을 동시에 높이는 마케팅 전략을 활발히 추진 중.",
           "articleIndices": [
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[유통혁명 2026①] '상품보다 시간'...플랫폼이 다시 쓴 소비 공식",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715323"
+              "title": "[유통가] 이마트, 이마트24, 배스킨라빈스, 던킨",
+              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86536"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤝",
-          "title": "사회공헌 마케팅 강화",
-          "summary": "유통업계가 단순 후원을 넘어 지속적 사회 이슈 해결에 참여하며 브랜드 신뢰도와 소비자 접점을 동시에 확대.",
+          "emoji": "🛡️",
+          "title": "정보보호 경영 최우선",
+          "summary": "롯데쇼핑이 개인정보 유출 사태 이후 정보보호 경영을 기후변화 대응과 함께 올해 최상위 3대 중대 이슈로 선정하며 업계 신뢰 회복에 주력.",
           "articleIndices": [
-            2,
-            3
+            2
           ],
           "relatedLinks": [
             {
-              "title": "유통업계, 도움 필요한 곳 직접 찾아간다",
-              "url": "https://www.cnbizm.com/news/articleView.html?idxno=307843"
-            },
-            {
-              "title": "[F&B핫이슈] 농심, 결혼식 사연 공모·투썸플레이스, 텀블러 사용 캠페인...",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=750049"
+              "title": "쿠팡 사태에 놀란 유통가…'정보보호 경영' 최우선 과제로",
+              "url": "https://n.news.naver.com/mnews/article/011/0004639697?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -50,39 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "글로벌 이커머스 채널 확대",
-          "summary": "국내 화장품·식품 업체들이 아마존, 세포라 등 글로벌 이커머스 플랫폼 입점을 확대하며 '탈중국' 전략으로 수출 성장 견인.",
+          "emoji": "🤖",
+          "title": "AI 에이전트 커머스 확대",
+          "summary": "네이버가 AI 에이전트를 버티컬 커머스의 핵심 기술로 위치시키며 부동산·건강 등 다양한 카테고리로 확대 계획을 발표하고 있음.",
           "articleIndices": [
-            2
+            11,
+            12
           ],
           "relatedLinks": [
             {
-              "title": "[테크M 이슈] 상반기 화장품 수출 첫 10조…'탈중국' 통했다, 아모레퍼시...",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=153162"
+              "title": "AI가 대신 고르는 시대… 네이버가 풀어야 할 '신뢰'의 숙제",
+              "url": "https://www.pressman.kr/news/articleView.html?idxno=102669"
+            },
+            {
+              "title": "네이버·카카오, ESG 보고서에 AI 청사진 담았다…성장전략 차별화",
+              "url": "http://www.seouleconews.com/news/articleView.html?idxno=92277"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🎬",
-          "title": "라이브 커머스 생태계 확산",
-          "summary": "대형 플랫폼·홈쇼핑·버티컬 서비스 전반에서 라이브 커머스를 핵심 수익 채널로 확대하며 관계형 커머스 경쟁 심화.",
+          "emoji": "📊",
+          "title": "버티컬 플랫폼 성장",
+          "summary": "소비 패턴 파편화로 원스톱 쇼핑 시대가 저물고 구매 목적별 버티컬 플랫폼 선호도가 증가하며 이커머스 지각 변동 가속화.",
           "articleIndices": [
-            9,
             10
           ],
           "relatedLinks": [
             {
-              "title": "국내 최초 라이브 커머스를 연 그립컴퍼니, 관계형 커머스를 무기로 5만...",
-              "url": "https://www.venturesquare.net/1096474/"
-            },
-            {
-              "title": "AI 수익화 승부수 띄운 네카오… 2분기 실적 개선 전망",
-              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002528"
+              "title": "월 거래액 25조원 넘었는데…이커머스 줄줄이 '희망퇴직' [유통노믹스...]",
+              "url": "https://www.tfmedia.co.kr/news/article.html?no=205623"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -90,39 +85,39 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 기반 수요 예측 시스템",
-          "summary": "CJ그룹 AI센터가 빵 판매 데이터와 AI를 결합해 매장별 수요 예측 시스템을 개발하며 유통업계 최초 AI 연구소 활용 사례 제시.",
+          "emoji": "🍉",
+          "title": "간편과일 매출 급증",
+          "summary": "컬리의 간편과일 카테고리 매출이 전년 동기 대비 55% 증가하며 소비자 수요와 업계 공급 전략이 맞닿아 온·오프라인 유통 견인.",
           "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "[Who Is ?] 이재현 CJ그룹 회장",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441569"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📊",
-          "title": "현장 중심 AI 시스템 구축",
-          "summary": "GS리테일이 점포 진단·영향 분석·배달 품질 대시보드 등 현업 데이터 기반 AI 시스템을 구축하며 실무자 중심 AI 자산화 추진.",
-          "articleIndices": [
-            5,
+            6,
             7
           ],
           "relatedLinks": [
             {
-              "title": "'현장 실무자가 AI 시스템 만든다'… GS리테일, AX 조직 자산화 시동",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=81536"
+              "title": "컬리, 간편과일 매출 55% '껑충'",
+              "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=360005"
             },
             {
-              "title": "'현업 중심 AX 속도 낸다' GS리테일, 'AX 현장 사례 공유회' 개최",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=125898"
+              "title": "'미리 '껍질'벗기고 한입크기로 담았더니' 컬리, 6월 '간편과일' 매출55...",
+              "url": "https://www.catchnews.kr/news/articleView.html?idxno=125940"
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "🚀",
+          "title": "쿠팡 자동화·AI 투자",
+          "summary": "쿠팡이 자동화와 AI 도입으로 서비스 수준 향상을 추진하며 2023년 창사 이후 첫 연간 흑자 달성 기반 마련.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "[Who Is ?] 김범석 쿠팡아이엔씨 이사회 의장 겸 최고경영자",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=439930"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -130,31 +125,31 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🥪",
-          "title": "히팅 샌드위치 40만개 돌파",
-          "summary": "CU의 전자레인지용 히팅 샌드위치가 출시 한 달여 만에 40만개를 판매하며 간편식 시장 주도권 확보 및 신제품 2종 추가 출시.",
+          "emoji": "🌍",
+          "title": "몽골 600호점 돌파",
+          "summary": "CU가 국내 유통업계 사상 최초로 단일 해외국가에서 600호점을 돌파하며 글로벌 확장 전략의 성과를 입증.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "CU 히팅 샌드위치 40만개 돌파…핫브레드 시장 확대",
-              "url": "https://www.ppss.kr/news/articleView.html?idxno=301327"
+              "title": "세븐일레븐, 오션월드 입장권 35% 할인→CU, 몽골 600호점 돌파",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=750528"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "글로벌 PB 수출 확대",
-          "summary": "CU가 중국 타오바오를 통해 대표 PB 브랜드 'PBICK' 판매를 시작하며 편의점 채널의 글로벌 유통 고도화 추진.",
+          "emoji": "📈",
+          "title": "이른 더위로 실적 호전",
+          "summary": "BGF리테일이 이른 더위와 우량 점포 매출 증가 효과로 실적 호전이 예상되며 음료 매출 증가가 주요 견인 요인.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "GS25·CU, 식품PB로 글로벌 시장 공략 '통했다'",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311002"
+              "title": "'이른 더위에 고마진 음료 매출↑…BGF리테일 실적 호전'[클릭e종목]",
+              "url": "https://n.news.naver.com/mnews/article/277/0005787464?sid=101"
             }
           ],
           "articleCount": 1
@@ -165,50 +160,40 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "📈",
-          "title": "GS25 데이터 기반 상품 기획",
-          "summary": "GS25가 방송 화제성을 데이터로 환산해 선행 기획하는 방식으로 전환하며 트렌드 선점 전략 강화 및 글로벌 PB 수출 확대.",
+          "emoji": "🍜",
+          "title": "GS25 통오이김밥 전국 확대",
+          "summary": "GS25가 모바일 앱 사전예약 한정 상품이던 통오이김밥을 전국 매장에서 판매하며 이벤트 상품의 정규화 전략 추진.",
           "articleIndices": [
-            3,
-            4
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[데이터가 먼저 읽은 트렌드] ① GS25",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071112087120213"
+              "title": "이마트24, '치즈부대볶음' 간편식 2종→GS25, '통오이김밥' 판매",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=750532"
+            },
+            {
+              "title": "GS25, 예약으로 만 가능했던 '통오이김밥' 전국 매장서 판매",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126040"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🍰",
-          "title": "세븐일레븐 SNS 디저트 전략",
-          "summary": "세븐일레븐이 화제성 높은 바이럴 디저트와 전통 베이커리 협업 상품으로 MZ세대 인증 소비 공략 및 '집 앞 디저트' 수요 확대.",
+          "emoji": "🎢",
+          "title": "세븐일레븐 오션월드 입장권",
+          "summary": "세븐일레븐이 여름 휴가철을 맞아 오션월드 입장권을 업계 단독으로 35% 할인 판매하며 여름 성수기 수요 선점.",
           "articleIndices": [
-            8
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "편의점 디저트도 인증샷 시대…세븐일레븐, SNS 디저트 4종 선봬",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607727054164"
+              "title": "[편의점 24시] 오션월드 입장권 파는 세븐일레븐·땅스부대찌개 선보인...",
+              "url": "https://kpenews.com/View.aspx?No=4142281"
             }
           ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎓",
-          "title": "이마트24 대학생 서포터즈 프로그램",
-          "summary": "이마트24가 '편슐랭스타' 5기 모집으로 편의점 MD·마케팅 실무 체험 기회 제공하며 유통 인재 확보 및 브랜드 경험 강화.",
-          "articleIndices": [
-            12
-          ],
-          "relatedLinks": [
-            {
-              "title": "이마트24, 대학생 서포터즈 '편슐랭스타' 5기 모집 … 유통 인재 확보 나...",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86478"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -216,33 +201,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍫",
-          "title": "편의점 디저트 SNS 인증 열풍",
-          "summary": "편의점 디저트 시장이 MZ세대의 인증 소비와 SNS 입소문을 타고 급성장하며 생초코파이 등 바이럴 상품 중심 경쟁 심화.",
+          "emoji": "🍦",
+          "title": "왕짜요짜요 아이스크림",
+          "summary": "서울우유가 인기 제품 짜요짜요를 아이스크림으로 재해석한 신제품을 편의점·마트·온라인 채널에서 판매하며 여름철 수요 공략.",
           "articleIndices": [
-            2,
-            3,
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "서울우유협동조합, 여름철 신제품 '왕짜요짜요 아이스크림' 2종 선보여",
+              "url": "https://n.news.naver.com/mnews/article/076/0004423781?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌶️",
+          "title": "불닭볶음면 K컬처 IP화",
+          "summary": "삼양식품이 불닭볶음면을 글로벌 지식재산으로 키워내며 K팝 중심의 기존 K컬처 투자 트렌드에서 식품 기반 IP 투자로의 지형 변화 주도.",
+          "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "MZ 감각에 매출 껑충… 2030 편의점 창업 새바람",
-              "url": "https://n.news.naver.com/mnews/article/005/0001859578?sid=101"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🍲",
-          "title": "편의점 보양식 간편식 확대",
-          "summary": "복날을 앞두고 편의점들이 삼계버거·장어도시락 등 가성비 보양식 500여 품목을 최대 40% 할인 판매하며 계절 수요 공략.",
-          "articleIndices": [
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "[유프로의 AI 픽] '실속형 대안과 캐릭터 IP의 힘'…유통채널 TOP 3",
-              "url": "https://www.mediapen.com/news/view/1108524"
+              "title": "'BTS보다 불닭에 눈길'…완전히 뒤바뀐 K컬처 투자 지형도",
+              "url": "https://n.news.naver.com/mnews/article/015/0005307945?sid=101"
             }
           ],
           "articleCount": 1
