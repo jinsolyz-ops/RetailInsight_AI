@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-10T22:48:25.573Z",
+  "generatedAt": "2026-07-11T22:35:12.916Z",
   "summary": [
-    "GS25, SNS 기반 초단기 히트 상품으로 편의점 경쟁 주도",
-    "CU, 몽골 진출 8년 만에 600호점 달성하며 해외 확장 가속화",
-    "유통업계, 초복 앞두고 보양식·AI 체험 등 다채로운 마케팅 전개"
+    "편의점 디저트 시장에서 SNS 바이럴 트렌드가 새로운 소비 기준으로 자리잡고 있다.",
+    "유통업계가 캐릭터·자동차 등 이종 브랜드 협업으로 고객 방문과 반복 구매를 유도하는 마케팅으로 진화 중이다.",
+    "BGF리테일이 점포 효율화와 우량점포 중심 출점으로 체질 개선 효과를 본격화하고 있다."
   ],
   "categories": [
     {
@@ -11,30 +11,30 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "SNS 기반 초단기 히트 상품 경쟁",
-          "summary": "GS25와 CU가 SNS에서 화제인 채소 비빔밥 등 시각적 어필 상품으로 경쟁하며 소비자 주도 트렌드 대응 전략 강화.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"채소가 이렇게 예쁘면\"… SNS가 만드는 '초단기 히트' 식품들",
-              "url": "https://www.wikitree.co.kr/articles/1145890"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍗",
-          "title": "초복 보양식 마케팅 경쟁",
-          "summary": "유통업계가 초복을 앞두고 삼계탕 외 장어·전복 등 다양한 보양식으로 HMR 경쟁을 심화하며 외식 물가 상승에 대응.",
+          "title": "크로스브랜드 협업 마케팅",
+          "summary": "유통가가 캐릭터·자동차 등 이종 업계 브랜드와 협업하며 일회성 화제를 넘어 반복 구매 유도 수단으로 진화하고 있다.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "삼계탕 2만원 시대…유통업계, 초복 앞두고 보양식 경쟁 '활활'",
-              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165586"
+              "title": "다이소엔 '토이 스토리', GS25엔 현대차…유통가 경계 허문 협업",
+              "url": "https://n.news.naver.com/mnews/article/022/0004142313?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "⚽",
+          "title": "스포츠 팬덤 기반 마케팅",
+          "summary": "스포츠 팬덤의 파급력이 커지면서 시즌성 행사를 넘어 연중 내내 고객을 불러모으는 핵심 집객 수단으로 진화하고 있다.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "월드컵 탈락에도 '북적북적'…아재들 말고 1020·여성이 '큰손'",
+              "url": "https://n.news.naver.com/mnews/article/015/0005308897?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,37 +45,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "버티컬 커머스 분화 전략",
-          "summary": "무신사, 올리브영 등 버티컬 플랫폼이 AI 추천 기술과 개인화 쇼핑으로 소비 목적별 분화 전략을 추진하며 플랫폼 경쟁 심화.",
+          "emoji": "🚀",
+          "title": "쿠팡 로켓 회복력",
+          "summary": "과징금 이슈에도 불구하고 쿠팡의 로켓 배송이 경쟁사 대비 우월한 인프라 경쟁력으로 시장 점유를 유지하고 있다.",
           "articleIndices": [
-            9,
-            10,
-            12
+            1,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "'탈팡'은 없었다···위기서 빛난 쿠팡 '로켓'의 저력",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447564"
+            },
+            {
+              "title": "[기업家] 쿠팡 ㅣ 美 '차별' 주장 vs 韓 반박…외교 이슈 속 실적은 회복",
+              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=588048"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🎨",
+          "title": "패션 버티컬 플랫폼 경쟁",
+          "summary": "네이버 '노크잇' 등 신생 패션 라이브커머스 서비스가 1020세대 취향 저격으로 무신사 같은 기존 버티컬 플랫폼과 경쟁하고 있다.",
+          "articleIndices": [
+            10
           ],
           "relatedLinks": [
             {
               "title": "[체험기] 1020 취향 저격 '무신사' vs 라이브쇼핑 신생 패션 '노크잇'",
               "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422333"
-            },
-            {
-              "title": "[AI 수익전쟁②] 카카오톡 'AI 에이전트 플랫폼'으로 진화…체류시간 늘...",
-              "url": "https://n.news.naver.com/mnews/article/629/0000514875?sid=101"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "📉",
-          "title": "국내 이커머스 플랫폼 성장 정체",
-          "summary": "쿠팡 실적 회복 반면 G마켓·11번가 등 국내 플랫폼 결제액 감소세로 플랫폼 간 양극화 심화.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "[기업家] 쿠팡 ㅣ 美 '차별' 주장 vs 韓 반박…외교 이슈 속 실적은 회복",
-              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=588048"
             }
           ],
           "articleCount": 1
@@ -86,36 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 체험·로봇 공연 마케팅",
-          "summary": "백화점과 유통업계가 초복 프로모션에 AI 로봇 공연, 휴머노이드 로봇 체험 등 미래 기술 체험을 결합한 오프라인 마케팅 전개.",
+          "emoji": "💰",
+          "title": "AI 인프라 비용 통제",
+          "summary": "아마존이 클라우드·AI 인프라를 직접 확충하며 비용 통제와 성능 개선을 동시에 노리는 전략으로 유통업계 선두주자 지위를 강화하고 있다.",
           "articleIndices": [
-            1,
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "\"삼계탕 반값에 AI 로봇 공연까지\"…유통가, 초복 앞두고 주말 총력전",
-              "url": "https://n.news.naver.com/mnews/article/022/0004142217?sid=101"
-            },
-            {
-              "title": "'초복 보양식부터 로봇 축제까지'…유통업계, 무더위 속 '여름 장터' 개...",
-              "url": "https://n.news.naver.com/mnews/article/421/0009053399?sid=101"
+              "title": "아마존, 월마트·코스트코보다 싸진 이유",
+              "url": "https://www.g-enews.com/view.php?ud=2026071200242569709a1f309431_1"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🎯",
-          "title": "AI 추천 기술 기반 개인화 쇼핑",
-          "summary": "에이블리 등 뷰티 플랫폼이 AI 추천 기술으로 소비 패턴별 개인화 경험을 제공하며 리테일테크 경쟁 심화.",
+          "emoji": "🔍",
+          "title": "패션 AI 검색 서비스",
+          "summary": "SSG닷컴이 패션 AI 대화형 검색 서비스를 선보이며 리테일 테크 경쟁에 뛰어들고 있다.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "'제2의 올리브영'은 없다…K-뷰티 플랫폼, '추격' 대신 '분화' 택...",
-              "url": "https://www.sentv.co.kr/article/view/sentv202607100097"
+              "title": "쿠팡 공백 노린 이커머스 경쟁…SSG닷컴 '인프라 강화' vs 롯데온 '수익'",
+              "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=83200"
             }
           ],
           "articleCount": 1
@@ -126,16 +120,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "CU 몽골 600호점 달성",
-          "summary": "CU가 몽골 진출 약 8년 만에 600호점을 개점하며 중앙아시아 생활정거장으로서의 입지를 확립하고 해외 확장 가속화.",
+          "emoji": "📈",
+          "title": "BGF 체질 개선 효과",
+          "summary": "BGF리테일이 비효율 점포 축소와 우량 점포 중심 출점으로 점포 효율화를 추진하며 2분기 실적 회복을 견인하고 있다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "CU가 몽골에 세운 600번째 생활정거장",
-              "url": "https://cooknchefnews.com/news/view/1065572051897279"
+              "title": "BGF리테일, 체질 개선 효과 본격화…외국인 소비도 힘 보탰다",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467533"
             }
           ],
           "articleCount": 1
@@ -146,9 +140,9 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥗",
-          "title": "GS25 SNS 기반 한정 상품 전략",
-          "summary": "GS25가 편의점 최초 완제품 채소 비빔밥 한정 판매로 SNS 화제성을 확보하며 초단기 히트 상품 전략 주도.",
+          "emoji": "🎰",
+          "title": "GS25 로또 판매점 활약",
+          "summary": "GS25 편의점 내 로또 판매점에서 1등 당첨이 배출되며 고객 방문 유도 수단으로 기능하고 있다.",
           "articleIndices": [
             1,
             2,
@@ -156,43 +150,42 @@
           ],
           "relatedLinks": [
             {
-              "title": "[기획] 이름값 빼고 실속 채운다…불황 속 유행하는 '듀프 소비'",
-              "url": "https://www.sentv.co.kr/article/view/sentv202607090114"
+              "title": "로또 1232회 당첨번호, 25억 주인공은?…경북 영천시 같은 판매점에서 1등",
+              "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441038"
+            },
+            {
+              "title": "백화점은 질주, 마트는 '홈플 효과'…편의점도 웃었다",
+              "url": "https://n.news.naver.com/mnews/article/001/0016189164?sid=101"
             }
           ],
           "articleCount": 3
         },
         {
-          "emoji": "🏦",
-          "title": "세븐일레븐 일본 시장 교육 사업 확대",
-          "summary": "세븐일레븐 계열 세븐뱅크 등 일본 유수 기업에 AX 기업교육을 제공하며 일본 시장 입지 강화.",
+          "emoji": "🌏",
+          "title": "세븐일레븐 소프트뱅크 투자",
+          "summary": "소프트뱅크가 일본 세븐일레븐 지주사에 최대 2조8000억원 규모 투자를 검토하며 편의점 디지털 전환을 가속화하고 있다.",
           "articleIndices": [
-            4,
-            5
+            6
           ],
           "relatedLinks": [
             {
-              "title": "팀스파르타, 'JCSSA'에 AX 기업교육 운영 노하우 공유",
-              "url": "https://n.news.naver.com/mnews/article/092/0002430120?sid=105"
-            },
-            {
-              "title": "팀스파르타, 일본 AX 기업 교육 공략…IT 협회와 AX 노하우 공유",
-              "url": "https://www.ajunews.com/view/20260710173534703"
+              "title": "소프트뱅크, 세븐일레븐 지주사 투자 검토…최대 2조8000억원 규모",
+              "url": "https://n.news.naver.com/mnews/article/119/0003110397?sid=104"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🍦",
-          "title": "이마트24 트렌드 상품 개발 경쟁",
-          "summary": "이마트24 트렌드연구소가 '자몽망고요거트콘' 출시 첫 달 아이스크림 콘 부문 3위 달성하며 빠른 히트 상품 개발 경쟁 심화.",
+          "emoji": "🏪",
+          "title": "이마트24 영업 운영",
+          "summary": "이마트24가 대형마트 휴무일 정책에 따른 영업시간 운영으로 편의점 채널의 안정적 고객 접점을 유지하고 있다.",
           "articleIndices": [
             7
           ],
           "relatedLinks": [
             {
-              "title": "[위클리비즈] '틀린 건 아닌데'…MZ 사로잡은 화제의 전시, 부산 상륙",
-              "url": "https://www.sentv.co.kr/article/view/sentv202607090186"
+              "title": "[대형마트 휴무일] 이마트·롯데마트·홈플러스·코스트코, 오늘(12일) 문",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=751165"
             }
           ],
           "articleCount": 1
@@ -204,8 +197,8 @@
       "issues": [
         {
           "emoji": "🍰",
-          "title": "편의점 디저트·간식 SNS 화제 상품",
-          "summary": "채소 비빔밥, 두부 브라우니, 왕짜요짜요 아이스크림 등 시각적 어필과 건강식 트렌드를 결합한 편의점 디저트가 SNS 화제 상품으로 부상.",
+          "title": "SNS 바이럴 디저트 트렌드",
+          "summary": "편의점 디저트 시장에서 독특한 비주얼과 식감의 '바이럴 디저트'가 새로운 소비 트렌드로 자리잡으며 유명 브랜드 협업이 활발해지고 있다.",
           "articleIndices": [
             1,
             2,
@@ -213,31 +206,15 @@
           ],
           "relatedLinks": [
             {
-              "title": "[신제품] 서울우유 「왕짜요짜요 아이스크림」 2종",
-              "url": "https://www.chukkyung.co.kr/news/articleView.html?idxno=81895"
+              "title": "[유통체크업] '신상 맛집' 노리는 편의점…가격보다 경험 중시",
+              "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724195"
+            },
+            {
+              "title": "\"채소가 이렇게 예쁘면\"… SNS가 만드는 '초단기 히트' 식품들",
+              "url": "https://www.wikitree.co.kr/articles/1145890"
             }
           ],
           "articleCount": 3
-        },
-        {
-          "emoji": "🍜",
-          "title": "편의점 신상 도시락·주류 확대",
-          "summary": "치즈부대볶음 도시락·파스타, 저도수 생막걸리 등 편의점 신상이 다양화되며 간편식 시장 경쟁 심화.",
-          "articleIndices": [
-            4,
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "[금주의 주류 신상] 7월 둘째주",
-              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131348"
-            },
-            {
-              "title": "[신상브리핑] 오리온, 이디야커피, bhc, 남양유업, 오뚜기, 제일제면소 ...",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1384370"
-            }
-          ],
-          "articleCount": 2
         }
       ]
     }
