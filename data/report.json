@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-07-12T22:36:10.640Z",
+  "generatedAt": "2026-07-13T22:43:14.845Z",
   "summary": [
-    "CU, 글로벌 캐릭터 '패트와 매트' 협업 아이스크림으로 펀슈머 트렌드 선점",
-    "GS25 샌드위치 전면 리뉴얼, 간편식 품질 혁신 프로젝트 가속화",
-    "세븐일레븐 신동엽 '블랙서클MAX' 2탄 출시, 셀럽 협업 품절대란 재현 노린다"
+    "CU, 국가유산진흥원과 협업해 K-맥주로 외국인 관광객 유입 캠페인 전개",
+    "GS25 얼음컵 100만 개 판매·TXT 연준 콜라보 아이스크림으로 여름 상품 경쟁 심화",
+    "세븐일레븐 블랙서클MAX·수박스무디 출시로 위스키·즉석식품 라인업 강화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "롯데百 AI 챗봇 도입",
-          "summary": "롯데백화점이 유통업계 최초로 AI 챗봇을 안내데스크 역할로 배치하고 데이터 분석 기반 마케팅 전략을 수립하며 직원 업무방식 전환을 주도하고 있다.",
+          "emoji": "🌞",
+          "title": "초복 보양식 양극화",
+          "summary": "외식비 부담 증가로 대형마트·편의점·이커머스가 가성비 보양식 경쟁에 나서며 소비 양극화 심화.",
           "articleIndices": [
-            5
+            2
           ],
           "relatedLinks": [
             {
-              "title": "\"안내데스크가 사라진다\"…롯데百, AI 챗봇이 쇼핑 길잡이로",
-              "url": "https://www.fntimes.com/html/view.php?ud=202607110016289849dd55077bc2_18"
+              "title": "[이슈] 초복 대목 잡아라…보양식 시장 '가성비' vs '프리미엄' 양극화",
+              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=362481"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "신세계 외국인 관광객 마케팅",
-          "summary": "신세계백화점이 상반기 외국인 매출 5,800억원을 기록하며 K쇼핑·K미식·K콘텐츠 중심의 관광 마케팅 강화로 연간 1조원 달성을 목표로 하고 있다.",
+          "emoji": "💎",
+          "title": "VVIP 마케팅 확산",
+          "summary": "경기 침체와 소비 양극화 속 백화점·이커머스·유통업계 전반이 상위 0.1% 고객 확보 경쟁으로 전환.",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "신세계백화점 상반기 외국인 매출 5800억…'연간 1조' 보인다",
-              "url": "https://n.news.naver.com/mnews/article/417/0001151333?sid=101"
+              "title": "상위 0.1%를 모십니다…유통가 휩쓰는 VVIP 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/243/0000100404?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,34 +45,44 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "무신사 스탠다드 글로벌 확장",
-          "summary": "무신사 스탠다드가 오프라인 인기를 온라인으로 확대하며 중국 티몰 입점 및 현지 5호점 추가 오픈으로 외국인 고객 확보에 성공하고 있다.",
+          "emoji": "🛡️",
+          "title": "AI 브랜드 리스크 확대",
+          "summary": "생성형 AI와 글로벌 이커머스 확산으로 기업 80%가 브랜드 리스크로 인한 매출 손실 경험, 보호 투자 증가.",
           "articleIndices": [
-            3
+            2,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "외국인 잡고 날아오르는 무신사 스탠다드…中 5호점도 추가 오픈",
-              "url": "https://n.news.naver.com/mnews/article/011/0004640819?sid=101"
+              "title": "AI가 키운 브랜드 리스크…기업 10곳 중 8곳 \"매출 손실\"",
+              "url": "https://n.news.naver.com/mnews/article/018/0006329162?sid=105"
+            },
+            {
+              "title": "AI·글로벌 이커머스 확산에 브랜드 리스크 '점점 더 커진다'",
+              "url": "http://www.ktnews.com/news/articleView.html?idxno=147124"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🍤",
-          "title": "초복 특수 이커머스 프로모션",
-          "summary": "초복을 앞두고 대형마트·편의점·이커머스 업체들이 장어·전복·삼계탕 등 보양식 상품으로 계절 특수를 선점하는 마케팅을 전개하고 있다.",
+          "emoji": "🤖",
+          "title": "AI 에이전트 커머스 부상",
+          "summary": "AI 에이전트와 버티컬 AI가 새로운 브랜드 접점으로 자리잡으며 카카오·네이버 등 플랫폼의 신규 수익화 모델 경쟁.",
           "articleIndices": [
-            1
+            8,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "[주간 유통 나침반] MBK 책임론 커진 홈플러스…유통가는 초복 특수 선점",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=532213"
+              "title": "AI 도입 넘어 'AI 에이전트' 시대…기업들, 실행 중심 전략으로 승부수",
+              "url": "http://www.dailypop.kr/news/articleView.html?idxno=100557"
+            },
+            {
+              "title": "카카오와 네이버, 'AI 신규 BM 모델 증명 및 수익화' 필요",
+              "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=79860"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -80,31 +90,36 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎤",
-          "title": "음성 인터페이스 보이스 커머스",
-          "summary": "유통업계가 \"우유 주문해줘\" 같은 음성 명령으로 상품 검색·결제가 가능한 보이스 커머스를 새로운 시장으로 주목하며 AI 음성 기술의 정확도와 신뢰성 경쟁을 가속화하고 있다.",
+          "emoji": "🌐",
+          "title": "백화점 외국인 AI 통역",
+          "summary": "롯데백화점이 AI 통역 서비스 도입으로 외국인 매출 125% 증가, 백화점 3사 외국인 매출 1조 시대 진입.",
           "articleIndices": [
-            2
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "\"터치의 시대 저문다\"…AI 에이전트가 불붙인 '음성 인터페이스' 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/018/0006328505?sid=105"
+              "title": "관광객 몰리자 웃었다…백화점 3사, 외국인 매출 1조 시대 '눈앞'",
+              "url": "https://www.socialvalue.kr/news/view/1065595360543037"
+            },
+            {
+              "title": "명품·패션·뷰티 쓸어담았다…백화점, 외국인 매출 '1조 시대' 열린...",
+              "url": "https://n.news.naver.com/mnews/article/011/0004641233?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🔐",
-          "title": "AI 초개인화 시대 정보보호 투자",
-          "summary": "AI 초개인화 확산에 따른 개인정보 보호 중요성 증대로 쿠팡(1,349억원)을 비롯한 주요 유통기업들이 정보보호 투자와 전담 인력을 대폭 확대하고 있다.",
+          "emoji": "📊",
+          "title": "매장 AI 에이전트 운영 혁신",
+          "summary": "후지쯔 AI 에이전트가 매장 관리자의 노하우 표준화·신입 적응 속도 혁신으로 유통업계 실무 가치 평가.",
           "articleIndices": [
-            4
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'유출 한 번에 치명상'…유통업계 보안 투자 급증",
-              "url": "http://www.metroseoul.co.kr/article/20260712500226"
+              "title": "후지쯔, '에이온' 매장에 AI 에이전트 도입…운영 혁신 가속",
+              "url": "https://www.g-enews.com/view.php?ud=202607132049422052bd56fbc3c_1"
             }
           ],
           "articleCount": 1
@@ -115,21 +130,21 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "CU 패트와 매트 반반바 출시",
-          "summary": "CU가 글로벌 인기 캐릭터 '패트와 매트'를 활용한 이색 아이스크림 '반반바'를 출시하고 리센느를 브랜드 모델로 발탁하며 펀슈머 소비 트렌드를 선점하고 있다.",
+          "emoji": "🍺",
+          "title": "국가유산 K-맥주 캠페인",
+          "summary": "CU가 국가유산진흥원·세븐브로이와 협업해 한정판 수제맥주로 외국인 관광객 유입 및 국가유산 방문 캠페인 추진.",
           "articleIndices": [
             1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "리센느, CU '패트와 매트 반반바' 영상 공개...9월 '리브&메이 에디션'",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=751304"
+              "title": "CU, 국가유산 수제맥주 3종...롯데마트 '김창수 위스키 연꽃 50도'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=751579"
             },
             {
-              "title": "CU, '패트와 매트' 캐릭터 '반반바' 출시",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126343"
+              "title": "CU-국가유산진흥원-세븐브로이, 'K-맥주'로 외국인 관광객에 국가유산 ...",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126492"
             }
           ],
           "articleCount": 2
@@ -140,54 +155,39 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥪",
-          "title": "GS25 샌드위치 전면 리뉴얼",
-          "summary": "GS25가 간편식 품질 혁신 프로젝트 '풀체인지 리뉴얼'의 일환으로 샌드위치를 전면 리뉴얼하며 본질적인 경쟁력 강화에 나서고 있다.",
+          "emoji": "🧊",
+          "title": "GS25 얼음컵 100만 개 판매",
+          "summary": "폭염 속 GS25 얼음컵이 이틀간 100만 개 판매되며 역대급 여름 상품 성공, 수박·음료 함께 판매 급증.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'기본부터 바꿨다!' GS25, '샌드위치 전면 리뉴얼' 풀시",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126346"
+              "title": "\"이 정도로 잘 팔릴 줄은 몰랐다\"…역대급 폭염에 100만 개 불티난 '...'",
+              "url": "https://n.news.naver.com/mnews/article/011/0004641182?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥃",
-          "title": "세븐일레븐 블랙서클MAX 2탄",
-          "summary": "세븐일레븐이 신동엽과 협업한 가성비 위스키 '블랙서클MAX'를 출시하며 지난해 품절대란을 일으킨 셀럽 협업 상품의 후속작으로 소비자 기대감을 재점화하고 있다.",
+          "emoji": "🥤",
+          "title": "세븐일레븐 블랙서클MAX·수박스무디",
+          "summary": "세븐일레븐이 위스키 매출 30% 증가에 힘입어 블랙서클MAX 출시, 수박스무디로 여름 즉석식품 경쟁력 강화.",
           "articleIndices": [
-            6,
-            8
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "신동엽X세븐일레븐, 품절대란템 2탄 '블랙서클MAX' 출시",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=751299"
+              "title": "세븐일레븐 '수박 스무디'...GS더프레시 'ESG 장어덮밥'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=751583"
             },
             {
-              "title": "세븐일레븐, 품절대란템 블랙서클 위스키 2탄 '신동엽 블랙서클MAX' 선보여",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126344"
+              "title": "세븐일레븐, '블랙서클MAX' 출시…'위스키 매출 전년 대비 30%↑'",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=266183"
             }
           ],
           "articleCount": 2
-        },
-        {
-          "emoji": "🍲",
-          "title": "이마트24 땅스부대찌개 협업",
-          "summary": "이마트24가 부대찌개 전문 브랜드 '땅스부대찌개'와 협업하여 치즈부대볶음 기반 간편식 2종을 선보이며 10주년 기념 차별화 상품 전략을 추진하고 있다.",
-          "articleIndices": [
-            10
-          ],
-          "relatedLinks": [
-            {
-              "title": "'땅스부대찌개를 편의점에서'…이마트24, 협업 간편식 출시",
-              "url": "https://www.namdonews.com/news/articleView.html?idxno=916614"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -196,31 +196,30 @@
       "issues": [
         {
           "emoji": "🍦",
-          "title": "편의점 아이스크림 캐릭터 협업",
-          "summary": "CU 패트와 매트 반반바, GS25 투바투 연준 협업 아이스크림 등 편의점들이 글로벌 캐릭터와 K-팝 스타를 활용한 아이스크림으로 펀슈머 트렌드와 팬덤 마케팅을 동시에 공략하고 있다.",
-          "articleIndices": [
-            1,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "투바투 연준 품은 GS25 아이스크림…포토카드는 덤",
-              "url": "https://n.news.naver.com/mnews/article/658/0000149285?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍌",
-          "title": "바나나맛우유 SNS 조합 신드롬",
-          "summary": "52년 장수 브랜드 바나나맛우유가 편의점에서 커피와 섞어 마시는 조합이 SNS를 통해 확산되면서 한국식 편의점 디저트 문화의 아이콘으로 재주목받고 글로벌 수출 선봉장 역할을 하고 있다.",
+          "title": "GS25 TXT 연준 콜라보 아이스크림",
+          "summary": "GS25가 투모로우바이투게더 연준과 요아정·로로멜로 협업으로 '사워레몬요거트' 아이스크림 출시, 팬덤 기반 상품 전략.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "[심성(心性)기획] K-스위트 아이콘 빙그레...전세계로 스며들다",
-              "url": "https://m.skyedaily.com/news_view.html?ID=307548"
+              "title": "'TXT' 연준 팬들이 이번 주 GS25로 달려가야 하는 이유",
+              "url": "https://www.insight.co.kr/news/562853"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍓",
+          "title": "GS25 초뿌볼 촉감놀이 디저트",
+          "summary": "GS25가 왁뿌 감성 디저트 '초뿌볼'을 출시해 촉감놀이 트렌드 반영, 누계 판매량 12일 기준 호조.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "[트렌드 왜이래] 어른들도 푹빠진 '촉감놀이'…말랑이·왁뿌볼 뭐길래",
+              "url": "https://www.ekn.kr/web/view.php?key=20260713021531756"
             }
           ],
           "articleCount": 1
