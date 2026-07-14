@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T22:43:14.845Z",
+  "generatedAt": "2026-07-14T22:44:32.112Z",
   "summary": [
-    "CU, 국가유산진흥원과 협업해 K-맥주로 외국인 관광객 유입 캠페인 전개",
-    "GS25 얼음컵 100만 개 판매·TXT 연준 콜라보 아이스크림으로 여름 상품 경쟁 심화",
-    "세븐일레븐 블랙서클MAX·수박스무디 출시로 위스키·즉석식품 라인업 강화"
+    "CU, AI 합성소비자 기술으로 신제품 개발 기간 3~5일로 단축",
+    "편의점 보양식 시장 경쟁 심화, 가성비·프리미엄 양극화 진행",
+    "LF몰·롯데마트 등 AI 에이전트 기반 개인화 쇼핑 경험 선점 경쟁"
   ],
   "categories": [
     {
@@ -11,10 +11,10 @@
       "issues": [
         {
           "emoji": "🌞",
-          "title": "초복 보양식 양극화",
-          "summary": "외식비 부담 증가로 대형마트·편의점·이커머스가 가성비 보양식 경쟁에 나서며 소비 양극화 심화.",
+          "title": "초복 보양식 시장 양극화",
+          "summary": "외식비 부담 증가로 대형마트·이커머스·편의점이 가성비 보양식 경쟁에 나서며 삼계탕 중심에서 다양한 보양식으로 확산.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
@@ -25,16 +25,16 @@
           "articleCount": 1
         },
         {
-          "emoji": "💎",
-          "title": "VVIP 마케팅 확산",
-          "summary": "경기 침체와 소비 양극화 속 백화점·이커머스·유통업계 전반이 상위 0.1% 고객 확보 경쟁으로 전환.",
+          "emoji": "✈️",
+          "title": "여름 휴가 체험 중심 마케팅",
+          "summary": "유통업계가 단순 할인에서 벗어나 여행용품·휴양지 분위기 콘텐츠 등 체험 중심 마케팅으로 전환하며 월 4만원대 휴가 준비 수요 포착.",
           "articleIndices": [
-            6
+            4
           ],
           "relatedLinks": [
             {
-              "title": "상위 0.1%를 모십니다…유통가 휩쓰는 VVIP 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/243/0000100404?sid=101"
+              "title": "[바캉스 소비지도]① \"매달 4만원이면 떠난다\"…휴가 준비도 쇼핑",
+              "url": "https://n.news.naver.com/mnews/article/138/0002234210?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,44 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛡️",
-          "title": "AI 브랜드 리스크 확대",
-          "summary": "생성형 AI와 글로벌 이커머스 확산으로 기업 80%가 브랜드 리스크로 인한 매출 손실 경험, 보호 투자 증가.",
-          "articleIndices": [
-            2,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "AI가 키운 브랜드 리스크…기업 10곳 중 8곳 \"매출 손실\"",
-              "url": "https://n.news.naver.com/mnews/article/018/0006329162?sid=105"
-            },
-            {
-              "title": "AI·글로벌 이커머스 확산에 브랜드 리스크 '점점 더 커진다'",
-              "url": "http://www.ktnews.com/news/articleView.html?idxno=147124"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
           "emoji": "🤖",
-          "title": "AI 에이전트 커머스 부상",
-          "summary": "AI 에이전트와 버티컬 AI가 새로운 브랜드 접점으로 자리잡으며 카카오·네이버 등 플랫폼의 신규 수익화 모델 경쟁.",
+          "title": "AI 에이전트 기반 개인화 쇼핑",
+          "summary": "LF몰의 'LF 스타일톡' 등 자연어 기반 AI 에이전트가 날씨·검색어·고객 행동 데이터를 분석해 버티컬 커머스 시장에서 개인화 경험 선점 경쟁 심화.",
           "articleIndices": [
             8,
             9
           ],
           "relatedLinks": [
             {
-              "title": "AI 도입 넘어 'AI 에이전트' 시대…기업들, 실행 중심 전략으로 승부수",
-              "url": "http://www.dailypop.kr/news/articleView.html?idxno=100557"
+              "title": "LF몰, 자연어 기반 AI 쇼핑 에이전트 'LF 스타일톡' 론칭",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=311244"
             },
             {
-              "title": "카카오와 네이버, 'AI 신규 BM 모델 증명 및 수익화' 필요",
-              "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=79860"
+              "title": "AI 도입 넘어 'AI 에이전트' 시대…기업들, 실행 중심 전략으로 승부수",
+              "url": "http://www.dailypop.kr/news/articleView.html?idxno=100557"
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "📊",
+          "title": "생활용품 브랜드 온라인 확대",
+          "summary": "다이소 선두 유지 속 생활용품 브랜드 빅데이터 10.71% 증가, 친환경·재활용 소재 제품 수요 증가로 온라인·이커머스 판매 확대 추세.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "생활용품 브랜드 빅데이터 10.71% 증가… 다이소 선두 유지",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468432"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -90,36 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🌐",
-          "title": "백화점 외국인 AI 통역",
-          "summary": "롯데백화점이 AI 통역 서비스 도입으로 외국인 매출 125% 증가, 백화점 3사 외국인 매출 1조 시대 진입.",
-          "articleIndices": [
-            1,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "관광객 몰리자 웃었다…백화점 3사, 외국인 매출 1조 시대 '눈앞'",
-              "url": "https://www.socialvalue.kr/news/view/1065595360543037"
-            },
-            {
-              "title": "명품·패션·뷰티 쓸어담았다…백화점, 외국인 매출 '1조 시대' 열린...",
-              "url": "https://n.news.naver.com/mnews/article/011/0004641233?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "📊",
-          "title": "매장 AI 에이전트 운영 혁신",
-          "summary": "후지쯔 AI 에이전트가 매장 관리자의 노하우 표준화·신입 적응 속도 혁신으로 유통업계 실무 가치 평가.",
+          "emoji": "🔬",
+          "title": "유통업 실무 중심 AI 활용 확산",
+          "summary": "재고 관리·점포 운영·상권 분석·퀵커머스 품질 관리 등 실무 과제를 AI로 해결하는 사례 확산으로 4시간 리포트를 5분 내 완성하는 효율화 달성.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "후지쯔, '에이온' 매장에 AI 에이전트 도입…운영 혁신 가속",
-              "url": "https://www.g-enews.com/view.php?ud=202607132049422052bd56fbc3c_1"
+              "title": "4시간 걸리던 리포트를 5분만에 유통업계 실무중심 AI 활용 늘린다",
+              "url": "https://n.news.naver.com/mnews/article/014/0005548169?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍎",
+          "title": "AI 기반 과일 품질 선별 시스템",
+          "summary": "롯데마트가 AI 기반 과일 품질 선별 시스템을 확대 적용하며 홈플러스 폐업 후 경쟁사 고객 흡수 전략 강화.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "폐업 수순 홈플에… 이마트·롯데마트 '호호'",
+              "url": "https://n.news.naver.com/mnews/article/022/0004143167?sid=101"
             }
           ],
           "articleCount": 1
@@ -130,24 +120,34 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "국가유산 K-맥주 캠페인",
-          "summary": "CU가 국가유산진흥원·세븐브로이와 협업해 한정판 수제맥주로 외국인 관광객 유입 및 국가유산 방문 캠페인 추진.",
+          "emoji": "🧠",
+          "title": "AI 합성소비자 기술 도입",
+          "summary": "BGF리테일 CU가 인텔리시아와 협력해 AI 합성소비자 기술으로 도시락·디저트 출시 전 소비자 선호도 분석, 조사 기간을 3~5일로 단축하며 신제품 개발 혁신.",
           "articleIndices": [
-            1,
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "신제품을 AI가 먼저 먹는다? CU, '합성소비자' 기술 도입",
+              "url": "https://n.news.naver.com/mnews/article/016/0002670358?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍺",
+          "title": "국가유산 방문 캠페인 한정판 맥주",
+          "summary": "CU가 국가유산진흥원·세븐브로이와 협력해 한정판 수제맥주를 통해 국가유산 방문 캠페인을 알리며 문화 마케팅 강화.",
+          "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "CU, 국가유산 수제맥주 3종...롯데마트 '김창수 위스키 연꽃 50도'",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=751579"
-            },
-            {
-              "title": "CU-국가유산진흥원-세븐브로이, 'K-맥주'로 외국인 관광객에 국가유산 ...",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126492"
+              "title": "CU, 'K-맥주'로 국가유산 알린다…국가유산진흥원·세븐브로이와 맞손",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311921"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -155,39 +155,54 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🧊",
-          "title": "GS25 얼음컵 100만 개 판매",
-          "summary": "폭염 속 GS25 얼음컵이 이틀간 100만 개 판매되며 역대급 여름 상품 성공, 수박·음료 함께 판매 급증.",
+          "emoji": "⭐",
+          "title": "GS25 간편식 시장 5위 유지",
+          "summary": "GS25가 간편식 브랜드평판 순위 5위를 유지하며 쿠팡·마켓컬리·이마트·롯데마트에 이어 경쟁 중, 일본 돈키호테 250개 매장에서 PB 브랜드 '유어스' 확대 판매.",
           "articleIndices": [
-            3
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "\"이 정도로 잘 팔릴 줄은 몰랐다\"…역대급 폭염에 100만 개 불티난 '...'",
-              "url": "https://n.news.naver.com/mnews/article/011/0004641182?sid=101"
+              "title": "쿠팡 브랜드평판 50% 급등… 간편식 시장 정상 차지",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468431"
+            },
+            {
+              "title": "[바캉스 소비지도]② 워터파크도 편의점에서?…여행객 잡는 K편의점",
+              "url": "https://n.news.naver.com/mnews/article/138/0002234215?sid=101"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍜",
+          "title": "세븐일레븐 퀵커머스 입점 확대",
+          "summary": "배민 퀵커머스에 세븐일레븐이 주요 편의점·SSM 2만개 매장 중 하나로 입점하며 1시간 내 배송 서비스 경쟁 심화.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "배달앱·편의점·대형마트도 '퀵커머스' 참전…1시간 내 쏜다 총알배",
+              "url": "https://n.news.naver.com/mnews/article/032/0003458136?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥤",
-          "title": "세븐일레븐 블랙서클MAX·수박스무디",
-          "summary": "세븐일레븐이 위스키 매출 30% 증가에 힘입어 블랙서클MAX 출시, 수박스무디로 여름 즉석식품 경쟁력 강화.",
+          "emoji": "🏪",
+          "title": "이마트24 제헌절 영업 안내",
+          "summary": "이마트24 등 대형마트·편의점이 7월 17일 제헌절 휴무 및 영업시간 조정으로 고객 편의 제공.",
           "articleIndices": [
-            4,
-            5
+            7
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐 '수박 스무디'...GS더프레시 'ESG 장어덮밥'",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=751583"
-            },
-            {
-              "title": "세븐일레븐, '블랙서클MAX' 출시…'위스키 매출 전년 대비 30%↑'",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=266183"
+              "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 7월 17일(금) '제헌절' 대비",
+              "url": "https://www.lecturernews.com/news/articleView.html?idxno=206200"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -195,31 +210,32 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "GS25 TXT 연준 콜라보 아이스크림",
-          "summary": "GS25가 투모로우바이투게더 연준과 요아정·로로멜로 협업으로 '사워레몬요거트' 아이스크림 출시, 팬덤 기반 상품 전략.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 신상품 경쟁",
+          "summary": "연세유업 제주 감성 귤메달, GS더프레시 어촌 상생 장어덮밥 등 편의점 신상품이 다양한 협업과 지역 특색을 담으며 SNS 관심 집중.",
           "articleIndices": [
-            2
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'TXT' 연준 팬들이 이번 주 GS25로 달려가야 하는 이유",
-              "url": "https://www.insight.co.kr/news/562853"
+              "title": "[오늘의 신상품] GS더프레시, 어촌 상생 '장어덮밥' 출시 外 연세유업·...",
+              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875086"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🍓",
-          "title": "GS25 초뿌볼 촉감놀이 디저트",
-          "summary": "GS25가 왁뿌 감성 디저트 '초뿌볼'을 출시해 촉감놀이 트렌드 반영, 누계 판매량 12일 기준 호조.",
+          "emoji": "🌍",
+          "title": "글로벌 F&B 브랜드 한국 시장 진출",
+          "summary": "한국의 빠른 트렌드 순환·높은 미식 관심도로 글로벌 F&B 브랜드들이 한국 시장을 '글로벌 테스트베드'로 활용하며 '한국 인정' 타이틀 경쟁.",
           "articleIndices": [
-            1
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[트렌드 왜이래] 어른들도 푹빠진 '촉감놀이'…말랑이·왁뿌볼 뭐길래",
-              "url": "https://www.ekn.kr/web/view.php?key=20260713021531756"
+              "title": "입맛 까다롭고 SNS 즐기는 한국, 세계 식음료 브랜드 격전지로",
+              "url": "https://n.news.naver.com/mnews/article/020/0003733930?sid=101"
             }
           ],
           "articleCount": 1
