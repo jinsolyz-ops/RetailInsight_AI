@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-07-14T22:44:32.112Z",
+  "generatedAt": "2026-07-15T22:46:00.059Z",
   "summary": [
-    "CU, AI 합성소비자 기술으로 신제품 개발 기간 3~5일로 단축",
-    "편의점 보양식 시장 경쟁 심화, 가성비·프리미엄 양극화 진행",
-    "LF몰·롯데마트 등 AI 에이전트 기반 개인화 쇼핑 경험 선점 경쟁"
+    "BGF리테일, AI 합성소비자 기술로 신상품 개발 혁신 추진",
+    "세븐일레븐, 글로벌 소싱 프리미엄 디저트로 양강 구도 경쟁",
+    "GS25, 방충용품 매출 493.5% 증가로 시즌 상품 운영 확대"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌞",
-          "title": "초복 보양식 시장 양극화",
-          "summary": "외식비 부담 증가로 대형마트·이커머스·편의점이 가성비 보양식 경쟁에 나서며 삼계탕 중심에서 다양한 보양식으로 확산.",
+          "emoji": "🛍️",
+          "title": "고가 브랜드 대체 상품 수요 증가",
+          "summary": "유통업계에서 프리미엄 브랜드와 비교해도 만족도가 높은 대체 상품을 찾는 소비자가 증가하면서 가성비 중심의 구매 패턴이 확산되고 있다.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] 초복 대목 잡아라…보양식 시장 '가성비' vs '프리미엄' 양극화",
-              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=362481"
+              "title": "스탠리 고민하다 다탠리 샀다",
+              "url": "https://n.news.naver.com/mnews/article/025/0003537958?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "✈️",
-          "title": "여름 휴가 체험 중심 마케팅",
-          "summary": "유통업계가 단순 할인에서 벗어나 여행용품·휴양지 분위기 콘텐츠 등 체험 중심 마케팅으로 전환하며 월 4만원대 휴가 준비 수요 포착.",
+          "emoji": "📊",
+          "title": "홈플러스 고객 DB 전략적 자산화",
+          "summary": "폐점 직전 홈플러스가 1000만 고객정보를 확보한 것으로 드러나며, 유통업계에서 고객 DB가 맞춤형 마케팅과 사업 매각의 핵심 자산으로 평가받고 있다.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "[바캉스 소비지도]① \"매달 4만원이면 떠난다\"…휴가 준비도 쇼핑",
-              "url": "https://n.news.naver.com/mnews/article/138/0002234210?sid=101"
+              "title": "문 닫기 직전 1000만 고객정보 챙긴 홈플러스",
+              "url": "https://n.news.naver.com/mnews/article/015/0005310544?sid=110"
             }
           ],
           "articleCount": 1
@@ -46,35 +46,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 에이전트 기반 개인화 쇼핑",
-          "summary": "LF몰의 'LF 스타일톡' 등 자연어 기반 AI 에이전트가 날씨·검색어·고객 행동 데이터를 분석해 버티컬 커머스 시장에서 개인화 경험 선점 경쟁 심화.",
+          "title": "AI 기반 버티컬 커머스 개인화 경쟁",
+          "summary": "LF몰의 'LF 스타일톡' 등 자연어 기반 AI 쇼핑 에이전트가 버티컬 커머스 시장에서 개인화 쇼핑 경험을 선점하려는 전략으로 확산되고 있다.",
           "articleIndices": [
-            8,
             9
           ],
           "relatedLinks": [
             {
               "title": "LF몰, 자연어 기반 AI 쇼핑 에이전트 'LF 스타일톡' 론칭",
               "url": "https://www.thepublic.kr/news/articleView.html?idxno=311244"
-            },
-            {
-              "title": "AI 도입 넘어 'AI 에이전트' 시대…기업들, 실행 중심 전략으로 승부수",
-              "url": "http://www.dailypop.kr/news/articleView.html?idxno=100557"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "생활용품 브랜드 온라인 확대",
-          "summary": "다이소 선두 유지 속 생활용품 브랜드 빅데이터 10.71% 증가, 친환경·재활용 소재 제품 수요 증가로 온라인·이커머스 판매 확대 추세.",
+          "emoji": "🌍",
+          "title": "K뷰티 글로벌 이커머스 확장",
+          "summary": "제주삼다수가 중국 징동닷컴에 공식 브랜드관을 개설하는 등 국내 식품·뷰티 브랜드의 해외 이커머스 플랫폼 진출이 가속화되고 있다.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "생활용품 브랜드 빅데이터 10.71% 증가… 다이소 선두 유지",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468432"
+              "title": "제주삼다수, 중국 징동닷컴 브랜드관 공식 오픈",
+              "url": "https://www.ibabynews.com/news/articleView.html?idxno=152932"
             }
           ],
           "articleCount": 1
@@ -85,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🔬",
-          "title": "유통업 실무 중심 AI 활용 확산",
-          "summary": "재고 관리·점포 운영·상권 분석·퀵커머스 품질 관리 등 실무 과제를 AI로 해결하는 사례 확산으로 4시간 리포트를 5분 내 완성하는 효율화 달성.",
+          "emoji": "📦",
+          "title": "물류·배송 AI 생태계 경쟁 심화",
+          "summary": "쿠팡의 로켓배송 이후 네이버 등 이커머스 플랫폼들이 물류와 AI, 멤버십을 결합한 생태계 경쟁으로 진화하면서 배송 전쟁이 본격화되고 있다.",
           "articleIndices": [
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "4시간 걸리던 리포트를 5분만에 유통업계 실무중심 AI 활용 늘린다",
-              "url": "https://n.news.naver.com/mnews/article/014/0005548169?sid=101"
+              "title": "네이버도 물류 승부수...쿠팡이 만든 '배송 전쟁'",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126724"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍎",
-          "title": "AI 기반 과일 품질 선별 시스템",
-          "summary": "롯데마트가 AI 기반 과일 품질 선별 시스템을 확대 적용하며 홈플러스 폐업 후 경쟁사 고객 흡수 전략 강화.",
+          "emoji": "🎬",
+          "title": "숏폼 커머스 AI 타깃팅 고도화",
+          "summary": "SK브로드밴드의 'B tv 핫딜'이 AI 기반 고객 분석과 타깃 고도화를 통해 8개월 만에 판매 60억 달성하며 숏폼 커머스의 AI 활용 사례를 보여주고 있다.",
           "articleIndices": [
-            1
+            8
           ],
           "relatedLinks": [
             {
-              "title": "폐업 수순 홈플에… 이마트·롯데마트 '호호'",
-              "url": "https://n.news.naver.com/mnews/article/022/0004143167?sid=101"
+              "title": "숏폼 커머스 'B tv 핫딜'…8개월만에 판매 60억 달성",
+              "url": "https://n.news.naver.com/mnews/article/011/0004642089?sid=105"
             }
           ],
           "articleCount": 1
@@ -121,30 +116,30 @@
       "issues": [
         {
           "emoji": "🧠",
-          "title": "AI 합성소비자 기술 도입",
-          "summary": "BGF리테일 CU가 인텔리시아와 협력해 AI 합성소비자 기술으로 도시락·디저트 출시 전 소비자 선호도 분석, 조사 기간을 3~5일로 단축하며 신제품 개발 혁신.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "신제품을 AI가 먼저 먹는다? CU, '합성소비자' 기술 도입",
-              "url": "https://n.news.naver.com/mnews/article/016/0002670358?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍺",
-          "title": "국가유산 방문 캠페인 한정판 맥주",
-          "summary": "CU가 국가유산진흥원·세븐브로이와 협력해 한정판 수제맥주를 통해 국가유산 방문 캠페인을 알리며 문화 마케팅 강화.",
+          "title": "AI 합성소비자 기반 신상품 개발",
+          "summary": "BGF리테일이 AI 합성소비자 기술 스타트업 인텔리시아와 MOU를 체결하고 AI 데이터 기반 상품 기획과 매장 운영 혁신에 나서며 리테일 혁신을 주도하고 있다.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "CU, 'K-맥주'로 국가유산 알린다…국가유산진흥원·세븐브로이와 맞손",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311921"
+              "title": "BGF리테일, AI 가상소비자로 신상품 개발 혁신",
+              "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206974"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "♿",
+          "title": "CU 함께가게 중증장애인 일자리 확대",
+          "summary": "한국장애인개발원과 협력한 'CU 함께가게'가 대전에 개점하며 중증장애인에게 안정적인 근무환경을 제공하는 사회공헌 사업을 확대하고 있다.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "한전, 대전 최초 'CU 함께가게' 개점",
+              "url": "http://www.cctimes.kr/news/articleView.html?idxno=916890"
             }
           ],
           "articleCount": 1
@@ -155,51 +150,51 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "⭐",
-          "title": "GS25 간편식 시장 5위 유지",
-          "summary": "GS25가 간편식 브랜드평판 순위 5위를 유지하며 쿠팡·마켓컬리·이마트·롯데마트에 이어 경쟁 중, 일본 돈키호테 250개 매장에서 PB 브랜드 '유어스' 확대 판매.",
+          "emoji": "🦟",
+          "title": "GS25 방충용품 매출 급증 시즌 확대",
+          "summary": "GS25의 방충용품 매출이 493.5% 증가하면서 올해 운영 기간을 10월까지 확대하고 시즌 한정 상품을 추가 기획하는 등 계절 상품 전략을 강화하고 있다.",
           "articleIndices": [
-            1,
-            2
+            2,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "쿠팡 브랜드평판 50% 급등… 간편식 시장 정상 차지",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468431"
+              "title": "폭염·높은 습도에 모기 기승…방충용품 판매도 '껑충'",
+              "url": "https://n.news.naver.com/mnews/article/015/0005310567?sid=101"
             },
             {
-              "title": "[바캉스 소비지도]② 워터파크도 편의점에서?…여행객 잡는 K편의점",
-              "url": "https://n.news.naver.com/mnews/article/138/0002234215?sid=101"
+              "title": "'장마 끝나자 모기 기승'…편의점·마트, 방충용품 매출 최대 15배",
+              "url": "https://n.news.naver.com/mnews/article/421/0009062243?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🍜",
-          "title": "세븐일레븐 퀵커머스 입점 확대",
-          "summary": "배민 퀵커머스에 세븐일레븐이 주요 편의점·SSM 2만개 매장 중 하나로 입점하며 1시간 내 배송 서비스 경쟁 심화.",
+          "emoji": "🍦",
+          "title": "세븐일레븐 글로벌 소싱 프리미엄 디저트",
+          "summary": "세븐일레븐이 일본 오하요유업과 협업한 프리미엄 디저트 아이스크림과 헬로키티 콜라보 그릭요거트를 출시하며 글로벌 소싱으로 양강 구도에서 차별화를 추진하고 있다.",
           "articleIndices": [
-            5
+            6
           ],
           "relatedLinks": [
             {
-              "title": "배달앱·편의점·대형마트도 '퀵커머스' 참전…1시간 내 쏜다 총알배",
-              "url": "https://n.news.naver.com/mnews/article/032/0003458136?sid=101"
+              "title": "세븐일레븐, '요즘그릭요거트X헬로키티마그넷' 단독 출시",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126772"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "이마트24 제헌절 영업 안내",
-          "summary": "이마트24 등 대형마트·편의점이 7월 17일 제헌절 휴무 및 영업시간 조정으로 고객 편의 제공.",
+          "emoji": "🥚",
+          "title": "이마트24 신선란 공급 확대 전략",
+          "summary": "이마트24가 정부의 신선란 추가 수입 정책에 따라 주당 2000만개 규모의 신선란 공급을 추진하며 가격 경쟁력 있는 신선식품 판매로 고객 유입을 강화하고 있다.",
           "articleIndices": [
-            7
+            8
           ],
           "relatedLinks": [
             {
-              "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 7월 17일(금) '제헌절' 대비",
-              "url": "https://www.lecturernews.com/news/articleView.html?idxno=206200"
+              "title": "'계란 30구 5890원→4980원'...미국산 신선란 구매처 어디?",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3637121"
             }
           ],
           "articleCount": 1
@@ -210,35 +205,39 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 디저트 신상품 경쟁",
-          "summary": "연세유업 제주 감성 귤메달, GS더프레시 어촌 상생 장어덮밥 등 편의점 신상품이 다양한 협업과 지역 특색을 담으며 SNS 관심 집중.",
+          "emoji": "🍫",
+          "title": "연세유업 컵 로쉐 신제품 출시",
+          "summary": "연세유업이 초콜릿 시장의 성장세를 반영해 컵 로쉐를 신규 출시하며 편의점 중심의 프리미엄 디저트 시장 점유율 확대를 노린다.",
           "articleIndices": [
-            3,
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의 신상품] GS더프레시, 어촌 상생 '장어덮밥' 출시 外 연세유업·...",
-              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875086"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🌍",
-          "title": "글로벌 F&B 브랜드 한국 시장 진출",
-          "summary": "한국의 빠른 트렌드 순환·높은 미식 관심도로 글로벌 F&B 브랜드들이 한국 시장을 '글로벌 테스트베드'로 활용하며 '한국 인정' 타이틀 경쟁.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "입맛 까다롭고 SNS 즐기는 한국, 세계 식음료 브랜드 격전지로",
-              "url": "https://n.news.naver.com/mnews/article/020/0003733930?sid=101"
+              "title": "'빵 터지더니 초콜릿도 통했네' 연세유업, 이번엔 컵 로쉐 출시",
+              "url": "https://n.news.naver.com/mnews/article/015/0005310571?sid=101"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🥤",
+          "title": "풀무원 '아임리얼100 고농축' 2천만개 돌파",
+          "summary": "풀무원의 '아임리얼100 고농축'이 출시 1년 반 만에 누적 판매 2천만개를 돌파하며 휴대·보관 편의성과 건강 트렌드를 반영한 실온 음료의 성장을 주도하고 있다.",
+          "articleIndices": [
+            5,
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "풀무원 '아임리얼100 고농축', 출시 1년 반 만에 누적 판매 2천만개 돌파",
+              "url": "https://www.ngonews.kr/news/articleView.html?idxno=233049"
+            },
+            {
+              "title": "풀무원, '아임리얼100 고농축' 누적 판매량 2천만 '돌파'",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126770"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     }
