@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-07-15T22:46:00.059Z",
+  "generatedAt": "2026-07-16T22:45:47.486Z",
   "summary": [
-    "BGF리테일, AI 합성소비자 기술로 신상품 개발 혁신 추진",
-    "세븐일레븐, 글로벌 소싱 프리미엄 디저트로 양강 구도 경쟁",
-    "GS25, 방충용품 매출 493.5% 증가로 시즌 상품 운영 확대"
+    "CU, AI 합성소비자로 신제품 검증 시간 단축 및 마케팅 효율화 추진",
+    "배민B마트, 이커머스 최초 수입 신선란 판매로 가격 안정화 정책 동참",
+    "GS25, AI 반려로봇 키링 '에일리코' 출시로 감정 소비 시장 진출"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "고가 브랜드 대체 상품 수요 증가",
-          "summary": "유통업계에서 프리미엄 브랜드와 비교해도 만족도가 높은 대체 상품을 찾는 소비자가 증가하면서 가성비 중심의 구매 패턴이 확산되고 있다.",
+          "emoji": "🧑‍🤝‍🧑",
+          "title": "시니어 시장 확대",
+          "summary": "유통업계가 시니어를 새로운 성장동력으로 인식하며 돌봄과 소비 양면의 마케팅 전략 강화 중.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "스탠리 고민하다 다탠리 샀다",
-              "url": "https://n.news.naver.com/mnews/article/025/0003537958?sid=101"
+              "title": "[그레이 파워⑥] 빈곤율 40% 對 168조…'돌봄과 소비' 시니어의 두 시각",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041608"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "홈플러스 고객 DB 전략적 자산화",
-          "summary": "폐점 직전 홈플러스가 1000만 고객정보를 확보한 것으로 드러나며, 유통업계에서 고객 DB가 맞춤형 마케팅과 사업 매각의 핵심 자산으로 평가받고 있다.",
+          "emoji": "🌡️",
+          "title": "여름철 신제품 경쟁",
+          "summary": "무더위 시즌 맞춰 유통업계가 입맛 겨냥한 신제품 출시로 계절 소비 트렌드 선점 경쟁.",
           "articleIndices": [
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "문 닫기 직전 1000만 고객정보 챙긴 홈플러스",
-              "url": "https://n.news.naver.com/mnews/article/015/0005310544?sid=110"
+              "title": "[푸드다이닝트렌드] '이열치열 vs 이냉치냉, 당신의 취향은?' 초복 맞이...",
+              "url": "https://www.ibabynews.com/news/articleView.html?idxno=152979"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 기반 버티컬 커머스 개인화 경쟁",
-          "summary": "LF몰의 'LF 스타일톡' 등 자연어 기반 AI 쇼핑 에이전트가 버티컬 커머스 시장에서 개인화 쇼핑 경험을 선점하려는 전략으로 확산되고 있다.",
-          "articleIndices": [
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "LF몰, 자연어 기반 AI 쇼핑 에이전트 'LF 스타일톡' 론칭",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=311244"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🌍",
-          "title": "K뷰티 글로벌 이커머스 확장",
-          "summary": "제주삼다수가 중국 징동닷컴에 공식 브랜드관을 개설하는 등 국내 식품·뷰티 브랜드의 해외 이커머스 플랫폼 진출이 가속화되고 있다.",
+          "emoji": "🥚",
+          "title": "배민B마트 수입란 판매",
+          "summary": "배민B마트가 이커머스 최초로 수입 신선란 판매 시작, 정부 가격 안정화 정책에 동참하며 가성비 마케팅 강화.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "제주삼다수, 중국 징동닷컴 브랜드관 공식 오픈",
-              "url": "https://www.ibabynews.com/news/articleView.html?idxno=152932"
+              "title": "CJ프레시웨이 동서식품 롯데칠성음료 外(여기 유통 이슈)",
+              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069622"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "⚠️",
+          "title": "MZ 핫템 안전 이슈",
+          "summary": "쿠팡·네이버쇼핑 등 주요 플랫폼에서 판매 중인 '말랑이' 제품의 안전 기준 미충족 논란으로 온라인 쇼핑 신뢰도 이슈 대두.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "'다래끼에 온몸 발진'…MZ 핫템 '말랑이'의 무서운 배신? [이슈+]",
+              "url": "https://n.news.naver.com/mnews/article/015/0005311005?sid=102"
             }
           ],
           "articleCount": 1
@@ -80,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "물류·배송 AI 생태계 경쟁 심화",
-          "summary": "쿠팡의 로켓배송 이후 네이버 등 이커머스 플랫폼들이 물류와 AI, 멤버십을 결합한 생태계 경쟁으로 진화하면서 배송 전쟁이 본격화되고 있다.",
+          "emoji": "🤖",
+          "title": "AI 합성소비자 도입",
+          "summary": "CU가 인텔리시아의 AI 합성소비자 기술 도입으로 신제품 검증 시간을 3~4주로 단축, 마케팅 효율화 및 트렌드 대응 속도 향상.",
           "articleIndices": [
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "네이버도 물류 승부수...쿠팡이 만든 '배송 전쟁'",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126724"
+              "title": "[인터뷰] CU가 택한 'AI 합성소비자'가 뭐길래… 백승국 인텔리시아 ...",
+              "url": "https://n.news.naver.com/mnews/article/366/0001179882?sid=103"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎬",
-          "title": "숏폼 커머스 AI 타깃팅 고도화",
-          "summary": "SK브로드밴드의 'B tv 핫딜'이 AI 기반 고객 분석과 타깃 고도화를 통해 8개월 만에 판매 60억 달성하며 숏폼 커머스의 AI 활용 사례를 보여주고 있다.",
+          "emoji": "🛍️",
+          "title": "AI 기반 커머스 솔루션",
+          "summary": "글로벌 브랜드의 아마존·틱톡샵 운영을 통합 지원하는 AI 기반 커머스 솔루션 기업 '펄스애드' 등 버티컬 커머스 스타트업 성장.",
           "articleIndices": [
-            8
+            6
           ],
           "relatedLinks": [
             {
-              "title": "숏폼 커머스 'B tv 핫딜'…8개월만에 판매 60억 달성",
-              "url": "https://n.news.naver.com/mnews/article/011/0004642089?sid=105"
+              "title": "디캠프, 배치 3기 디데이 개최···AI 기반 혁신 스타트업 5개사 한자리...",
+              "url": "https://n.news.naver.com/mnews/article/144/0001126661?sid=105"
             }
           ],
           "articleCount": 1
@@ -115,31 +115,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🧠",
-          "title": "AI 합성소비자 기반 신상품 개발",
-          "summary": "BGF리테일이 AI 합성소비자 기술 스타트업 인텔리시아와 MOU를 체결하고 AI 데이터 기반 상품 기획과 매장 운영 혁신에 나서며 리테일 혁신을 주도하고 있다.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "BGF리테일, AI 가상소비자로 신상품 개발 혁신",
-              "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206974"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
           "emoji": "♿",
-          "title": "CU 함께가게 중증장애인 일자리 확대",
-          "summary": "한국장애인개발원과 협력한 'CU 함께가게'가 대전에 개점하며 중증장애인에게 안정적인 근무환경을 제공하는 사회공헌 사업을 확대하고 있다.",
+          "title": "CU 함께가게 대전 개소",
+          "summary": "BGF리테일이 보건복지부·한국장애인개발원과 협력, 대전 첫 'CU편의점 함께가게' 개소로 중증장애인 고용 및 사회공헌 확대.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "한전, 대전 최초 'CU 함께가게' 개점",
-              "url": "http://www.cctimes.kr/news/articleView.html?idxno=916890"
+              "title": "대전 첫 CU편의점 함께가게 개소…중증장애인 2명 채용",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202607161049574207f4ab64559d_12"
             }
           ],
           "articleCount": 1
@@ -150,51 +135,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🦟",
-          "title": "GS25 방충용품 매출 급증 시즌 확대",
-          "summary": "GS25의 방충용품 매출이 493.5% 증가하면서 올해 운영 기간을 10월까지 확대하고 시즌 한정 상품을 추가 기획하는 등 계절 상품 전략을 강화하고 있다.",
+          "emoji": "🌏",
+          "title": "GS25 몽골 시장 확대",
+          "summary": "GS25가 몽골에서 300개 점포를 운영하며 한국 식품 수출 거점으로 기능, 현지화 마케팅으로 청년층 프리미엄 소비 공략.",
           "articleIndices": [
-            2,
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "폭염·높은 습도에 모기 기승…방충용품 판매도 '껑충'",
-              "url": "https://n.news.naver.com/mnews/article/015/0005310567?sid=101"
-            },
-            {
-              "title": "'장마 끝나자 모기 기승'…편의점·마트, 방충용품 매출 최대 15배",
-              "url": "https://n.news.naver.com/mnews/article/421/0009062243?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍦",
-          "title": "세븐일레븐 글로벌 소싱 프리미엄 디저트",
-          "summary": "세븐일레븐이 일본 오하요유업과 협업한 프리미엄 디저트 아이스크림과 헬로키티 콜라보 그릭요거트를 출시하며 글로벌 소싱으로 양강 구도에서 차별화를 추진하고 있다.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "세븐일레븐, '요즘그릭요거트X헬로키티마그넷' 단독 출시",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126772"
+              "title": "K베이커리·짜장면·우유, 몽골로…식품업계 '성장 거점' 향한다",
+              "url": "https://n.news.naver.com/mnews/article/421/0009064803?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥚",
-          "title": "이마트24 신선란 공급 확대 전략",
-          "summary": "이마트24가 정부의 신선란 추가 수입 정책에 따라 주당 2000만개 규모의 신선란 공급을 추진하며 가격 경쟁력 있는 신선식품 판매로 고객 유입을 강화하고 있다.",
+          "emoji": "🤖",
+          "title": "GS25 AI 반려로봇 출시",
+          "summary": "GS25가 가정의 달 맞춰 AI 반려로봇 키링 '에일리코' 출시, 100가지 감정 표현으로 감정 소비 시장 진출 및 MZ층 공략.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "AI 돌봄·공동구독·코리빙…웰컴 투 '외로움 시장' [스페셜리포트]",
+              "url": "https://n.news.naver.com/mnews/article/024/0000106923?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🎬",
+          "title": "이마트24 콘텐츠 IP 협력",
+          "summary": "이마트24가 한국콘텐츠진흥원과 손잡고 국내 콘텐츠 IP 사업화 지원, 편의점 채널을 활용한 콘텐츠 상품화 전략 추진.",
           "articleIndices": [
             8
           ],
           "relatedLinks": [
             {
-              "title": "'계란 30구 5890원→4980원'...미국산 신선란 구매처 어디?",
-              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3637121"
+              "title": "이마트24-한국콘텐츠진흥원, 국내 콘텐츠 산업 성장 지원 위해 '맞손'",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126920"
             }
           ],
           "articleCount": 1
@@ -205,39 +185,39 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍫",
-          "title": "연세유업 컵 로쉐 신제품 출시",
-          "summary": "연세유업이 초콜릿 시장의 성장세를 반영해 컵 로쉐를 신규 출시하며 편의점 중심의 프리미엄 디저트 시장 점유율 확대를 노린다.",
+          "emoji": "📦",
+          "title": "CJ제일제당 가격 인상",
+          "summary": "CJ제일제당이 햇반·만두·생선구이 등 20여 개 제품 평균 8% 인상하되, 편의점 젊은 소비층 대표 품목인 햇반 컵반·디저트는 제외로 타겟 마케팅 전략.",
           "articleIndices": [
-            1
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'빵 터지더니 초콜릿도 통했네' 연세유업, 이번엔 컵 로쉐 출시",
-              "url": "https://n.news.naver.com/mnews/article/015/0005310571?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🥤",
-          "title": "풀무원 '아임리얼100 고농축' 2천만개 돌파",
-          "summary": "풀무원의 '아임리얼100 고농축'이 출시 1년 반 만에 누적 판매 2천만개를 돌파하며 휴대·보관 편의성과 건강 트렌드를 반영한 실온 음료의 성장을 주도하고 있다.",
-          "articleIndices": [
-            5,
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "풀무원 '아임리얼100 고농축', 출시 1년 반 만에 누적 판매 2천만개 돌파",
-              "url": "https://www.ngonews.kr/news/articleView.html?idxno=233049"
+              "title": "결국 햇반도 가격 오르네… CJ제일제당, 햇반·만두·생선구이 등 20여개...",
+              "url": "https://www.wikitree.co.kr/articles/1146926"
             },
             {
-              "title": "풀무원, '아임리얼100 고농축' 누적 판매량 2천만 '돌파'",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126770"
+              "title": "CJ제일제당, 햇반·만두 가격 평균 8% 인상… 소비자 장바구니 부담 커진...",
+              "url": "https://www.dailyt.co.kr/newsView/dlt202607160009"
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "🍜",
+          "title": "F&B 트렌드 변화",
+          "summary": "1~2인 가구 소비 트렌드에 맞춘 피자 사이즈 조정, 원료 지역성 강조 등 K-로컬 F&B 브랜드 재해석으로 현대적 라이프스타일 마케팅 강화.",
+          "articleIndices": [
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "[유통레이더] LG생활건강, 신세계백화점, BBQ, CJ프레시웨이, 현대홈쇼핑...",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386561"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     }
