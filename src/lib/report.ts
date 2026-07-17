@@ -77,8 +77,18 @@ async function fetchNaverNews(keyword: string): Promise<any[]> {
   const cutoff = new Date();
   cutoff.setDate(cutoff.getDate() - NEWS_DAYS);
 
-  return (data.items || [])
-    .filter((item: any) => new Date(item.pubDate) >= cutoff)
+  let items = (data.items || []).filter((item: any) => new Date(item.pubDate) >= cutoff);
+
+  // 'CU'는 검색어가 짧아 무관한 기사가 많이 섞인다. 날짜순 상위 N개로 자르기 전에
+  // 제목 관련성으로 먼저 걸러야 진짜 당사 이슈 기사가 잘려나가지 않는다.
+  if (keyword === 'CU' || keyword === 'BGF리테일') {
+    items = items.filter((item: any) => {
+      const title = cleanText(item.title);
+      return title.includes('CU') || title.includes('BGF리테일');
+    });
+  }
+
+  return items
     .slice(0, MAX_PER_KEYWORD)
     .map((item: any) => ({
       title: cleanText(item.title),
@@ -185,7 +195,7 @@ IMPORTANCE RANKING:
 - For 'AI 트렌드': output EXACTLY 2 issues. Each must be a clearly distinct topic.
 - For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant article for each brand.
 - For '상품 이슈': output EXACTLY 2 issues. Focus on products going viral on SNS or generating strong consumer buzz. Prioritize new launches, limited-edition collabs, and trending items.
-- For '당사 이슈': output 1 to 2 issues about CU or BGF리테일 only. Each must be a clearly distinct topic. Do NOT include issues about competitors.
+- For '당사 이슈': output 1 to 3 issues about CU or BGF리테일 only. Each must be a clearly distinct topic. Do NOT include issues about competitors.
 - If a category lacks enough distinct relevant articles to meet the required count, output as many valid issues as possible rather than forcing irrelevant ones.
 
 For each issue, provide:
@@ -244,12 +254,6 @@ export async function generateReport(): Promise<ReportData> {
       }
     }
   }
-
-  // 당사 이슈: CU 또는 BGF리테일이 제목에 포함된 기사만 AI에 전달
-  categorizedNews['당사 이슈'] = categorizedNews['당사 이슈'].filter(
-    item => item.title.includes('CU') || item.title.includes('BGF리테일')
-  );
-
 
   const promptData = Object.entries(categorizedNews).map(([catName, news]) => {
     return `Category: ${catName}\nNews Articles:\n` +
