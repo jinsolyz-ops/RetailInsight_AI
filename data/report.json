@@ -1,18 +1,33 @@
 {
-  "generatedAt": "2026-07-16T22:45:47.486Z",
+  "generatedAt": "2026-07-17T09:41:18.772Z",
   "summary": [
-    "CU, AI 합성소비자로 신제품 검증 시간 단축 및 마케팅 효율화 추진",
-    "배민B마트, 이커머스 최초 수입 신선란 판매로 가격 안정화 정책 동참",
-    "GS25, AI 반려로봇 키링 '에일리코' 출시로 감정 소비 시장 진출"
+    "CU, AI 합성소비자로 신제품 개발 혁신 추진",
+    "GS25 셰프 콜라보 김밥으로 연 20% 이상 성장세 지속",
+    "유통업계 전반 AI 에이전트 도입으로 업무 혁신 가속화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🧑‍🤝‍🧑",
-          "title": "시니어 시장 확대",
-          "summary": "유통업계가 시니어를 새로운 성장동력으로 인식하며 돌봄과 소비 양면의 마케팅 전략 강화 중.",
+          "emoji": "🤖",
+          "title": "AI 에이전트 도입 본격화",
+          "summary": "유통업계가 상품 기획, 마케팅, 고객 추천, 매장 운영 등 핵심 업무에 AI를 적용하며 생산성과 고객 경험 개선을 동시에 추진 중.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "'업무 혁신' 유통家, 'AI 에이전트' 도입 본격화",
+              "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7173721"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "👵",
+          "title": "시니어 시장 성장동력화",
+          "summary": "유통업계가 시니어 시장을 외연 확장과 새로운 성장동력으로 인식하며 맞춤형 상품과 서비스 개발에 집중.",
           "articleIndices": [
             2
           ],
@@ -20,21 +35,6 @@
             {
               "title": "[그레이 파워⑥] 빈곤율 40% 對 168조…'돌봄과 소비' 시니어의 두 시각",
               "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041608"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🌡️",
-          "title": "여름철 신제품 경쟁",
-          "summary": "무더위 시즌 맞춰 유통업계가 입맛 겨냥한 신제품 출시로 계절 소비 트렌드 선점 경쟁.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "[푸드다이닝트렌드] '이열치열 vs 이냉치냉, 당신의 취향은?' 초복 맞이...",
-              "url": "https://www.ibabynews.com/news/articleView.html?idxno=152979"
             }
           ],
           "articleCount": 1
@@ -46,8 +46,8 @@
       "issues": [
         {
           "emoji": "🥚",
-          "title": "배민B마트 수입란 판매",
-          "summary": "배민B마트가 이커머스 최초로 수입 신선란 판매 시작, 정부 가격 안정화 정책에 동참하며 가성비 마케팅 강화.",
+          "title": "배민B마트 수입 신선란 판매",
+          "summary": "배달의민족의 퀵커머스 배민B마트가 이커머스 최초로 수입 신선란 판매를 시작하며 정부 농축산물 가격 안정화 정책에 동참.",
           "articleIndices": [
             3
           ],
@@ -61,8 +61,8 @@
         },
         {
           "emoji": "⚠️",
-          "title": "MZ 핫템 안전 이슈",
-          "summary": "쿠팡·네이버쇼핑 등 주요 플랫폼에서 판매 중인 '말랑이' 제품의 안전 기준 미충족 논란으로 온라인 쇼핑 신뢰도 이슈 대두.",
+          "title": "MZ 핫템 안전성 논란",
+          "summary": "쿠팡, 네이버쇼핑 등에서 판매 중인 '말랑이' 등 제품이 피부 발진 유발 논란으로 국내 안전기준 충족 여부 검증 필요성 대두.",
           "articleIndices": [
             5
           ],
@@ -80,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 합성소비자 도입",
-          "summary": "CU가 인텔리시아의 AI 합성소비자 기술 도입으로 신제품 검증 시간을 3~4주로 단축, 마케팅 효율화 및 트렌드 대응 속도 향상.",
+          "emoji": "🧠",
+          "title": "합성소비자 신제품 개발 활용",
+          "summary": "유통기업들이 AI 기반 가상 고객 '합성소비자'를 활용해 신제품 출시와 시장 조사 효율성을 높이는 추세 확산.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[인터뷰] CU가 택한 'AI 합성소비자'가 뭐길래… 백승국 인텔리시아 ...",
-              "url": "https://n.news.naver.com/mnews/article/366/0001179882?sid=103"
+              "title": "'합성소비자'를 아십니까",
+              "url": "https://n.news.naver.com/mnews/article/015/0005311059?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "AI 기반 커머스 솔루션",
-          "summary": "글로벌 브랜드의 아마존·틱톡샵 운영을 통합 지원하는 AI 기반 커머스 솔루션 기업 '펄스애드' 등 버티컬 커머스 스타트업 성장.",
+          "emoji": "💄",
+          "title": "올리브영 AI 메이크업 분석 서비스",
+          "summary": "올리브영이 AI 메이크업 분석, 3D 피부 진단, 뷰티 디바이스 체험 등 개인 맞춤형 프로그램으로 오프라인 매장 체험 콘셉트 강화.",
           "articleIndices": [
-            6
+            4
           ],
           "relatedLinks": [
             {
-              "title": "디캠프, 배치 3기 디데이 개최···AI 기반 혁신 스타트업 5개사 한자리...",
-              "url": "https://n.news.naver.com/mnews/article/144/0001126661?sid=105"
+              "title": "'이젠 직접 써보고 산다'…K뷰티 놀이터 만든 올리브영 [강윤지의 유통...]",
+              "url": "https://n.news.naver.com/mnews/article/015/0005311039?sid=101"
             }
           ],
           "articleCount": 1
@@ -115,19 +115,44 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "♿",
-          "title": "CU 함께가게 대전 개소",
-          "summary": "BGF리테일이 보건복지부·한국장애인개발원과 협력, 대전 첫 'CU편의점 함께가게' 개소로 중증장애인 고용 및 사회공헌 확대.",
+          "emoji": "🤖",
+          "title": "AI 합성소비자 신제품 개발",
+          "summary": "BGF리테일이 AI 스타트업 인텔리시아와 협력해 실제 소비자 조사 없이 AI 합성소비자로 신제품 반응을 검증하는 혁신 추진.",
           "articleIndices": [
-            3
+            1,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "[인터뷰] CU가 택한 'AI 합성소비자'가 뭐길래… 백승국 인텔리시아 ...",
+              "url": "https://n.news.naver.com/mnews/article/366/0001179882?sid=103"
+            },
+            {
+              "title": "BGF리테일, AI 가상소비자로 신상품 개발 혁신",
+              "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206974"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "♿",
+          "title": "CU 함께가게 대전 개점",
+          "summary": "BGF리테일이 한국장애인개발원과 협력해 대전 최초 'CU 함께가게'를 개점하며 중증장애인 일자리 창출 추진.",
+          "articleIndices": [
+            4,
+            6
           ],
           "relatedLinks": [
             {
               "title": "대전 첫 CU편의점 함께가게 개소…중증장애인 2명 채용",
               "url": "http://www.lawissue.co.kr/view.php?ud=202607161049574207f4ab64559d_12"
+            },
+            {
+              "title": "한전, 대전 최초 'CU 함께가게' 개점",
+              "url": "http://www.cctimes.kr/news/articleView.html?idxno=916890"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -135,31 +160,31 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "GS25 몽골 시장 확대",
-          "summary": "GS25가 몽골에서 300개 점포를 운영하며 한국 식품 수출 거점으로 기능, 현지화 마케팅으로 청년층 프리미엄 소비 공략.",
+          "emoji": "🍙",
+          "title": "GS25 셰프 콜라보 김밥 성장",
+          "summary": "GS25가 흑백요리사 우승자 등 유명 셰프와 협력한 김밥으로 연 20% 이상 성장세를 지속하며 편의점 식사 시장 주도.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "K베이커리·짜장면·우유, 몽골로…식품업계 '성장 거점' 향한다",
-              "url": "https://n.news.naver.com/mnews/article/421/0009064803?sid=101"
+              "title": "흑백요리사 우승자 손맛을 단돈 3천 원에... 요즘 편의점서 품절 대란 난...",
+              "url": "https://www.wikitree.co.kr/articles/1147002"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "GS25 AI 반려로봇 출시",
-          "summary": "GS25가 가정의 달 맞춰 AI 반려로봇 키링 '에일리코' 출시, 100가지 감정 표현으로 감정 소비 시장 진출 및 MZ층 공략.",
+          "emoji": "🌍",
+          "title": "세븐일레븐 폴란드 편의점 인수 검토",
+          "summary": "세븐앤아이홀딩스가 폴란드 편의점 시장 최대 유통 기업 인수를 검토하며 유럽 시장 확장 가속화.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "AI 돌봄·공동구독·코리빙…웰컴 투 '외로움 시장' [스페셜리포트]",
-              "url": "https://n.news.naver.com/mnews/article/024/0000106923?sid=101"
+              "title": "닛케이지수 4% 대폭락 6만 4000엔 붕괴…고점 대비 10% 밀려 조정국면",
+              "url": "https://www.g-enews.com/view.php?ud=202607171716049107e7e8286d56_1"
             }
           ],
           "articleCount": 1
@@ -167,14 +192,18 @@
         {
           "emoji": "🎬",
           "title": "이마트24 콘텐츠 IP 협력",
-          "summary": "이마트24가 한국콘텐츠진흥원과 손잡고 국내 콘텐츠 IP 사업화 지원, 편의점 채널을 활용한 콘텐츠 상품화 전략 추진.",
+          "summary": "이마트24가 한국콘텐츠진흥원과 협력해 국내 콘텐츠 IP를 활용한 상품 개발 및 유통망 구축으로 차별화 추진.",
           "articleIndices": [
-            8
+            6
           ],
           "relatedLinks": [
             {
-              "title": "이마트24-한국콘텐츠진흥원, 국내 콘텐츠 산업 성장 지원 위해 '맞손'",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126920"
+              "title": "이마트24·콘진원, 콘텐츠 IP 업무협약",
+              "url": "https://n.news.naver.com/mnews/article/015/0005311096?sid=102"
+            },
+            {
+              "title": "이마트24와 콘진원 협력…국내 콘텐츠 산업 성장 가속화",
+              "url": "https://www.gokorea.kr/news/articleView.html?idxno=872283"
             }
           ],
           "articleCount": 1
@@ -185,36 +214,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "CJ제일제당 가격 인상",
-          "summary": "CJ제일제당이 햇반·만두·생선구이 등 20여 개 제품 평균 8% 인상하되, 편의점 젊은 소비층 대표 품목인 햇반 컵반·디저트는 제외로 타겟 마케팅 전략.",
+          "emoji": "🌶️",
+          "title": "편의점 도시락 가격 인상",
+          "summary": "CJ제일제당, 사조그룹 등이 원가 부담으로 도시락 가격을 인상하되, 청년층 이용 제품은 제외하며 타겟별 차별화 전략 추진.",
           "articleIndices": [
-            2,
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "CJ제일제당·사조그룹 등 가격 인상…'원가 부담'",
+              "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005881292"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥗",
+          "title": "여름철 신제품 출시 경쟁",
+          "summary": "유통업계가 초복 시즌을 겨냥해 '이열치열' 및 '이냉치냉' 등 여름철 입맛 공략 신제품을 잇따라 출시하며 계절 마케팅 강화.",
+          "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "결국 햇반도 가격 오르네… CJ제일제당, 햇반·만두·생선구이 등 20여개...",
-              "url": "https://www.wikitree.co.kr/articles/1146926"
-            },
-            {
-              "title": "CJ제일제당, 햇반·만두 가격 평균 8% 인상… 소비자 장바구니 부담 커진...",
-              "url": "https://www.dailyt.co.kr/newsView/dlt202607160009"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍜",
-          "title": "F&B 트렌드 변화",
-          "summary": "1~2인 가구 소비 트렌드에 맞춘 피자 사이즈 조정, 원료 지역성 강조 등 K-로컬 F&B 브랜드 재해석으로 현대적 라이프스타일 마케팅 강화.",
-          "articleIndices": [
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "[유통레이더] LG생활건강, 신세계백화점, BBQ, CJ프레시웨이, 현대홈쇼핑...",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386561"
+              "title": "[푸드다이닝트렌드] '이열치열 vs 이냉치냉, 당신의 취향은?' 초복 맞이...",
+              "url": "https://www.ibabynews.com/news/articleView.html?idxno=152979"
             }
           ],
           "articleCount": 1
