@@ -195,7 +195,7 @@ IMPORTANCE RANKING:
 - For 'AI 트렌드': output EXACTLY 2 issues. Each must be a clearly distinct topic.
 - For '경쟁사 이슈': output EXACTLY 3 issues — one each for 'GS25', '세븐일레븐', '이마트24'. Pick the single most marketing-relevant article for each brand.
 - For '상품 이슈': output EXACTLY 2 issues. Focus on products going viral on SNS or generating strong consumer buzz. Prioritize new launches, limited-edition collabs, and trending items.
-- For '당사 이슈': output 1 to 2 issues about CU or BGF리테일 only. Each must be a clearly distinct topic. Do NOT include issues about competitors.
+- For '당사 이슈': output 1 to 3 issues about CU or BGF리테일 only. Each must be a clearly distinct topic. Do NOT include issues about competitors.
 - If a category lacks enough distinct relevant articles to meet the required count, output as many valid issues as possible rather than forcing irrelevant ones.
 
 For each issue, provide:

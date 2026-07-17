@@ -107,7 +107,7 @@ export default function ReportDisplay({ report }: { report: ReportData | null })
                 <div className="flex-1 h-px bg-slate-200" />
               </div>
 
-              <div className={`grid grid-cols-1 ${category.name === '경쟁사 이슈' ? 'md:grid-cols-3' : 'md:grid-cols-2'} gap-6 lg:gap-8`}>
+              <div className={`grid grid-cols-1 ${category.issues.length >= 3 ? 'md:grid-cols-3' : 'md:grid-cols-2'} gap-6 lg:gap-8`}>
                 {category.issues.map((issue, issueIdx) => (
                   <IssueCard key={issueIdx} issue={issue} />
                 ))}
