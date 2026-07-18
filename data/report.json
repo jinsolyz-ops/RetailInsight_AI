@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T22:37:41.461Z",
+  "generatedAt": "2026-07-18T22:36:35.117Z",
   "summary": [
-    "CU, AI 합성소비자로 신제품 출시 전 소비자 반응 사전 검증 시작",
-    "GS25 폭염 대응 '현차는 빵빵' 아이스크림 출시로 계절 마케팅 강화",
-    "세븐일레븐, 폴란드 1위 편의점 자브카 지분 인수 추진해 유럽 시장 공략"
+    "CU, 합성소비자 AI 마케팅으로 러너박스 성공 확대",
+    "세븐일레븐 수박 스무디·천원 주류 시리즈로 여름 한정판 경쟁 주도",
+    "GS25 맛살 돈쭐 캠페인으로 전년 대비 70% 매출 증가"
   ],
   "categories": [
     {
@@ -11,30 +11,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 소비자 참여형 마케팅",
-          "summary": "유통업계가 생성형 AI를 광고 제작을 넘어 소비자 얼굴·목소리·문구를 반영한 맞춤형 콘텐츠 제작에 활용하며 참여형 마케팅으로 확산 중.",
+          "title": "AI 합성소비자 마케팅 확산",
+          "summary": "CU가 합성소비자를 활용한 상품 기획으로 러너박스 성공을 거둔 후 협력 확대, 유통업계 전반으로 AI 기반 마케팅 고도화 추진 중.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "\"치킨 광고도 AI가 만든다\"…식품업계, 소비자 참여형 마케팅 확산",
-              "url": "https://n.news.naver.com/mnews/article/022/0004143942?sid=101"
+              "title": "통역·매장안내는 기본, 가상소비자까지 등장…유통가 구석구석 AI 확산",
+              "url": "https://n.news.naver.com/mnews/article/011/0004642685?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "👵",
-          "title": "시니어 시장 성장동력화",
-          "summary": "유통업계가 시니어 시장을 외연 확장과 새로운 성장동력으로 인식하며 CJ제일제당, 대상, 풀무원 등 대형 식품기업들이 시니어 타겟 전략 강화 중.",
+          "emoji": "🌍",
+          "title": "K-팝 관광객 겨냥 체험 마케팅",
+          "summary": "러시안 MZ 관광객을 대상으로 즉석 라면 조리 체험 설치, 한강라면·라면카페 분위기 재현으로 편의점 간편식 판매 촉진.",
           "articleIndices": [
-            4
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[그레이 파워⑥] 빈곤율 40% 對 168조…'돌봄과 소비' 시니어의 두 시각",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041608"
+              "title": "[푸드컬처N] K-팝 보러 온 '러시안 MZ'… 라면 끓이고 김밥 맛봤다",
+              "url": "https://www.nc.press/news/articleView.html?idxno=621071"
             }
           ],
           "articleCount": 1
@@ -45,26 +45,26 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "배민B마트 수입 신선란 판매",
-          "summary": "우아한형제들의 배달의민족 퀵커머스 서비스 배민B마트가 이커머스 최초로 수입 신선란 판매를 시작하며 정부 농축산물 가격 안정화 정책에 동참.",
+          "emoji": "📊",
+          "title": "고농축 음료 온라인 판매 성장",
+          "summary": "풀무원 '아임리얼100'이 5~6월 '과일보다 찐한 과일' 캠페인으로 주요 온라인 쇼핑몰 음료 상위권 진입, 고농축 음료 검색량 주도.",
           "articleIndices": [
-            3
+            2
           ],
           "relatedLinks": [
             {
-              "title": "CJ프레시웨이 동서식품 롯데칠성음료 外(여기 유통 이슈)",
-              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069622"
+              "title": "[F&B핫이슈] 풀무원 '아임리얼100' 판매 성과·제스프리, 식습관 캠페인...",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=752514"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "⚠️",
-          "title": "MZ 핫템 안전 이슈",
-          "summary": "쿠팡·네이버쇼핑 등 국내 온라인 쇼핑몰과 알리익스프레스·테무 등 중국계 플랫폼에서 판매 중인 '말랑이' 제품이 피부 부작용 논란으로 국내 안전기준 충족 여부 검증 필요.",
+          "title": "MZ 핫템 안전성 논란",
+          "summary": "말랑이·왁뿌볼 등 MZ 인기 제품이 쿠팡·네이버쇼핑·테무 등 온라인 플랫폼에서 국내 안전기준 미충족 우려로 소비자 신뢰 이슈 발생.",
           "articleIndices": [
-            5
+            3
           ],
           "relatedLinks": [
             {
@@ -80,31 +80,16 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "합성소비자 신제품 검증",
-          "summary": "유통기업이 실제 인간의 행동·취향·의사결정을 모방한 AI 기반 가상 고객 '합성소비자'를 활용해 신제품 출시 및 시장 조사 시 소비자 반응을 사전 검증.",
+          "emoji": "💬",
+          "title": "대화형 커머스 AI 전환 가속",
+          "summary": "유통업계가 고객 상담·상품 추천을 넘어 임직원 업무 방식을 AI 중심으로 재편하는 'AX(AI 전환)'에 속도, BMW 챗GPT 차량 구성 서비스 등 생성형 AI 구매 의사결정 지원 단계로 진화.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "합성소비자가 뭐죠",
-              "url": "https://n.news.naver.com/mnews/article/015/0005311059?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🤖",
-          "title": "인건비 상승 대응 로봇 도입",
-          "summary": "최저임금 인상으로 유통·외식업계가 AI와 로봇 활용을 선택이 아닌 필수 전략으로 인식하며 사람과 AI·로봇이 업무를 분담하는 운영 모델 확산 예상.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "최저임금 1만700원 시대 눈앞···외식·유통업 '알바 대신 로봇 씁니다'",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=140310"
+              "title": "'AI가 일하는 방식을 바꾼다'…유통업계 AX 전환 가속",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386657"
             }
           ],
           "articleCount": 1
@@ -115,46 +100,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🧠",
-          "title": "AI 합성소비자 신제품 검증",
-          "summary": "CU를 운영하는 BGF리테일이 AI 스타트업 인텔리시아와 협력해 신제품·가격 책정 시 실제 소비자 조사 없이 AI 합성소비자의 반응을 먼저 검증하는 혁신적 상품 개발 프로세스 도입.",
+          "emoji": "🏃",
+          "title": "러너박스 출시 및 AI 마케팅",
+          "summary": "CU가 러닝 열풍 겨냥해 에너지젤·닭가슴살 등 러너 맞춤형 패키지 '러너박스' 출시, 합성소비자 AI 마케팅으로 성과 확인 후 협력 확대.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[인터뷰] CU가 택한 'AI 합성소비자'가 뭐길래… 백승국 인텔리시아 ...",
-              "url": "https://n.news.naver.com/mnews/article/366/0001179882?sid=103"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "❤️",
-          "title": "CU 직원 K-친절 포상",
-          "summary": "인천공항 CU 상주직원 한정호씨가 일본 관광객을 감동시킨 친절 서비스로 인천국제공항공사 특별유공포상 수여, 브랜드 이미지 제고.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "일본 관광객도 감동시킨 인천공항 K-친절 주인공 '편의점 CU 한정호·타...",
-              "url": "https://n.news.naver.com/mnews/article/117/0004085324?sid=103"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "♿",
-          "title": "CU 함께가게 대전 개소",
-          "summary": "BGF리테일이 보건복지부, 한국장애인개발원과 협력해 대전광역시에 첫 'CU편의점 함께가게' 개소, 중증장애인 2명 채용으로 사회공헌 강화.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "대전 첫 CU편의점 함께가게 개소…중증장애인 2명 채용",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202607161049574207f4ab64559d_12"
+              "title": "러닝에 진심인 CU, 이번엔 식단까지 챙긴다…'러너박스' 출시",
+              "url": "https://n.news.naver.com/mnews/article/003/0014073281?sid=101"
             }
           ],
           "articleCount": 1
@@ -165,51 +120,51 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "GS25 폭염 대응 아이스크림",
-          "summary": "GS25가 현대자동차와 협력해 샌드형 아이스크림 '현차는 빵빵' 출시 및 폭염 기간 이틀간 얼음컵 100만개 판매 기록하며 계절 마케팅 강화.",
+          "emoji": "🔥",
+          "title": "GS25 맛살 돈쭐 캠페인 성공",
+          "summary": "GS25 맛살이 소비자 '돈쭐내기' 캠페인으로 지난 6~12일 전년 동기 대비 70.6% 매출 증가, CU도 53.8% 증가로 편의점 간편식 판매 급증.",
           "articleIndices": [
-            1,
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "폭염에 편의점서 '이것' 불티…이틀간 100만개 팔렸다는데[지금사는방식...",
-              "url": "https://n.news.naver.com/mnews/article/277/0005791325?sid=101"
-            },
-            {
-              "title": "'폭염 비상구는 여기'…편의점도 뛰어든 냉동실 '빙과 전쟁'",
-              "url": "https://n.news.naver.com/mnews/article/629/0000516958?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🌍",
-          "title": "세븐일레븐 폴란드 시장 진출",
-          "summary": "세븐일레븐 운영사 세븐앤드아이가 폴란드 1위 편의점 체인 자브카 지분 인수를 추진하며 일본·미국 중심 사업 구조에서 벗어나 유럽 시장 공략 가속화.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "'일본·미국은 좁다'...세븐일레븐, 폴란드 1위 편의점 투자 추진",
-              "url": "https://n.news.naver.com/mnews/article/092/0002430918?sid=105"
+              "title": "상폐 위기 맛살·볼펜 불티 반전…소비자 '돈쭐내기'가 일으켰다",
+              "url": "https://n.news.naver.com/mnews/article/001/0016201518?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌏",
-          "title": "이마트 몽골 K-푸드 판매망",
-          "summary": "롯데칠성음료가 2024년 몽골 시장 진출 후 현지 대형마트·이마트·CU·GS25 등 한국계 유통채널 중심으로 판매망 확대해 약 2000개 판매처 구축.",
+          "emoji": "🍉",
+          "title": "세븐일레븐 여름 한정판 경쟁",
+          "summary": "세븐일레븐이 수박 함량 94% '수박 스무디'와 천원 시리즈 3탄 '호스터프리미엄' 출시로 여름 성수기 주류·음료 판매 주도.",
           "articleIndices": [
-            2
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "\"몽탄에 부는 K-푸드 바람\"…신흥시장 공략 속도",
-              "url": "https://www.asiatime.co.kr/article/20260716500281"
+              "title": "\"수박 94% 스무디부터 장어 한 마리까지\"…유통가, 여름 한정판 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/022/0004144041?sid=101"
+            },
+            {
+              "title": "세븐일레븐, 하절기 주류 천원 시리즈 3탄 '호스터프리미엄' 선봬",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=126926"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🌡️",
+          "title": "GS25 여름철 근로자 건강 관리",
+          "summary": "GS25·GS더프레시가 35도 이상 옥외작업 중단 정책 시행, 상품 무작위 검사·냉장설비 스마트 모니터링으로 여름철 식품 안전성 강화.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"35도 넘으면 옥외작업 중단\"…유통가, 여름철 근로자 건강 지킨다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004144040?sid=101"
             }
           ],
           "articleCount": 1
@@ -220,24 +175,34 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "CJ제일제당 가공식품 가격 인상",
-          "summary": "CJ제일제당이 햇반·만두 등 27개 품목 가격을 평균 8% 인상하되 편의점 판매 비중이 높은 햇반 컵반·디저트는 가격 동결하며 소비자 부담 완화 전략 추진.",
+          "emoji": "🍰",
+          "title": "CU 깨먹는 하트티라미수 대박",
+          "summary": "CU가 연세우유와 협업한 '깨먹는 하트티라미수'가 출시 6일 만에 냉장 디저트 매출 1위, 일주일 만에 누적 판매량 15만개 돌파로 식감 트렌드 주도.",
           "articleIndices": [
-            2,
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "카레·햇반·참치캔까지…가공식품 '도미노' 인상에 서민 시름 커져",
-              "url": "https://n.news.naver.com/mnews/article/005/0001861678?sid=101"
-            },
-            {
-              "title": "CJ제일제당, 햇반·만두 등 27개 품목 가격 인상…30일부터 평균 8% 조정",
-              "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=60997"
+              "title": "\"면은 탱글, 김은 바삭, 빵은 와그작\"…요즘 먹거리는 '식감'으로 ...",
+              "url": "https://n.news.naver.com/mnews/article/022/0004144039?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍈",
+          "title": "K과일 참외 일본 수출 폭발",
+          "summary": "한국산 참외(chamoe)가 일본에서 인기 폭발, 수출 증가로 K과일 트렌드가 내수 리테일 시장에도 영향을 주며 참외 시장 질적 선순환 구조 형성.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "'한국 과일' 일본서 난리났다…인기폭발한 'chamoe' 정체 [트렌드+]",
+              "url": "https://n.news.naver.com/mnews/article/015/0005311244?sid=101"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     }
