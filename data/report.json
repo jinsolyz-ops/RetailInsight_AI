@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-07-19T22:39:29.952Z",
+  "generatedAt": "2026-07-20T22:44:52.380Z",
   "summary": [
-    "CU, 코너 맥그리거 흑맥주·제철 비빔밥 출시로 셀럽 협업·제철식 트렌드 선도",
-    "세븐일레븐 천원 시리즈 3탄 호스터프리미엄 출시, 누적 450만 캔 판매로 가성비 주류 시장 장악",
-    "CU, AI 가상 소비자로 신상품 사전 검증하며 편의점 상품 기획 혁신"
+    "CU, 서울시와 'SEOUL MY SOUL 건강 간편식' 5종 출시로 헬시플레저 전략 강화",
+    "GS·CU, AI 도입으로 현업 밀착형 리테일테크 경쟁 본격화",
+    "컬리 '스타일노트', TPO 맞춤형 패션 큐레이션으로 버티컬커머스 고도화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🍶",
-          "title": "전통주 차별화 전략",
-          "summary": "GS25·CU·롯데백화점 등 유통사들이 지역 양조장 협업·체험형 키트·팝업스토어로 전통주를 차별화 상품으로 적극 활용 중.",
+          "emoji": "🌍",
+          "title": "현대백화점 글로벌 CX",
+          "summary": "현대백화점이 외국인 고객을 직접 참여시키는 '글로벌 CX 어드바이저' 운영으로 국내 백화점 업계 최초 고객 체험 기반 서비스 혁신 추진.",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "전통주 인기라는데 출고액은 2년 연속 감소⋯ 이유는?",
-              "url": "https://www.viva100.com/article/20260719500410"
+              "title": "[이슈] 현대백화점, 외국인 '직접' 서비스 만든다…글로벌 CX 고도화 나...",
+              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807152"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "AI 기반 유통 혁신",
-          "summary": "농식품유통업계가 AI 기술을 단순 도입을 넘어 운영 방식 자체를 AI 중심으로 재설계하는 AX(AI Transformation) 전략 추진 중.",
+          "emoji": "🎯",
+          "title": "롯데·신세계 K패션 플랫폼",
+          "summary": "롯데백화점 'K패션 플랫폼 넥스트랩'과 신세계백화점 '아카데미 가을학기'로 브랜드 성장과 고객 경험 확대 경쟁 심화.",
           "articleIndices": [
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[Issue+] 농식품유통도 인공지능전환(AX)에 대응하라",
-              "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=324671"
+              "title": "롯데百, K패션 플랫폼 '넥스트랩'...신세계百, 아카데미 가을학기 오픈",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=752998"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "카카오 옴니AI 커머스 진출",
-          "summary": "카카오가 자체개발 옴니AI 'Kanana-o'를 통해 외부 버티컬 커머스 파트너와 연동한 에이전트 서비스 검증 중, 3분기 내 공개 예상.",
+          "emoji": "🎨",
+          "title": "컬리 스타일노트 성공",
+          "summary": "컬리의 TPO 맞춤형 패션 큐레이션 콘텐츠 '스타일노트'가 3040 라이프스타일 저격으로 버티컬커머스 시장 확대 견인.",
           "articleIndices": [
-            6
+            8,
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "컬리, TPO 맞춤형 패션 큐레이션 콘텐츠 '스타일노트' 흥행 성공",
+              "url": "https://www.cnbizm.com/news/articleView.html?idxno=308956"
+            },
+            {
+              "title": "컬리, TPO 패션 특화 콘텐츠 '스타일노트' 인기…'3040 라이프스타일 저...",
+              "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114722"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🤖",
+          "title": "AI 에이전트 쇼핑 혁신",
+          "summary": "카카오 'Kanana-o' 등 AI 에이전트가 쇼핑 효율과 고객 경험을 판도 변화시키며 국내 유통가 AI 전환 경쟁 가속화.",
+          "articleIndices": [
+            9
           ],
           "relatedLinks": [
             {
               "title": "카카오, 자체개발 옴니AI 'Kanana-o' 소개영상 공개",
               "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356114"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "⚠️",
-          "title": "쿠팡 물류센터 화재 책임론",
-          "summary": "쿠팡 물류센터 대형 화재로 인명 피해 및 정보보호 문제가 제기되며 국민적 신뢰 이슈 발생.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[검머외 멍게 쿠팡②] 전국 쿠팡시설들 만행中",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=266960"
             }
           ],
           "articleCount": 1
@@ -80,39 +85,34 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "AI 기반 창고 자동화 확산",
-          "summary": "미국·일본 유통·창고업계에서 로봇 100만대 규모의 AI 기반 관제 모델 '딥플릿' 적용으로 물류 혁신 가속화, 응답 기업 52%가 이미 로봇 도입.",
+          "emoji": "🛒",
+          "title": "편의점 AI 실험실 경쟁",
+          "summary": "GS·CU 등 편의점 리딩 기업들이 현업 밀착형 AI 도입으로 데이터 기반 리테일테크 강화 경쟁 본격화.",
           "articleIndices": [
-            2
+            10
           ],
           "relatedLinks": [
             {
-              "title": "[비바100] 美·日 창고 지각변동, 로봇 100만대의 거침없는 역습",
-              "url": "https://www.viva100.com/article/20260718500179"
+              "title": "'편의점은 인공지능 실험실'… GS·CU, AI 도입으로 현업 성과 이끈다",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=422899"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "백화점 외국인 매출 AI 서비스",
-          "summary": "백화점 3사가 외국인 매출 역대 최대 달성하며 AI 통역·글로벌 간편결제·다국어 AI 쇼핑 어시스턴트 등 서비스 확충으로 글로벌 고객 경험 강화.",
+          "emoji": "🤖",
+          "title": "AI 반려로봇 홈쇼핑 돌풍",
+          "summary": "GS샵 '케미프렌즈' AI 반려로봇이 첫 방송 500건 상담예약으로 목표치 85% 초과 달성, TV홈쇼핑 AI 상품 신바람 점화.",
           "articleIndices": [
-            3,
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "백화점 3사, 외국인 매출 '역대 최대'…연간 1조 시대 다가온다",
-              "url": "https://n.news.naver.com/mnews/article/468/0001254484?sid=101"
-            },
-            {
-              "title": "현대백화점, 외국인 자문단 앞세운 매장 내 미시적 불편사항 개선",
-              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205118"
+              "title": "'매일 밤마다 먼저 말 걸어줘요'…500명 '우르르' 몰렸다 [권 기자의 장...",
+              "url": "https://n.news.naver.com/mnews/article/015/0005311906?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -120,40 +120,55 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🥊",
-          "title": "코너 맥그리거 흑맥주 단독 출시",
-          "summary": "CU가 격투기 스타 코너 맥그리거와 협업한 흑맥주를 단독 출시, 지드래곤·에바차우·QWER 등 셀럽 협업 주류 라인업 확대로 화제성 높은 상품 전략 지속.",
+          "emoji": "💚",
+          "title": "CU 서울시 건강 간편식",
+          "summary": "CU가 서울시와 협업해 'SEOUL MY SOUL 건강 간편식' 5종 출시로 헬시플레저 상품 전략과 사회가치 창출 모델 결합.",
           "articleIndices": [
-            1
+            1,
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "CU, '격투기 스타' 코너 맥그리거 흑맥주 단독 출시",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=752737"
+              "title": "이마트24, 배달라이더 지원 확대→CU, 서울시 협업 '건강 간편식'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=752993"
+            },
+            {
+              "title": "서울시-CU, 저당고단백 간편식 5종 출시…건강한 한끼 챙긴다",
+              "url": "https://n.news.naver.com/mnews/article/018/0006333488?sid=100"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "🍺",
+          "title": "CU 맥그리거 흑맥주 독점",
+          "summary": "CU가 격투기 스타 코너 맥그리거의 프리미엄 흑맥주 '포지드 아이리시 스타우트' 국내 단독 출시로 셀러브리티 협업 주류 강화.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "[신제품 오늘리뷰] 대상·동원F&B·크라운제과·CU·솔티스",
+              "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=43656"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍚",
-          "title": "제철 비빔밥 3종 출시",
-          "summary": "CU가 SNS 레시피 열풍을 반영해 아삭이고추·오이소박이·부추 비빔밥 3종을 출시, 제철 식재료 활용한 간편식 라인업 확대 계획.",
+          "emoji": "♿",
+          "title": "BGF 장애인 일자리 창출",
+          "summary": "BGF리테일이 한국장애인개발원·한국지체장애인협회와 협력해 'CU 구리시청 함께가게' 개소로 장애인 일자리 창출 사업 추진.",
           "articleIndices": [
-            2,
-            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "'도시락도 제철이 대세'… CU, 여름 비빔밥 3종 출시",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3418109"
-            },
-            {
-              "title": "CU, 여름 제철 비빔밥 3종 출시…SNS 레시피 열풍 반영한 간편식 확대",
-              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=127052"
+              "title": "구리시, 'CU 구리시청 함께가게' 개소",
+              "url": "https://www.job-post.co.kr/news/articleView.html?idxno=221638"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -162,37 +177,35 @@
       "issues": [
         {
           "emoji": "🍺",
-          "title": "세븐일레븐 천원 시리즈 3탄",
-          "summary": "세븐일레븐이 스페인산 발포주 '호스터프리미엄'을 천원 시리즈 3탄으로 출시, 누적 450만 캔 판매 달성하며 가성비 주류 시장 주도.",
+          "title": "GS25 프리미엄 주류 강화",
+          "summary": "GS25가 스페인 맥주 '호스터프리미엄' 단독 판매 및 '사워레몬요거트' 아이스크림 협업으로 프리미엄 상품 라인업 확대.",
           "articleIndices": [
-            3,
-            4,
-            5,
-            6
+            2,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐 '주류 천원 시리즈 3탄' 선봬",
-              "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=554252"
+              "title": "'상큼하게, 가볍게' 주류업계, 이색 향미로 여름 수요 공략",
+              "url": "https://n.news.naver.com/mnews/article/003/0014077150?sid=101"
             },
             {
-              "title": "세븐일레븐, 고물가 시대 '천원 시리즈' 3탄 출시…누적 450만 캔 판매",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=422856"
+              "title": "'아이스크림 보이' 연준 신곡 'Ice Cream', 올해 최고의 '서머송'...",
+              "url": "https://m.entertain.naver.com/article/144/0001127139"
             }
           ],
-          "articleCount": 4
+          "articleCount": 2
         },
         {
-          "emoji": "🎬",
-          "title": "이마트24 캐릭터 IP 협업",
-          "summary": "이마트24가 '재혼 황후' 캐릭터와 협업한 빼빼로 출시 예정, K콘텐츠 IP를 활용한 상품 다각화 전략 추진.",
+          "emoji": "🍻",
+          "title": "세븐일레븐 천원 시리즈",
+          "summary": "세븐일레븐이 '천원 시리즈' 3탄으로 스페인 발포주 '호스터프리미엄' 990원 출시로 가성비 주류 경쟁 강화.",
           "articleIndices": [
-            8
+            7
           ],
           "relatedLinks": [
             {
-              "title": "캐릭터, 단순 굿즈 넘어 사업 모델로…K콘텐츠 IP 무한확장성 증명",
-              "url": "https://n.news.naver.com/mnews/article/018/0006332738?sid=103"
+              "title": "'천냥 하우스' 세븐일레븐 990원 발포주",
+              "url": "https://www.thereport.co.kr/news/articleView.html?idxno=89736"
             }
           ],
           "articleCount": 1
@@ -203,39 +216,34 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "CU AI 가상 소비자 신상품 검증",
-          "summary": "CU가 신상품 출시 전 수백만 명 규모의 AI 가상 소비자로 맛·가격을 사전 검증, 신상품 기획 단계부터 매장 운영까지 AI 기술 적용으로 의사결정 정확도 향상.",
+          "emoji": "🍔",
+          "title": "GS25 프리미엄 샌드위치",
+          "summary": "GS25 '모서리 꽉 찬 프리미엄 샌드위치'가 직장인 커뮤니티에서 출근길 꿀템으로 화제되며 편의점 신상 먹방 트렌드 주도.",
           "articleIndices": [
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'출시 전 AI 고객이 먼저 판별'… CU, 가상 소비자로 신상 품평 받는다",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=422760"
+              "title": "[유프로의 AI 픽] '독점 소싱과 팬덤 경험의 화력'…유통채널 TOP 3",
+              "url": "https://www.mediapen.com/news/view/1111130"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍷",
-          "title": "K-증류주 프리미엄 플랫폼 'jari' 출시",
-          "summary": "CJ제일제당이 프리미엄 증류주 'jari'를 론칭하고 가을 미국 진출 계획, K-증류주의 글로벌 확산 전략 추진.",
+          "emoji": "🍺",
+          "title": "CU K-맥주 국가유산 협업",
+          "summary": "CU가 국가유산진흥원·세븐브로이와 협업해 K-맥주로 국가유산을 알리며 외국인 고객 증가 추세 활용한 문화마케팅 전개.",
           "articleIndices": [
-            9,
-            10
+            5
           ],
           "relatedLinks": [
             {
-              "title": "이선호標 'K-증류주 플랫폼' 기대감…CJ제일제당, 'jari' 론칭",
-              "url": "https://www.apnews.kr/news/articleView.html?idxno=3049858"
-            },
-            {
-              "title": "CJ제일제당, 프리미엄 증류주 '자리' 출시…가을 美 진출",
-              "url": "https://n.news.naver.com/mnews/article/277/0005791521?sid=103"
+              "title": "[금주의 주류 신상] 2026년 7월 셋째주",
+              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131388"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     }
