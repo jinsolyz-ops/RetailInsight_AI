@@ -1,41 +1,40 @@
 {
-  "generatedAt": "2026-07-21T22:43:29.194Z",
+  "generatedAt": "2026-07-22T22:51:11.917Z",
   "summary": [
-    "GS25, K-POP 아이돌 앨범·협업상품 매출 100배 증가로 '컴백 플랫폼' 확립",
-    "CU, 서울시와 건강 간편식 협업 및 러닝스테이션 확대로 라이프스타일 마케팅 강화",
-    "세븐일레븐, 일본 프리미엄 디저트 '오하요 브륄레 밀크' 직소싱으로 편의점 디저트 경험 차별화"
+    "CU, 요즘과 협업 '요요하마 말랑이' 그릭요거트 출시로 MZ세대 타겟팅",
+    "서울시와 협력 '서울마이소울 건강 간편식' 5종 출시로 프리미엄 간편식 시장 진출",
+    "신세계백화점 AI 연구 국제 학회 논문 채택, 초개인화 쇼핑 경쟁 본격화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "유통가 문화·AI 확장전",
-          "summary": "백화점·이커머스 등 유통업계가 문화센터, 교육 콘텐츠, 지역 협업, AI 기술을 통해 쇼핑 경험을 확장하며 경쟁력 강화 중.",
+          "emoji": "💰",
+          "title": "짠테크 마케팅 확산",
+          "summary": "노브랜드 등 유통사들이 저가 콘텐츠 마케팅으로 고물가 시대 소비자 심리 공략 중.",
           "articleIndices": [
-            4,
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"1000원 할인 커피 쿠폰, 500원에 팔아요\"…고물가시대의 짠테크",
+              "url": "https://n.news.naver.com/mnews/article/025/0003539470?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🤖",
+          "title": "AI 초개인화 경쟁",
+          "summary": "신세계백화점 AI 연구 국제 학회 논문 채택으로 고객 데이터 기반 초개인화 쇼핑 경쟁 본격화.",
+          "articleIndices": [
             7
           ],
           "relatedLinks": [
             {
-              "title": "유통가 확장전, 문화·상생·AI로 승부수",
-              "url": "https://www.pressman.kr/news/articleView.html?idxno=102815"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🌍",
-          "title": "유통업계 글로벌 수출 전환",
-          "summary": "내수 시장 성장 한계를 극복하기 위해 백화점 해외 팝업, 이커머스 역직구 등 글로벌 플랫폼으로 전환하는 추세 확산.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "'백화점은 해외 팝업·e커머스는 역직구'…유통업계, 수출 플랫폼으로",
-              "url": "https://n.news.naver.com/mnews/article/421/0009071542?sid=101"
+              "title": "신세계백화점 AI 연구, 국제 머신러닝 학회 논문 채택",
+              "url": "https://n.news.naver.com/mnews/article/421/0009073922?sid=101"
             }
           ],
           "articleCount": 1
@@ -47,39 +46,43 @@
       "issues": [
         {
           "emoji": "🚀",
-          "title": "네이버 AI 기반 추격 강화",
-          "summary": "네이버가 AI 개인화 쇼핑, N배송, 패션 버티컬 등으로 쿠팡 장악 시장에 본격 추격하며 이커머스 경쟁 심화.",
+          "title": "네이버 쿠팡 추격 가속",
+          "summary": "네이버가 AI 기반 개인화 쇼핑과 배송 강화로 쿠팡의 이커머스 주도권 위협 중.",
           "articleIndices": [
-            10
+            1,
+            7
           ],
           "relatedLinks": [
+            {
+              "title": "쿠팡 악재 속 이커머스 주도권 경쟁 격화",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470564"
+            },
             {
               "title": "쿠팡도 안심 못 한다…AI·N배송 앞세운 네이버, 턱밑 추격",
               "url": "https://www.kukinews.com/article/view/kuk202607210172"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "📱",
-          "title": "버티컬 플랫폼 확산 및 라이브커머스",
-          "summary": "29CM, 오아시스마켓 등 카테고리별 버티컬 플랫폼과 라이브커머스, 자체 미디어 콘텐츠가 이커머스 경쟁의 핵심 차별화 전략으로 부상.",
+          "emoji": "🎯",
+          "title": "버티컬 커머스 확대",
+          "summary": "롯데온 등 플랫폼의 중기 판로 지원과 신세계I&C 엔터프라이즈 커머스 플랫폼 구축으로 버티컬 커머스 경쟁 심화.",
           "articleIndices": [
-            11,
-            12,
-            13
+            5,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "\"쇼핑몰 한 곳에서만 매출 4억 올렸죠\" 온라인판로 종합지원 사업이 ...",
-              "url": "https://n.news.naver.com/mnews/article/016/0002672565?sid=101"
+              "title": "\"롯데온서만 4억 매출\"…중기에 힘되는 판로지원",
+              "url": "https://n.news.naver.com/mnews/article/016/0002673386?sid=101"
             },
             {
-              "title": "컬리, TPO 맞춤형 패션 큐레이션 콘텐츠 '스타일노트' 흥행 성공",
-              "url": "https://www.cnbizm.com/news/articleView.html?idxno=308956"
+              "title": "플래티어, 79.6억 규모 수주…'AX 투자 결실' 흑자 전환 청신호",
+              "url": "https://n.news.naver.com/mnews/article/018/0006334447?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         }
       ]
     },
@@ -87,35 +90,39 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🔥",
-          "title": "물류센터 AI 화재감지 강화",
-          "summary": "쿠팡 석남동 물류센터 화재 등 반복되는 대형 사고로 유통업계가 AI 화재감지 시스템, 안전 매뉴얼 등 예방·대응 체계 고도화 중.",
+          "emoji": "👨‍💼",
+          "title": "AI 인재 수급 경쟁",
+          "summary": "올리브영 등 유통사들이 AI 숙련인력 부족으로 경력직 개발자 채용과 내부 교육에 전방위 투자 중.",
           "articleIndices": [
-            1,
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "반복되는 대형 물류센터 화재…유통업계, 안전 점검 강화",
-              "url": "https://n.news.naver.com/mnews/article/421/0009071531?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🤖",
-          "title": "유통·식품업 AI 경쟁력 강화",
-          "summary": "GS25, 롯데백화점 등 유통·식품업계가 AI 기반 점포 진단, 데이터 관리, 트렌드 분석, 업무 효율성 증대로 경쟁력 제고 중.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "점포진단서 품질검사까지…유통·식품업계, AI로 경쟁력 높이기 한창",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312635"
+              "title": "'AI 활용능력이 취업·인사 성패 가른다'… 기업 인사 방정식 'AI'에 무게",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=422937"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🛍️",
+          "title": "AI 에이전트 커머스 표준화",
+          "summary": "AI가 자체적으로 상품 검색·결제하는 에이전트 커머스 시대 도래로 금융 인프라 구축 및 표준 전쟁 진행 중.",
+          "articleIndices": [
+            4,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "[더벨][thebell Forum | 2026 thebell 스테이블코인 포럼] '한국, 디지털자산 기반 에이전트 커머스 준비'",
+              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607221415025840103974"
+            },
+            {
+              "title": "AI 에이전트 커머스 결제 표준 전쟁, 한국에 남은 시간은 12개월",
+              "url": "https://byline.network/?p=9004111222612746"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -123,55 +130,40 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "CU 해외 855점 돌파",
-          "summary": "CU가 국내 편의점 최초로 해외 점포 855개 달성했으나 몽골 70% 쏠림으로 리스크 분산 필요성 대두.",
+          "emoji": "🎀",
+          "title": "요요하마 그릭요거트 협업",
+          "summary": "CU가 프리미엄 그릭요거트 브랜드 '요즘'과 협업해 MZ세대 타겟 '요요하마 말랑이' 출시로 캐릭터 상품 트렌드 선도.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "CU 해외 800점 돌파했지만…몽골 쏠림에 리스크 분산 '취약'",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607211334121440882"
+              "title": "CU, '요요하마 말랑이' 그릭요거트→이마트24, '성수310' 우유 4종 출시",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=753563"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💚",
-          "title": "서울시 협업 건강 간편식 출시",
-          "summary": "CU가 서울시와 협업해 단백질 높이고 당·지방 낮춘 '서울마이소울 건강 간편식' 5종 출시, 민관 협업 ESG 확대.",
+          "emoji": "🥗",
+          "title": "서울시 건강 간편식 협력",
+          "summary": "BGF리테일이 서울시와 협력해 저당고단백 건강 간편식 5종을 CU에 출시, 프리미엄 간편식 시장 진출.",
           "articleIndices": [
             2,
-            5,
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "서울시-CU, '건강 간편식 5종' 21일 출시",
-              "url": "https://news.skbroadband.com/news/articleView.html?idxno=232691"
-            },
-            {
-              "title": "CU, 서울시와 건강 간편식 선봬... '민관 협업으로 ESG 확대'",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=204226"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🏃",
-          "title": "CU 러닝스테이션 라이프스타일 마케팅",
-          "summary": "CU가 여의도 한강공원 등에 러닝스테이션을 확대하며 러닝족 타겟 의류·화장품 매출 증대, 라이프스타일 기반 고객 확보 전략 추진.",
-          "articleIndices": [
+            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "러닝족 베이스캠프 된 CU, 의류·화장품 매출도 '껑충'",
-              "url": "https://n.news.naver.com/mnews/article/018/0006334043?sid=101"
+              "title": "서울시, CU와 건강 간편식 5종 출시",
+              "url": "https://n.news.naver.com/mnews/article/001/0016208567?sid=103"
+            },
+            {
+              "title": "서울 마이 소울 건강 간편식 5종 편의점 CU에서 판매",
+              "url": "https://n.news.naver.com/mnews/article/003/0014080424?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     },
@@ -179,51 +171,31 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎤",
-          "title": "GS25 K-POP 컴백 플랫폼 확립",
-          "summary": "GS25가 2023년 아이돌 앨범 판매 진출 이후 올해 누적 K-POP 앨범·협업상품 매출 100배 증가로 '컴백 플랫폼' 자리매김.",
+          "emoji": "🎨",
+          "title": "GS25 산리오 캐릭터 카드",
+          "summary": "GS25가 농협카드와 협력해 한교동 산리오 캐릭터 채널별 독점 디자인 카드 출시로 차별화 전략 추진.",
           "articleIndices": [
-            1,
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "GS25, '아이돌 컴백 플랫폼'으로 자리매김…앨범·상품 매출 100배↑",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=127208"
-            },
-            {
-              "title": "투바투 연준부터 보넥도·NCT 드림...'아이돌 컴백 플랫폼' GS25",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=753252"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍮",
-          "title": "세븐일레븐 일본 프리미엄 디저트 직소싱",
-          "summary": "세븐일레븐이 일본 오하요유업과 협업해 '오하요 브륄레 밀크' 직소싱, 270만 푸딩 흥행에 이어 프리미엄 편의점 디저트 경험 강화.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "[유통가] 이마트, 보양식 50% 할인 '중복 대전' 마련",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86983"
+              "title": "[카드 뉴스브리핑] ​농협카드 주력 카드 58종 모바일 카드 발급 확대",
+              "url": "https://www.asiatime.co.kr/article/20260722500434"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "⚠️",
-          "title": "이마트24 인도 사업 파트너 사기 리스크",
-          "summary": "이마트24가 인도 사업 파트너 대표 사기 혐의 입건, 싱가포르에 이어 해외 사업 관리 구멍 노출로 K-편의점 글로벌 확장 악재.",
+          "emoji": "⚖️",
+          "title": "세븐일레븐 공정위 조사",
+          "summary": "공정위가 세븐일레븐 등 편의점 4사에 가맹점주 갑질 혐의로 현장 조사 실시, 가맹사업법 위반 적발.",
           "articleIndices": [
-            8
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[단독] 이마트24, 인도 사업 '경고등'…싱가포르 이어 파트너 사법 리스...",
-              "url": "https://www.theguru.co.kr/news/article.html?no=104708"
+              "title": "공정위 '가맹점주 갑질' GS25 등 편의점 4사 현장 조사",
+              "url": "https://n.news.naver.com/mnews/article/037/0000038548?sid=101"
             }
           ],
           "articleCount": 1
@@ -234,45 +206,34 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍮",
-          "title": "세븐일레븐 '오하요 브륄레 밀크' 출시",
-          "summary": "세븐일레븐이 일본 프리미엄 유제품 브랜드 오하요유업과 협업해 '오하요 브륄레 밀크' 국내 출시, 편의점 프리미엄 디저트 트렌드 선도.",
+          "emoji": "💜",
+          "title": "우베·두바이 빙수 밀키트",
+          "summary": "이마트가 최신 식품 트렌드 우베·두바이스타일 팥빙수 밀키트 2종 출시로 디저트 시장 선도.",
           "articleIndices": [
-            1,
-            2,
-            3
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[인더필드] 세븐일레븐, '브륄레 밀크' 출시…270만 푸딩 흥행 잇는다",
-              "url": "https://www.inthenews.co.kr/news/article.html?no=89563"
-            },
-            {
-              "title": "'일본 가야 먹던 그 맛'…세븐일레븐, '오하요 브륄레' 단독 소싱",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=82779"
+              "title": "이마트, '우베·두바이스타일' 이색 빙수 밀키트 2종 출시",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=114877"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
           "emoji": "🍗",
-          "title": "삼립·페리카나 협업 '양념치킨 샐러드'",
-          "summary": "삼립이 페리카나와 협업해 복날 보양식 '양념치킨 샐러드' 출시, 웰니스 트렌드에 맞춘 편의점 신상 상품으로 건강식 수요 대응.",
+          "title": "편의점 프리미염 간편식",
+          "summary": "삼립·오리온 등이 고단백 샐러드·컵케이크 등 여름 신상품 출시로 편의점 프리미엄 간편식 경쟁 심화.",
           "articleIndices": [
-            4,
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의신상]44년 전통 '페리카나' 협업…삼립 피그인더가든 '양념치킨...",
-              "url": "https://n.news.naver.com/mnews/article/277/0005792243?sid=103"
-            },
-            {
-              "title": "[오늘의 신상] '단백질 62g' 오리온·'복날 치킨 샐러드' 삼립…여름 신...",
+              "title": "[오늘의 신상] '단백질 62g' 오리온·'복날 치킨 샐러드' 삼립…여름 신상",
               "url": "http://www.kdfnews.com/news/articleView.html?idxno=185458"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     }
