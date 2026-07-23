@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-07-22T22:51:11.917Z",
+  "generatedAt": "2026-07-23T22:45:10.142Z",
   "summary": [
-    "CU, 요즘과 협업 '요요하마 말랑이' 그릭요거트 출시로 MZ세대 타겟팅",
-    "서울시와 협력 '서울마이소울 건강 간편식' 5종 출시로 프리미엄 간편식 시장 진출",
-    "신세계백화점 AI 연구 국제 학회 논문 채택, 초개인화 쇼핑 경쟁 본격화"
+    "CU, 캐릭터 협업 그릭요거트로 떠먹는 요구르트 카테고리 1위 달성 및 후속 상품 확대",
+    "유통업계 AI 활용 확대: 롯데백화점 'AI 비즈센터' 도입으로 B2B 영역 진출",
+    "GS25, 부산에 '이치방쿠지' 특화매장 오픈으로 1030 고객 타겟 뽑기 열풍 선점"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "💰",
-          "title": "짠테크 마케팅 확산",
-          "summary": "노브랜드 등 유통사들이 저가 콘텐츠 마케팅으로 고물가 시대 소비자 심리 공략 중.",
+          "emoji": "🎯",
+          "title": "K브랜드 일본 시장 진출",
+          "summary": "K뷰티·패션·푸드 브랜드가 일본 시장에 본격 진출하며 유통기업의 해외 거점 확대 추세 가속화.",
           "articleIndices": [
-            8
+            1
           ],
           "relatedLinks": [
             {
-              "title": "\"1000원 할인 커피 쿠폰, 500원에 팔아요\"…고물가시대의 짠테크",
-              "url": "https://n.news.naver.com/mnews/article/025/0003539470?sid=101"
+              "title": "[이슈플러스] K브랜드, 일본 시장 상륙 러시",
+              "url": "https://n.news.naver.com/mnews/article/030/0003450451?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "AI 초개인화 경쟁",
-          "summary": "신세계백화점 AI 연구 국제 학회 논문 채택으로 고객 데이터 기반 초개인화 쇼핑 경쟁 본격화.",
+          "emoji": "⭐",
+          "title": "스타 마케팅 확산",
+          "summary": "걸그룹 리센느를 앞세운 스타 마케팅이 유통업계 전반으로 확산되며 새로운 고객 유입 전략으로 부상.",
           "articleIndices": [
-            7
+            9
           ],
           "relatedLinks": [
             {
-              "title": "신세계백화점 AI 연구, 국제 머신러닝 학회 논문 채택",
-              "url": "https://n.news.naver.com/mnews/article/421/0009073922?sid=101"
+              "title": "'리센느 효과'에 유통업계 잇달아 '러브콜'···유통家 스타 마케팅 열...",
+              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=404116"
             }
           ],
           "articleCount": 1
@@ -45,44 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "네이버 쿠팡 추격 가속",
-          "summary": "네이버가 AI 기반 개인화 쇼핑과 배송 강화로 쿠팡의 이커머스 주도권 위협 중.",
+          "emoji": "🔗",
+          "title": "동아쏘시오 동아제약 합병",
+          "summary": "동아쏘시오가 동아제약을 흡수 합병하며 이커머스 채널 다각화와 글로벌 리테일 확대 추진.",
           "articleIndices": [
             1,
-            7
+            4
           ],
           "relatedLinks": [
             {
-              "title": "쿠팡 악재 속 이커머스 주도권 경쟁 격화",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470564"
+              "title": "[HIT 포커스] 동아쏘시오는 왜, 13년 만에 동아제약 합병하나",
+              "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77901"
             },
             {
-              "title": "쿠팡도 안심 못 한다…AI·N배송 앞세운 네이버, 턱밑 추격",
-              "url": "https://www.kukinews.com/article/view/kuk202607210172"
+              "title": "동아쏘시오홀딩스, 자회사 동아제약 흡수 합병 결정",
+              "url": "https://www.topdaily.kr/articles/111117"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🎯",
-          "title": "버티컬 커머스 확대",
-          "summary": "롯데온 등 플랫폼의 중기 판로 지원과 신세계I&C 엔터프라이즈 커머스 플랫폼 구축으로 버티컬 커머스 경쟁 심화.",
+          "emoji": "🌍",
+          "title": "번개장터 글로벌 확장",
+          "summary": "번개장터가 K-팝 흥행 효과를 바탕으로 이베이, 씨엔위, 줌 등 글로벌 플랫폼 진출 가속화.",
           "articleIndices": [
-            5,
-            6
+            5
           ],
           "relatedLinks": [
             {
-              "title": "\"롯데온서만 4억 매출\"…중기에 힘되는 판로지원",
-              "url": "https://n.news.naver.com/mnews/article/016/0002673386?sid=101"
-            },
-            {
-              "title": "플래티어, 79.6억 규모 수주…'AX 투자 결실' 흑자 전환 청신호",
-              "url": "https://n.news.naver.com/mnews/article/018/0006334447?sid=101"
+              "title": "'K-팝 흥행 효과' 번개장터, 글로벌 비즈니스에 속도 내는 이유",
+              "url": "https://it.donga.com/109238/"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -90,39 +85,39 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "👨‍💼",
-          "title": "AI 인재 수급 경쟁",
-          "summary": "올리브영 등 유통사들이 AI 숙련인력 부족으로 경력직 개발자 채용과 내부 교육에 전방위 투자 중.",
+          "emoji": "🤖",
+          "title": "롯데백화점 AI 비즈센터",
+          "summary": "롯데백화점이 AI 에이전트 '비즈센터' 도입으로 협력사 입점 절차 자동화 및 B2B 영역 확대.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "'AI 활용능력이 취업·인사 성패 가른다'… 기업 인사 방정식 'AI'에 무게",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=422937"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛍️",
-          "title": "AI 에이전트 커머스 표준화",
-          "summary": "AI가 자체적으로 상품 검색·결제하는 에이전트 커머스 시대 도래로 금융 인프라 구축 및 표준 전쟁 진행 중.",
-          "articleIndices": [
-            4,
+            2,
             5
           ],
           "relatedLinks": [
             {
-              "title": "[더벨][thebell Forum | 2026 thebell 스테이블코인 포럼] '한국, 디지털자산 기반 에이전트 커머스 준비'",
-              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607221415025840103974"
+              "title": "롯데백화점, AI 에이전트 'AI 비즈센터' 도입…협력사 입점 절차 간소화",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=312336"
             },
             {
-              "title": "AI 에이전트 커머스 결제 표준 전쟁, 한국에 남은 시간은 12개월",
-              "url": "https://byline.network/?p=9004111222612746"
+              "title": "유통업계, 고객 분석부터 입점 상담까지 'AI 경쟁'",
+              "url": "https://n.news.naver.com/mnews/article/020/0003736129?sid=101"
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "🚚",
+          "title": "물류센터 로봇·AI 도입",
+          "summary": "롯데마트 '제타스마트센터 부산' 등 물류·유통업계가 로봇·AI 기반 자동화 시스템 확대 도입.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "이곳 저곳 누비는 로봇...물류센터는 배터리 '火들짝'[스마트 물류의...",
+              "url": "https://www.etoday.co.kr/news/view/2606670"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -130,40 +125,42 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎀",
-          "title": "요요하마 그릭요거트 협업",
-          "summary": "CU가 프리미엄 그릭요거트 브랜드 '요즘'과 협업해 MZ세대 타겟 '요요하마 말랑이' 출시로 캐릭터 상품 트렌드 선도.",
+          "emoji": "🎨",
+          "title": "CU 캐릭터 협업 상품 확대",
+          "summary": "CU가 요요하마·라이즈 등 캐릭터 IP를 활용한 그릭요거트·빵·마카롱 등 협업 상품 라인업 확대.",
           "articleIndices": [
-            1
+            1,
+            2,
+            3,
+            5,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "CU, '요요하마 말랑이' 그릭요거트→이마트24, '성수310' 우유 4종 출시",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=753563"
+              "title": "CU, 캐릭터 협업 그릭요거트 흥행 잇는다... '요요하마' 2탄 공",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=204452"
+            },
+            {
+              "title": "CU도 GS25도, 편의점 아이돌 IP 경쟁",
+              "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=496629"
             }
           ],
-          "articleCount": 1
+          "articleCount": 5
         },
         {
-          "emoji": "🥗",
-          "title": "서울시 건강 간편식 협력",
-          "summary": "BGF리테일이 서울시와 협력해 저당고단백 건강 간편식 5종을 CU에 출시, 프리미엄 간편식 시장 진출.",
+          "emoji": "🍹",
+          "title": "CU 신제품 피치우롱 출시",
+          "summary": "선양소주가 복숭아·우롱차 조합 신개념 과일차 소주 '피치우롱'을 CU 단독 출시.",
           "articleIndices": [
-            2,
-            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "서울시, CU와 건강 간편식 5종 출시",
-              "url": "https://n.news.naver.com/mnews/article/001/0016208567?sid=103"
-            },
-            {
-              "title": "서울 마이 소울 건강 간편식 5종 편의점 CU에서 판매",
-              "url": "https://n.news.naver.com/mnews/article/003/0014080424?sid=101"
+              "title": "선양소주, 7월 22일 CU서 신제품 '피치우롱' 출시…제로슈거·저열량·대...",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3644164"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -171,31 +168,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎨",
-          "title": "GS25 산리오 캐릭터 카드",
-          "summary": "GS25가 농협카드와 협력해 한교동 산리오 캐릭터 채널별 독점 디자인 카드 출시로 차별화 전략 추진.",
+          "emoji": "🎮",
+          "title": "GS25 이치방쿠지 특화매장",
+          "summary": "GS25가 부산에 '이치방쿠지' 특화매장 오픈으로 뽑기 열풍과 1030 고객층 공략 강화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[카드 뉴스브리핑] ​농협카드 주력 카드 58종 모바일 카드 발급 확대",
-              "url": "https://www.asiatime.co.kr/article/20260722500434"
+              "title": "GS25, 부산에 '이치방쿠지' 특화매장...'도시락 먹고 피규어 픽'",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=753790"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "⚖️",
-          "title": "세븐일레븐 공정위 조사",
-          "summary": "공정위가 세븐일레븐 등 편의점 4사에 가맹점주 갑질 혐의로 현장 조사 실시, 가맹사업법 위반 적발.",
+          "emoji": "⚠️",
+          "title": "세븐일레븐 부정 재판매 논란",
+          "summary": "세븐일레븐 재팬이 직원들의 인기 상품 부정 재판매 논란에 경고문 발표하며 관리 강화.",
           "articleIndices": [
-            2
+            4
           ],
           "relatedLinks": [
             {
-              "title": "공정위 '가맹점주 갑질' GS25 등 편의점 4사 현장 조사",
-              "url": "https://n.news.naver.com/mnews/article/037/0000038548?sid=101"
+              "title": "'어쩌지 없더라'...포켓몬 카드 빼돌려 100배 되판 日편의점 직원",
+              "url": "https://n.news.naver.com/mnews/article/008/0005390296?sid=102"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥛",
+          "title": "이마트24 성수310 우유 출시",
+          "summary": "이마트24가 고원유 함량 '성수310 우유' 4종 출시로 프리미엄 음료 카테고리 강화.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트24, 고원유 함량 '성수310 우유' 4종 선보여",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470992"
             }
           ],
           "articleCount": 1
@@ -207,33 +219,46 @@
       "issues": [
         {
           "emoji": "💜",
-          "title": "우베·두바이 빙수 밀키트",
-          "summary": "이마트가 최신 식품 트렌드 우베·두바이스타일 팥빙수 밀키트 2종 출시로 디저트 시장 선도.",
+          "title": "CU 요요하마 그릭요거트",
+          "summary": "CU가 캐릭터 협업 그릭요거트로 떠먹는 요구르트 카테고리 1위 달성 후 후속 상품 '말랑이' 출시.",
           "articleIndices": [
+            1,
+            2,
+            3,
             6
           ],
           "relatedLinks": [
             {
-              "title": "이마트, '우베·두바이스타일' 이색 빙수 밀키트 2종 출시",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=114877"
+              "title": "CU, 요요하마 캐릭터 담은 그릭요거트 선보여",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202607231806007552204ead0791_12"
+            },
+            {
+              "title": "떠먹는 요거트 1위 찍은 CU…이번엔 '요요하마 말랑이'로 흥행 잇는다",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=534660"
             }
           ],
-          "articleCount": 1
+          "articleCount": 4
         },
         {
-          "emoji": "🍗",
-          "title": "편의점 프리미염 간편식",
-          "summary": "삼립·오리온 등이 고단백 샐러드·컵케이크 등 여름 신상품 출시로 편의점 프리미엄 간편식 경쟁 심화.",
+          "emoji": "🍦",
+          "title": "편의점 빙과·디저트 트렌드",
+          "summary": "폭염과 건강 트렌드 속 편의점 중심 저당·프리미엄 아이스크림 수요 증가 및 신제품 경쟁 심화.",
           "articleIndices": [
-            4
+            1,
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의 신상] '단백질 62g' 오리온·'복날 치킨 샐러드' 삼립…여름 신상",
-              "url": "http://www.kdfnews.com/news/articleView.html?idxno=185458"
+              "title": "'설레임에 젤리 얹고 저당 바꿨다'…빙과업계가 살아남는 법",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1388749"
+            },
+            {
+              "title": "이 땡볕에 대기 113팀…'이거 사려고 대구서 새벽 기차 탔다' [트렌드+]",
+              "url": "https://n.news.naver.com/mnews/article/015/0005313272?sid=103"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     }
