@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-07-24T22:50:51.621Z",
+  "generatedAt": "2026-07-25T22:42:16.150Z",
   "summary": [
-    "CU, 캐릭터 협업 그릭요거트·라이즈 IP 상품으로 프리미엄 간식 시장 공략",
-    "GS25, 일본 돈키호테 250개 매장에 PB 음료 18종 공급하며 글로벌 확장",
-    "편의점 업계, 희소성·캐릭터 IP·한정판 굿즈로 '경험 소비' 경쟁 심화"
+    "유통사들이 AI를 상품기획·발주까지 확대하며 MD 업무 혁신 추진 중",
+    "CU, 서울시와 저당 고단백 식사 라인 출시로 건강식 시장 공략",
+    "GS25, 외국인 관광객 결제 60% 증가로 해안가 매출 137% 급증"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "베이커리 가격 인상 확대",
-          "summary": "뚜레쥬르 빵·케이크 76종 평균 8.2% 인상으로 편의점 베이커리 시장의 가격 경쟁 심화 및 소비자 민감도 상승.",
+          "emoji": "🤖",
+          "title": "AI 기반 MD·발주 혁신",
+          "summary": "유통업계가 AI를 상품기획, 수요예측, 마케팅 전략 수립까지 확대하며 베테랑 MD 감각을 대체하는 전략 추진 중.",
           "articleIndices": [
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "뚜레쥬르, 빵·케이크 76종 가격 평균 8.2%인상",
-              "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=661149"
+              "title": "'베테랑 MD 감각 대신 AI'…유통가, 상품기획·발주까지",
+              "url": "https://n.news.naver.com/mnews/article/001/0016214717?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤝",
-          "title": "홈플러스 인수 컨소시엄 구성",
-          "summary": "농협·수협·중소유통업체 연합으로 홈플러스 인수 추진, 10만 고용 유지 및 유통업계 판도 재편 시도.",
+          "emoji": "🥗",
+          "title": "보양식 마케팅 확대",
+          "summary": "폭염과 고물가 속 소비자를 공략하기 위해 유통업계가 밀키트 등 집밥 보양식 할인 행사를 전개 중.",
           "articleIndices": [
-            1
+            5
           ],
           "relatedLinks": [
             {
-              "title": "농협·수협·중소유통 연합군, 10만 고용 걸린 홈플러스 살릴 마지막 카...",
-              "url": "https://n.news.naver.com/mnews/article/047/0002523588?sid=101"
+              "title": "삼계탕 외식 1만 7천 원..′집밥 보양식′ 인기",
+              "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=287411"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚚",
-          "title": "배달플랫폼 자체물류 경쟁",
-          "summary": "배달의민족 등 플랫폼의 라스트마일 경쟁력 강화를 위한 자체물류 확대가 이커머스 시장의 핵심 성패 요인으로 부상.",
+          "emoji": "📉",
+          "title": "대형마트 이커머스 주도권 상실",
+          "summary": "대형마트가 이커머스에 완전히 주도권을 내주면서 정치권의 구제 논의까지 촉발되는 상황 발생.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "배달플랫폼 승부수는 '라스트마일'…'자체물류'가 성패 가른다",
-              "url": "https://www.fntimes.com/html/view.php?ud=202607241401588792b5b890e35c_18"
+              "title": "'나쁜 놈'이라던 대형마트…이젠 '불쌍한 놈' 됐다",
+              "url": "https://n.news.naver.com/mnews/article/648/0000049196?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💄",
-          "title": "K뷰티 글로벌 이커머스 확대",
-          "summary": "에이피알·코스맥스 등 K뷰티 브랜드가 중국 주요 이커머스 채널 입점으로 글로벌 판매 지역 확대 추진.",
+          "emoji": "💎",
+          "title": "프리미엄 버티컬 커머스 성장",
+          "summary": "고도화된 UX·UI 역량을 갖춘 하이엔드 리빙 플랫폼이 프리미�m 버티컬 커머스 시장의 독점적 챔피언으로 도약 중.",
           "articleIndices": [
-            3
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의 뷰티] 에이피알·코스맥스, K뷰티 글로벌 영토 확장",
-              "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=43767"
+              "title": "하이엔드 리빙 플랫폼 '콜렉션비' 운영사 M&A 매물로",
+              "url": "https://n.news.naver.com/mnews/article/015/0005313396?sid=101"
             }
           ],
           "articleCount": 1
@@ -80,31 +80,16 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 기반 유통매장 관리 확대",
-          "summary": "딥핑소스 등 AI 영상 분석·자율주행 로봇 기술이 편의점·대형마트 무인·반무인 매장 운영으로 확산 중.",
+          "emoji": "🏢",
+          "title": "물류센터 AI 안전 강화",
+          "summary": "배송 경쟁 심화로 대형화된 물류센터에서 AI CCTV와 안전 상황실 운영을 통해 안전 관리 강화 추진 중.",
           "articleIndices": [
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "딥핑소스, 산업부 AI 상용화 사업 선정…유통매장 관리 플랫폼 개발",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=312570"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛍️",
-          "title": "이커머스 플랫폼 경쟁 재편",
-          "summary": "SSG닷컴 등 이커머스 시장이 배송 속도에서 AI 개인화 추천·멤버십·프리미엄 콘텐츠 결합 경쟁으로 전환.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "[주목! 이 기업] '배송 경쟁 넘어 플랫폼으로'…SSG닷컴, 차별화 전략으...",
-              "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=237956"
+              "title": "배송 경쟁이 부른 '공룡 물류센터'...'안전은 숙제'",
+              "url": "https://n.news.naver.com/mnews/article/052/0002384578?sid=101"
             }
           ],
           "articleCount": 1
@@ -115,32 +100,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🥛",
-          "title": "캐릭터 협업 그릭요거트 확대",
-          "summary": "CU, 요즘 브랜드와 '요요하마 그릭 플레인' 출시 및 라이즈 IP 협업으로 건강·굿즈 결합 프리미엄 간식 시장 공략.",
+          "emoji": "❤️",
+          "title": "고립청년 지원 사회공헌",
+          "summary": "BGF리테일이 제주시와 협약해 CU 434개 점포 인프라를 활용한 위기가구 발굴 및 고립 위험 예방 사업 추진 중.",
           "articleIndices": [
-            2,
-            4,
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "CU, '요요하마 그릭 플레인' 출시",
-              "url": "https://cooknchefnews.com/news/view/1065579623624954"
-            },
-            {
-              "title": "CU, 캐릭터 협업 그릭요거트 흥행 잇는다... '요요하마' 2탄 공",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=204452"
+              "title": "편의점이 고립청년 세상 밖으로…CU, 사회공헌 영역 넓힌다",
+              "url": "https://n.news.naver.com/mnews/article/011/0004645054?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
           "emoji": "🥗",
-          "title": "서울시 저당·고단백 식사 협력",
-          "summary": "CU, 서울시와 협력하여 저당·고단백 식사 5종을 수도권 매장에 공급, 건강식 수요 대응.",
+          "title": "저당 고단백 식사 라인 출시",
+          "summary": "CU가 서울시와 협력해 건강식 시장을 공략하는 저당·고단백 식사 5종을 서울 수도권 전역에 출시.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
@@ -156,46 +135,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🌙",
-          "title": "GS25 야간·주말 매출 강화",
-          "summary": "GS25, 야간(오후 6시~오전 6시) 매출 57.2%, 주말 36.3%로 편의점 업계 경쟁 속 야간·주말 수요 확보 전략 강화.",
+          "emoji": "🌏",
+          "title": "GS25 외국인 매출 급증",
+          "summary": "GS25가 외국인 관광객 증가로 해안가 편의점 매출 137% 증가, 상반기 외국인 결제 매출 60% 성장 달성.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'감기약, 소화제 말고도 더'...편의점 상비약 20개까지 확대",
-              "url": "https://n.news.naver.com/mnews/article/008/0005390767?sid=101"
+              "title": "\"바나나우유 들고 바다로\"…외국인 몰리자 해안가 편의점 매출 137% 뛰...",
+              "url": "https://n.news.naver.com/mnews/article/022/0004145838?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌏",
-          "title": "GS25 일본 글로벌 PB 확장",
-          "summary": "GS25, 일본 돈키호테 250개 매장에 PB '유어스' 18종 공급으로 K음료 글로벌 유통 채널 확대.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "얼음컵에 붓는 'K음료'…돈키호테·하와이서 터졌다",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=141101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎁",
-          "title": "세븐일레븐 산리오 한정 굿즈",
-          "summary": "세븐일레븐, 711데이 행사로 산리오 캐릭터 한정 굿즈(캐리어·보냉백·파우치) 출시하여 희소성 기반 경험 소비 전략 추진.",
+          "emoji": "🎨",
+          "title": "세븐일레븐 레드닷 디자인상 수상",
+          "summary": "세븐일레븐이 세계 3대 디자인 공모전 '2026 레드닷 디자인 어워드' 본상 수상으로 모듈형 그래픽 시스템 'It's in 7' 디자인 경쟁력 입증.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "신제품도 가격도 아니다…'희소성'에 꽂힌 유통가",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026072414583027184"
+              "title": "세븐일레븐, '레드닷 디자인 어워드' 본상 수상...디자인 경쟁력 입증",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=754212"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍜",
+          "title": "이마트24 K-라면 특화존 확대",
+          "summary": "이마트24 'K-푸드랩 명동점'에서 170여종 라면 특화존 운영으로 외국인 관광객 대상 치즈·마라 등 이색 제품 판매 확대.",
+          "articleIndices": [
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "'매운맛 넘어 치즈·마라맛으로'…K-라면 인기에 외국인 입맛도 다변화",
+              "url": "https://n.news.naver.com/mnews/article/421/0009078991?sid=101"
             }
           ],
           "articleCount": 1
@@ -206,31 +185,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "로로멜로 싱가포르 냉동디저트 1위",
-          "summary": "K-디저트 로로멜로, 싱가포르 7-Eleven 출시 직후 냉동 디저트 매출 1위 기록으로 해외 편의점 채널 경쟁력 입증.",
+          "emoji": "🍺",
+          "title": "편의점 초저가 주류 경쟁",
+          "summary": "GS25와 세븐일레븐이 수입 주류업체와 협력해 990원대 초저가 맥주 판매로 가성비 경쟁 심화.",
           "articleIndices": [
-            2
+            4
           ],
           "relatedLinks": [
             {
-              "title": "로로멜로, 싱가포르 7-Eleven 출시 직후 냉동 디저트 매출 1위 기록",
-              "url": "https://www.koreadaily.com/article/20260724021431297"
+              "title": "\"맥주 한 캔이 990원\"…편의점, 다시 '초저가 주류' 꺼낸 이유",
+              "url": "https://n.news.naver.com/mnews/article/022/0004145833?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍞",
-          "title": "삼립 식감 소비 트렌드 대응",
-          "summary": "삼립, '설기이야기' 출시로 부드럽고 폭신한 식감 소비 트렌드 반영한 신제품 전략 추진.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 시장 축소",
+          "summary": "중국 시장에서 베이커리·디저트 업계 8만개 이상 폐점으로 가성비·편의성 중심 유통채널 전환 가속화.",
           "articleIndices": [
-            7
+            1
           ],
           "relatedLinks": [
             {
-              "title": "삼립 '설기이야기'‧BYC '아미에 찰핏 아이스 브라' 외[나왔다, 신상...",
-              "url": "https://www.etoday.co.kr/news/view/2606552"
+              "title": "'거품 빼고 실속만' 반년간 200만곳 문 닫았다…무슨 일이[중국.zip]",
+              "url": "https://n.news.naver.com/mnews/article/277/0005794550?sid=104"
             }
           ],
           "articleCount": 1
