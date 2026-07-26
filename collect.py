@@ -28,6 +28,8 @@ from pathlib import Path
 from dotenv import load_dotenv
 from supabase import create_client, Client
 
+from keyword_extractor import extract_keywords, KEYWORD_VERSION
+
 # ── 설정 ──────────────────────────────────────────────
 NEW_POSTS_FILE = "new_posts.json"   # Claude Code가 생성하는 파일
 BACKUP_DIR     = "backups"          # 적재 완료된 파일 백업 폴더
@@ -74,7 +76,21 @@ def load_new_posts(filepath: str) -> list[dict]:
     return posts
 
 
-# ② Supabase upsert (url 기준 중복 방지, 500건 배치)
+# ② 연관키워드 분석 (Kiwi 형태소 분석기) - keywords/keyword_version/keywords_updated_at 필드 추가
+def enrich_with_keywords(posts: list[dict]) -> list[dict]:
+    now = datetime.now(timezone.utc).isoformat()
+    for post in posts:
+        post["keywords"] = extract_keywords(
+            post.get("title", ""),
+            post.get("content", ""),
+            post.get("brand"),
+        )
+        post["keyword_version"] = KEYWORD_VERSION
+        post["keywords_updated_at"] = now
+    return posts
+
+
+# ③ Supabase upsert (url 기준 중복 방지, 500건 배치)
 def upsert_posts(supabase: Client, posts: list[dict]) -> int:
     batch_size = 500
     total_upserted = 0
@@ -92,7 +108,7 @@ def upsert_posts(supabase: Client, posts: list[dict]) -> int:
     return total_upserted
 
 
-# ③ 적재 완료 후 new_posts.json을 backups/ 폴더에 날짜별로 보관
+# ④ 적재 완료 후 new_posts.json을 backups/ 폴더에 날짜별로 보관
 def backup_file(filepath: str) -> str:
     backup_dir = Path(BACKUP_DIR)
     backup_dir.mkdir(exist_ok=True)
@@ -126,13 +142,18 @@ def main():
     print(f"  → 수집 기간: {dates[0]} ~ {dates[-1]}")
     print(f"  → CU: {brands.get('cu', 0)}건 / GS25: {brands.get('gs', 0)}건")
 
-    # ② Supabase 연결 및 upsert
+    # ② 연관키워드 분석
+    print(f"\n🔍 연관키워드 분석 중... (version: {KEYWORD_VERSION})")
+    posts = enrich_with_keywords(posts)
+    print(f"  → {len(posts)}건 분석 완료")
+
+    # ③ Supabase 연결 및 upsert
     print("\n🚀 Supabase 업로드 시작...")
     supabase = create_client(supabase_url, service_key)
     total = upsert_posts(supabase, posts)
     print(f"\n✅ 총 {total}건 Supabase 적재 완료")
 
-    # ③ 백업
+    # ④ 백업
     backup_path = backup_file(NEW_POSTS_FILE)
     print(f"💾 백업 저장: {backup_path}")
     print("\n🎉 주간 갱신 완료!")
