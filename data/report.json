@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T22:42:16.150Z",
+  "generatedAt": "2026-07-26T22:47:35.515Z",
   "summary": [
-    "유통사들이 AI를 상품기획·발주까지 확대하며 MD 업무 혁신 추진 중",
-    "CU, 서울시와 저당 고단백 식사 라인 출시로 건강식 시장 공략",
-    "GS25, 외국인 관광객 결제 60% 증가로 해안가 매출 137% 급증"
+    "CU 치트키 라면 20만개, 깨먹는 연세 생크림빵 110만개 돌파로 차별화 상품 전략 성공",
+    "BGF리테일 AI 합성소비자 활용한 상품기획 체계 도입으로 유통업계 AI 활용 선도",
+    "CU 글로벌 확장 전략 강화, 현지 식품공장 설립으로 '글로벌 유통 BTS' 목표 추진"
   ],
   "categories": [
     {
@@ -11,30 +11,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 기반 MD·발주 혁신",
-          "summary": "유통업계가 AI를 상품기획, 수요예측, 마케팅 전략 수립까지 확대하며 베테랑 MD 감각을 대체하는 전략 추진 중.",
+          "title": "AI 상품기획 시스템",
+          "summary": "BGF리테일이 AI 합성소비자를 활용한 상품기획 체계를 도입하며 유통업계의 AI 활용 붐을 주도하고 있다.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "'베테랑 MD 감각 대신 AI'…유통가, 상품기획·발주까지",
-              "url": "https://n.news.naver.com/mnews/article/001/0016214717?sid=101"
+              "title": "인공지능이 상품기획·발주까지…유통업계 'AI 활용 붐'",
+              "url": "https://n.news.naver.com/mnews/article/662/0000100482?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥗",
-          "title": "보양식 마케팅 확대",
-          "summary": "폭염과 고물가 속 소비자를 공략하기 위해 유통업계가 밀키트 등 집밥 보양식 할인 행사를 전개 중.",
+          "emoji": "🌏",
+          "title": "더현대 도쿄 성공",
+          "summary": "현대백화점의 더현대 도쿄가 매출 목표를 30% 초과 달성하며 K패션의 아시아 확산을 견인하고 있다.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "삼계탕 외식 1만 7천 원..′집밥 보양식′ 인기",
-              "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=287411"
+              "title": "도쿄 뒤흔든 '더현대'…매출 목표 30% 뛰어넘었다",
+              "url": "https://n.news.naver.com/mnews/article/277/0005794683?sid=101"
             }
           ],
           "articleCount": 1
@@ -46,8 +46,8 @@
       "issues": [
         {
           "emoji": "📉",
-          "title": "대형마트 이커머스 주도권 상실",
-          "summary": "대형마트가 이커머스에 완전히 주도권을 내주면서 정치권의 구제 논의까지 촉발되는 상황 발생.",
+          "title": "대형마트 위기심화",
+          "summary": "이커머스의 주도권 확대로 대형마트가 경쟁력을 상실하면서 정치권의 구제 논의가 이어지고 있다.",
           "articleIndices": [
             1
           ],
@@ -58,21 +58,6 @@
             }
           ],
           "articleCount": 1
-        },
-        {
-          "emoji": "💎",
-          "title": "프리미엄 버티컬 커머스 성장",
-          "summary": "고도화된 UX·UI 역량을 갖춘 하이엔드 리빙 플랫폼이 프리미�m 버티컬 커머스 시장의 독점적 챔피언으로 도약 중.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "하이엔드 리빙 플랫폼 '콜렉션비' 운영사 M&A 매물로",
-              "url": "https://n.news.naver.com/mnews/article/015/0005313396?sid=101"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -80,16 +65,16 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🏢",
-          "title": "물류센터 AI 안전 강화",
-          "summary": "배송 경쟁 심화로 대형화된 물류센터에서 AI CCTV와 안전 상황실 운영을 통해 안전 관리 강화 추진 중.",
+          "emoji": "🌱",
+          "title": "ESG 전략 차별화",
+          "summary": "GS25는 보안 중심, BGF리테일은 상생 중심의 ESG 전략으로 디지털 인프라와 협력사 관리 역량을 강화하고 있다.",
           "articleIndices": [
-            2
+            7
           ],
           "relatedLinks": [
             {
-              "title": "배송 경쟁이 부른 '공룡 물류센터'...'안전은 숙제'",
-              "url": "https://n.news.naver.com/mnews/article/052/0002384578?sid=101"
+              "title": "편의점 '2사 2색' ESG 전략…GS '보안' vs BGF '상생'",
+              "url": "https://www.fntimes.com/html/view.php?ud=20260725000814417dd55077bc2_18"
             }
           ],
           "articleCount": 1
@@ -100,31 +85,46 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "❤️",
-          "title": "고립청년 지원 사회공헌",
-          "summary": "BGF리테일이 제주시와 협약해 CU 434개 점포 인프라를 활용한 위기가구 발굴 및 고립 위험 예방 사업 추진 중.",
+          "emoji": "🔥",
+          "title": "치트키 라면 20만개",
+          "summary": "CU의 차별화 라면 브랜드 치트키 시리즈가 7월 한 달간 20만개를 판매하며 시간당 360개, 10초에 1개씩 팔리는 대히트를 기록했다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "편의점이 고립청년 세상 밖으로…CU, 사회공헌 영역 넓힌다",
-              "url": "https://n.news.naver.com/mnews/article/011/0004645054?sid=101"
+              "title": "CU '치트키' 라면 20만 판매...GS25, 고단백 김밥 150만 판매",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=754341"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥗",
-          "title": "저당 고단백 식사 라인 출시",
-          "summary": "CU가 서울시와 협력해 건강식 시장을 공략하는 저당·고단백 식사 5종을 서울 수도권 전역에 출시.",
+          "emoji": "🌍",
+          "title": "글로벌 BTS 전략",
+          "summary": "CU가 진출 국가마다 현지 식품공장을 설립하고 삼각김밥, 호쇼르 등 현지식 상품을 개발하며 '글로벌 유통 BTS' 목표를 추진 중이다.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "Seoul, convenience store CU launch line of low-sugar, high-protein meals",
-              "url": "https://www.koreatimes.co.kr/path/A2026072110190001620"
+              "title": "'깃발 꽂기 아닌 친구로…CU, 글로벌 유통 BTS 꿈 꾼다'",
+              "url": "https://n.news.naver.com/mnews/article/018/0006337181?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍰",
+          "title": "생크림빵 110만개",
+          "summary": "CU의 '깨먹는 연세 하트 생크림빵'이 출시 3개월 만에 110만개를 돌파하며 경험 소비 문화 트렌드를 주도하고 있다.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, 깨먹는 연세 하트 생크림빵 110만개 돌파",
+              "url": "https://n.news.naver.com/mnews/article/022/0004145947?sid=101"
             }
           ],
           "articleCount": 1
@@ -135,46 +135,31 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "GS25 외국인 매출 급증",
-          "summary": "GS25가 외국인 관광객 증가로 해안가 편의점 매출 137% 증가, 상반기 외국인 결제 매출 60% 성장 달성.",
+          "emoji": "💳",
+          "title": "GS25 외국인 결제",
+          "summary": "GS25가 외국인 고객 수요에 대응해 맞춤형 서비스를 확대하며 외국인 결제 서비스 매출이 78% 신장했다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "\"바나나우유 들고 바다로\"…외국인 몰리자 해안가 편의점 매출 137% 뛰...",
-              "url": "https://n.news.naver.com/mnews/article/022/0004145838?sid=101"
+              "title": "\"편의점 찍고 간다\"…외국인, 편의점서 '한국의 일상' 담았다",
+              "url": "https://n.news.naver.com/mnews/article/119/0003115024?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎨",
-          "title": "세븐일레븐 레드닷 디자인상 수상",
-          "summary": "세븐일레븐이 세계 3대 디자인 공모전 '2026 레드닷 디자인 어워드' 본상 수상으로 모듈형 그래픽 시스템 'It's in 7' 디자인 경쟁력 입증.",
+          "emoji": "🛡️",
+          "title": "이마트24 안심존",
+          "summary": "이마트24가 전북여성가족재단과 협력해 '편의점 안심존'을 운영하며 지역 안전 거점으로서의 사회적 역할을 강화하고 있다.",
           "articleIndices": [
-            6
+            3
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, '레드닷 디자인 어워드' 본상 수상...디자인 경쟁력 입증",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=754212"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍜",
-          "title": "이마트24 K-라면 특화존 확대",
-          "summary": "이마트24 'K-푸드랩 명동점'에서 170여종 라면 특화존 운영으로 외국인 관광객 대상 치즈·마라 등 이색 제품 판매 확대.",
-          "articleIndices": [
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "'매운맛 넘어 치즈·마라맛으로'…K-라면 인기에 외국인 입맛도 다변화",
-              "url": "https://n.news.naver.com/mnews/article/421/0009078991?sid=101"
+              "title": "전북여성가족재단, '편의점 안심존' 운영 이마트24 손잡았다",
+              "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=444023"
             }
           ],
           "articleCount": 1
@@ -185,31 +170,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "편의점 초저가 주류 경쟁",
-          "summary": "GS25와 세븐일레븐이 수입 주류업체와 협력해 990원대 초저가 맥주 판매로 가성비 경쟁 심화.",
+          "emoji": "💜",
+          "title": "CU 요요하마 협업",
+          "summary": "CU가 프리미엄 그릭요거트 브랜드 '요즘'과 협업해 '요요하마' 캐릭터를 활용한 한정판 제품을 출시하며 캐릭터 마케팅을 강화하고 있다.",
           "articleIndices": [
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "\"맥주 한 캔이 990원\"…편의점, 다시 '초저가 주류' 꺼낸 이유",
-              "url": "https://n.news.naver.com/mnews/article/022/0004145833?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍰",
-          "title": "편의점 디저트 시장 축소",
-          "summary": "중국 시장에서 베이커리·디저트 업계 8만개 이상 폐점으로 가성비·편의성 중심 유통채널 전환 가속화.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "'거품 빼고 실속만' 반년간 200만곳 문 닫았다…무슨 일이[중국.zip]",
-              "url": "https://n.news.naver.com/mnews/article/277/0005794550?sid=104"
+              "title": "[이주의 유통포인트] 이마트, '우베·두바이' 빙수 밀키트 선봬…CU, '요...",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313204"
             }
           ],
           "articleCount": 1
