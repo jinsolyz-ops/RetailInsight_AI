@@ -283,6 +283,20 @@
   .cu-section .wordcloud { border-color: rgba(108, 99, 255, 0.28); }
   .gs-section .wordcloud { border-color: rgba(0, 166, 81, 0.28); }
 
+  .kw-tooltip {
+    position: fixed;
+    z-index: 9999;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.1s ease;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 8px 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+    max-width: 240px;
+  }
+
   .keyword-item {
     background: var(--surface);
     border: 1px solid var(--border);
@@ -777,16 +791,17 @@
   <div class="keyword-cloud-layout">
 
     <div class="keyword-section cu-section">
-      <h2 style="color:var(--cu-light)">CU 연관 키워드 TOP 50 <small style="font-size:11px;color:var(--muted);font-weight:400;">※ <span class="display-period-compact">-</span> 제목+본문 명사 분석</small></h2>
+      <h2 style="color:var(--cu-light)">CU 연관 키워드 <small style="font-size:11px;color:var(--muted);font-weight:400;">※ <span class="display-period-compact">-</span> 게시글 2건 이상 언급 · 명사 형태소 분석</small></h2>
       <canvas class="wordcloud" id="cu-keyword-grid"></canvas>
     </div>
 
     <div class="keyword-section gs-section">
-      <h2 style="color:var(--gs-light)">GS25 연관 키워드 TOP 50 <small style="font-size:11px;color:var(--muted);font-weight:400;">※ <span class="display-period-compact">-</span> 제목+본문 명사 분석</small></h2>
+      <h2 style="color:var(--gs-light)">GS25 연관 키워드 <small style="font-size:11px;color:var(--muted);font-weight:400;">※ <span class="display-period-compact">-</span> 게시글 2건 이상 언급 · 명사 형태소 분석</small></h2>
       <canvas class="wordcloud" id="gs-keyword-grid"></canvas>
     </div>
 
   </div>
+  <div id="kw-tooltip" class="kw-tooltip"></div>
 </div>
 
 <!-- ===== 게시글 모니터링 탭 ===== -->
@@ -1012,7 +1027,8 @@ async function loadPosts() {
       content: p.content,
       views: p.views,
       comments: p.comments,
-      brand: p.brand
+      brand: p.brand,
+      keywords: p.keywords
     }));
 
     cuPosts = posts.filter(p => p.brand === 'cu');
@@ -1097,48 +1113,63 @@ function buildSummary() {
 }
 
 // ===== 키워드 TOP10: 실제 title+content 명사 추출 =====
+function aggregateKeywords(posts) {
+  const docFreq = {};
+  const titleDocFreq = {};
+
+  posts.forEach(p => {
+    const kw = p.keywords;
+    if (!kw || !kw.terms) return;
+
+    Object.keys(kw.terms).forEach(w => {
+      docFreq[w] = (docFreq[w] || 0) + 1;
+    });
+    Object.keys(kw.titleTerms || {}).forEach(w => {
+      titleDocFreq[w] = (titleDocFreq[w] || 0) + 1;
+    });
+  });
+
+  const KW_MIN_DOC_FREQ = 2;
+  const KW_SOFT_CAP = 180;
+  const KW_TITLE_WEIGHT = 1;
+
+  return Object.keys(docFreq)
+    .filter(w => docFreq[w] >= KW_MIN_DOC_FREQ)
+    .map(w => {
+      const df = docFreq[w];
+      const tdf = titleDocFreq[w] || 0;
+      return { word: w, docFreq: df, titleDocFreq: tdf, score: df + KW_TITLE_WEIGHT * tdf };
+    })
+    .sort((a, b) => b.score - a.score)
+    .slice(0, KW_SOFT_CAP);
+}
+
 function buildKeywords() {
-  const stopwords = new Set([
-    '이','가','을','를','은','는','의','에','에서','으로','로','와','과','도','만','한테',
-    '한','하','해','했','하는','하고','하면','해서','이라','이라고','라고','라서',
-    '그','저','것','거','수','좀','제','내','네','우리','거기','여기','저기',
-    '이거','저거','그거','뭐','왜','어떻게','얼마','언제','어디','누구',
-    '진짜','너무','정말','완전','되','안','못','아','어','오','음','ㅋ','ㄱ',
-    'CU','씨유','GS25','gs25','지에스','포켓CU','포켓씨유','우동지','우리동네',
-    '편의점','씨유편','지에스25',
-    '있','없','됩','됩니','되고','되어','이건','저건','그건','아님','아니',
-    '같아','같은','같이','같고','맞지','맞아','이제','근데','그리고','그냥',
-    '다','더','또','꼭','잘','막','다시','바로','이미','벌써','이번',
-    '오늘','어제','내일','요즘','지금','아직','먼저',
-    '주','개','번','원','개짜리','짜리','만원','천원','백원',
-  ]);
+  const cuScored = aggregateKeywords(cuFiltered);
+  const gsScored = aggregateKeywords(gsFiltered);
 
-  const extract = (text) => {
-    const words = text.replace(/[^\uAC00-\uD7A3a-zA-Z0-9\s]/g, ' ').split(/\s+/);
-    return words.filter(w => {
-      if (w.length < 2) return false;
-      if (stopwords.has(w)) return false;
-      if (/^\d+$/.test(w)) return false;
-      if (/^[a-zA-Z]{1}$/.test(w)) return false;
-      return true;
-    });
-  };
+  const globalMaxScore = Math.max(1, cuScored[0] ? cuScored[0].score : 0, gsScored[0] ? gsScored[0].score : 0);
 
-  const countWords = (posts) => {
-    const freq = {};
-    posts.forEach(p => {
-      const text = (p.title || '') + ' ' + (p.content || '');
-      extract(text).forEach(w => { freq[w] = (freq[w]||0) + 1; });
-    });
-    return Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,50);
-  };
+  renderKeywords(cuScored, globalMaxScore, 'cu-kw', 'cu-keyword-grid');
+  renderKeywords(gsScored, globalMaxScore, 'gs-kw', 'gs-keyword-grid');
+}
 
-  const cuTop  = countWords(cuFiltered);
-  const gsTop  = countWords(gsFiltered);
-  const cuMax  = cuTop[0] ? cuTop[0][1] : 1;
-  const gsMax  = gsTop[0] ? gsTop[0][1] : 1;
+function showKeywordTooltip(item, event, infoByWord, isGs) {
+  const tooltip = document.getElementById('kw-tooltip');
+  if (!tooltip) return;
+  if (!item) { tooltip.style.opacity = '0'; return; }
+  const info = infoByWord.get(item[0]);
+  if (!info) { tooltip.style.opacity = '0'; return; }
+  const titleNote = info.titleDocFreq > 0 ? ` · 제목 포함 ${info.titleDocFreq}건` : '';
+  tooltip.innerHTML =
+    `<div style="font-weight:700;font-size:13px;margin-bottom:2px;color:${isGs ? 'var(--gs-light)' : 'var(--cu-light)'}">${info.word}</div>` +
+    `<div style="font-size:12px;color:var(--muted)">등장 게시글 ${info.docFreq}건${titleNote}</div>`;
+  tooltip.style.left = `${event.pageX + 14}px`;
+  tooltip.style.top = `${event.pageY + 14}px`;
+  tooltip.style.opacity = '1';
+}
 
-const renderKeywords = (top, max, cls, containerId) => {
+const renderKeywords = (scored, globalMaxScore, cls, containerId) => {
   const canvas = document.getElementById(containerId);
   const isGs = cls === 'gs-kw';
 
@@ -1150,6 +1181,17 @@ const renderKeywords = (top, max, cls, containerId) => {
   canvas.height = Math.floor(height * window.devicePixelRatio);
   canvas.style.width = '100%';
   canvas.style.height = `${height}px`;
+
+  const ctx = canvas.getContext('2d');
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  if (scored.length === 0) {
+    ctx.fillStyle = '#94a3b8';
+    ctx.font = `${14 * window.devicePixelRatio}px "Noto Sans KR", sans-serif`;
+    ctx.textAlign = 'center';
+    ctx.fillText('아직 분석된 연관 키워드가 없습니다', canvas.width / 2, canvas.height / 2);
+    return;
+  }
 
   const hexToRgb = hex => {
     const clean = hex.replace('#', '');
@@ -1175,17 +1217,22 @@ const renderKeywords = (top, max, cls, containerId) => {
     : { light: '#DDD6FE', dark: '#4F46E5' };
 
   const colorByWord = new Map();
+  const infoByWord = new Map();
 
-  const list = top.map(([word, cnt], index) => {
-    const ratio = cnt / max;
-    const baseSize = 15 + ratio * 34;
-    const top10Boost = index < 10 ? 2 : 1;
-    const size = baseSize * top10Boost;
+  const MIN_SIZE = 15;
+  const MAX_SIZE = 58;
+  const n = scored.length;
 
-    // 빈도수가 높을수록 더 진한 색으로 보이도록 50개 항목 전체에 연속 그라데이션 적용
-    colorByWord.set(word, mixColor(gradient.light, gradient.dark, ratio));
+  const list = scored.map((item, index) => {
+    const rankRatio = n === 1 ? 1 : 1 - (index / (n - 1));
+    const sizeRatio = Math.sqrt(rankRatio);
+    const size = MIN_SIZE + sizeRatio * (MAX_SIZE - MIN_SIZE);
 
-    return [word, size];
+    const colorRatio = item.score / globalMaxScore;
+    colorByWord.set(item.word, mixColor(gradient.light, gradient.dark, colorRatio));
+    infoByWord.set(item.word, item);
+
+    return [item.word, size];
   });
 
   WordCloud(canvas, {
@@ -1199,24 +1246,21 @@ const renderKeywords = (top, max, cls, containerId) => {
     color: (word) => colorByWord.get(word) || gradient.light,
     backgroundColor: '#ffffff',
 
-    // 키워드 크기 차이를 더 잘 보이게 하되, 읽기 흐름은 유지
     rotateRatio: 0.015,
     rotationSteps: 2,
     minRotation: -Math.PI / 48,
     maxRotation: Math.PI / 48,
 
-    // 큰 TOP10 키워드가 캔버스 밖으로 잘리지 않도록 유지
     drawOutOfBound: false,
     shrinkToFit: true,
 
     origin: [canvas.width / 2, canvas.height / 2],
     ellipticity: 0.64,
 
-    clearCanvas: true
+    clearCanvas: true,
+
+    hover: (item, dimension, event) => showKeywordTooltip(item, event, infoByWord, isGs)
   });
-}
-  renderKeywords(cuTop, cuMax, '', 'cu-keyword-grid');
-  renderKeywords(gsTop, gsMax, 'gs-kw', 'gs-keyword-grid');
 }
 
 // ===== 팝업 =====
