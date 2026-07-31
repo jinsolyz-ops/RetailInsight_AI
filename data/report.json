@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-07-30T22:55:01.416Z",
+  "generatedAt": "2026-07-31T22:48:30.009Z",
   "summary": [
-    "GS25, SNS 데이터 기반 상품 개발로 트렌드 선도 강화",
-    "CU, 몽골 600호점 돌파로 해외 진출 성공 모델 확립",
-    "편의점 업계, PB·단독상품 확대로 마진율 개선 추진"
+    "CU 스마트 그로서리, 식품 매출 7.8% 증가로 마트 경쟁력 확보",
+    "GS25 데이터 기반 밀크티 신제품 출시, Z세대 마시는 디저트 트렌드 선점",
+    "BGF 하와이 2년 내 50개점 목표, 글로벌 확장 가속화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "📊",
-          "title": "SNS 데이터 기반 상품 개발",
-          "summary": "GS25가 SNS 댓글·검색어를 신제품 아이디어로 활용하는 데이터 기반 기획 전략으로 트렌드 주도권 확보.",
+          "emoji": "🍔",
+          "title": "버거킹 아침 조식 경쟁",
+          "summary": "버거킹이 글로벌 조식 메뉴와 레트로 감성 마케팅으로 아침 시장을 선점하며 편의점·외식 경쟁 심화.",
           "articleIndices": [
-            7
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'댓글·검색어가 곧 신상품'… GS25, 200만 채널로 '트렌드 기획' 이끈다",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423189"
+              "title": "[#유통365] '버거킹 아침 식사 됩니다'···불붙는 버거 조식 경쟁",
+              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422804"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎯",
-          "title": "IP 활용 공간 마케팅 확산",
-          "summary": "영풍문고의 '찌글이' IP 활용 사례처럼 SNS 기반 독립 IP와 UGC를 결합한 매장 재구성이 유통업계 전반으로 확산.",
+          "emoji": "🛒",
+          "title": "일본 식료품 소비세 인하",
+          "summary": "일본 정부의 식료품 소비세 8%→1% 인하 추진으로 유통업계 POS 시스템 개편 필요성 대두.",
           "articleIndices": [
-            6
+            3
           ],
           "relatedLinks": [
             {
-              "title": "영풍문고, 1700만 뷰 IP '찌글이'로 공간 혁신…O4O 집객 사원화",
-              "url": "https://www.goodkyung.com/news/articleView.html?idxno=289779"
+              "title": "식료품 소비세 8%→1% 추진…감세 승부수 던진 다카이치",
+              "url": "https://n.news.naver.com/mnews/article/009/0005714701?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,37 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "1인 가구 겨냥 버티컬커머스 성장",
-          "summary": "올·다·무 등 버티컬커머스가 1인 가구의 소용량·가성비 선호도를 반영해 대형마트 중심 유통 지형을 빠르게 재편.",
+          "emoji": "📦",
+          "title": "버티컬 커머스 스타트업 성장",
+          "summary": "디캠프 배치 3기 AI 기반 커머스 솔루션 기업들이 평균 매출 3배 성장, 누적 거래액 2000억 원 달성.",
           "articleIndices": [
-            9
+            6,
+            7,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "'소용량·가성비' 선호하는 1인 가구에 유통 지형 변했다…'올·다·무'",
-              "url": "https://n.news.naver.com/mnews/article/005/0001863961?sid=101"
+              "title": "디캠프 배치 3기 디데이 성료···AI 스타트업 5개사 평균 매출 3배 성장",
+              "url": "https://n.news.naver.com/mnews/article/144/0001129310?sid=105"
+            },
+            {
+              "title": "\"매출 3배 늘었다\"…디캠프 배치 3기 디데이 성료",
+              "url": "https://n.news.naver.com/mnews/article/009/0005714887?sid=105"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         },
         {
-          "emoji": "🚀",
-          "title": "도매 플랫폼 IPO 수익화 본격화",
-          "summary": "딜리셔스가 97% 점유율 기반으로 IPO 추진하며 신상애드·구독형 광고 등 새로운 수익 모델 확대.",
+          "emoji": "🚚",
+          "title": "홈플러스 배송사업 구조 전환",
+          "summary": "유진소닉이 홈플러스 배송 비중을 30%대로 축소하고 이커머스 당일배송·설치물류 사업 확장 중.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[현장] 97% 점유율 딜리셔스, IPO로 수익화 본격화…오버행은 과제",
-              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307972"
+              "title": "유진그룹 6호 상장 후보 '유진소닉', 증시 입성 언제",
+              "url": "https://www.topdaily.kr/articles/111250"
             }
           ],
           "articleCount": 1
@@ -81,30 +87,31 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "조각 과일 수요 급증",
-          "summary": "컬리의 '조각 과일' 매출이 두 달새 184% 증가하며 1인 가구 편의성 수요를 AI 기반 상품 기획으로 충족.",
+          "title": "AI 기반 커머스 솔루션 확산",
+          "summary": "펄스애드 등 AI 기반 리테일 데이터 솔루션 기업들이 연간 반복 매출(ARR) 3배 이상 성장하며 시장 확대.",
           "articleIndices": [
-            10
+            3,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "1인 가구 겨냥 '조각 과일' 매출 두 달새 184%↑... 유통가, '편의성' 넘어",
-              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=876613"
+              "title": "대구한의대, AI커머스 실무교육… 학생·소상공인 디지털 역량 강화",
+              "url": "https://www.kbmaeil.com/article/20260731500252"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🔐",
-          "title": "정품 인증 AI 플랫폼 확대",
-          "summary": "퀘이자의 'Tagless DPP' 기술이 스마트폰 인증으로 제조·물류·커머스 전역 확장하는 '피지컬 AI' 플랫폼 구축.",
+          "emoji": "🛍️",
+          "title": "롯데 오카도 리테일테크 프로젝트",
+          "summary": "신동빈 회장이 1조 원 베팅한 영국 오카도와의 파트너십으로 온라인 그로서리 시장 진출 본격화.",
           "articleIndices": [
-            8
+            7
           ],
           "relatedLinks": [
             {
-              "title": "퀘이자, 태그 없이 스마트폰 한 장으로 정품 인증하는 'Tagless DPP'로 미국",
-              "url": "https://kr.aving.net/news/articleView.html?idxno=1812748"
+              "title": "신동빈 롯데 회장, 1조원 베팅 '오카도' 8월 첫 시험대 오른다",
+              "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251378"
             }
           ],
           "articleCount": 1
@@ -115,51 +122,51 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "몽골 600호점 돌파",
-          "summary": "CU가 현지 맞춤형 상품 전략과 운영 효율성으로 몽골에서 600호점을 달성하며 국내 편의점 해외 진출 성공 모델 확립.",
+          "emoji": "🥬",
+          "title": "CU 스마트 그로서리 확대",
+          "summary": "CU 장보기 특화매장 '스마트 그로서리'가 신선식품 판매로 식품 매출 7.8% 증가, 마트 경쟁력 확보.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "몽골서 거둔 CU의 이유 있는 성공…'방문객, 韓보다 3배'",
-              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315788"
+              "title": "[현장] 'CU서 상추를'···마트 앞선 편의점, 식품 '7.8%' 껑충",
+              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422809"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🇰🇷",
-          "title": "광복절 독립운동가 기념 캠페인",
-          "summary": "CU가 행정안전부와 협력해 광복 81주년 맞이 독립운동가 이태준 선생 알리기 캠페인 및 관련 간편식 출시.",
+          "emoji": "🌍",
+          "title": "BGF 글로벌 확장 가속화",
+          "summary": "홍석조 회장의 하와이 현장경영으로 CU 2년 내 50개점 목표 설정, 몽골·말레이시아 등 글로벌 영역 확대.",
           "articleIndices": [
-            2,
-            3
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "CU, 광복절 맞아 이태준 선생 기념 캠페인 연계 간편식 선보여",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202607301638151241204ead0791_12"
+              "title": "[단독] 홍석조 BGF 회장, 하와이 현장경영…'CU, 2년 내 50개 찍는다'",
+              "url": "https://www.theguru.co.kr/news/article.html?no=105188"
             },
             {
-              "title": "[오늘의 편의점] CU·세븐일레븐·이마트24",
-              "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=43896"
+              "title": "몽골서 거둔 CU의 이유 있는 성공…'방문객, 韓보다 3배'",
+              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315788"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🤝",
-          "title": "부산시 이동노동자 쉼터 지정",
-          "summary": "BGF리테일(CU)이 부산시와 협력해 48개 CU 편의점을 이동노동자 쉼터로 지정하며 사회적 책임 강화.",
+          "emoji": "🇰🇷",
+          "title": "CU 광복절 캠페인",
+          "summary": "CU가 행정안전부와 함께 태극기 달기 운동 및 독립운동가 기념공원 후원 캠페인 진행.",
           "articleIndices": [
-            4
+            5
           ],
           "relatedLinks": [
             {
-              "title": "부산시 'CU 편의점 48곳, 이동노동자 쉼터로'",
-              "url": "https://n.news.naver.com/mnews/article/003/0014098858?sid=102"
+              "title": "[오늘의 편의점] CU·세븐일레븐·이마트24",
+              "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=43896"
             }
           ],
           "articleCount": 1
@@ -170,36 +177,55 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🌾",
-          "title": "세븐일레븐 지역 농산물 협력",
-          "summary": "세븐일레븐이 농촌진흥청과 협력해 국내 육성 품종·지역 특화 농산물 활용 제로슈거 에이드 3종 출시.",
+          "emoji": "🥤",
+          "title": "GS25 데이터 기반 밀크티 출시",
+          "summary": "GS25가 상반기 판매 데이터 분석으로 밀크티 매출 111% 증가 추세를 반영해 '유어스로얄밀크티' 신제품 출시.",
           "articleIndices": [
-            5
+            3
           ],
           "relatedLinks": [
             {
-              "title": "농촌진흥청·세븐일레븐, 지역 농산물 활용 에이드 3종 출시",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202607301927458029f4ab64559d_12"
+              "title": "GS25, 데이터 분석 기반 컵음료 시장서 밀크티 상품 선보여",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202607311755034303204ead0791_12"
+            },
+            {
+              "title": "[유통가 오늘] 이랜드ㆍ 한샘ㆍCJ프레시웨이ㆍGS리테일",
+              "url": "https://www.cnbnews.com/news/articleView.html?idxno=1009950"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍺",
-          "title": "이마트24 초저가 주류 전략",
-          "summary": "이마트24가 초저가 막걸리 출시로 주류 업계 가격 안정화 흐름을 주도하며 가성비 경쟁 강화.",
+          "emoji": "⚾",
+          "title": "세븐일레븐 KBO 피카추 콜래버",
+          "summary": "세븐일레븐이 롯데 자이언츠와 협업해 피카추 컬래버 유니폼을 선보이며 스포츠 마케팅 강화.",
           "articleIndices": [
-            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "소상공인시장진흥공단, ㈜선양소주 찾아 ESG·상생 혁신 사례 벤치마킹",
-              "url": "https://www.newstnt.com/news/articleView.html?idxno=712327"
+              "title": "양키스ㆍ요미우리 안 해도 KBO는 다 한다",
+              "url": "https://m.sports.naver.com/kbaseball/article/053/0000060346"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "❄️",
+          "title": "이마트24 무더위쉼터 지정",
+          "summary": "이마트24가 수원시 무더위쉼터 718곳 확대 지정에 포함되어 지역사회 공헌 강화.",
+          "articleIndices": [
+            6,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "수원특례시, 민간 무더위쉼터 105개소 추가 지정",
+              "url": "https://www.kmaeil.com/news/articleView.html?idxno=647262"
             },
             {
-              "title": "동네슈퍼 매출 62억 창출…소진공, 선양소주 'ESG·상생 혁신 사례' 벤치마킹",
-              "url": "https://www.cstimes.com/news/articleView.html?idxno=715282"
+              "title": "수원시, 무더위쉼터 718곳으로 확대…대형마트·은행도 폭염 피난처로",
+              "url": "https://www.factin.co.kr/news/articleView.html?idxno=6769"
             }
           ],
           "articleCount": 2
@@ -210,34 +236,25 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍜",
-          "title": "냉동 솥밥 신카테고리 성장",
-          "summary": "동원F&B의 냉동 솥밥이 1인 가구 증가와 집밥 트렌드 확산으로 간편식 시장의 새로운 카테고리로 부상.",
+          "emoji": "🧋",
+          "title": "편의점 마시는 디저트 트렌드",
+          "summary": "Z세대·2030세대 중심 '마시는 디저트' 문화 확산으로 밀크티·RTD 음료 시장 급성장, 편의점 신제품 경쟁 심화.",
           "articleIndices": [
-            9
+            3,
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'직화 불맛 살아있네'…동원F&B, '냉동 솥밥' 열풍 이끈다",
-              "url": "https://n.news.naver.com/mnews/article/215/0001260608?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎬",
-          "title": "편스토랑 신상 출시 연계 마케팅",
-          "summary": "편스토랑의 연예인 미식가 메뉴 평가를 통해 선정된 상품이 방송 다음 날 전국 편의점에 출시되는 실시간 연계 마케팅.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
+              "title": "데이터가 찾은 블루오션…GS25, '유어스로얄밀크티' 선봬",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599243740271"
+            },
             {
-              "title": "'편스토랑' 4개월 만 3%대 재진입…장윤정 '가짜뉴스' 해명에 시청률 ↑",
-              "url": "https://m.entertain.naver.com/article/440/0000039188"
+              "title": "K라면 열풍 이끈 불닭, 글로벌 핫소스로 진화",
+              "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=496988"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     }
