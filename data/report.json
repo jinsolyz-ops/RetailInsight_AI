@@ -1,40 +1,25 @@
 {
-  "generatedAt": "2026-07-31T22:48:30.009Z",
+  "generatedAt": "2026-08-01T22:42:49.633Z",
   "summary": [
-    "CU 스마트 그로서리, 식품 매출 7.8% 증가로 마트 경쟁력 확보",
-    "GS25 데이터 기반 밀크티 신제품 출시, Z세대 마시는 디저트 트렌드 선점",
-    "BGF 하와이 2년 내 50개점 목표, 글로벌 확장 가속화"
+    "CU 깨먹는 연세 하트 생크림빵 3개월 110만개 판매로 경험형 디저트 트렌드 주도",
+    "CU 스마트 그로서리로 편의점 식품 카테고리 7.8% 성장, 마트 경쟁 심화",
+    "BGF리테일 하와이 CU 2년 내 50개점 목표로 K-편의점 글로벌 확장 가속화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🍔",
-          "title": "버거킹 아침 조식 경쟁",
-          "summary": "버거킹이 글로벌 조식 메뉴와 레트로 감성 마케팅으로 아침 시장을 선점하며 편의점·외식 경쟁 심화.",
+          "emoji": "🎪",
+          "title": "캐릭터 IP 팝업 열풍",
+          "summary": "신세계백화점 강남점 등 백화점·쇼핑몰이 캐릭터 테마파크로 변신하며 포장 5시간·대기 300팀 기록, 유통사들이 캐릭터 IP 마케팅 확대 추진 중.",
           "articleIndices": [
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[#유통365] '버거킹 아침 식사 됩니다'···불붙는 버거 조식 경쟁",
-              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422804"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛒",
-          "title": "일본 식료품 소비세 인하",
-          "summary": "일본 정부의 식료품 소비세 8%→1% 인하 추진으로 유통업계 POS 시스템 개편 필요성 대두.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "식료품 소비세 8%→1% 추진…감세 승부수 던진 다카이치",
-              "url": "https://n.news.naver.com/mnews/article/009/0005714701?sid=101"
+              "title": "'포장 5시간, 대기 300팀'…'캐릭터 테마파크' 된 백화점·쇼핑몰",
+              "url": "https://n.news.naver.com/mnews/article/015/0005316320?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,9 +30,9 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "버티컬 커머스 스타트업 성장",
-          "summary": "디캠프 배치 3기 AI 기반 커머스 솔루션 기업들이 평균 매출 3배 성장, 누적 거래액 2000억 원 달성.",
+          "emoji": "🚀",
+          "title": "버티컬커머스 스타트업 성장",
+          "summary": "디캠프 배치 3기 AI 기반 버티컬 유통 인프라 기업 5개사가 배치 기간 월 매출 3배 성장, 누적 거래액 2,000억 원 달성으로 시장 경쟁력 강화.",
           "articleIndices": [
             6,
             7,
@@ -64,21 +49,6 @@
             }
           ],
           "articleCount": 3
-        },
-        {
-          "emoji": "🚚",
-          "title": "홈플러스 배송사업 구조 전환",
-          "summary": "유진소닉이 홈플러스 배송 비중을 30%대로 축소하고 이커머스 당일배송·설치물류 사업 확장 중.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "유진그룹 6호 상장 후보 '유진소닉', 증시 입성 언제",
-              "url": "https://www.topdaily.kr/articles/111250"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -87,31 +57,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 기반 커머스 솔루션 확산",
-          "summary": "펄스애드 등 AI 기반 리테일 데이터 솔루션 기업들이 연간 반복 매출(ARR) 3배 이상 성장하며 시장 확대.",
+          "title": "AI 기반 숏폼 커머스 확산",
+          "summary": "SK브로드밴드 'B tv 핫딜' 8개월 60억 매출 달성, GS샵·현대홈쇼핑 등 홈쇼핑사들이 AI 활용 숏폼 콘텐츠 제작에 집중하며 2030 고객층 공략 강화.",
           "articleIndices": [
-            3,
-            6
+            4
           ],
           "relatedLinks": [
             {
-              "title": "대구한의대, AI커머스 실무교육… 학생·소상공인 디지털 역량 강화",
-              "url": "https://www.kbmaeil.com/article/20260731500252"
+              "title": "8개월 만에 '60억' 잭팟…2030 돈 쓸어 담은 '1분 영상' 정체",
+              "url": "https://n.news.naver.com/mnews/article/015/0005316302?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "롯데 오카도 리테일테크 프로젝트",
-          "summary": "신동빈 회장이 1조 원 베팅한 영국 오카도와의 파트너십으로 온라인 그로서리 시장 진출 본격화.",
+          "emoji": "🛒",
+          "title": "AI 커머스 문맥 기반 추천",
+          "summary": "AI 쇼핑이 '무엇을 검색했는가'에서 '왜 그런 이야기를 했는가'로 패러다임 전환, 글로벌 기업들이 문맥 데이터 기반 추천 시스템에 주목.",
           "articleIndices": [
-            7
+            3
           ],
           "relatedLinks": [
             {
-              "title": "신동빈 롯데 회장, 1조원 베팅 '오카도' 8월 첫 시험대 오른다",
-              "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251378"
+              "title": "[심층분석-AI쇼핑] '비가 온다'는 말에 우산을 추천하는 AI…쇼핑의 패러다임",
+              "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=102193"
             }
           ],
           "articleCount": 1
@@ -123,10 +92,10 @@
       "issues": [
         {
           "emoji": "🥬",
-          "title": "CU 스마트 그로서리 확대",
-          "summary": "CU 장보기 특화매장 '스마트 그로서리'가 신선식품 판매로 식품 매출 7.8% 증가, 마트 경쟁력 확보.",
+          "title": "스마트 그로서리 식품 성장",
+          "summary": "CU 신촌피어점 등 장보기 특화매장 '스마트 그로서리'에서 신선식품 판매 7.8% 성장, 대형마트 대비 저가 경쟁력으로 편의점 식품 카테고리 확대.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
@@ -137,36 +106,31 @@
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "BGF 글로벌 확장 가속화",
-          "summary": "홍석조 회장의 하와이 현장경영으로 CU 2년 내 50개점 목표 설정, 몽골·말레이시아 등 글로벌 영역 확대.",
+          "emoji": "🌏",
+          "title": "하와이 CU 글로벌 확장",
+          "summary": "BGF리테일 홍석조 회장 현장경영으로 하와이 CU 2년 내 50개점 목표 선언, 다운타운 1호점 성공 기반 카할라점 등 2호점 운영 중 K-편의점 글로벌 진출 가속화.",
           "articleIndices": [
-            3,
-            4
+            3
           ],
           "relatedLinks": [
             {
               "title": "[단독] 홍석조 BGF 회장, 하와이 현장경영…'CU, 2년 내 50개 찍는다'",
               "url": "https://www.theguru.co.kr/news/article.html?no=105188"
-            },
-            {
-              "title": "몽골서 거둔 CU의 이유 있는 성공…'방문객, 韓보다 3배'",
-              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315788"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
           "emoji": "🇰🇷",
-          "title": "CU 광복절 캠페인",
-          "summary": "CU가 행정안전부와 함께 태극기 달기 운동 및 독립운동가 기념공원 후원 캠페인 진행.",
+          "title": "광복절 태극기 캠페인",
+          "summary": "CU가 행정안전부와 광복 81주년 태극기 달기 운동 동참, 독립운동가 이태준 선생 간편식으로 알리는 사회공헌 마케팅 전개.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의 편의점] CU·세븐일레븐·이마트24",
-              "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=43896"
+              "title": "[이주의 유통포인트] 갤러리아百, 크록스 팝업스토어 운영…CU, 태극기",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314003"
             }
           ],
           "articleCount": 1
@@ -177,58 +141,49 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥤",
-          "title": "GS25 데이터 기반 밀크티 출시",
-          "summary": "GS25가 상반기 판매 데이터 분석으로 밀크티 매출 111% 증가 추세를 반영해 '유어스로얄밀크티' 신제품 출시.",
+          "emoji": "🍟",
+          "title": "GS25 캐릭터 협업 신상",
+          "summary": "GS25가 오리온과 '춘식이 꼬북칩 고구마탕후루맛' 6일 단독 출시, 글로벌 구황작물 스낵 트렌드 반영한 메가 브랜드 협업 차별화 전략 추진.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "GS25, 오리온과 '춘식이 꼬북칩 고구마탕후루맛' 출시",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=755886"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍰",
+          "title": "세븐일레븐 경험형 디저트",
+          "summary": "세븐일레븐 '제주감귤 왁뿌볼' 등 경험형 디저트 라인업으로 MZ·외국인 고객 공략, 편의점 3사 깨먹는 디저트 신드롬 경쟁 심화.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 데이터 분석 기반 컵음료 시장서 밀크티 상품 선보여",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202607311755034303204ead0791_12"
-            },
-            {
-              "title": "[유통가 오늘] 이랜드ㆍ 한샘ㆍCJ프레시웨이ㆍGS리테일",
-              "url": "https://www.cnbnews.com/news/articleView.html?idxno=1009950"
+              "title": "[진단] '부숴 먹고 촬영한다'… MZ·외국인 홀린 편의점 '경험형 디저트'",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423218"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "⚾",
-          "title": "세븐일레븐 KBO 피카추 콜래버",
-          "summary": "세븐일레븐이 롯데 자이언츠와 협업해 피카추 컬래버 유니폼을 선보이며 스포츠 마케팅 강화.",
+          "emoji": "🏪",
+          "title": "이마트24 무더위쉼터 운영",
+          "summary": "수원특례시가 이마트24 등 민간 무더위쉼터 105곳 추가 지정, 폭염 대응 사회공헌 활동으로 지역 고객 신뢰도 강화.",
           "articleIndices": [
-            4
+            8
           ],
           "relatedLinks": [
             {
-              "title": "양키스ㆍ요미우리 안 해도 KBO는 다 한다",
-              "url": "https://m.sports.naver.com/kbaseball/article/053/0000060346"
+              "title": "수원특례시, 민간 무더위쉼터 105곳 추가 지정",
+              "url": "http://www.metroseoul.co.kr/article/20260731500196"
             }
           ],
           "articleCount": 1
-        },
-        {
-          "emoji": "❄️",
-          "title": "이마트24 무더위쉼터 지정",
-          "summary": "이마트24가 수원시 무더위쉼터 718곳 확대 지정에 포함되어 지역사회 공헌 강화.",
-          "articleIndices": [
-            6,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "수원특례시, 민간 무더위쉼터 105개소 추가 지정",
-              "url": "https://www.kmaeil.com/news/articleView.html?idxno=647262"
-            },
-            {
-              "title": "수원시, 무더위쉼터 718곳으로 확대…대형마트·은행도 폭염 피난처로",
-              "url": "https://www.factin.co.kr/news/articleView.html?idxno=6769"
-            }
-          ],
-          "articleCount": 2
         }
       ]
     },
@@ -236,25 +191,35 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🧋",
-          "title": "편의점 마시는 디저트 트렌드",
-          "summary": "Z세대·2030세대 중심 '마시는 디저트' 문화 확산으로 밀크티·RTD 음료 시장 급성장, 편의점 신제품 경쟁 심화.",
+          "emoji": "🍞",
+          "title": "깨먹는 디저트 신드롬",
+          "summary": "CU '깨먹는 연세 하트 생크림빵' 3개월 110만개 판매, GS25·세븐일레븐 경험형 디저트 경쟁으로 편의점·베이커리 시장 새로운 흥행 공식 확립.",
           "articleIndices": [
-            3,
-            4,
-            5
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "데이터가 찾은 블루오션…GS25, '유어스로얄밀크티' 선봬",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599243740271"
-            },
-            {
-              "title": "K라면 열풍 이끈 불닭, 글로벌 핫소스로 진화",
-              "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=496988"
+              "title": "\"빵 하나가 110만개 팔렸다\"…초코 껍질 '와그작' 깨먹는 디저트 열풍",
+              "url": "https://n.news.naver.com/mnews/article/022/0004147647?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
+        },
+        {
+          "emoji": "🌶️",
+          "title": "풍미 다중화 F&B 트렌드",
+          "summary": "스타벅스 '짠맛 커피' 1,000만 잔 판매 등 과일 단맛에 신맛·매운맛 섞는 풍미 다중화가 글로벌 F&B 시장 새로운 트렌드로 정착.",
+          "articleIndices": [
+            10
+          ],
+          "relatedLinks": [
+            {
+              "title": "'커피에 소금 뿌렸더니 1000만잔'…스타벅스 달군 '짠맛'의 마법",
+              "url": "https://n.news.naver.com/mnews/article/008/0005394222?sid=101"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     }
