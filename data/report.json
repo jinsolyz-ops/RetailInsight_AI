@@ -1,28 +1,48 @@
 {
-  "generatedAt": "2026-08-01T22:42:49.633Z",
+  "generatedAt": "2026-08-02T22:43:41.063Z",
   "summary": [
-    "CU 깨먹는 연세 하트 생크림빵 3개월 110만개 판매로 경험형 디저트 트렌드 주도",
-    "CU 스마트 그로서리로 편의점 식품 카테고리 7.8% 성장, 마트 경쟁 심화",
-    "BGF리테일 하와이 CU 2년 내 50개점 목표로 K-편의점 글로벌 확장 가속화"
+    "CU, PBICK 패키지로 레드닷 디자인 어워드 본상 수상",
+    "GS25 신선강화형 1000호점 돌파로 편의점 판 재편",
+    "세븐일레븐 해외 명물 라면 300만개 판매 돌파"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎪",
-          "title": "캐릭터 IP 팝업 열풍",
-          "summary": "신세계백화점 강남점 등 백화점·쇼핑몰이 캐릭터 테마파크로 변신하며 포장 5시간·대기 300팀 기록, 유통사들이 캐릭터 IP 마케팅 확대 추진 중.",
+          "emoji": "🏪",
+          "title": "돈키호테 국내 진출 임박",
+          "summary": "일본 할인점 돈키호테의 국내 1호점 대구 입점이 지역 유통업계의 초미 관심사로 떠오르며 야간 틈새시장 공략 전략이 주목받고 있다.",
           "articleIndices": [
-            2
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'포장 5시간, 대기 300팀'…'캐릭터 테마파크' 된 백화점·쇼핑몰",
-              "url": "https://n.news.naver.com/mnews/article/015/0005316320?sid=101"
+              "title": "대구에 돈키호테 국내 1호점?",
+              "url": "https://www.kbmaeil.com/article/20260802500481"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🤝",
+          "title": "쿠팡 PB 중소 제조사 선순환",
+          "summary": "쿠팡 PB와 협업하는 중소 제조사들이 매출 확대와 R&D 재투자로 선순환 구조를 형성하며 기술 기반 상품 개발이 활발해지고 있다.",
+          "articleIndices": [
+            3,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "쿠팡 PB 손잡은 중소 제조사들…매출 늘자 R&D 재투자 '선순환'",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=153919"
+            },
+            {
+              "title": "쿠팡 PB 올라탄 중소 제조사…매출 늘자 금형·신제품에 재투자",
+              "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356860"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -30,25 +50,40 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "버티컬커머스 스타트업 성장",
-          "summary": "디캠프 배치 3기 AI 기반 버티컬 유통 인프라 기업 5개사가 배치 기간 월 매출 3배 성장, 누적 거래액 2,000억 원 달성으로 시장 경쟁력 강화.",
+          "emoji": "📊",
+          "title": "홈쇼핑 브랜드평판 경쟁",
+          "summary": "롯데홈쇼핑이 8월 브랜드평판 1위를 유지하며 AI 기반 맞춤형 추천과 라이브커머스 확대가 향후 경쟁력의 핵심 요소로 부상하고 있다.",
           "articleIndices": [
-            6,
-            7,
-            8
+            1,
+            2,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "디캠프 배치 3기 디데이 성료···AI 스타트업 5개사 평균 매출 3배 성장",
-              "url": "https://n.news.naver.com/mnews/article/144/0001129310?sid=105"
+              "title": "홈쇼핑 브랜드평판 8월 빅데이터 분석... 1위 롯데홈쇼핑, 2위 공영홈쇼...",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473661"
             },
             {
-              "title": "\"매출 3배 늘었다\"…디캠프 배치 3기 디데이 성료",
-              "url": "https://n.news.naver.com/mnews/article/009/0005714887?sid=105"
+              "title": "[브랜드평판] 롯데홈쇼핑, 홈쇼핑 8월 1위... 공영홈쇼핑, 현대홈쇼핑 뒤...",
+              "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=53007"
             }
           ],
           "articleCount": 3
+        },
+        {
+          "emoji": "🛍️",
+          "title": "버티컬커머스 1인 가구 전성시대",
+          "summary": "올리브영·다이소·무신사 등 버티컬커머스가 1인 가구 증가에 대응하며 소용량·가성비 상품 매출이 빠르게 증가하고 있다.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "'소용량·가성비' 선호 1인 가구에 '올·다·무' 전성시대",
+              "url": "https://n.news.naver.com/mnews/article/005/0001864514?sid=101"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -57,33 +92,43 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 기반 숏폼 커머스 확산",
-          "summary": "SK브로드밴드 'B tv 핫딜' 8개월 60억 매출 달성, GS샵·현대홈쇼핑 등 홈쇼핑사들이 AI 활용 숏폼 콘텐츠 제작에 집중하며 2030 고객층 공략 강화.",
+          "title": "유통업계 AI 현장 중심 전환",
+          "summary": "유통업계가 AI를 고객 분석에서 매장 진열·상품 스캔·생방송 연출 등 영업 현장의 최접점으로 확대하며 AX 전환을 본격화하고 있다.",
           "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "8개월 만에 '60억' 잭팟…2030 돈 쓸어 담은 '1분 영상' 정체",
-              "url": "https://n.news.naver.com/mnews/article/015/0005316302?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛒",
-          "title": "AI 커머스 문맥 기반 추천",
-          "summary": "AI 쇼핑이 '무엇을 검색했는가'에서 '왜 그런 이야기를 했는가'로 패러다임 전환, 글로벌 기업들이 문맥 데이터 기반 추천 시스템에 주목.",
-          "articleIndices": [
+            1,
             3
           ],
           "relatedLinks": [
             {
-              "title": "[심층분석-AI쇼핑] '비가 온다'는 말에 우산을 추천하는 AI…쇼핑의 패러다임",
-              "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=102193"
+              "title": "메트로신문 8월 3일자 한줄뉴스",
+              "url": "http://www.metroseoul.co.kr/article/20260802500198"
+            },
+            {
+              "title": "유통업계 AI 내재화 속도…현장 중심 AX 전환 본격화",
+              "url": "http://www.metroseoul.co.kr/article/20260802500115"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
+        },
+        {
+          "emoji": "🌾",
+          "title": "농산물 유통 AI·로봇 자동화",
+          "summary": "경북 지역 농협이 AI 선별 시스템과 자율이송로봇을 도입하며 인력 의존도를 절반으로 줄이고 소비자 신뢰도를 높이고 있다.",
+          "articleIndices": [
+            2,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "AI가 선별하고 로봇이 포장…경북 농산물 유통 대전환",
+              "url": "https://www.hidomin.com/news/articleView.html?idxno=715573"
+            },
+            {
+              "title": "경북도, 스마트 APC로 농산물 유통 혁신",
+              "url": "https://www.idaegu.com/news/articleView.html?idxno=664741"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -91,46 +136,57 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🥬",
-          "title": "스마트 그로서리 식품 성장",
-          "summary": "CU 신촌피어점 등 장보기 특화매장 '스마트 그로서리'에서 신선식품 판매 7.8% 성장, 대형마트 대비 저가 경쟁력으로 편의점 식품 카테고리 확대.",
+          "emoji": "🎨",
+          "title": "PBICK 레드닷 디자인 본상",
+          "summary": "BGF리테일의 CU 마스터 PB 'PBICK' 통합 패키지 디자인이 세계 3대 디자인 시상식 레드닷 어워드 본상을 수상하며 브랜드 경쟁력을 인정받았다.",
           "articleIndices": [
+            4,
+            5,
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "BGF리테일, '2026 레드닷 디자인 어워드' 본상 수상",
+              "url": "https://n.news.naver.com/mnews/article/277/0005797744?sid=103"
+            },
+            {
+              "title": "'결제음까지 브랜드 경험으로'···BGF리테일, CU '피빅' 통합 패키지로...",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454873"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "🍿",
+          "title": "CU 차별화 스낵 확대 프로모션",
+          "summary": "CU가 여름철 맥주 안주용 PBICK 팝콘 3종을 순차 출시하고 최대 60% 할인 프로모션을 진행하며 스낵 시장을 공략하고 있다.",
+          "articleIndices": [
+            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "[현장] 'CU서 상추를'···마트 앞선 편의점, 식품 '7.8%' 껑충",
-              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422809"
+              "title": "CU, 차별화 스낵 확대→최대 60% 할인 프로모션",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=756014"
+            },
+            {
+              "title": "CU, 차별화 스낵 확대 및 할인 프로모션 진행...안주용 스낵 시장 공략",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=128405"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
           "emoji": "🌏",
-          "title": "하와이 CU 글로벌 확장",
-          "summary": "BGF리테일 홍석조 회장 현장경영으로 하와이 CU 2년 내 50개점 목표 선언, 다운타운 1호점 성공 기반 카할라점 등 2호점 운영 중 K-편의점 글로벌 진출 가속화.",
+          "title": "CU 몽골 600호점 돌파",
+          "summary": "CU가 몽골에서 점포 600개를 돌파하며 아시아 신흥시장 진출을 가속화하고 있다.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "[단독] 홍석조 BGF 회장, 하와이 현장경영…'CU, 2년 내 50개 찍는다'",
-              "url": "https://www.theguru.co.kr/news/article.html?no=105188"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🇰🇷",
-          "title": "광복절 태극기 캠페인",
-          "summary": "CU가 행정안전부와 광복 81주년 태극기 달기 운동 동참, 독립운동가 이태준 선생 간편식으로 알리는 사회공헌 마케팅 전개.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[이주의 유통포인트] 갤러리아百, 크록스 팝업스토어 운영…CU, 태극기",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314003"
+              "title": "K-편의점 성장판은 해외서…CU·GS25·이마트24, 신흥시장 공략 차별화",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313840"
             }
           ],
           "articleCount": 1
@@ -141,46 +197,47 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍟",
-          "title": "GS25 캐릭터 협업 신상",
-          "summary": "GS25가 오리온과 '춘식이 꼬북칩 고구마탕후루맛' 6일 단독 출시, 글로벌 구황작물 스낵 트렌드 반영한 메가 브랜드 협업 차별화 전략 추진.",
+          "emoji": "🥬",
+          "title": "GS25 신선강화형 1000호점",
+          "summary": "GS25가 신선식품 경쟁력을 앞세운 신선강화형 편의점 1000호점을 돌파하며 편의점 업계의 새로운 성장 모델을 제시하고 있다.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "GS25, 오리온과 '춘식이 꼬북칩 고구마탕후루맛' 출시",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=755886"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍰",
-          "title": "세븐일레븐 경험형 디저트",
-          "summary": "세븐일레븐 '제주감귤 왁뿌볼' 등 경험형 디저트 라인업으로 MZ·외국인 고객 공략, 편의점 3사 깨먹는 디저트 신드롬 경쟁 심화.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "[진단] '부숴 먹고 촬영한다'… MZ·외국인 홀린 편의점 '경험형 디저트'",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423218"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🏪",
-          "title": "이마트24 무더위쉼터 운영",
-          "summary": "수원특례시가 이마트24 등 민간 무더위쉼터 105곳 추가 지정, 폭염 대응 사회공헌 활동으로 지역 고객 신뢰도 강화.",
-          "articleIndices": [
+            1,
             8
           ],
           "relatedLinks": [
             {
-              "title": "수원특례시, 민간 무더위쉼터 105곳 추가 지정",
-              "url": "http://www.metroseoul.co.kr/article/20260731500196"
+              "title": "'신선강화형이 편의점 판을 바꿨다'…GS25, 도입 5년 만에 1000호점 돌파",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62330"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍜",
+          "title": "세븐일레븐 해외 명물 라면 300만개",
+          "summary": "세븐일레븐이 도쿠시마라면 등 해외 지역 명물 라면 판매 300만개를 돌파하며 소도시 미식 여행 트렌드를 반영한 상품 전략을 성공시켰다.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "세븐일레븐, '해외 지역 명물 라면' 판매 300만개 돌파",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=128404"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📉",
+          "title": "이마트24 적자 벽 지속",
+          "summary": "이마트24가 트렌드랩·디저트랩 등 점포 실험을 이어가고 있으나 규모의 경제 부족으로 인한 적자 구조 개선이 여전히 과제다.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "핫한 건 다 하는데…이마트24 '적자의 벽' 여전",
+              "url": "https://www.fntimes.com/html/view.php?ud=202607312249445527dd55077bc2_18"
             }
           ],
           "articleCount": 1
@@ -191,35 +248,25 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍞",
-          "title": "깨먹는 디저트 신드롬",
-          "summary": "CU '깨먹는 연세 하트 생크림빵' 3개월 110만개 판매, GS25·세븐일레븐 경험형 디저트 경쟁으로 편의점·베이커리 시장 새로운 흥행 공식 확립.",
+          "emoji": "🍦",
+          "title": "편의점 디저트 경쟁 심화",
+          "summary": "GS25의 춘식이 꼬북칩 고구마탕후루맛 단독 출시와 편의점 스무디 열풍으로 디저트 카테고리 경쟁이 심화되고 있다.",
           "articleIndices": [
-            1,
-            3
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "\"빵 하나가 110만개 팔렸다\"…초코 껍질 '와그작' 깨먹는 디저트 열풍",
-              "url": "https://n.news.naver.com/mnews/article/022/0004147647?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🌶️",
-          "title": "풍미 다중화 F&B 트렌드",
-          "summary": "스타벅스 '짠맛 커피' 1,000만 잔 판매 등 과일 단맛에 신맛·매운맛 섞는 풍미 다중화가 글로벌 F&B 시장 새로운 트렌드로 정착.",
-          "articleIndices": [
-            10
-          ],
-          "relatedLinks": [
+              "title": "GS25, '춘식이 꼬북칩 고구마탕후루맛' 6일 단독 출시",
+              "url": "https://n.news.naver.com/mnews/article/277/0005797743?sid=103"
+            },
             {
-              "title": "'커피에 소금 뿌렸더니 1000만잔'…스타벅스 달군 '짠맛'의 마법",
-              "url": "https://n.news.naver.com/mnews/article/008/0005394222?sid=101"
+              "title": "'직접 갈면 3000원 vs 백화점선 3만원'…유통가 휩쓴 '극과 극' 스무디",
+              "url": "https://n.news.naver.com/mnews/article/029/0003040193?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     }
