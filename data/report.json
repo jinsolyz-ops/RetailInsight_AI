@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-03T22:49:46.396Z",
+  "generatedAt": "2026-08-04T22:51:45.768Z",
   "summary": [
-    "편의점 AI 활용 확대로 상품기획·발주·재고관리 핵심 경쟁력 전환",
-    "세븐일레븐 일본 프리미엄 디저트 400만개 판매로 글로벌 소싱 차별화 성공",
-    "CU 여름 스낵 프로모션으로 상반기 매출 11.2% 신장, 7월 21.9% 성장"
+    "CU, 15년간 '사랑의 동전' 28억원 모금으로 생활밀착형 기부 플랫폼 진화",
+    "이마트24 '브레드이발소' 콜라보 6종 출시로 캐릭터 IP 활용 차별화 전략",
+    "롯데마트 AI 기반 수요예측 시스템 도입으로 새벽배송 효율성 극대화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "편의점 AI 경쟁력 전환",
-          "summary": "GS리테일, BGF리테일, 코리아세븐 등 편의점 3사가 출점 확대 대신 AI를 상품기획·발주·재고관리 등 핵심 운영에 적극 활용하며 경쟁 승부처 변화.",
+          "emoji": "🛍️",
+          "title": "기능성 헤어케어 열풍",
+          "summary": "MZ세대 겨냥 탈모 완화 샴푸 등 기능성 헤어케어가 유통업계 핵심 카테고리로 부상하며 브랜드 확보전 가열",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "출점 대신 'AI' 적극 활용…편의점 승부처 바뀐다",
-              "url": "https://n.news.naver.com/mnews/article/092/0002432863?sid=105"
+              "title": "'탈모 완화 샴푸 내놓기가 무섭게 나가'…MZ 겨냥 유통가, 브랜드 확보전",
+              "url": "https://n.news.naver.com/mnews/article/018/0006344702?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎁",
-          "title": "추석 선물세트 사전예약 확대",
-          "summary": "이마트가 추석 선물세트 사전예약 기간을 42일로 확대하며 대형마트와 온라인 유통업체 간 사전예약 비중 경쟁 심화.",
+          "emoji": "🤖",
+          "title": "AI 활용 외국인 고객 마케팅",
+          "summary": "롯데백화점이 생성형 AI를 활용한 단계별 외국인 관광객 맞춤 마케팅으로 새로운 고객 접점 확보",
           "articleIndices": [
-            4
+            5
           ],
           "relatedLinks": [
             {
-              "title": "이마트, 추석 선물세트 사전예약 돌입…기간 42일로 확대",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=313628"
+              "title": "'챗GPT에 물었더니 롯데 추천하네' 롯데百, AI로 외국인 쇼핑객 연결",
+              "url": "https://n.news.naver.com/mnews/article/003/0014108646?sid=101"
             }
           ],
           "articleCount": 1
@@ -46,30 +46,30 @@
       "issues": [
         {
           "emoji": "💄",
-          "title": "롯데온 SK-II 전략적 파트너십",
-          "summary": "롯데온이 뷰티 브랜드 SK-II와 JBP 체결해 '크라이베이비' 피테라 에센스 기프트 세트를 선출시하며 버티컬커머스 강화.",
+          "title": "롯데온-SK-II 전략적 협업",
+          "summary": "롯데온이 SK-II와 JBP 체결하여 '크라이베이비' 기프트 세트 선출시로 뷰티 버티컬 커머스 강화",
           "articleIndices": [
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "롯데온, SK-II '크라이베이비' 피테라 에센스 기프트 세트 선출시",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=128553"
+              "title": "롯데온, SK-II와 전략적 협업…'크라이베이비' 기프트 세트 선출시",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474071"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "네이버·카카오 AI 수익화 성장",
-          "summary": "네이버·카카오가 광고·커머스 호조에 힘입어 역대 분기 최대 실적 기록 예상, 부동산·건강 버티컬 AI에이전트 도입으로 수익화 가속.",
+          "emoji": "👤",
+          "title": "1인 가구 소비 트렌드 변화",
+          "summary": "버티컬 커머스와 생활 밀착형 아울렛이 1인 가구의 소비 방식과 정확히 맞아떨어지며 유통업계 새로운 3강으로 부상",
           "articleIndices": [
-            8
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'최대 실적' 기대감 커지는 네이버·카카오...AI 수익화가 성장 가른다",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=153935"
+              "title": "[서정렬 칼럼] 1인 가구의 '올·다·무'와 '역시즌' 선호",
+              "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49845"
             }
           ],
           "articleCount": 1
@@ -80,36 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "유통업계 AI·자동화 기술 확산",
-          "summary": "유통업계 전반에서 AI와 자동화 기술이 제조·조리·매장 운영까지 빠르게 확대되며 구조 혁신 선도.",
+          "emoji": "📦",
+          "title": "롯데마트 AI 수요예측 시스템",
+          "summary": "롯데마트가 오카도의 AI 기반 수요 예측 및 풀필먼트 시스템 도입으로 새벽배송 처리 속도 향상 및 신선식품 폐기율 0.4% 달성",
           "articleIndices": [
-            2,
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[마감 후] 홈플러스가 보여준 유통의 본질",
-              "url": "https://www.etoday.co.kr/news/view/2609444"
-            },
-            {
-              "title": "한화M&S 출범…유통·푸드테크 결합 시험대",
-              "url": "https://www.sentv.co.kr/article/view/sentv202608030113"
+              "title": "롯데마트 부산 '새벽배송 물류센터' 가동 경상권 겨냥… 하루 최대 3만건",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608041344340600730"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🚀",
-          "title": "롯데마트 오카도 CFC 가동",
-          "summary": "롯데마트가 영국 리테일테크 기업 오카도와 협업한 고객풀필먼트센터(CFC) 제타스마트센터 부산을 8월 7일 공식 가동하며 자동화 물류 경쟁력 강화.",
+          "emoji": "🏪",
+          "title": "GS25 AI 점포 진단 시스템",
+          "summary": "GS25가 AI를 활용한 점포 진단, 상권 분석, 퀵커머스 배달 품질 개선 등 다각적 영업 활성화 추진",
           "articleIndices": [
-            7
+            3
           ],
           "relatedLinks": [
             {
-              "title": "영업익 1000억원 목표 내세운 롯데마트…하반기 '오카도' 시험대",
-              "url": "https://www.ceoscoredaily.com/page/view/2026080317013040034"
+              "title": "AI, 요샌 이렇게도 씁니다···'음쓰' 감축부터 가품·과대포장 검사",
+              "url": "https://n.news.naver.com/mnews/article/032/0003462376?sid=101"
             }
           ],
           "articleCount": 1
@@ -120,39 +115,41 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "❤️",
-          "title": "CU 사랑의 동전 28억원 모금",
-          "summary": "BGF리테일 CU가 유니세프한국위원회·한국은행과 2011년부터 진행한 '사랑의 동전 모금함 캠페인'으로 누적 28억원을 모금하며 사회공헌 강화.",
+          "emoji": "💚",
+          "title": "사랑의 동전 15년 28억 모금",
+          "summary": "CU의 '사랑의 동전 모금함' 캠페인이 15년간 28억원을 모금하며 오프라인 유통망 활용 생활밀착형 기부 플랫폼으로 진화",
+          "articleIndices": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "BGF리테일, CU '사랑의 동전' 15년간 28억 모금…몽골 친환경·고효율 게",
+              "url": "http://www.sisacast.kr/news/articleView.html?idxno=98480"
+            },
+            {
+              "title": "동전 없는 시대, CU 사랑 규모는 '확대'…15년 모금 28억",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595627683135"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "❄️",
+          "title": "CU 쿨 셰어 공간 제공",
+          "summary": "서울시와의 업무협약으로 CU 편의점 16곳이 폭염 대피소 '쿨 셰어' 공간으로 24시간 운영되며 사회적 책임 강화",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일 '사랑의 동전' 28억원→세븐일레븐, 일본 디저트 판매고",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=756270"
+              "title": "오세훈 '더울 땐 주변 CU·신한·KT로'…서울시 '쿨 셰어' 안내판 확 바",
+              "url": "https://n.news.naver.com/mnews/article/421/0009097401?sid=102"
             }
           ],
           "articleCount": 1
-        },
-        {
-          "emoji": "🍺",
-          "title": "CU 여름 스낵 프로모션 성공",
-          "summary": "CU가 맥주 안주용 이색 스낵 라인업을 60% 할인으로 프로모션하며 상반기 스낵 매출 11.2% 신장, 7월 21.9% 성장 달성.",
-          "articleIndices": [
-            2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 이색 안주용 스낵 라인업 60% 할인 프로모션 진행",
-              "url": "https://www.abcn.kr/news/articleView.html?idxno=90122"
-            },
-            {
-              "title": "맥주 안주도 차별화…CU, 이색 스낵 상품 강화",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593852299048"
-            }
-          ],
-          "articleCount": 2
         }
       ]
     },
@@ -160,55 +157,55 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💪",
-          "title": "GS25 단백질 음료 26.8% 신장",
-          "summary": "GS25가 비만치료제 대응으로 단백질 음료·닭가슴살·프로틴바 등 영양밀도 높은 상품군을 확대하며 상반기 단백질 음료 카테고리 매출 26.8% 신장.",
+          "emoji": "🍱",
+          "title": "GS25 '이달의 도시락 혜자편'",
+          "summary": "GS25가 무더위 속 12가지 메뉴로 밥 양을 넉넉하게 늘린 '이달의 도시락 혜자편'으로 가성비 식품 수요 공략",
           "articleIndices": [
-            1
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'적게 먹어도 영양가 있게'...식품업계, 비만치료제 대응 영양밀도 높인...",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1392157"
+              "title": "GS25, 총 12가지 메뉴 '이달의 도시락 혜자편' 선봬",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=756534"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍞",
+          "title": "세븐일레븐 PB 베이커리 팝업",
+          "summary": "세븐일레븐이 '세븐셀렉트 숨결통식빵' 전국 릴레이 팝업 투어 성료 후 8월 반값 할인으로 고품질 PB 상품 차별화",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "세븐일레븐, '세븐셀렉트 숨결통식빵' 8월 반값 할인 행사",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=756531"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍰",
-          "title": "세븐일레븐 일본 디저트 400만개 판매",
-          "summary": "세븐일레븐이 글로벌 소싱 일본 프리미엄 디저트 4종 누적 판매량 400만개 돌파, '오하요 브륄레 밀크' 10일 만에 20만개 판매로 차별화 상품 경쟁력 입증.",
+          "emoji": "🎨",
+          "title": "이마트24 '브레드이발소' 콜라보",
+          "summary": "이마트24가 인기 애니메이션 '브레드이발소'와 협업하여 샌드위치·베이커리·디저트·음료 6종 출시로 캐릭터 IP 활용 차별화",
           "articleIndices": [
-            2,
-            3,
-            4
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐 '일본 프리미엄 디저트 400만개 판매'",
-              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308243"
+              "title": "이마트24, '브레드이발소' 콜라보 6종 출시...30% 할인·스탬프 이벤트",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=756539"
             },
             {
-              "title": "세븐일레븐, 글로벌 소싱 '일본 디저트 4종' 누적 판매량 400만개 돌파",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=128556"
+              "title": "'브레드이발소'가 편의점으로…이마트24, 협업상품 6종 공개",
+              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308328"
             }
           ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🎁",
-          "title": "이마트 추석 선물세트 사전예약",
-          "summary": "이마트가 2026년 추석 선물세트 사전예약을 8월 6일부터 시작하며 구매자에게 24개월간 포인트 제공으로 총 60만원 상당 혜택 제공.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "[출근길 포인트] 2028년 완공 국가 AI 컴퓨팅센터 해남서 첫 삽…'AI 고속...",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314169"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -216,19 +213,25 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍜",
-          "title": "편의점 로컬 면 요리 상품화 트렌드",
-          "summary": "세븐일레븐이 소도시 미식 여행 트렌드를 고려해 다양한 국가들의 로컬 면 요리를 편의점 상품으로 상품화하며 글로벌 음식 다양성 강화.",
+          "emoji": "🍰",
+          "title": "편의점 여름 디저트 신상 경쟁",
+          "summary": "삼립 '인절미 빙수빵', 서울우유 '우유식빵' 등 편의점 여름 시즌 한정 디저트 신상이 폭염 속 소비자 수요 공략",
           "articleIndices": [
-            6
+            4,
+            5,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[유통갤러리] 신세계그룹, '프리즈 서울 2026' 헤드라인 파트너 참가...",
-              "url": "https://theviewers.co.kr/View.aspx?No=4171681"
+              "title": "[식음료] 삼립 인절미 빙수빵 / 풀무원 공식몰 5주년 / 오뚜기 닭한마리",
+              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2256180"
+            },
+            {
+              "title": "[똑똑한신상] 서울우유 우유식빵·크리스피크림 도넛바·질러 BBQ 바·이",
+              "url": "https://www.ekn.kr/web/view.php?key=20260804023159489"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     }
