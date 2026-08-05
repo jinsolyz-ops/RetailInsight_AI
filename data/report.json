@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-04T22:51:45.768Z",
+  "generatedAt": "2026-08-05T22:46:53.057Z",
   "summary": [
-    "CU, 15년간 '사랑의 동전' 28억원 모금으로 생활밀착형 기부 플랫폼 진화",
-    "이마트24 '브레드이발소' 콜라보 6종 출시로 캐릭터 IP 활용 차별화 전략",
-    "롯데마트 AI 기반 수요예측 시스템 도입으로 새벽배송 효율성 극대화"
+    "CU, 잘파세대 겨냥 '피브 버블글로스 미니' 단독 출시로 색조 화장품 라인업 확대",
+    "GS25, 1000원 이하 PB 상품 매출 12.3% 증가로 극가성비 전략 강화",
+    "세븐일레븐, 100평 '뉴웨이브 명동점' 오픈으로 편의점 포맷 혁신 선도"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "기능성 헤어케어 열풍",
-          "summary": "MZ세대 겨냥 탈모 완화 샴푸 등 기능성 헤어케어가 유통업계 핵심 카테고리로 부상하며 브랜드 확보전 가열",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "'탈모 완화 샴푸 내놓기가 무섭게 나가'…MZ 겨냥 유통가, 브랜드 확보전",
-              "url": "https://n.news.naver.com/mnews/article/018/0006344702?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🤖",
-          "title": "AI 활용 외국인 고객 마케팅",
-          "summary": "롯데백화점이 생성형 AI를 활용한 단계별 외국인 관광객 맞춤 마케팅으로 새로운 고객 접점 확보",
+          "emoji": "🌡️",
+          "title": "폭염 특수, 실내쇼핑몰 대박",
+          "summary": "40도 폭염으로 실내 쇼핑몰 방문객 급증, 유통업계 때아닌 특수 경험 중.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "'챗GPT에 물었더니 롯데 추천하네' 롯데百, AI로 외국인 쇼핑객 연결",
-              "url": "https://n.news.naver.com/mnews/article/003/0014108646?sid=101"
+              "title": "'여기가 천국이네'…40도 폭염에 '여기' 대박났다",
+              "url": "https://n.news.naver.com/mnews/article/374/0000525840?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "👨‍🏫",
+          "title": "지방 소상공인 AI 디지털 전환",
+          "summary": "성신여대, 영월 소상공인 대상 AI 콘텐츠 제작 교육으로 지역 디지털 경쟁력 강화 추진.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "'곤드레도 AI로 판다'…성신여대, 영월 소상공인 디지털 전환 나선다",
+              "url": "https://www.newspim.com/news/view/20260805001434"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,35 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "💄",
-          "title": "롯데온-SK-II 전략적 협업",
-          "summary": "롯데온이 SK-II와 JBP 체결하여 '크라이베이비' 기프트 세트 선출시로 뷰티 버티컬 커머스 강화",
+          "emoji": "🤖",
+          "title": "AI 버티컬 커머스 확산",
+          "summary": "네이버·카카오, AI 기반 상품 추천·결제 연동 버티컬 커머스 서비스 3분기 출시 예정으로 AI 수익화 본격화.",
           "articleIndices": [
-            5
+            7
           ],
           "relatedLinks": [
             {
-              "title": "롯데온, SK-II와 전략적 협업…'크라이베이비' 기프트 세트 선출시",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474071"
+              "title": "네카오 실적 발표 초읽기... 실적 호조 전망에도 시장 관심은 'AI'",
+              "url": "http://www.thebigdata.co.kr/view.php?ud=202608051616277050a47484cf8_23"
+            },
+            {
+              "title": "[서정렬 칼럼] 1인 가구의 '올·다·무'와 '역시즌' 선호",
+              "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49845"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "👤",
-          "title": "1인 가구 소비 트렌드 변화",
-          "summary": "버티컬 커머스와 생활 밀착형 아울렛이 1인 가구의 소비 방식과 정확히 맞아떨어지며 유통업계 새로운 3강으로 부상",
+          "emoji": "💄",
+          "title": "롯데온 SK-II 전략적 협업",
+          "summary": "롯데온, SK-II와 JBP 체결해 '크라이베이비' 기프트 세트 공동 프로모션으로 프리미엄 뷰티 강화.",
           "articleIndices": [
-            4
+            9
           ],
           "relatedLinks": [
             {
-              "title": "[서정렬 칼럼] 1인 가구의 '올·다·무'와 '역시즌' 선호",
-              "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49845"
+              "title": "롯데온, SK-II와 전략적 협업…'크라이베이비' 기프트 세트 선출시",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474071"
             }
           ],
           "articleCount": 1
@@ -80,31 +84,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "롯데마트 AI 수요예측 시스템",
-          "summary": "롯데마트가 오카도의 AI 기반 수요 예측 및 풀필먼트 시스템 도입으로 새벽배송 처리 속도 향상 및 신선식품 폐기율 0.4% 달성",
+          "emoji": "🛒",
+          "title": "AI 쇼핑 MCP 서비스 확대",
+          "summary": "다나와, 국내 첫 MCP 기반 AI 쇼핑 서비스 도입으로 클로드에서 실시간 가격비교·구매 연동 가능.",
           "articleIndices": [
-            6
+            8
           ],
           "relatedLinks": [
             {
-              "title": "롯데마트 부산 '새벽배송 물류센터' 가동 경상권 겨냥… 하루 최대 3만건",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608041344340600730"
+              "title": "다나와, 국내 첫 AI 쇼핑 MCP 공개…클로드에서 실시간 가격비교 지원",
+              "url": "https://www.venturesquare.net/1103850/"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "GS25 AI 점포 진단 시스템",
-          "summary": "GS25가 AI를 활용한 점포 진단, 상권 분석, 퀵커머스 배달 품질 개선 등 다각적 영업 활성화 추진",
+          "emoji": "🎯",
+          "title": "GS샵 AI 개인화 추천 강화",
+          "summary": "GS샵, AI 기술 활용해 고객 맞춤 상품 추천 기능 강화로 2분기 거래액 50% 증가 달성.",
           "articleIndices": [
-            3
+            6
           ],
           "relatedLinks": [
             {
-              "title": "AI, 요샌 이렇게도 씁니다···'음쓰' 감축부터 가품·과대포장 검사",
-              "url": "https://n.news.naver.com/mnews/article/032/0003462376?sid=101"
+              "title": "GS샵, 패션·뷰티·푸드 전문관 '인기'… 2분기 거래액 50% ↑",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=128801"
             }
           ],
           "articleCount": 1
@@ -115,9 +119,24 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "💚",
-          "title": "사랑의 동전 15년 28억 모금",
-          "summary": "CU의 '사랑의 동전 모금함' 캠페인이 15년간 28억원을 모금하며 오프라인 유통망 활용 생활밀착형 기부 플랫폼으로 진화",
+          "emoji": "💄",
+          "title": "피브 버블글로스 미니 단독 출시",
+          "summary": "CU, 잘파세대 '쁘띠 뷰티' 트렌드 반영해 비건 색조 브랜드 피브의 미니 사이즈 4종 단독 출시.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, '피브 버블글로스 미니' 출시...색조 화장품 라인업 확대",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=128802"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "💜",
+          "title": "사랑의 동전 모금 28억 달성",
+          "summary": "BGF리테일, CU 사랑의 동전 모금함 캠페인 15년간 누적 28억원 모금으로 유니세프 아동 지원 사업 확대.",
           "articleIndices": [
             2,
             3,
@@ -135,21 +154,6 @@
             }
           ],
           "articleCount": 4
-        },
-        {
-          "emoji": "❄️",
-          "title": "CU 쿨 셰어 공간 제공",
-          "summary": "서울시와의 업무협약으로 CU 편의점 16곳이 폭염 대피소 '쿨 셰어' 공간으로 24시간 운영되며 사회적 책임 강화",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "오세훈 '더울 땐 주변 CU·신한·KT로'…서울시 '쿨 셰어' 안내판 확 바",
-              "url": "https://n.news.naver.com/mnews/article/421/0009097401?sid=102"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -157,55 +161,49 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍱",
-          "title": "GS25 '이달의 도시락 혜자편'",
-          "summary": "GS25가 무더위 속 12가지 메뉴로 밥 양을 넉넉하게 늘린 '이달의 도시락 혜자편'으로 가성비 식품 수요 공략",
+          "emoji": "💰",
+          "title": "GS25 1000원 이하 PB 전략",
+          "summary": "GS25, 7월 1000원 이하 PB 상품 매출 12.3% 증가로 고물가 시대 극가성비 경쟁 강화.",
           "articleIndices": [
-            1,
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 총 12가지 메뉴 '이달의 도시락 혜자편' 선봬",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=756534"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍞",
-          "title": "세븐일레븐 PB 베이커리 팝업",
-          "summary": "세븐일레븐이 '세븐셀렉트 숨결통식빵' 전국 릴레이 팝업 투어 성료 후 8월 반값 할인으로 고품질 PB 상품 차별화",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "세븐일레븐, '세븐셀렉트 숨결통식빵' 8월 반값 할인 행사",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=756531"
+              "title": "'1000원 PB' 경쟁 확산…고물가 장기화에 유통업계 '극가성비' 승부",
+              "url": "https://n.news.naver.com/mnews/article/421/0009099646?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎨",
-          "title": "이마트24 '브레드이발소' 콜라보",
-          "summary": "이마트24가 인기 애니메이션 '브레드이발소'와 협업하여 샌드위치·베이커리·디저트·음료 6종 출시로 캐릭터 IP 활용 차별화",
+          "emoji": "🏪",
+          "title": "세븐일레븐 100평 뉴웨이브 포맷",
+          "summary": "세븐일레븐, 100평 '뉴웨이브 명동점' 오픈으로 뷰티 10배·신선 18배 확대한 편의점 포맷 혁신 선도.",
           "articleIndices": [
-            6,
-            7
+            6
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, '브레드이발소' 콜라보 6종 출시...30% 할인·스탬프 이벤트",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=756539"
-            },
-            {
-              "title": "'브레드이발소'가 편의점으로…이마트24, 협업상품 6종 공개",
-              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308328"
+              "title": "'뷰티 10배·신선 18배'… 100평으로 넓어진 편의점의 파격 변신 [영상]",
+              "url": "https://n.news.naver.com/mnews/article/015/0005317831?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍜",
+          "title": "이마트24 크래미 협업 간편식",
+          "summary": "이마트24, 한성기업과 협업해 크래미 기반 간편식 7종 출시로 간편식 포트폴리오 강화.",
+          "articleIndices": [
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "'크래미' 한성기업과 협업…이마트24, 간편식 7종 출시",
+              "url": "https://n.news.naver.com/mnews/article/374/0000525880?sid=101"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -214,24 +212,39 @@
       "issues": [
         {
           "emoji": "🍰",
-          "title": "편의점 여름 디저트 신상 경쟁",
-          "summary": "삼립 '인절미 빙수빵', 서울우유 '우유식빵' 등 편의점 여름 시즌 한정 디저트 신상이 폭염 속 소비자 수요 공략",
+          "title": "편의점 마감할인 트렌드 확산",
+          "summary": "고물가 속 소비자들이 편의점 빵·디저트 마감할인을 적극 활용하는 '마감런' 소비 방식 재확산.",
           "articleIndices": [
-            4,
-            5,
-            7
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[식음료] 삼립 인절미 빙수빵 / 풀무원 공식몰 5주년 / 오뚜기 닭한마리",
-              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2256180"
-            },
-            {
-              "title": "[똑똑한신상] 서울우유 우유식빵·크리스피크림 도넛바·질러 BBQ 바·이",
-              "url": "https://www.ekn.kr/web/view.php?key=20260804023159489"
+              "title": "'명품 오픈런 대신 빵집 마감런'… 고물가에 '마감할인' 선택한 소비자",
+              "url": "https://n.news.naver.com/mnews/article/469/0000946489?sid=103"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
+        },
+        {
+          "emoji": "🎨",
+          "title": "편의점 IP 콜라보 팬덤 소비",
+          "summary": "이마트24 '브레드이발소' 협업, 세븐일레븐 '세븐셀렉트 숨결통식빵' 팝업 등 IP 기반 콜라보로 팬덤 소비 확대.",
+          "articleIndices": [
+            3,
+            11
+          ],
+          "relatedLinks": [
+            {
+              "title": "'고물가에도 좋아하는 IP엔 지갑 연다... '팬덤 소비' 경쟁",
+              "url": "https://www.onews.tv/news/articleView.html?idxno=284340"
+            },
+            {
+              "title": "[오늘의 신상품]에이솔루션, 남성용 '액티브 올인원 2종' 출시 外 빽다방",
+              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=877164"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     }
