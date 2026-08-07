@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T01:27:42.772Z",
+  "generatedAt": "2026-08-07T22:23:40.725Z",
   "summary": [
-    "BGF리테일 2분기 영업익 22% 증가로 목표가 연쇄 상향, 외국인·무더위 수혜 확대",
-    "편의점 퀵커머스 경쟁 심화: 세븐일레븐·GS25·CU 모두 쿠팡이츠 배달 서비스 확대",
-    "AI 기반 추천·검색 경쟁 본격화, 쿠팡·네이버·카카오 플랫폼 간 기술력 차별화 경쟁"
+    "CU, 쿠팡이츠 24시간 배달 확대로 편의점 배달 시장 주도",
+    "편의점 디저트 시장 고급화: 브리오슈·우베 신상으로 SNS 강타",
+    "BGF리테일 2분기 영업익 22% 증가, 외국인 매출 60% 급증"
   ],
   "categories": [
     {
@@ -11,8 +11,8 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "개인화 추천 경쟁 심화",
-          "summary": "유통업계가 검색·할인 중심에서 소비자 취향 맞춤 추천으로 경쟁축을 전환하며 개인화 기술이 핵심 경쟁력으로 부상.",
+          "title": "개인화 추천 중심 경쟁",
+          "summary": "패션 플랫폼 경쟁이 입점 브랜드 수·할인에서 소비자 취향 맞춤 추천으로 전환되며 개인화가 핵심 경쟁력으로 부상.",
           "articleIndices": [
             1
           ],
@@ -25,16 +25,16 @@
           "articleCount": 1
         },
         {
-          "emoji": "🏆",
-          "title": "PB·디자인 차별화 전략",
-          "summary": "GS25·롯데마트·GS샵 등이 자체 브랜드 개발과 세계 디자인상 수상으로 상품 경쟁력을 강화하며 프리미엄 포지셔닝 강화.",
+          "emoji": "🤖",
+          "title": "리테일 AI 에이전트 시대",
+          "summary": "현대퓨처넷·한국MS 등이 고객 응대·재고 관리·마케팅 지원 등을 자동화하는 AI 에이전트 개발로 유통업계 AI 경쟁 전환점 도래.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 하이볼 패키지로 세계 디자인상 연속 수상",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475181"
+              "title": "AI 경쟁, '에이전트'시대로… 현대퓨처넷·한국MS, 리테일 혁신 시동",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423373"
             }
           ],
           "articleCount": 1
@@ -45,40 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 에이전트 커머스 확대",
-          "summary": "카카오가 톡비즈·쿠팡이츠 연동으로 대화형 AI 에이전트 기반 완결형 커머스 전환을 추진하며 버티컬 AI 협업 확대.",
-          "articleIndices": [
-            8,
-            9,
-            10
-          ],
-          "relatedLinks": [
-            {
-              "title": "카카오, 톡비즈 성장에 분기 최대 실적…AI 승부수 본격화",
-              "url": "https://n.news.naver.com/mnews/article/018/0006346565?sid=101"
-            },
-            {
-              "title": "카카오, 매출·영업익 '2분기 역대 최대 실적'… 카톡엔 쿠팡이츠 탑",
-              "url": "https://n.news.naver.com/mnews/article/005/0001865457?sid=101"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "📊",
-          "title": "플랫폼 경쟁 고객 확보 심화",
-          "summary": "쿠팡 과징금·마케팅 비용 부담 속 경쟁사들이 멤버십·상품·판매자 기반 강화로 고객 선택지 확대 경쟁 심화.",
+          "emoji": "🌍",
+          "title": "K-뷰티 글로벌 테무 성공",
+          "summary": "K-스킨케어 브랜드 록키스가 테무 입점으로 색조 제품까지 확대 판매하며 글로벌 이커머스 플랫폼의 K-뷰티 수요 증명.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "역대 최대 손실 낸 쿠팡…과징금보다 뼈아픈 '본업 둔화'",
-              "url": "https://www.kukinews.com/article/view/kuk202608060133"
+              "title": "K-스킨케어 장인 '록키스', 테무 만나니 색조도 날았다",
+              "url": "https://n.news.naver.com/mnews/article/016/0002680931?sid=101"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🤖",
+          "title": "버티컬 AI 에이전트 경쟁",
+          "summary": "카카오·네이버가 음식배달·부동산·건강 등 특화 분야 AI 에이전트로 커머스 수익화 경쟁을 벌이며 버티컬 커머스 시장 재편.",
+          "articleIndices": [
+            7,
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "[네카오는 지금] '검색·결제' vs '톡'…AI 수익화 길 갈렸다",
+              "url": "https://n.news.naver.com/mnews/article/138/0002237008?sid=105"
+            },
+            {
+              "title": "'AI로 벌고 AI에 투자한다' 네이버, AI 서비스·인프라 '투트랙' 성장 가...",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=154089"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -86,42 +85,36 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "AI 쇼핑 기술 경쟁 확대",
-          "summary": "쿠팡·네이버·롯데 등이 상품 추천·리뷰 분석·비교 정보 시각화까지 AI 활용 범위 확대하며 선택 시간 단축 경쟁.",
+          "emoji": "🎬",
+          "title": "라이브 커머스 AI 확대",
+          "summary": "왓낫이 기업가치 200억달러 달성하며 라이브 쇼핑 시장 성장에 AI 판매자 매칭 기술 적용으로 신규 시장 확장 추진.",
           "articleIndices": [
-            2,
-            3,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "라이브 쇼핑 성장세에 왓낫 기업가치 200억달러로 상승",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691213"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📊",
+          "title": "네이버 AI 광고·커머스 수익화",
+          "summary": "네이버가 2분기 매출 16% 증가를 주도한 AI 기반 광고·커머스에서 나아가 AI 컴퓨팅 인프라 자체를 별도 사업으로 수익화.",
+          "articleIndices": [
+            5,
             6
           ],
           "relatedLinks": [
             {
-              "title": "'검색보다 추천' 시대… 쿠팡, AI 쇼핑으로 이커머스 경쟁 판도 바꾼다",
-              "url": "https://www.koreaittimes.com/news/articleView.html?idxno=155873"
+              "title": "네이버 2분기 매출 16%↑…광고·커머스 AI 접목이 견인",
+              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=595606"
             },
             {
-              "title": "유통은 지금, AI 시대 … 쿠팡, 탐색·비교·리뷰까지 'AI 쇼핑' 강화",
-              "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/07/2026080700038.html"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🏢",
-          "title": "AI 무인 리테일 프롭테크",
-          "summary": "애니이츠월드 등이 AI 기반 무인 리테일로 유휴 공간을 고수익 소매 공간으로 전환하는 프롭테크 사업 확대.",
-          "articleIndices": [
-            8,
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "[더벨][thebell interview | 건설부동산 AX 기업 돋보기] 권순철 애니이츠",
-              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607281745312960108775"
-            },
-            {
-              "title": "[더벨][건설부동산 AX 기업 돋보기] 애니이츠월드, 'AI 무인 리테일'로",
-              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607281635280280107185"
+              "title": "네이버, 또 분기 매출 '신기록'…'AI 팩토리'까지 수익화 구조 짠다",
+              "url": "https://www.apnews.kr/news/articleView.html?idxno=3050367"
             }
           ],
           "articleCount": 2
@@ -132,30 +125,56 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📈",
-          "title": "2분기 호실적·목표가 연쇄 상향",
-          "summary": "BGF리테일이 2분기 영업익 22% 증가로 시장 기대 상회하며 증권가 목표가 18~20만원으로 연쇄 상향, 주가 15% 급등.",
+          "emoji": "🚚",
+          "title": "CU 쿠팡이츠 24시간 배달",
+          "summary": "CU가 GS25에 이어 쿠팡이츠와 손잡고 24시간 편의점 배달 서비스를 확대하며 퀵커머스 시장 주도권 강화.",
           "articleIndices": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
+            1
           ],
           "relatedLinks": [
             {
-              "title": "한투증권, BGF리테일 목표주가 18만5000원으로 상향…2분기 영업익 22%↑",
-              "url": "https://www.ppss.kr/news/articleView.html?idxno=304429"
-            },
-            {
-              "title": "BGF리테일, 2분기 영업이익 849억 원…전년比 22.3%↑",
-              "url": "https://www.klnews.co.kr/news/articleView.html?idxno=322223"
+              "title": "CU·GS25 이어 세븐일레븐도 쿠팡이츠 합류... 편의점 '24시간 배달' 경쟁...",
+              "url": "https://www.insight.co.kr/news/567117"
             }
           ],
-          "articleCount": 8
+          "articleCount": 1
+        },
+        {
+          "emoji": "📈",
+          "title": "BGF리테일 2분기 실적 호조",
+          "summary": "BGF리테일이 화물연대 파업에도 불구하고 2분기 영업익 22% 증가, 외국인 매출 60% 급증으로 관광 특수 효과 입증.",
+          "articleIndices": [
+            2,
+            5,
+            6,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "늘어난 관광객+소비심리 회복…GS25·CU 실적 '청신호'(종합)",
+              "url": "https://n.news.naver.com/mnews/article/421/0009102859?sid=101"
+            },
+            {
+              "title": "'외국인 매출 60% 껑충…K-편의점 대장 BGF리테일, 관광 특수 톡톡'",
+              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=271366"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "🏤",
+          "title": "CU 집배원쉼터 확대",
+          "summary": "우정사업본부가 폭염 대응으로 CU 편의점을 활용한 집배원쉼터 확대 운영으로 사회공헌 마케팅 강화.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "박인환 우정사업본부장, CU편의점 집배원쉼터 운영 확대 나서",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598957162136"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -164,66 +183,48 @@
       "issues": [
         {
           "emoji": "🚀",
-          "title": "GS25 퀵커머스·디자인 차별화",
-          "summary": "GS25가 쿠팡이츠 배달 확대와 함께 하이볼 패키지로 레드닷·iF 디자인 어워드 연속 수상하며 프리미엄 포지셔닝 강화.",
+          "title": "GS25 퀵커머스 고성장",
+          "summary": "GS25 퀵커머스 매출이 2024년 75.4%, 2025년 64.3%, 올 1분기 79.5% 증가하며 편의점 배달 시장 주도.",
           "articleIndices": [
-            1,
-            2,
-            3,
-            4,
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "GS리테일, 2분기 영업이익 27.5%↑…편의점·슈퍼 동반 성장",
-              "url": "https://n.news.naver.com/mnews/article/366/0001184886?sid=101"
-            },
-            {
-              "title": "GS25, '소비뇽레몬블랑하이볼' 레드닷 디자인 어워드 수상",
-              "url": "https://n.news.naver.com/mnews/article/030/0003455137?sid=101"
+              "title": "[유통토요판] '1시간으로 승부'···장보기 공식 바꾼 퀵커머스",
+              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422952"
             }
           ],
-          "articleCount": 5
+          "articleCount": 1
         },
         {
-          "emoji": "📦",
-          "title": "세븐일레븐 쿠팡이츠 배달 확대",
-          "summary": "세븐일레븐이 쿠팡이츠에 입점하며 전국 1500개 점포에서 글로벌 디저트·스낵·PB 상품 배달 서비스 확대 개시.",
+          "emoji": "🍿",
+          "title": "GS25 한정판 과자 콜라보",
+          "summary": "GS25가 오리온·롯데웰푸드와 손잡고 춘식이 꼬북칩·꼬깔콘 마성옥수수맛 등 한정판 과자로 편의점 디저트 시장 경쟁.",
           "articleIndices": [
-            6,
-            7
+            2
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 쿠팡이츠 손잡고 배달 서비스 1500개 점포로 확대",
-              "url": "https://n.news.naver.com/mnews/article/030/0003455133?sid=101"
-            },
-            {
-              "title": "세븐일레븐, 쿠팡이츠 입점…퀵커머스 연내 24시간 배달 체계 구축",
-              "url": "https://n.news.naver.com/mnews/article/011/0004649471?sid=101"
+              "title": "\"꼬북칩에 고구마탕후루를?\"…'국민과자' 비트는 편의점, 이유 있었...",
+              "url": "https://n.news.naver.com/mnews/article/022/0004149312?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "이마트24 대형마트 영업 정보",
-          "summary": "이마트24 관련 뉴스는 대형마트 휴무일·영업시간 안내 등 운영 정보 중심으로 마케팅 전략 이슈 부재.",
+          "emoji": "❄️",
+          "title": "세븐일레븐 무더위쉼터",
+          "summary": "세븐일레븐이 세종시와 협약해 36개 점포를 무더위쉼터로 지정하며 사회공헌 마케팅으로 브랜드 이미지 강화.",
           "articleIndices": [
-            8,
-            9
+            4
           ],
           "relatedLinks": [
             {
-              "title": "2년 실거주 의무 없는 강북 아파트 청약…'더 리치먼드 미아' 8월 무순위",
-              "url": "http://www.ikld.kr/news/articleView.html?idxno=338618"
-            },
-            {
-              "title": "이마트·롯데마트·코스트코 휴무일, 8월 8일(토) 대형마트 영업하나?",
-              "url": "https://www.lecturernews.com/news/articleView.html?idxno=207782"
+              "title": "입추에도 서울 40.2도…유통·식품업계, '폭염 구호전' 총력",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3423386"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -231,49 +232,35 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 글로벌 디저트·스낵 확대",
-          "summary": "세븐일레븐·CU가 쿠팡이츠 배달 확대로 글로벌 디저트·스낵 등 먹거리 상품 판매 강화하며 심야 수요 공략.",
+          "emoji": "💜",
+          "title": "편의점 브리오슈·우베 열풍",
+          "summary": "CU의 우베 브리오슈 번 등 고급 디저트가 SNS에서 화제가 되며 편의점 디저트 시장 고급화 트렌드 주도.",
           "articleIndices": [
             1,
-            2,
-            3,
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "편의점 퀵커머스 경쟁 본격화 … 세븐일레븐도 쿠팡이츠 배달 합류",
-              "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/07/2026080700044.html"
-            },
-            {
-              "title": "세븐일레븐, 쿠팡이츠와 퀵커머스 확대…전국 1,500개 점포서 배달 서비",
-              "url": "https://www.gokorea.kr/news/articleView.html?idxno=874359"
+              "title": "'이것은 빵인가, 케이크인가'…SNS 강타한 '브리오슈' 열풍 [트렌드레시...]",
+              "url": "https://n.news.naver.com/mnews/article/014/0005558793?sid=101"
             }
           ],
-          "articleCount": 4
+          "articleCount": 2
         },
         {
-          "emoji": "⭐",
-          "title": "PB·시그니처 상품 경쟁 심화",
-          "summary": "GS샵·롯데마트·GS리테일이 패션·뷰티·건강기능식품 PB 개발 확대로 단독상품 수 46% 증가 등 상품 경쟁력 강화.",
+          "emoji": "🍺",
+          "title": "CU 생활맥주 한정판 출시",
+          "summary": "CU가 포켓CU 앱 사전예약으로 생활맥주 한정판 캔맥주를 출시하며 MZ세대 타겟 주류 신상 마케팅 강화.",
           "articleIndices": [
-            11,
-            12,
-            13,
-            14,
-            15
+            5
           ],
           "relatedLinks": [
             {
-              "title": "GS리테일, 상반기 매출 3.1조·영업익 1094억…편의점·슈퍼 체질 개선",
-              "url": "https://www.widedaily.com/news/articleView.html?idxno=298983"
-            },
-            {
-              "title": "GS리테일, 2분기 영업익 28%↑…'본업 체질 개선' 통했다",
-              "url": "https://n.news.naver.com/mnews/article/138/0002236971?sid=101"
+              "title": "[금주의 주류 신상] 2026년 8월 첫째주",
+              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131465"
             }
           ],
-          "articleCount": 5
+          "articleCount": 1
         }
       ]
     }
