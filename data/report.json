@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-07T22:23:40.725Z",
+  "generatedAt": "2026-08-08T22:16:10.411Z",
   "summary": [
-    "CU, 쿠팡이츠 24시간 배달 확대로 편의점 배달 시장 주도",
-    "편의점 디저트 시장 고급화: 브리오슈·우베 신상으로 SNS 강타",
-    "BGF리테일 2분기 영업익 22% 증가, 외국인 매출 60% 급증"
+    "CU, Z세대 겨냥 키링 화장품 '피브 버블글로스 미니' 단독 출시로 1020층 공략",
+    "GS25, AI 합성소비자·업무 자동화로 유통가 AX 전쟁 주도",
+    "BGF리테일, 외국인 관광객 효과로 2분기 매출 6% 증가·영업익 22.3% 급증"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "개인화 추천 중심 경쟁",
-          "summary": "패션 플랫폼 경쟁이 입점 브랜드 수·할인에서 소비자 취향 맞춤 추천으로 전환되며 개인화가 핵심 경쟁력으로 부상.",
+          "emoji": "🤖",
+          "title": "AI 합성소비자 도입 확산",
+          "summary": "식품·유통 업계가 AI 가상 소비자를 의사결정 체계에 도입하며 시간·비용 절감과 신속한 제품 평가를 실현하는 새로운 마케팅 표준으로 부상 중.",
           "articleIndices": [
-            1
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] 카카오스타일 '검색보다 추천, 최저가보다 취향 맞아야 산다'",
-              "url": "http://www.paxetv.com/news/articleView.html?idxno=278886"
+              "title": "'24시 가상 고객' AI 합성소비자 아시나요 [AI 딥다이브]",
+              "url": "https://n.news.naver.com/mnews/article/024/0000107429?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "리테일 AI 에이전트 시대",
-          "summary": "현대퓨처넷·한국MS 등이 고객 응대·재고 관리·마케팅 지원 등을 자동화하는 AI 에이전트 개발로 유통업계 AI 경쟁 전환점 도래.",
+          "emoji": "🏪",
+          "title": "홈플러스 신선식품·PB 전략",
+          "summary": "회생 데드라인을 앞둔 홈플러스가 신선식품과 자체브랜드 상품으로 매대 구성을 강화하며 고객 유인과 자금 회수 속도를 동시에 확보하는 생존 전략 추진.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "AI 경쟁, '에이전트'시대로… 현대퓨처넷·한국MS, 리테일 혁신 시동",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423373"
+              "title": "'회생 데드라인' 3주 홈플러스…'매대 구성·신뢰 회복'이 변수",
+              "url": "https://n.news.naver.com/mnews/article/001/0016240467?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,11 +45,11 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "K-뷰티 글로벌 테무 성공",
-          "summary": "K-스킨케어 브랜드 록키스가 테무 입점으로 색조 제품까지 확대 판매하며 글로벌 이커머스 플랫폼의 K-뷰티 수요 증명.",
+          "emoji": "🌏",
+          "title": "K-뷰티 테무 입점 성공",
+          "summary": "K-스킨케어 브랜드 록키스가 글로벌 이커머스 플랫폼 테무 입점으로 색조 제품까지 확대 판매하며 해외 채널 다각화의 성공 사례 제시.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
@@ -61,23 +61,24 @@
         },
         {
           "emoji": "🤖",
-          "title": "버티컬 AI 에이전트 경쟁",
-          "summary": "카카오·네이버가 음식배달·부동산·건강 등 특화 분야 AI 에이전트로 커머스 수익화 경쟁을 벌이며 버티컬 커머스 시장 재편.",
+          "title": "네이버·카카오 버티컬 AI 전략",
+          "summary": "네이버는 AI 인프라 투자로 광고·커머스 고도화, 카카오는 AI 에이전트 기반 버티컬 파트너십으로 음식 배달부터 여행까지 확장하며 상이한 AI 수익화 노선 추진.",
           "articleIndices": [
+            6,
             7,
             8
           ],
           "relatedLinks": [
             {
-              "title": "[네카오는 지금] '검색·결제' vs '톡'…AI 수익화 길 갈렸다",
-              "url": "https://n.news.naver.com/mnews/article/138/0002237008?sid=105"
+              "title": "네이버 '마진율 20%', 카카오 'B2C 집중'…AI 인프라, 노선 갈렸다",
+              "url": "https://n.news.naver.com/mnews/article/008/0005397325?sid=105"
             },
             {
-              "title": "'AI로 벌고 AI에 투자한다' 네이버, AI 서비스·인프라 '투트랙' 성장 가...",
+              "title": "'AI로 벌고 AI에 투자한다' 네이버, AI 서비스·인프라 '투트랙' 성장 가능",
               "url": "https://www.techm.kr/news/articleView.html?idxno=154089"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         }
       ]
     },
@@ -85,39 +86,34 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "라이브 커머스 AI 확대",
-          "summary": "왓낫이 기업가치 200억달러 달성하며 라이브 쇼핑 시장 성장에 AI 판매자 매칭 기술 적용으로 신규 시장 확장 추진.",
+          "emoji": "🛡️",
+          "title": "K-뷰티 위조품 AI 모니터링",
+          "summary": "메디큐브 등 K-뷰티 브랜드가 중국산 가품의 글로벌 확산에 대응해 AI 모니터링과 해외 소송을 강화하는 지재권 보호 전략 전개.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "라이브 쇼핑 성장세에 왓낫 기업가치 200억달러로 상승",
-              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691213"
+              "title": "루마니아서 적발된 메디큐브 '짝퉁'…유럽까지 번진 K-뷰티 가품",
+              "url": "https://n.news.naver.com/mnews/article/001/0016240445?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "네이버 AI 광고·커머스 수익화",
-          "summary": "네이버가 2분기 매출 16% 증가를 주도한 AI 기반 광고·커머스에서 나아가 AI 컴퓨팅 인프라 자체를 별도 사업으로 수익화.",
+          "emoji": "⚡",
+          "title": "유통가 AX 업무 자동화 경쟁",
+          "summary": "GS25 등 편의점이 AI로 4시간 보고서를 5분 만에 작성하고 점포 운영 현황을 실시간 파악하며 업무 효율성 극대화 경쟁 본격화.",
           "articleIndices": [
-            5,
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "네이버 2분기 매출 16%↑…광고·커머스 AI 접목이 견인",
-              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=595606"
-            },
-            {
-              "title": "네이버, 또 분기 매출 '신기록'…'AI 팩토리'까지 수익화 구조 짠다",
-              "url": "https://www.apnews.kr/news/articleView.html?idxno=3050367"
+              "title": "\"4시간 걸리던 보고서 5분 만에\"...유통가 불붙은 AX 전쟁",
+              "url": "https://n.news.naver.com/mnews/article/243/0000101397?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -125,15 +121,30 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🚚",
-          "title": "CU 쿠팡이츠 24시간 배달",
-          "summary": "CU가 GS25에 이어 쿠팡이츠와 손잡고 24시간 편의점 배달 서비스를 확대하며 퀵커머스 시장 주도권 강화.",
+          "emoji": "💜",
+          "title": "피브 버블글로스 미니 단독 출시",
+          "summary": "CU가 Z세대·알파세대의 키링 화장품 트렌드를 반영해 비건 색조 브랜드 피브의 '버블글로스 미니' 4종을 단독 출시하며 1020층 수요 공략.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "CU·GS25 이어 세븐일레븐도 쿠팡이츠 합류... 편의점 '24시간 배달' 경쟁...",
+              "title": "[이주의 유통포인트] CU, 키링 화장품 '피브 버블글로스 미니' 출시",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314782"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🚚",
+          "title": "쿠팡이츠 24시간 배달 확대",
+          "summary": "CU와 GS25에 이어 세븐일레븐도 쿠팡이츠와 손잡고 24시간 편의점 배달 서비스를 확대하며 편의점 배달 경쟁 심화.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU·GS25 이어 세븐일레븐도 쿠팡이츠 합류... 편의점 '24시간 배달' 경쟁",
               "url": "https://www.insight.co.kr/news/567117"
             }
           ],
@@ -141,40 +152,23 @@
         },
         {
           "emoji": "📈",
-          "title": "BGF리테일 2분기 실적 호조",
-          "summary": "BGF리테일이 화물연대 파업에도 불구하고 2분기 영업익 22% 증가, 외국인 매출 60% 급증으로 관광 특수 효과 입증.",
+          "title": "외국인 관광객 효과 실적 급증",
+          "summary": "BGF리테일이 2분기 외국인 매출 60% 증가로 매출 6%, 영업익 22.3% 증가를 기록하며 인바운드 특수 효과를 극대화.",
           "articleIndices": [
-            2,
             5,
-            6,
-            7
+            6
           ],
           "relatedLinks": [
             {
-              "title": "늘어난 관광객+소비심리 회복…GS25·CU 실적 '청신호'(종합)",
-              "url": "https://n.news.naver.com/mnews/article/421/0009102859?sid=101"
+              "title": "'외국인 매출 60% 뛰었다'…BGF리테일 실적 뒤집은 관광객",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475505"
             },
             {
               "title": "'외국인 매출 60% 껑충…K-편의점 대장 BGF리테일, 관광 특수 톡톡'",
               "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=271366"
             }
           ],
-          "articleCount": 4
-        },
-        {
-          "emoji": "🏤",
-          "title": "CU 집배원쉼터 확대",
-          "summary": "우정사업본부가 폭염 대응으로 CU 편의점을 활용한 집배원쉼터 확대 운영으로 사회공헌 마케팅 강화.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "박인환 우정사업본부장, CU편의점 집배원쉼터 운영 확대 나서",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598957162136"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -182,46 +176,31 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "GS25 퀵커머스 고성장",
-          "summary": "GS25 퀵커머스 매출이 2024년 75.4%, 2025년 64.3%, 올 1분기 79.5% 증가하며 편의점 배달 시장 주도.",
+          "emoji": "🥤",
+          "title": "GS25 '얼박사' 음료 대히트",
+          "summary": "GS25 판매 기준 출시 2개월 만에 누적 판매량 250만 캔을 돌파하고 음료 카테고리 매출 1위에 오른 '얼박사'가 소비자층 확대의 성공 사례 입증.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[유통토요판] '1시간으로 승부'···장보기 공식 바꾼 퀵커머스",
-              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422952"
+              "title": "동아제약 백상환 박카스 소비자층 넓혔다, '얼박사'부터 '레트로'까지 제품화",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444222"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍿",
-          "title": "GS25 한정판 과자 콜라보",
-          "summary": "GS25가 오리온·롯데웰푸드와 손잡고 춘식이 꼬북칩·꼬깔콘 마성옥수수맛 등 한정판 과자로 편의점 디저트 시장 경쟁.",
+          "emoji": "🎨",
+          "title": "세븐일레븐 HBM칩스 콜라보",
+          "summary": "세븐일레븐이 SK하이닉스와 반도체 콘셉트 과자 'HBM칩스'를 출시하며 기술 기업과의 크로스오버 마케팅으로 화제성 창출.",
           "articleIndices": [
-            2
+            5
           ],
           "relatedLinks": [
             {
-              "title": "\"꼬북칩에 고구마탕후루를?\"…'국민과자' 비트는 편의점, 이유 있었...",
-              "url": "https://n.news.naver.com/mnews/article/022/0004149312?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "❄️",
-          "title": "세븐일레븐 무더위쉼터",
-          "summary": "세븐일레븐이 세종시와 협약해 36개 점포를 무더위쉼터로 지정하며 사회공헌 마케팅으로 브랜드 이미지 강화.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "입추에도 서울 40.2도…유통·식품업계, '폭염 구호전' 총력",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3423386"
+              "title": "SK하이닉스 375원 배당에 '최태원 과자' 밈…'1년 치 배당보다 비싸'",
+              "url": "https://www.the-today.com/news/articleView.html?idxno=88248"
             }
           ],
           "articleCount": 1
@@ -232,32 +211,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "💜",
-          "title": "편의점 브리오슈·우베 열풍",
-          "summary": "CU의 우베 브리오슈 번 등 고급 디저트가 SNS에서 화제가 되며 편의점 디저트 시장 고급화 트렌드 주도.",
+          "emoji": "🍰",
+          "title": "편의점 브리오슈 열풍",
+          "summary": "CU의 '청보리 브리오슈'와 '우베 브리오슈 번' 연이은 출시로 편의점 디저트 시장의 고급화를 주도하며 SNS 화제성 확대.",
           "articleIndices": [
-            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "'이것은 빵인가, 케이크인가'…SNS 강타한 '브리오슈' 열풍 [트렌드레시...]",
+              "title": "'이것은 빵인가, 케이크인가'…SNS 강타한 '브리오슈' 열풍 [트렌드레시피]",
               "url": "https://n.news.naver.com/mnews/article/014/0005558793?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🍺",
-          "title": "CU 생활맥주 한정판 출시",
-          "summary": "CU가 포켓CU 앱 사전예약으로 생활맥주 한정판 캔맥주를 출시하며 MZ세대 타겟 주류 신상 마케팅 강화.",
+          "emoji": "🍦",
+          "title": "편의점 아이스크림·디저트 매출 급증",
+          "summary": "CU의 2분기 아이스크림 매출이 전년 동기 대비 30.6% 증가하고 디저트·식재료도 각각 32.2%, 30.4% 증가하며 폭염과 외국인 관광객 효과 극대화.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[금주의 주류 신상] 2026년 8월 첫째주",
-              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131465"
+              "title": "외국인·폭염에 편의점 투톱 나란히 '깜짝실적'",
+              "url": "https://n.news.naver.com/mnews/article/448/0000632288?sid=101"
             }
           ],
           "articleCount": 1
