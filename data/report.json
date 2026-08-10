@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-08T22:16:10.411Z",
+  "generatedAt": "2026-08-10T22:24:48.349Z",
   "summary": [
-    "CU, Z세대 겨냥 키링 화장품 '피브 버블글로스 미니' 단독 출시로 1020층 공략",
-    "GS25, AI 합성소비자·업무 자동화로 유통가 AX 전쟁 주도",
-    "BGF리테일, 외국인 관광객 효과로 2분기 매출 6% 증가·영업익 22.3% 급증"
+    "CU, AI 비전 셀프 POS 도입으로 편의점 결제 혁신 추진",
+    "농심 포테토칩 4종, 편의점별 차별화 맛으로 '도장깨기' 이벤트 전개",
+    "CU, 건기식 운영점 2천여 곳 확대하며 '헬스케어 2.0 전략' 발표"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 합성소비자 도입 확산",
-          "summary": "식품·유통 업계가 AI 가상 소비자를 의사결정 체계에 도입하며 시간·비용 절감과 신속한 제품 평가를 실현하는 새로운 마케팅 표준으로 부상 중.",
+          "emoji": "🌍",
+          "title": "K푸드 글로벌 현지화",
+          "summary": "GS25 등 유통업계가 수출 중심에서 벗어나 베트남 바나나 지정농장 등 현지 공급망 확보로 글로벌 경쟁력 강화 중.",
           "articleIndices": [
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'24시 가상 고객' AI 합성소비자 아시나요 [AI 딥다이브]",
-              "url": "https://n.news.naver.com/mnews/article/024/0000107429?sid=101"
+              "title": "[이슈] '수출' 넘어 '현지화'…K푸드 글로벌 공략 진화",
+              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=363600"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "홈플러스 신선식품·PB 전략",
-          "summary": "회생 데드라인을 앞둔 홈플러스가 신선식품과 자체브랜드 상품으로 매대 구성을 강화하며 고객 유인과 자금 회수 속도를 동시에 확보하는 생존 전략 추진.",
+          "emoji": "🎤",
+          "title": "팬덤 마케팅 확대",
+          "summary": "메가커피·스타벅스 등 카페 브랜드가 K팝 아이돌 협업, 팬사인회 등 팬덤 기반 마케팅으로 여름 시즌 고객 확보 경쟁 심화.",
           "articleIndices": [
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'회생 데드라인' 3주 홈플러스…'매대 구성·신뢰 회복'이 변수",
-              "url": "https://n.news.naver.com/mnews/article/001/0016240467?sid=101"
+              "title": "[이슈] 폭염 속 '카페 전쟁'...팬덤 잡은 메가·'얼죽아' 공략 스벅",
+              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=809275"
             }
           ],
           "articleCount": 1
@@ -45,37 +45,37 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "K-뷰티 테무 입점 성공",
-          "summary": "K-스킨케어 브랜드 록키스가 글로벌 이커머스 플랫폼 테무 입점으로 색조 제품까지 확대 판매하며 해외 채널 다각화의 성공 사례 제시.",
+          "emoji": "💄",
+          "title": "뷰티 페스타 할인전",
+          "summary": "무신사·에이블리·컬리 등 주요 이커머스가 8월 대규모 뷰티 기획전으로 할인·체험형 콘텐츠를 앞세워 고객 확보 경쟁 전개.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "K-스킨케어 장인 '록키스', 테무 만나니 색조도 날았다",
-              "url": "https://n.news.naver.com/mnews/article/016/0002680931?sid=101"
+              "title": "[뷰티 이슈] 무신사·에이블리·컬리, 8월 뷰티 페스타 돌입…할인 경쟁",
+              "url": "https://sports.hankooki.com/news/articleView.html?idxno=6937762"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "🤖",
-          "title": "네이버·카카오 버티컬 AI 전략",
-          "summary": "네이버는 AI 인프라 투자로 광고·커머스 고도화, 카카오는 AI 에이전트 기반 버티컬 파트너십으로 음식 배달부터 여행까지 확장하며 상이한 AI 수익화 노선 추진.",
+          "title": "AI 에이전트 커머스",
+          "summary": "카카오·네이버가 AI 에이전트 기반 버티컬 커머스 확대로 배달·쇼핑·예약 등 생활밀착형 서비스 통합 플랫폼화 추진 중.",
           "articleIndices": [
             6,
-            7,
-            8
+            8,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "네이버 '마진율 20%', 카카오 'B2C 집중'…AI 인프라, 노선 갈렸다",
-              "url": "https://n.news.naver.com/mnews/article/008/0005397325?sid=105"
+              "title": "'돈 버는 AI' 집중 네카오…네이버는 B2B·카카오는 B2C",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719780"
             },
             {
-              "title": "'AI로 벌고 AI에 투자한다' 네이버, AI 서비스·인프라 '투트랙' 성장 가능",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=154089"
+              "title": "배달앱 안 켜도 주문'… 카카오톡, AI로 생활 플랫폼 노린다",
+              "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725927"
             }
           ],
           "articleCount": 3
@@ -86,86 +86,40 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛡️",
-          "title": "K-뷰티 위조품 AI 모니터링",
-          "summary": "메디큐브 등 K-뷰티 브랜드가 중국산 가품의 글로벌 확산에 대응해 AI 모니터링과 해외 소송을 강화하는 지재권 보호 전략 전개.",
+          "emoji": "🛒",
+          "title": "AI 셀프 POS 도입",
+          "summary": "CU가 신세계아이앤씨와 AI 비전 기반 셀프 POS 결제 솔루션 도입으로 편의점 결제 자동화 및 운영 효율성 혁신 추진.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "루마니아서 적발된 메디큐브 '짝퉁'…유럽까지 번진 K-뷰티 가품",
-              "url": "https://n.news.naver.com/mnews/article/001/0016240445?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "⚡",
-          "title": "유통가 AX 업무 자동화 경쟁",
-          "summary": "GS25 등 편의점이 AI로 4시간 보고서를 5분 만에 작성하고 점포 운영 현황을 실시간 파악하며 업무 효율성 극대화 경쟁 본격화.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"4시간 걸리던 보고서 5분 만에\"...유통가 불붙은 AX 전쟁",
-              "url": "https://n.news.naver.com/mnews/article/243/0000101397?sid=101"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
-    },
-    {
-      "name": "당사 이슈",
-      "issues": [
-        {
-          "emoji": "💜",
-          "title": "피브 버블글로스 미니 단독 출시",
-          "summary": "CU가 Z세대·알파세대의 키링 화장품 트렌드를 반영해 비건 색조 브랜드 피브의 '버블글로스 미니' 4종을 단독 출시하며 1020층 수요 공략.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[이주의 유통포인트] CU, 키링 화장품 '피브 버블글로스 미니' 출시",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314782"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🚚",
-          "title": "쿠팡이츠 24시간 배달 확대",
-          "summary": "CU와 GS25에 이어 세븐일레븐도 쿠팡이츠와 손잡고 24시간 편의점 배달 서비스를 확대하며 편의점 배달 경쟁 심화.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU·GS25 이어 세븐일레븐도 쿠팡이츠 합류... 편의점 '24시간 배달' 경쟁",
-              "url": "https://www.insight.co.kr/news/567117"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📈",
-          "title": "외국인 관광객 효과 실적 급증",
-          "summary": "BGF리테일이 2분기 외국인 매출 60% 증가로 매출 6%, 영업익 22.3% 증가를 기록하며 인바운드 특수 효과를 극대화.",
-          "articleIndices": [
-            5,
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "'외국인 매출 60% 뛰었다'…BGF리테일 실적 뒤집은 관광객",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475505"
+              "title": "CU 'AI 셀프 POS' 도입→세븐일레븐 '미친만두' 5종 출시",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=757925"
             },
             {
-              "title": "'외국인 매출 60% 껑충…K-편의점 대장 BGF리테일, 관광 특수 톡톡'",
-              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=271366"
+              "title": "CU-신세계아이앤씨, 'AI 비전 셀프 POS 결제 솔루션' 도입",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=129235"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📦",
+          "title": "AI 자동화 물류센터",
+          "summary": "롯데마트가 2000억 원 투자 AI 자동화 물류센터로 온라인 장보기 시장 공략, 부산 영남권 신선식품 경쟁력 강화.",
+          "articleIndices": [
+            2,
+            14
+          ],
+          "relatedLinks": [
+            {
+              "title": "롯데마트, 2000억 AI 물류 승부수…온라인 장보기 공략",
+              "url": "https://www.sentv.co.kr/article/view/sentv202608100088"
+            },
+            {
+              "title": "롯데마트, 부산에 AI 자동화 물류센터 가동…영남권 온라인 장보기 강화",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202608101846443783204ead0791_12"
             }
           ],
           "articleCount": 2
@@ -173,34 +127,91 @@
       ]
     },
     {
+      "name": "당사 이슈",
+      "issues": [
+        {
+          "emoji": "🤖",
+          "title": "AI 셀프 POS 솔루션",
+          "summary": "CU가 신세계아이앤씨와 AI 비전 기반 셀프 POS 결제 관리 솔루션 도입으로 점포 운영 효율화 및 고객 경험 혁신 추진.",
+          "articleIndices": [
+            1,
+            3,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "신세계아이앤씨, 편의점으로 AI 비전 솔루션 확장...CU에 셀프 계산대 적용",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691764"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "💊",
+          "title": "건기식 카테고리 확대",
+          "summary": "CU가 건기식 운영점 2천여 곳 확대 및 국내외 브랜드 상품 추가로 '헬스케어 2.0 전략' 발표, 고마진 상품 포트폴리오 강화.",
+          "articleIndices": [
+            5,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, 건기식 운영점 2천여 곳 늘리고 상품군 확대",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202608101910232399204ead0791_12"
+            },
+            {
+              "title": "[기획] CU·GS25, 2분기 나란히 '웃었다'…'하반기도 질적 성장에 올인'",
+              "url": "http://www.newswatch.kr/news/articleView.html?idxno=80702"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍙",
+          "title": "김천 김밥 전국 출시",
+          "summary": "CU가 김천 김밥 축제 우승 상품 '고추잡채김밥'을 전국 편의점에 정식 상품으로 출시, 지역 특산물 마케팅 강화.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "김천 김밥, 전국 CU 간다…'고추잡채김밥' 금상",
+              "url": "https://www.ekn.kr/web/view.php?key=20260811028551361"
+            }
+          ],
+          "articleCount": 1
+        }
+      ]
+    },
+    {
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥤",
-          "title": "GS25 '얼박사' 음료 대히트",
-          "summary": "GS25 판매 기준 출시 2개월 만에 누적 판매량 250만 캔을 돌파하고 음료 카테고리 매출 1위에 오른 '얼박사'가 소비자층 확대의 성공 사례 입증.",
+          "emoji": "🥔",
+          "title": "GS25 포테토칩 협업",
+          "summary": "농심이 GS25와 협업해 '포테토칩 매콤까르보맛' 출시, 편의점별 차별화 맛으로 경쟁사 대비 차별화 전략 추진.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "동아제약 백상환 박카스 소비자층 넓혔다, '얼박사'부터 '레트로'까지 제품화",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444222"
+              "title": "농심, 이색 '다이닝 포테토칩' 4종 동시 출격",
+              "url": "http://www.amnews.co.kr/news/articleView.html?idxno=73878"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎨",
-          "title": "세븐일레븐 HBM칩스 콜라보",
-          "summary": "세븐일레븐이 SK하이닉스와 반도체 콘셉트 과자 'HBM칩스'를 출시하며 기술 기업과의 크로스오버 마케팅으로 화제성 창출.",
+          "emoji": "🏖️",
+          "title": "GS25 외국인 관광객 매출",
+          "summary": "GS25가 알리페이·위챗페이 결제 기준 강릉·부산 광안리 등 관광지 인근 매장 매출 300% 이상 증가로 외국인 고객 확보 성과.",
           "articleIndices": [
-            5
+            2
           ],
           "relatedLinks": [
             {
-              "title": "SK하이닉스 375원 배당에 '최태원 과자' 밈…'1년 치 배당보다 비싸'",
-              "url": "https://www.the-today.com/news/articleView.html?idxno=88248"
+              "title": "외국인관광객, 광안리·속초 몰렸다…바닷가 편의점 매출 급증",
+              "url": "https://n.news.naver.com/mnews/article/374/0000526669?sid=101"
             }
           ],
           "articleCount": 1
@@ -211,34 +222,35 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 브리오슈 열풍",
-          "summary": "CU의 '청보리 브리오슈'와 '우베 브리오슈 번' 연이은 출시로 편의점 디저트 시장의 고급화를 주도하며 SNS 화제성 확대.",
+          "emoji": "🍪",
+          "title": "CU 떡볶이 쿠키 SNS 화제",
+          "summary": "CU가 이웃집 통통이와 협업한 '떡볶이 쿠키'가 SNS에서 신상 리뷰 및 인증 콘텐츠로 화제, 편의점 신상품 트렌드 주도.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "'이것은 빵인가, 케이크인가'…SNS 강타한 '브리오슈' 열풍 [트렌드레시피]",
-              "url": "https://n.news.naver.com/mnews/article/014/0005558793?sid=101"
+              "title": "[유프로의 AI 픽] '산리오에 줄 서고, 떡볶이 쿠키 인증'…유통채널 TOP",
+              "url": "https://www.mediapen.com/news/view/1115475"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍦",
-          "title": "편의점 아이스크림·디저트 매출 급증",
-          "summary": "CU의 2분기 아이스크림 매출이 전년 동기 대비 30.6% 증가하고 디저트·식재료도 각각 32.2%, 30.4% 증가하며 폭염과 외국인 관광객 효과 극대화.",
+          "emoji": "🌶️",
+          "title": "포테토칩 4종 도장깨기",
+          "summary": "농심이 편의점 4사(CU·GS25·세븐일레븐·이마트24)와 협업해 포테토칩 신제품 4종 동시 출격, 편의점별 차별화 맛으로 '도장깨기' 이벤트 전개.",
           "articleIndices": [
-            1
+            1,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "외국인·폭염에 편의점 투톱 나란히 '깜짝실적'",
-              "url": "https://n.news.naver.com/mnews/article/448/0000632288?sid=101"
+              "title": "[똑똑한한끼] 오뚜기 UNO 한정판·농심 포테토칩 4종·하림 중화 닭요리",
+              "url": "https://www.ekn.kr/web/view.php?key=20260810027321289"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     }
