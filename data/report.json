@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-11T22:29:50.876Z",
+  "generatedAt": "2026-08-12T22:28:10.928Z",
   "summary": [
-    "CU, AI 비전 셀프POS 솔루션 도입으로 편의점 미결제 문제 해결",
-    "세븐일레븐, 유명 맛집 콜라보와 쿠팡이츠 배달 서비스로 차별화 강화",
-    "GS25, 건기식 매출 98% 증가로 MZ세대 건강식품 수요 선점"
+    "CU, CJ제일제당과 협업해 가성비 '소바바 황금홀릭 조각치킨' 단독 출시로 여름 수요 공략",
+    "BGF리테일, AI 비전 셀프 POS 결제 솔루션 도입으로 점포운영 자동화 확대",
+    "편의점 취급 품목 4만개 육박…K팝 앨범·AI 로봇까지 상품 카테고리 대폭 확장"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌡️",
-          "title": "폭염 쿨링 소비 확산",
-          "summary": "여름 폭염으로 냉각 관련 상품(쿨링 팩, 아이스크림, 음료)의 판매가 급증하며 계절 소비 트렌드 변화 주도.",
+          "emoji": "🛍️",
+          "title": "편의점 상품 확장 4만개 시대",
+          "summary": "편의점이 K팝 앨범부터 AI 로봇까지 취급 품목을 4만개 수준으로 확대하며 근거리 종합 쇼핑채널로 진화 중.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[홍승완의 M.S.G] 입고 바르고 닦는다…폭염에 번지는 '쿨링 소비'",
-              "url": "https://www.ajunews.com/view/20260811152831911"
+              "title": "편의점 취급 품목 4만개 육박…K팝 앨범부터 로봇까지 상품 확장",
+              "url": "https://n.news.naver.com/mnews/article/421/0009111233?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌏",
-          "title": "K푸드 글로벌 현지화 전략",
-          "summary": "GS25 등 유통사들이 베트남 바나나 지정농장 운영 등 현지 공급망 확보로 수출 중심에서 현지화 기반 글로벌 전략으로 전환.",
+          "emoji": "💰",
+          "title": "다이소 '5000원 균일가' 생존력",
+          "summary": "고물가 시대 다이소의 5000원 한도 균일가 전략이 오프라인·온라인 옴니채널 시너지로 강력한 경쟁력 발휘 중.",
           "articleIndices": [
-            5
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] '수출' 넘어 '현지화'…K푸드 글로벌 공략 진화",
-              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=363600"
+              "title": "'5000원'의 무서운 생존력 아성다이소",
+              "url": "http://www.00news.co.kr/news/articleView.html?idxno=105818"
             }
           ],
           "articleCount": 1
@@ -46,38 +46,33 @@
       "issues": [
         {
           "emoji": "📦",
-          "title": "편의점 배달 서비스 확대",
-          "summary": "세븐일레븐이 쿠팡이츠와 협력해 1,500개 점포에서 24시간 배달 서비스를 시작하며 편의점의 O2O 경쟁 심화.",
+          "title": "이커머스 화물 수요 12% 성장",
+          "summary": "지정학적 리스크 속 이커머스 성장이 항공 화물 부문을 견인하며 글로벌 공급망 재편 가속화.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 쿠팡이츠와 배달 서비스 도입… '24시' 배송 체계 구축",
-              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1174062"
+              "title": "[기업 리포트] 글로벌 공급난 뚫은 터키항공…7월 여객 950만명 '질주'",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=143155"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "AI 버티컬 에이전트 경쟁",
-          "summary": "네이버·카카오가 식음료 배달·커머스 등 생활밀접 분야의 AI 에이전트 구축으로 이커머스 플랫폼 간 AI 기반 차별화 경쟁 본격화.",
+          "emoji": "🎯",
+          "title": "버티컬 커머스 F&B 확장 전략",
+          "summary": "패션 플랫폼(29CM, 무신사)이 라이브 커머스·F&B 카테고리 추가로 수익 다각화 및 고객 체류시간 확대 중.",
           "articleIndices": [
-            8,
-            9
+            8
           ],
           "relatedLinks": [
             {
-              "title": "네이버 결제 vs 카카오 대화…AI 시대 '생활 데이터' 선점戰",
-              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691541"
-            },
-            {
-              "title": "'돈 버는 AI' 집중 네카오…네이버는 B2B·카카오는 B2C",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719780"
+              "title": "[Tech & Now] 피씨엔, '모두의 AI 실험실' 지원…플래티어, '슈마커'에 A...",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720130"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -85,31 +80,16 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "유통업 AI 활용 경쟁 심화",
-          "summary": "CJ·롯데·현대백화점이 상품개발·마케팅·고객경험 전반에 AI를 적용하며 유통업계의 AI 기반 수익성 확보 경쟁 가속화.",
+          "emoji": "❄️",
+          "title": "냉동·냉장 물류 AI·로봇 자동화",
+          "summary": "새벽배송 경쟁 심화 속 냉동·냉장 물류센터에 AI와 로봇 자동화 도입으로 온도 관리 정밀도 및 효율성 극대화.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "롯데·현대백, AI 경쟁에 'CJ'도 가세…유통업계 'AX' 속도전",
-              "url": "http://www.srtimes.kr/news/articleView.html?idxno=209697"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📱",
-          "title": "AI 기반 고객 커뮤니케이션 혁신",
-          "summary": "KT가 롯데백화점에 RCS 메시징 시스템과 AI 기술을 결합한 안전하고 편리한 고객 소통 플랫폼 구축으로 유통 디지털 혁신 선도.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "KT, 롯데백화점에 업계 최초 RCS 메시징 시스템 구축…'고객 커뮤니케이션' 혁신",
-              "url": "http://www.updownnews.co.kr/news/articleView.html?idxno=318333"
+              "title": "\"1도만 올라도 끝장\"…폭염이 불붙인 새벽배송 '꽁꽁 전쟁'",
+              "url": "https://n.news.naver.com/mnews/article/025/0003544092?sid=101"
             }
           ],
           "articleCount": 1
@@ -120,38 +100,51 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "AI 셀프POS 결제 솔루션 도입",
-          "summary": "CU가 신세계아이앤씨와 협력해 AI 비전 기반 셀프 계산대 결제 관리 솔루션을 파일럿 테스트 중으로, 미결제 문제 해결과 가맹점 운영 편의성 강화.",
+          "emoji": "🍗",
+          "title": "CU 'CJ제일제당 소바바' 단독 출시",
+          "summary": "CU가 업계 단독으로 가성비 'CJ제일제당 소바바 황금홀릭 조각치킨'(4,900원)을 출시해 여름 나들이 수요 공략, 조각치킨 매출 전주 대비 33.7% 증가.",
           "articleIndices": [
             1,
-            2,
-            3,
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "CU, 신세계아이앤씨와 결제 누락 사전 예방 'AI 비전 셀프 POS 결제 솔루션' 도입",
-              "url": "http://www.sisacast.kr/news/articleView.html?idxno=98736"
+              "title": "CU, 가성비 CJ제일제당 소바바 황금홀릭 조각치킨 출시",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=758393"
             },
             {
-              "title": "신세계I&C, CU에 셀프계산대 결제관리 솔루션 공급",
-              "url": "https://n.news.naver.com/mnews/article/029/0003041879?sid=105"
+              "title": "CU, 4천900원짜리 가성비 'CJ제일제당 소바바 황금홀릭' 조각 치킨 출시",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=129508"
             }
           ],
-          "articleCount": 4
+          "articleCount": 2
         },
         {
-          "emoji": "📈",
-          "title": "BGF리테일 2분기 사상 최대 실적",
-          "summary": "BGF리테일이 물류 파업 등 악재에도 불구하고 2분기 영업이익과 매출 모두 역대 최대를 기록하며 강한 실적 성장 달성.",
+          "emoji": "🤖",
+          "title": "BGF리테일 AI 비전 셀프 POS 도입",
+          "summary": "BGF리테일이 CU 점포에 AI 카메라 기반 셀프 POS 결제 솔루션을 도입해 점포운영부터 상품기획까지 AI 활용 범위 확대.",
           "articleIndices": [
-            5
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'물류 파업 악재도 뚫었다…BGF리테일, 2분기 사상 최대 실적 '어닝 서프라이즈'",
-              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=271546"
+              "title": "AI 힘주는 CU...점포운영부터 상품기획까지 맡긴다",
+              "url": "https://n.news.naver.com/mnews/article/092/0002433777?sid=105"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🐕",
+          "title": "CU '견생네컷' 반려견 셀프포토 서비스",
+          "summary": "BGF리테일이 '인생네컷'과 협력해 CU 점포에 반려견 전용 셀프포토 서비스 '견생네컷'을 선보이며 펫 문화 트렌드 반영.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU에서 반려견과 셀프촬영…엘케이벤쳐스, '견생네컷' 선보인다",
+              "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=244061"
             }
           ],
           "articleCount": 1
@@ -162,51 +155,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💪",
-          "title": "GS25 건기식 매출 98% 급증",
-          "summary": "GS25가 2분기 건기식 매출을 1년 새 98% 증가시키며 MZ세대의 건강식품 수요 선점으로 '효자 상품' 지위 확보.",
+          "emoji": "🏪",
+          "title": "GS25 신선강화점·차별화 PB 전략",
+          "summary": "GS25가 신선강화점 확대와 차별화 PB·신선 라인업으로 점포 경쟁력 강화 및 글로벌 영토 확장 추진 중.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "1년 만에 130만개 팔렸다…\"몸에도 좋은데 5000원도 안 해\" MZ가 픽한 GS25 건기식",
-              "url": "https://n.news.naver.com/mnews/article/011/0004650820?sid=101"
+              "title": "[밸류업-GS리테일] '25조 청사진' 접고 꺼내든 카드 '자산효율화'",
+              "url": "https://www.fetv.co.kr/news/articleView.html?idxno=308223"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍜",
-          "title": "세븐일레븐 셰프 콜라보 전략",
-          "summary": "세븐일레븐이 유명 셰프 및 맛집과의 협업으로 '고추잡채 삼각김밥' 200만 개 판매 등 차별화된 상품 라인업으로 경쟁력 강화.",
+          "emoji": "🍬",
+          "title": "세븐일레븐 일본 디저트 MD 전략",
+          "summary": "세븐일레븐이 해외 전시회 발굴을 통해 저지우유푸딩·브륄레 밀크 등 일본 인기 디저트를 평균 6개월~2년 개발 기간으로 국내 상륙.",
           "articleIndices": [
-            4,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "이창우 세븐일레븐 MD '일본 전시회 찾아가 명함 내밀었죠'",
+              "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=252214"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍹",
+          "title": "이마트24 '뉴트럴' 팝업존 트렌드 마케팅",
+          "summary": "이마트24가 성수동 트렌드랩 성수점에서 캐나다 1위 보드카 하이볼 '뉴트럴' 팝업존을 운영하며 MZ세대 타겟 프리미엄 주류 마케팅 강화.",
+          "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "식품업계가 스타 셰프와 손잡는 이유 [SS포커스]",
-              "url": "https://n.news.naver.com/mnews/article/468/0001259334?sid=101"
-            },
-            {
-              "title": "세븐일레븐, 청주 '미친 만두'와 콜라보…100만 판매량 신화 잇는다",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=270042"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "💧",
-          "title": "이마트24 PB 생수 가성비 경쟁",
-          "summary": "이마트24의 노브랜드 생수가 제주삼다수 등 기존 브랜드 생수를 대체하며 PB 상품의 가성비 경쟁력으로 시장 점유 확대.",
-          "articleIndices": [
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "PB에 '물먹은' 제주삼다수…3조 생수 시상 뒤집은 '가성비의 반란'",
-              "url": "https://n.news.naver.com/mnews/article/029/0003041906?sid=101"
+              "title": "에스쿱스·민규 픽 캐나다 하이볼 '뉴트럴', 이마트24 팝업존 선봬",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=758397"
             }
           ],
           "articleCount": 1
@@ -217,41 +205,19 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 프리미엄 디저트 경쟁",
-          "summary": "편의점들이 프리미엄 디저트 및 즉석식품으로 차별화하며 '치고 빠지기' 신제품 전략과 장비 기반 경쟁력으로 고객 확보 경쟁 심화.",
-          "articleIndices": [
-            1,
-            2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "[편의점 새 기준③] 다양성의 일본, 트렌드의 한국…경쟁 2막 '콘텐츠'",
-              "url": "https://www.ngetnews.com/news/articleView.html?idxno=552283"
-            },
-            {
-              "title": "[fn이사람] '맛있는데 재미까지… 원조 셀프스무디 아무나 못 따라하죠...",
-              "url": "https://n.news.naver.com/mnews/article/014/0005560163?sid=101"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
           "emoji": "🌶️",
-          "title": "편의점 매운맛 신제품 트렌드",
-          "summary": "세븐일레븐의 '미친만두' 등 매운맛 도전 상품과 지역 맛집 콜라보가 SNS 화제성과 판매량을 동시에 확보하며 신상 마케팅 강화.",
+          "title": "세븐일레븐 '미친만두' 콜라보 신상",
+          "summary": "세븐일레븐이 충청북도 청주 '입이 즐거운 그 만두'와 협업해 '미친만두 푸드' 5종 신상 출시로 로컬 브랜드 협력 마케팅 강화.",
           "articleIndices": [
-            6,
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의 편의점] CU 셀프 계산대에 AI 카메라 도입·세븐일레븐 '미친만두' 출시",
+              "title": "[오늘의 편의점] CU 셀프 계산대에 AI 카메라 도입·세븐일레븐 '미친만...",
               "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=316304"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     }
