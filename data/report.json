@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-13T22:29:34.660Z",
+  "generatedAt": "2026-08-14T22:11:11.682Z",
   "summary": [
-    "CU, AI 트렌드 분석으로 스몰밀 미니간편식·조각치킨 매출 급증",
-    "이마트24, 뉴트럴 하이볼 팝업존으로 지속가능한 마케팅 전개",
-    "편의점 3사, 폭염 특수로 우양산·스무디 매출 10~250% 급증"
+    "CU, 스몰밀 트렌드 공략 'PBICK 더 키친 미니 간편식' 13종 출시",
+    "GS25 신선강화형 매장으로 근거리 장보기 수요 선점, 매출 20% 상승",
+    "세븐일레븐 11분기 만에 흑자전환, IP 콜라보·인기 디저트 선점 성과"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌡️",
-          "title": "폭염 특수 편의점 매출",
-          "summary": "극한 날씨가 우양산·스무디 등 계절 상품 수요를 폭발적으로 증가시키며 편의점 3사의 여름 매출 성장을 견인했다.",
+          "emoji": "🇰🇷",
+          "title": "유통가 애국 마케팅",
+          "summary": "광복절 81주년을 맞아 유통업계가 독립유공자 후손 장학사업 등 진정성 있는 공익 마케팅을 전개하며 소비자 애국 소비 수요를 공략하고 있다.",
           "articleIndices": [
-            5,
-            6
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "폭염·외국인에 웃고 비용에 울고…2분기 유통업계 실적 승자는",
-              "url": "https://n.news.naver.com/mnews/article/138/0002237767?sid=101"
+              "title": "'스벅 탱크데이'에 독립유공자 후손 학비 끊겼다…11년 장학 사업 중단",
+              "url": "https://n.news.naver.com/mnews/article/469/0000948161?sid=101"
             },
             {
-              "title": "'더운 날씨 속 북미 인기 하이볼 만난다'…이마트24, '뉴트럴' 팝업존 운...",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=270411"
+              "title": "광복 81주년 유통가 '애국 마케팅'… 소비자 '애국 소비'로 화답",
+              "url": "https://n.news.naver.com/mnews/article/629/0000524801?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🌍",
-          "title": "공급망 안정화 경쟁력",
-          "summary": "식품·유통 업계가 지정학적 리스크에 대응하기 위해 AI·스마트팜·계약재배 등으로 원료 공급망 다각화를 강화하고 있다.",
+          "emoji": "🏢",
+          "title": "백화점 신규 출점 재개",
+          "summary": "실적 턴어라운드를 이룬 유통업계가 공격적인 신규 출점에 나서며, 백화점의 마케팅과 공간 혁신이 주효하면서 외국인·MZ세대 수요를 공략하고 있다.",
           "articleIndices": [
-            3
+            5
           ],
           "relatedLinks": [
             {
-              "title": "AI부터 스마트팜까지…식품·유통, '기후 대응 공급망' 강화 총력",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315120"
+              "title": "외국인 필수 코스·MZ 놀이터…백화점 '출점 시계' 다시 돈다",
+              "url": "https://n.news.naver.com/mnews/article/015/0005321135?sid=101"
             }
           ],
           "articleCount": 1
@@ -50,42 +50,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "이마트 온라인 체질 개선",
-          "summary": "이마트가 통합매입·신규 가맹 모델·근거리 배송 확대로 온라인 커머스 경쟁력을 강화하며 2분기 영업익 64% 증가를 달성했다.",
+          "emoji": "🌏",
+          "title": "무신사 동남아 진출",
+          "summary": "무신사가 온라인 판매를 넘어 필리핀 마닐라 글로리에타 쇼핑몰에 첫 오프라인 매장을 개설하며 핵심 상권 진출로 브랜드 인지도를 강화하는 전략을 추진 중이다.",
           "articleIndices": [
-            6,
-            7,
-            8
+            7
           ],
           "relatedLinks": [
             {
-              "title": "이마트, 2분기 별도 영업익 256억원…전년比 64%↑ '수익성 개선 지속'",
-              "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131598"
-            },
-            {
-              "title": "고물가에도 통했다... 이마트 영업이익 64%↑, 실적 반등 이끈 비결은?",
-              "url": "http://www.newskr.kr/news/articleView.html?idxno=105616"
+              "title": "[테크M 이슈] 일본서 통하고 中서 줄섰다…동남아 향하는 무신사, '15조 목표'",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=154309"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "버티컬 커머스 AI 검색",
-          "summary": "패션·슈즈 등 버티컬 커머스 플랫폼이 AI 검색·라이브커머스·푸드 확장으로 사용자 경험을 고도화하며 신규 수익원을 창출하고 있다.",
+          "emoji": "🛍️",
+          "title": "버티컬 커머스 UX 혁신",
+          "summary": "롯데온 등 주요 이커머스 플랫폼이 검색 기반 전통 UX를 벗어나 사용자 취향·행동 데이터 기반 상품 발견 경험을 설계하는 버티컬 쇼핑 UX로 전환하고 있다.",
           "articleIndices": [
             9,
-            10
+            11
           ],
           "relatedLinks": [
             {
-              "title": "[Tech & Now] 피씨엔, '모두의 AI 실험실' 지원…플래티어, '슈마커'에 A...",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720130"
+              "title": "플래티어, 2분기 AX 솔루션 매출 89% 증가 흑자…'AI로 이익 내는 구조'",
+              "url": "https://n.news.naver.com/mnews/article/030/0003457600?sid=105"
             },
             {
-              "title": "킨텍스, AI·로봇 스타트업 3곳과 현장 실증…시설관리 혁신",
-              "url": "https://n.news.naver.com/mnews/article/011/0004650930?sid=101"
+              "title": "국내 최대의 UX 축제 열린다… 피그마, LG전자, 삼성SDS, 네이버, KAIST 등",
+              "url": "https://n.news.naver.com/mnews/article/030/0003457446?sid=105"
             }
           ],
           "articleCount": 2
@@ -97,45 +91,33 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "리테일 테크 자동화",
-          "summary": "오아시스마켓·롯데마트 등이 물류 자동화·AI 무인매장·로봇 배송으로 리테일 테크 혁신을 추진하며 원가 경쟁력과 수익성을 동시에 확보하고 있다.",
+          "title": "대화형 쇼핑 AI 경쟁",
+          "summary": "유통업계가 검색창 기반 쇼핑에서 생성형 AI와의 대화형 쇼핑으로 전환하며, 챗GPT·클로드 등 외부 AI 플랫폼과의 연동을 통해 새로운 추천·콘텐츠 전략을 수립하고 있다.",
           "articleIndices": [
-            5,
-            10,
-            12,
-            13
+            4
           ],
           "relatedLinks": [
             {
-              "title": "새벽배송 도전장 내민 롯데마트, 승부수 통할까?",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=747954"
-            },
-            {
-              "title": "오아시스마켓, 2분기 영업익 96% 증가…'원가 경쟁력 확보'",
-              "url": "https://n.news.naver.com/mnews/article/374/0000527411?sid=103"
+              "title": "검색창 대신 AI에게 묻는다…유통업계, '대화형 쇼핑' 선점 경쟁",
+              "url": "http://www.dailypop.kr/news/articleView.html?idxno=101552"
             }
           ],
-          "articleCount": 4
+          "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "AI 에이전트 커머스 확장",
-          "summary": "네이버·카카오가 AI 에이전트를 커머스·배달·결제 등 일상 영역으로 확장하며 플랫폼 체류 시간 증대와 광고·쇼핑 매출 연동 수익 모델을 구축하고 있다.",
+          "emoji": "⚡",
+          "title": "배송 2.0 시대 AI 최적화",
+          "summary": "SSG·롯데마트 등이 1~2시간 배송 경쟁으로 전환하면서 AI 내비게이션·오배송 탐지 시스템 등 배송 효율화 기술을 적극 도입하고 있다.",
           "articleIndices": [
-            7,
-            8
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'글로벌 인프라' 네이버 vs '카톡 에이전트' 카카오…2조 쏟아부은...",
-              "url": "https://n.news.naver.com/mnews/article/468/0001259824?sid=105"
-            },
-            {
-              "title": "[기자수첩] AI 빛 못보는 '네카오'…'체감' AI 서비스 보여줄 때",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050853"
+              "title": "'매장이 물류센터로'···SSG·롯데가 연 '배송 2.0' 시대",
+              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423091"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -144,37 +126,41 @@
       "issues": [
         {
           "emoji": "📊",
-          "title": "스몰밀 미니간편식 확대",
-          "summary": "CU가 AI 트렌드 분석으로 스몰밀 선호 여성 고객층을 타겟한 미니 간편식 시리즈를 강화하며 'get모닝 꼬마김밥' 50일 100만개 판매 등 높은 성과를 기록했다.",
+          "title": "상반기 영업익 1위",
+          "summary": "CU가 상반기 편의점 시장에서 영업이익 1위를 기록하며 GS25에 비해 220억원 우위를 보이고, 소비심리 회복과 방한 외국인 증가에 힘입어 수익성 경쟁에서 우위를 확보했다.",
           "articleIndices": [
             1,
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "AI가 콕 찍은 트렌드…CU, 미니 간편식 시리즈 띄운다",
-              "url": "https://n.news.naver.com/mnews/article/016/0002683736?sid=101"
+              "title": "매출 283억원 GS25 우위, 영업익은 CU 앞섰다",
+              "url": "https://www.tokenpost.kr/news/market/390846"
+            },
+            {
+              "title": "매출은 GS25·수익성은 CU 우위…편의점 업계, 초접전 선두 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/001/0016252525?sid=102"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🍗",
-          "title": "조각치킨 매출 급증",
-          "summary": "CU가 기온 하락에 따른 조각치킨 수요 변화를 포착하여 CJ제일제당 소바바 황금홀릭 치킨을 즉석조리 상품으로 출시하며 33.7% 매출 증가를 달성했다.",
+          "emoji": "🍱",
+          "title": "스몰밀 트렌드 공략",
+          "summary": "CU가 스몰밀 트렌드에 맞춰 'PBICK 더 키친 미니 간편식' 13종을 순차 출시하며, 소용량 간편식 시장을 주도하는 여성 고객층을 공략하고 있다.",
           "articleIndices": [
-            2,
             3,
-            4
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "CU, 기온 하락과 함께 조각치킨 매출 33.7% 증가",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202608131934399776204ead0791_12"
+              "title": "CU, 'PBICK 더 키친 미니 간편식' 13종 출시…스몰 밀 수요 공략",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=143304"
             },
             {
-              "title": "CU·CJ제일제당 손잡았다…'소바바' 즉석 조각치킨 출시",
-              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128236"
+              "title": "CU, 소용량 '미니 간편식' 13종 순차 출시",
+              "url": "https://n.news.naver.com/mnews/article/448/0000633560?sid=101"
             }
           ],
           "articleCount": 3
@@ -185,36 +171,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "☀️",
-          "title": "GS25 폭염 상품 매출",
-          "summary": "GS25가 폭염 특수로 우양산 220%, 스무디 8.2% 매출 증가를 기록하며 계절 상품 수요 변화에 민첩하게 대응했다.",
+          "emoji": "🥬",
+          "title": "GS25 신선강화 전략",
+          "summary": "GS25가 채소·과일·계란·육류 등 신선식품 구색을 강화한 '신선강화형 매장'으로 1~2인 가구의 근거리 장보기 수요를 공략하며 매출을 20% 끌어올렸다.",
           "articleIndices": [
-            1,
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "42.5도 땡볕 아래 '양산 쓰는 남자들'···폭염이 바꾼 여름 일상[뉴...",
-              "url": "https://n.news.naver.com/mnews/article/032/0003464209?sid=103"
-            },
-            {
-              "title": "[취재파일] '폭염 주간 매출 뛴다'...편의점 3사 '3천원 스무디' 비교해...",
-              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=809691"
+              "title": "[기획] 외형 성장 한계 맞은 편의점…GS25 '신선강화' 새 돌파구 될까",
+              "url": "https://www.sentv.co.kr/article/view/sentv202608130122"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🎮",
-          "title": "세븐일레븐 게임 연동",
-          "summary": "세븐일레븐이 모바일 야구 게임 '2026 프로야구GO!'와 제휴하여 도시락 구매 시 게임 아이템 제공 프로모션을 진행하며 MZ세대 고객 유입을 강화했다.",
+          "emoji": "📈",
+          "title": "세븐일레븐 흑자전환",
+          "summary": "코리아세븐이 11분기 만에 흑자전환을 달성하며, 인기 디저트 선점·IP 콜라보 굿즈(헬로키티) 메가 소비·O4O 서비스 확대 등을 성과로 지목했다.",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "GS25 도시락 먹으면 2026 프로야구GO! 아이템 준다",
-              "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=110643"
+              "title": "코리아세븐, 2분기 영업익 41억…11분기 만에 흑자전환",
+              "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850514"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌍",
+          "title": "이마트 해외 점포 확대",
+          "summary": "이마트를 포함한 국내 유통업체들이 해외 점포를 대폭 확대하며 K유통을 수출 상품으로 포지셔닝하고 있으며, 이마트는 2분기 영업익 256억원으로 점포 혁신 효과를 입증했다.",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트, 2분기 별도 영업익 256억...점포 혁신으로 수익성 64%↑",
+              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=52154"
             }
           ],
           "articleCount": 1
@@ -225,39 +221,45 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍗",
-          "title": "CU 소바바 즉석치킨",
-          "summary": "CU가 CJ제일제당의 냉동 치킨 브랜드 소바바를 편의점 즉석조리 상품으로 재구성하여 출시하며 고물가 시대 가성비 간편식 수요를 포착했다.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 가격 인상",
+          "summary": "파리바게뜨·뚜레쥬르·삼립 등 주요 베이커리 브랜드가 빵·케이크·디저트 가격을 평균 5~8% 인상하며, 편의점 판매 디저트도 함께 가격 조정이 이루어지고 있다.",
           "articleIndices": [
-            4,
-            5
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[신상브리핑] 노스페이스, 삼성물산 구호, LF 닥스, 크라운해태, 대상, ...",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1395537"
+              "title": "카레·케첩·라면·만두에 채소·과일·빵까지...커지는 장바구니 '한숨'",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720498"
             },
             {
-              "title": "CU, CJ제일제당 '소바바' 즉석치킨 출시…편의점 단독 판매",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3424742"
+              "title": "빵 너마저…파리바게뜨, 127종 가격 5% 인상",
+              "url": "https://n.news.naver.com/mnews/article/353/0000056349?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🎬",
-          "title": "동원참치 BTS 진 광고",
-          "summary": "동원F&B가 BTS 진과의 두 번째 광고를 통해 단백질 소비 트렌드와 K팝 스타의 글로벌 영향력을 결합하여 국내외 소비자에게 어필했다.",
+          "emoji": "✨",
+          "title": "편의점 신상 다양화",
+          "summary": "CU의 'PBICK 더 키친 미니 간편식', 아리랑소주 신제품, CJ제일제당 '소바바' 즉석조리 상품 등 편의점 신상이 간편식·주류·즉석조리 등 다양한 카테고리로 확대되고 있다.",
           "articleIndices": [
+            4,
+            5,
             8
           ],
           "relatedLinks": [
             {
-              "title": "동원참치, BTS 진과 두 번째 광고… '바다 단백질' 앞세워 글로벌 공략",
-              "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156103"
+              "title": "[금주의 주류 신상] 2026년 8월 둘째주",
+              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131496"
+            },
+            {
+              "title": "[신상브리핑] 노스페이스, 삼성물산 구호, LF 닥스, 크라운해태, 대상",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1395537"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     }
