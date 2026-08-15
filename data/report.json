@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-08-14T22:11:11.682Z",
+  "generatedAt": "2026-08-15T22:08:53.076Z",
   "summary": [
-    "CU, 스몰밀 트렌드 공략 'PBICK 더 키친 미니 간편식' 13종 출시",
-    "GS25 신선강화형 매장으로 근거리 장보기 수요 선점, 매출 20% 상승",
-    "세븐일레븐 11분기 만에 흑자전환, IP 콜라보·인기 디저트 선점 성과"
+    "CU, CJ제일제당과 협업해 '소바바 황금홀릭 치킨' 4,900원 출시로 조각 치킨 수요 공략",
+    "편의점 4사 동시 협업으로 농심 포테토칩 4종 출시, 브랜드별 맛 차별화 전략 전개",
+    "GS25 신선강화형 1,000호점 돌파, CU는 영업이익 우위로 편의점 1위 경쟁 심화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🇰🇷",
-          "title": "유통가 애국 마케팅",
-          "summary": "광복절 81주년을 맞아 유통업계가 독립유공자 후손 장학사업 등 진정성 있는 공익 마케팅을 전개하며 소비자 애국 소비 수요를 공략하고 있다.",
+          "emoji": "🏪",
+          "title": "롯데 오카도 프로젝트",
+          "summary": "롯데그룹이 영국 오카도의 자동화 물류 기술을 도입해 5년 장기전 전략으로 온라인 장보기 시장 공략 추진 중.",
           "articleIndices": [
-            3,
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'스벅 탱크데이'에 독립유공자 후손 학비 끊겼다…11년 장학 사업 중단",
-              "url": "https://n.news.naver.com/mnews/article/469/0000948161?sid=101"
-            },
-            {
-              "title": "광복 81주년 유통가 '애국 마케팅'… 소비자 '애국 소비'로 화답",
-              "url": "https://n.news.naver.com/mnews/article/629/0000524801?sid=101"
+              "title": "추격 나선 롯데, 5년 장기전 택했다...오카도 프로젝트의 역설",
+              "url": "https://n.news.naver.com/mnews/article/243/0000101734?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🏢",
-          "title": "백화점 신규 출점 재개",
-          "summary": "실적 턴어라운드를 이룬 유통업계가 공격적인 신규 출점에 나서며, 백화점의 마케팅과 공간 혁신이 주효하면서 외국인·MZ세대 수요를 공략하고 있다.",
+          "emoji": "🛒",
+          "title": "편의점 신선식품 경쟁",
+          "summary": "GS25가 신선강화형 매장 1,000호점 돌파, CU는 스몰밀 수요 공략으로 신선식품 시장 주도권 경쟁 심화.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "외국인 필수 코스·MZ 놀이터…백화점 '출점 시계' 다시 돈다",
-              "url": "https://n.news.naver.com/mnews/article/015/0005321135?sid=101"
+              "title": "[주간유통잇슈] '웰컴백' 홈플러스, '첫 적자' 스타벅스",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051548"
             }
           ],
           "articleCount": 1
@@ -50,27 +45,27 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "무신사 동남아 진출",
-          "summary": "무신사가 온라인 판매를 넘어 필리핀 마닐라 글로리에타 쇼핑몰에 첫 오프라인 매장을 개설하며 핵심 상권 진출로 브랜드 인지도를 강화하는 전략을 추진 중이다.",
+          "emoji": "🛍️",
+          "title": "중국 크로스보더 전략",
+          "summary": "티몰글로벌이 9월 1일 '2026 11.11 광군제' 대비 세미나 개최, 글로벌 브랜드의 중국 시장 진출 지원 강화.",
           "articleIndices": [
-            7
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[테크M 이슈] 일본서 통하고 中서 줄섰다…동남아 향하는 무신사, '15조 목표'",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=154309"
+              "title": "티몰글로벌, 9월 1일 '2026 11.11 광군제 대비 전략 세미나' 진행",
+              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=226944"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "버티컬 커머스 UX 혁신",
-          "summary": "롯데온 등 주요 이커머스 플랫폼이 검색 기반 전통 UX를 벗어나 사용자 취향·행동 데이터 기반 상품 발견 경험을 설계하는 버티컬 쇼핑 UX로 전환하고 있다.",
+          "emoji": "🤖",
+          "title": "버티컬 커머스 AI 솔루션",
+          "summary": "플래티어가 2분기 AX 솔루션 매출 89% 증가로 흑자 전환, 무신사 등 대형 커머스와 계약 확대로 AI 기반 커머스 플랫폼 성장.",
           "articleIndices": [
-            9,
-            11
+            8,
+            9
           ],
           "relatedLinks": [
             {
@@ -78,8 +73,8 @@
               "url": "https://n.news.naver.com/mnews/article/030/0003457600?sid=105"
             },
             {
-              "title": "국내 최대의 UX 축제 열린다… 피그마, LG전자, 삼성SDS, 네이버, KAIST 등",
-              "url": "https://n.news.naver.com/mnews/article/030/0003457446?sid=105"
+              "title": "플래티어, 올해 2분기 흑자 전환…AX 솔루션 매출 증가 영향",
+              "url": "https://n.news.naver.com/mnews/article/277/0005803353?sid=101"
             }
           ],
           "articleCount": 2
@@ -90,31 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "대화형 쇼핑 AI 경쟁",
-          "summary": "유통업계가 검색창 기반 쇼핑에서 생성형 AI와의 대화형 쇼핑으로 전환하며, 챗GPT·클로드 등 외부 AI 플랫폼과의 연동을 통해 새로운 추천·콘텐츠 전략을 수립하고 있다.",
+          "emoji": "🍗",
+          "title": "푸드테크 AI 경쟁",
+          "summary": "유통업계가 조리로봇을 넘어 AI 콘텐츠, 배달로봇 등 브랜드 경험 전반에 AI 기술 통합하는 푸드테크 전쟁 전개 중.",
           "articleIndices": [
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "검색창 대신 AI에게 묻는다…유통업계, '대화형 쇼핑' 선점 경쟁",
-              "url": "http://www.dailypop.kr/news/articleView.html?idxno=101552"
+              "title": "\"치킨집에서 AI 영화 보고 배달로봇까지\"…유통가 '푸드테크 전쟁'",
+              "url": "https://n.news.naver.com/mnews/article/022/0004151211?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "⚡",
-          "title": "배송 2.0 시대 AI 최적화",
-          "summary": "SSG·롯데마트 등이 1~2시간 배송 경쟁으로 전환하면서 AI 내비게이션·오배송 탐지 시스템 등 배송 효율화 기술을 적극 도입하고 있다.",
+          "emoji": "📦",
+          "title": "자동화 물류센터 경쟁",
+          "summary": "롯데마트 오카도 CFC와 SSG닷컴 점포망 기반 배송 전략이 부산에서 맞붙으며 AI 물류 자동화 기술 경쟁 심화.",
           "articleIndices": [
-            2
+            7
           ],
           "relatedLinks": [
             {
-              "title": "'매장이 물류센터로'···SSG·롯데가 연 '배송 2.0' 시대",
-              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423091"
+              "title": "부산서 맞붙는 장보기 배송전…롯데마트 '물류센터' vs SSG닷컴 '점포망'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005803455?sid=101"
             }
           ],
           "articleCount": 1
@@ -125,45 +120,54 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📊",
-          "title": "상반기 영업익 1위",
-          "summary": "CU가 상반기 편의점 시장에서 영업이익 1위를 기록하며 GS25에 비해 220억원 우위를 보이고, 소비심리 회복과 방한 외국인 증가에 힘입어 수익성 경쟁에서 우위를 확보했다.",
+          "emoji": "🍗",
+          "title": "소바바 황금홀릭 치킨",
+          "summary": "CU가 CJ제일제당과 협업해 190g 4,900원 '소바바 황금홀릭 치킨' 출시, 조각 치킨 수요 공략 강화.",
           "articleIndices": [
-            1,
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "매출 283억원 GS25 우위, 영업익은 CU 앞섰다",
-              "url": "https://www.tokenpost.kr/news/market/390846"
+              "title": "CU, 4,900원 '소바바 황금홀릭 치킨' 출시…조각 치킨 수요 공략",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051641"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📊",
+          "title": "편의점 1위 경쟁 초접전",
+          "summary": "CU는 영업이익 1,147억원으로 GS25(927억원) 대비 220억원 우위, 수익성 경쟁에서 우월적 지위 확보.",
+          "articleIndices": [
+            2,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "GS25·CU, 편의점 1위 경쟁 '초박빙'…매출은 GS25·수익성은 CU 우위",
+              "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86818"
             },
             {
-              "title": "매출은 GS25·수익성은 CU 우위…편의점 업계, 초접전 선두 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/001/0016252525?sid=102"
+              "title": "편의점 1위 경쟁 '초접전…매출 GS25 283억 앞서고 영업익은 CU 220억 우위",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3425345"
             }
           ],
           "articleCount": 2
         },
         {
           "emoji": "🍱",
-          "title": "스몰밀 트렌드 공략",
-          "summary": "CU가 스몰밀 트렌드에 맞춰 'PBICK 더 키친 미니 간편식' 13종을 순차 출시하며, 소용량 간편식 시장을 주도하는 여성 고객층을 공략하고 있다.",
+          "title": "PBICK 미니 간편식",
+          "summary": "CU가 스몰밀 수요 대응으로 PB 브랜드 'PBICK 더 키친 미니 간편식' 13종 출시, 소용량 간편식 시장 공략.",
           "articleIndices": [
-            3,
-            4,
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "CU, 'PBICK 더 키친 미니 간편식' 13종 출시…스몰 밀 수요 공략",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=143304"
-            },
-            {
-              "title": "CU, 소용량 '미니 간편식' 13종 순차 출시",
-              "url": "https://n.news.naver.com/mnews/article/448/0000633560?sid=101"
+              "title": "[신상품] CU '참깨 푸실리 에그 컵' 외",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=635701"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -171,46 +175,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥬",
-          "title": "GS25 신선강화 전략",
-          "summary": "GS25가 채소·과일·계란·육류 등 신선식품 구색을 강화한 '신선강화형 매장'으로 1~2인 가구의 근거리 장보기 수요를 공략하며 매출을 20% 끌어올렸다.",
+          "emoji": "🥔",
+          "title": "GS25 전통주 스마트오더",
+          "summary": "GS25의 '와인25플러스' 서비스에서 전통주 매출이 전년 대비 2.4배 증가, 중소 양조장 전통주는 5.4배 급증으로 프리미엄 주류 전략 성공.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[기획] 외형 성장 한계 맞은 편의점…GS25 '신선강화' 새 돌파구 될까",
-              "url": "https://www.sentv.co.kr/article/view/sentv202608130122"
+              "title": "'막걸리는 경기, 과실주는 전북'…전통주 몸값 달라졌다",
+              "url": "https://n.news.naver.com/mnews/article/015/0005321268?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📈",
-          "title": "세븐일레븐 흑자전환",
-          "summary": "코리아세븐이 11분기 만에 흑자전환을 달성하며, 인기 디저트 선점·IP 콜라보 굿즈(헬로키티) 메가 소비·O4O 서비스 확대 등을 성과로 지목했다.",
+          "emoji": "🍺",
+          "title": "세븐일레븐 1인 맥주세트",
+          "summary": "세븐일레븐이 폭염 시즌 맥주 판매 데이터 기반으로 '1인 맥주세트' 출시, 1인 가구 여름 수요 공략.",
           "articleIndices": [
-            6
+            5
           ],
           "relatedLinks": [
             {
-              "title": "코리아세븐, 2분기 영업익 41억…11분기 만에 흑자전환",
-              "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=850514"
+              "title": "\"더우니 혼자 치맥이나 할까\"…'1인 맥주세트' 쏟아진다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004151217?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "이마트 해외 점포 확대",
-          "summary": "이마트를 포함한 국내 유통업체들이 해외 점포를 대폭 확대하며 K유통을 수출 상품으로 포지셔닝하고 있으며, 이마트는 2분기 영업익 256억원으로 점포 혁신 효과를 입증했다.",
+          "emoji": "🎯",
+          "title": "이마트24 신선식품 강화",
+          "summary": "이마트24가 신선식품 시장 공략에 집중하며 편의점 채널 전체의 신선식품 주도권 경쟁에 참여 중.",
           "articleIndices": [
-            8
+            7
           ],
           "relatedLinks": [
             {
-              "title": "이마트, 2분기 별도 영업익 256억...점포 혁신으로 수익성 64%↑",
-              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=52154"
+              "title": "이마트·롯데마트·코스트코 휴무일, 8월 16일(일) 대형마트 영업하나?",
+              "url": "https://www.lecturernews.com/news/articleView.html?idxno=208668"
             }
           ],
           "articleCount": 1
@@ -221,45 +225,34 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 디저트 가격 인상",
-          "summary": "파리바게뜨·뚜레쥬르·삼립 등 주요 베이커리 브랜드가 빵·케이크·디저트 가격을 평균 5~8% 인상하며, 편의점 판매 디저트도 함께 가격 조정이 이루어지고 있다.",
+          "emoji": "🍪",
+          "title": "촉감 마케팅 디저트 열풍",
+          "summary": "편의점과 장수 브랜드가 '깨트리고 부수고' 촉감을 강조한 디저트 신제품 출시로 일회성 장난감을 넘어 실제 맛과 경험을 결합한 마케팅 전개.",
           "articleIndices": [
-            1,
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "'깨트리고 부수고'…'왁뿌볼' 열풍에 디저트도 '촉감 마케팅'",
+              "url": "https://n.news.naver.com/mnews/article/662/0000102013?sid=103"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥔",
+          "title": "농심 포테토칩 도장깨기",
+          "summary": "농심이 편의점 4사(CU·GS25·세븐일레븐·이마트24)와 동시 협업해 포테토칩 4종을 브랜드별 맛으로 차별화 출시, 편의점 채널별 독점 전략 강화.",
+          "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "카레·케첩·라면·만두에 채소·과일·빵까지...커지는 장바구니 '한숨'",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720498"
-            },
-            {
-              "title": "빵 너마저…파리바게뜨, 127종 가격 5% 인상",
-              "url": "https://n.news.naver.com/mnews/article/353/0000056349?sid=101"
+              "title": "\"과자 하나 사려 편의점 4곳 돌아야?\"…농심이 띄운 '포테토칩 도장깨기'",
+              "url": "https://n.news.naver.com/mnews/article/022/0004151213?sid=101"
             }
           ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "✨",
-          "title": "편의점 신상 다양화",
-          "summary": "CU의 'PBICK 더 키친 미니 간편식', 아리랑소주 신제품, CJ제일제당 '소바바' 즉석조리 상품 등 편의점 신상이 간편식·주류·즉석조리 등 다양한 카테고리로 확대되고 있다.",
-          "articleIndices": [
-            4,
-            5,
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "[금주의 주류 신상] 2026년 8월 둘째주",
-              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131496"
-            },
-            {
-              "title": "[신상브리핑] 노스페이스, 삼성물산 구호, LF 닥스, 크라운해태, 대상",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1395537"
-            }
-          ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     }
