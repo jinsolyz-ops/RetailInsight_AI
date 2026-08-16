@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-15T22:08:53.076Z",
+  "generatedAt": "2026-08-16T22:08:56.410Z",
   "summary": [
-    "CU, CJ제일제당과 협업해 '소바바 황금홀릭 치킨' 4,900원 출시로 조각 치킨 수요 공략",
-    "편의점 4사 동시 협업으로 농심 포테토칩 4종 출시, 브랜드별 맛 차별화 전략 전개",
-    "GS25 신선강화형 1,000호점 돌파, CU는 영업이익 우위로 편의점 1위 경쟁 심화"
+    "CU, 소바바 협업 황금홀릭 치킨 출시로 조각 치킨 수요 공략",
+    "세븐일레븐 블랙서클 위스키 시리즈 100만 병 돌파로 가성비 주류 시장 선도",
+    "신세계I&C AI 계산대 일본 공략 재도전, 해외 자동화 시장 확대"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "롯데 오카도 프로젝트",
-          "summary": "롯데그룹이 영국 오카도의 자동화 물류 기술을 도입해 5년 장기전 전략으로 온라인 장보기 시장 공략 추진 중.",
+          "emoji": "🎯",
+          "title": "IP협업 마케팅 확산",
+          "summary": "팬덤 기반 IP 협업이 연예인 모델 대비 비용 효율적이고 SNS 확산력이 우수해 유통업계의 주요 마케팅 전략으로 자리잡고 있음.",
           "articleIndices": [
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "추격 나선 롯데, 5년 장기전 택했다...오카도 프로젝트의 역설",
-              "url": "https://n.news.naver.com/mnews/article/243/0000101734?sid=101"
+              "title": "[기자수첩] 넘쳐나는 IP협업, 브랜드 팬덤은?",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=635686"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛒",
-          "title": "편의점 신선식품 경쟁",
-          "summary": "GS25가 신선강화형 매장 1,000호점 돌파, CU는 스몰밀 수요 공략으로 신선식품 시장 주도권 경쟁 심화.",
+          "emoji": "🌍",
+          "title": "K-푸드 해외 진출 확대",
+          "summary": "FTA 활용으로 런던 등 해외 시장에 라면·만두·핫도그 등 K-푸드 진출이 확대되고 있으나 현지 유통·마케팅 어려움이 여전함.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[주간유통잇슈] '웰컴백' 홈플러스, '첫 적자' 스타벅스",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051548"
+              "title": "런던 일상 파고든 K-푸드…FTA 타고 라면·만두·핫도그까지",
+              "url": "https://n.news.naver.com/mnews/article/003/0014130570?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,39 +45,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "중국 크로스보더 전략",
-          "summary": "티몰글로벌이 9월 1일 '2026 11.11 광군제' 대비 세미나 개최, 글로벌 브랜드의 중국 시장 진출 지원 강화.",
+          "emoji": "📉",
+          "title": "대형마트 축소와 온라인 이동",
+          "summary": "10년간 대형마트 79개점 폐점으로 1만7000개 일자리 소실, 소비 위축과 온라인 채널 이동 가속화로 오프라인 유통 구조 재편 중.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "티몰글로벌, 9월 1일 '2026 11.11 광군제 대비 전략 세미나' 진행",
-              "url": "http://www.apparelnews.co.kr/news/news_view/?idx=226944"
+              "title": "대형마트 79곳 문 닫는 사이… 사라진 일자리 1만7000개, 어디로 갔나",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3425506"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "버티컬 커머스 AI 솔루션",
-          "summary": "플래티어가 2분기 AX 솔루션 매출 89% 증가로 흑자 전환, 무신사 등 대형 커머스와 계약 확대로 AI 기반 커머스 플랫폼 성장.",
+          "emoji": "🎓",
+          "title": "글로벌 온라인 시장 진출 교육",
+          "summary": "대학 창업대전에서 틱톡·라자나 등 베트남 온라인 플랫폼 시장 특성과 진출 전략 교육으로 글로벌 이커머스 진출 기반 조성.",
           "articleIndices": [
-            8,
-            9
+            1
           ],
           "relatedLinks": [
             {
-              "title": "플래티어, 2분기 AX 솔루션 매출 89% 증가 흑자…'AI로 이익 내는 구조'",
-              "url": "https://n.news.naver.com/mnews/article/030/0003457600?sid=105"
-            },
-            {
-              "title": "플래티어, 올해 2분기 흑자 전환…AX 솔루션 매출 증가 영향",
-              "url": "https://n.news.naver.com/mnews/article/277/0005803353?sid=101"
+              "title": "대구대, 글로벌 창업교육 현장… '도전과 희망'을 말하다",
+              "url": "https://www.viva100.com/article/20260816500248"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -85,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🍗",
-          "title": "푸드테크 AI 경쟁",
-          "summary": "유통업계가 조리로봇을 넘어 AI 콘텐츠, 배달로봇 등 브랜드 경험 전반에 AI 기술 통합하는 푸드테크 전쟁 전개 중.",
+          "emoji": "🤖",
+          "title": "신세계I&C AI 계산대 일본 진출",
+          "summary": "신세계I&C의 비전 AI 기술 기반 자동화 계산대가 일본 리테일 시장 자동화·DX 수요를 겨냥해 해외 확장 재도전 중.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "\"치킨집에서 AI 영화 보고 배달로봇까지\"…유통가 '푸드테크 전쟁'",
-              "url": "https://n.news.naver.com/mnews/article/022/0004151211?sid=101"
+              "title": "신세계I&C AI 계산대 일본 공략 재도전, 양윤지 AX사업 성장동력 안착 시...",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444695"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📦",
-          "title": "자동화 물류센터 경쟁",
-          "summary": "롯데마트 오카도 CFC와 SSG닷컴 점포망 기반 배송 전략이 부산에서 맞붙으며 AI 물류 자동화 기술 경쟁 심화.",
+          "emoji": "🛒",
+          "title": "AI 쇼핑 어시스턴트 상용화",
+          "summary": "OpenAI GPT-5.6 울트라패스트 모델의 빠른 추론 속도로 결제 이탈 전 재고 확인·개인화 추천 등 커머스 AI 어시스턴트 실시간 운영 가능.",
           "articleIndices": [
-            7
+            6
           ],
           "relatedLinks": [
             {
-              "title": "부산서 맞붙는 장보기 배송전…롯데마트 '물류센터' vs SSG닷컴 '점포망'",
-              "url": "https://n.news.naver.com/mnews/article/277/0005803455?sid=101"
+              "title": "오픈AI, GPT-5.6 Sol 울트라패스트로 초당 750토큰…응답속도 14배 끌어올...",
+              "url": "https://www.wikitree.co.kr/articles/1152823"
             }
           ],
           "articleCount": 1
@@ -121,45 +116,46 @@
       "issues": [
         {
           "emoji": "🍗",
-          "title": "소바바 황금홀릭 치킨",
-          "summary": "CU가 CJ제일제당과 협업해 190g 4,900원 '소바바 황금홀릭 치킨' 출시, 조각 치킨 수요 공략 강화.",
+          "title": "소바바 협업 황금홀릭 치킨",
+          "summary": "CU가 CJ제일제당과 협업해 4,900원 '소바바 황금홀릭 치킨' 출시, 조각 치킨 수요 공략 및 즉석조리 상품 라인업 강화.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "CU, 4,900원 '소바바 황금홀릭 치킨' 출시…조각 치킨 수요 공략",
+              "title": "CU, 4900원 '소바바 황금홀릭 치킨' 출시…조각 치킨 수요 공략",
               "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051641"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "편의점 1위 경쟁 초접전",
-          "summary": "CU는 영업이익 1,147억원으로 GS25(927억원) 대비 220억원 우위, 수익성 경쟁에서 우월적 지위 확보.",
+          "emoji": "📈",
+          "title": "상반기 실적 개선 및 수익성 우위",
+          "summary": "외국인 관광객 증가와 여름철 수요 확대로 CU 2분기 실적 개선, 영업이익에서 GS25 대비 220억원 우위 달성.",
           "articleIndices": [
-            2,
-            3
+            1,
+            4,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "GS25·CU, 편의점 1위 경쟁 '초박빙'…매출은 GS25·수익성은 CU 우위",
-              "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86818"
+              "title": "외국인 관광객에 여름 특수까지...CU·GS25, 2Q 실적 '쑥' 하반기도 기대",
+              "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143102"
             },
             {
-              "title": "편의점 1위 경쟁 '초접전…매출 GS25 283억 앞서고 영업익은 CU 220억 우위",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3425345"
+              "title": "BGF리테일, 편의점 소비 살아나자 실적도 뛰었다… '영업 레버리지' 본격...",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477852"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         },
         {
           "emoji": "🍱",
-          "title": "PBICK 미니 간편식",
-          "summary": "CU가 스몰밀 수요 대응으로 PB 브랜드 'PBICK 더 키친 미니 간편식' 13종 출시, 소용량 간편식 시장 공략.",
+          "title": "스몰 밀 PB 간편식 라인 확대",
+          "summary": "CU가 'PBICK 더 키친 미니 간편식' 13종 출시로 소량 한 끼 수요 공략, 한 손 크기 소용량 간편식 시장 선점.",
           "articleIndices": [
-            4
+            5
           ],
           "relatedLinks": [
             {
@@ -175,46 +171,51 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥔",
-          "title": "GS25 전통주 스마트오더",
-          "summary": "GS25의 '와인25플러스' 서비스에서 전통주 매출이 전년 대비 2.4배 증가, 중소 양조장 전통주는 5.4배 급증으로 프리미엄 주류 전략 성공.",
+          "emoji": "🥃",
+          "title": "GS25 러너 특화 카드 출시",
+          "summary": "GS25가 스타벅스·올리브영 등과 제휴한 러너 특화 카드 출시, 편의점·생활용품 10% 적립으로 건강·라이프스타일 고객층 공략.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'막걸리는 경기, 과실주는 전북'…전통주 몸값 달라졌다",
-              "url": "https://n.news.naver.com/mnews/article/015/0005321268?sid=101"
+              "title": "달린 만큼 적립해준다...'러너 특화 카드' 뭐길래",
+              "url": "https://n.news.naver.com/mnews/article/024/0000107587?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍺",
-          "title": "세븐일레븐 1인 맥주세트",
-          "summary": "세븐일레븐이 폭염 시즌 맥주 판매 데이터 기반으로 '1인 맥주세트' 출시, 1인 가구 여름 수요 공략.",
+          "emoji": "🥃",
+          "title": "세븐일레븐 블랙서클 100만 병 돌파",
+          "summary": "세븐일레븐의 가성비 위스키 '블랙서클' 시리즈(1~2만원대)가 100만 병 판매 달성, 프리미엄 주류 시장의 가성비 트렌드 주도.",
           "articleIndices": [
-            5
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "\"더우니 혼자 치맥이나 할까\"…'1인 맥주세트' 쏟아진다",
-              "url": "https://n.news.naver.com/mnews/article/022/0004151217?sid=101"
+              "title": "[경제 단신] 한전·가스公 상반기 이자만 2.7조원 외",
+              "url": "https://n.news.naver.com/mnews/article/022/0004151392?sid=101"
+            },
+            {
+              "title": "위스키도 가성비 바람… 5만원 이하 제품 '불티'",
+              "url": "https://n.news.naver.com/mnews/article/020/0003741241?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🎯",
-          "title": "이마트24 신선식품 강화",
-          "summary": "이마트24가 신선식품 시장 공략에 집중하며 편의점 채널 전체의 신선식품 주도권 경쟁에 참여 중.",
+          "emoji": "🍜",
+          "title": "이마트24 K푸드랩 명동점 운영",
+          "summary": "이마트24의 'K푸드랩 명동점'에서 진라면·신라면 골드 등 덜 매운 라면이 판매 상위권, 외국인 관광객 수요 기반 K-식품 판매 강화.",
           "articleIndices": [
-            7
+            6
           ],
           "relatedLinks": [
             {
-              "title": "이마트·롯데마트·코스트코 휴무일, 8월 16일(일) 대형마트 영업하나?",
-              "url": "https://www.lecturernews.com/news/articleView.html?idxno=208668"
+              "title": "K브랜드 성지는 역시 명동… 골목마다 먹고, 입고, 즐긴다",
+              "url": "https://n.news.naver.com/mnews/article/081/0003670885?sid=101"
             }
           ],
           "articleCount": 1
@@ -225,31 +226,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍪",
-          "title": "촉감 마케팅 디저트 열풍",
-          "summary": "편의점과 장수 브랜드가 '깨트리고 부수고' 촉감을 강조한 디저트 신제품 출시로 일회성 장난감을 넘어 실제 맛과 경험을 결합한 마케팅 전개.",
+          "emoji": "🍮",
+          "title": "편의점 수입 디저트 경쟁 심화",
+          "summary": "세븐일레븐·CU 등 편의점이 홋카이도 수플레 푸딩 등 해외 디저트 단독 출시로 경쟁, 현지 실제 판매 브랜드 수입으로 차별화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'깨트리고 부수고'…'왁뿌볼' 열풍에 디저트도 '촉감 마케팅'",
-              "url": "https://n.news.naver.com/mnews/article/662/0000102013?sid=103"
+              "title": "\"비행기 안 타도 현지 그 맛\"…366억달러 수입식품 시장, 유통가 '직...",
+              "url": "https://n.news.naver.com/mnews/article/022/0004151427?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥔",
-          "title": "농심 포테토칩 도장깨기",
-          "summary": "농심이 편의점 4사(CU·GS25·세븐일레븐·이마트24)와 동시 협업해 포테토칩 4종을 브랜드별 맛으로 차별화 출시, 편의점 채널별 독점 전략 강화.",
+          "emoji": "🍷",
+          "title": "SNS 화제의 '빨간 테라' 과실주",
+          "summary": "테라의 과실주 신제품이 SNS 난리로 2030 소비층 지갑을 사로잡으며 여름 트렌드 상품으로 부상, 편의점·대형마트 전국 판매 중.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "\"과자 하나 사려 편의점 4곳 돌아야?\"…농심이 띄운 '포테토칩 도장깨기'",
-              "url": "https://n.news.naver.com/mnews/article/022/0004151213?sid=101"
+              "title": "SNS 난리 난 '빨간 테라'의 정체… 2030 지갑 싹 쓸어간 여름 트렌드",
+              "url": "https://www.wikitree.co.kr/articles/1152795"
             }
           ],
           "articleCount": 1
