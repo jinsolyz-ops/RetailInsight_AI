@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-08-16T22:08:56.410Z",
+  "generatedAt": "2026-08-17T22:12:02.637Z",
   "summary": [
-    "CU, 소바바 협업 황금홀릭 치킨 출시로 조각 치킨 수요 공략",
-    "세븐일레븐 블랙서클 위스키 시리즈 100만 병 돌파로 가성비 주류 시장 선도",
-    "신세계I&C AI 계산대 일본 공략 재도전, 해외 자동화 시장 확대"
+    "CU, 포켓몬·3100만원 로봇 등 710종 추석선물로 프리미엄 수요 공략",
+    "편의점 4사 배달앱 완전 입점으로 24시간 배달·상품 경쟁 2라운드 돌입",
+    "GS25 신선강화점 1000개 목표로 '집 앞 장보기' 전략 강화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "IP협업 마케팅 확산",
-          "summary": "팬덤 기반 IP 협업이 연예인 모델 대비 비용 효율적이고 SNS 확산력이 우수해 유통업계의 주요 마케팅 전략으로 자리잡고 있음.",
+          "emoji": "🛍️",
+          "title": "VIP 고객 자산관리 결합",
+          "summary": "롯데백화점·SC제일은행 협력으로 금융자산까지 아우르는 통합 VIP 서비스 제공, 유통-금융 제휴의 새로운 패러다임 제시.",
           "articleIndices": [
-            4
+            4,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[기자수첩] 넘쳐나는 IP협업, 브랜드 팬덤은?",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=635686"
+              "title": "롯데百, SC제일은행과 손잡고 우수 고객 혜택 강화",
+              "url": "https://n.news.naver.com/mnews/article/421/0009117865?sid=101"
+            },
+            {
+              "title": "'백화점에서 자산관리 받고 은행서 발렛 서비스'…롯데百·SC제일, VIP 생...",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85276"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
           "emoji": "🌍",
-          "title": "K-푸드 해외 진출 확대",
-          "summary": "FTA 활용으로 런던 등 해외 시장에 라면·만두·핫도그 등 K-푸드 진출이 확대되고 있으나 현지 유통·마케팅 어려움이 여전함.",
+          "title": "외국인 VIP 타겟 카드 개편",
+          "summary": "현대백화점, 외국인용 카드 제도 전면 개편 및 AI 활용 사전 접점 강화로 연 3천만원대 고객층 확보 전략 추진.",
           "articleIndices": [
-            3
+            5
           ],
           "relatedLinks": [
             {
-              "title": "런던 일상 파고든 K-푸드…FTA 타고 라면·만두·핫도그까지",
-              "url": "https://n.news.naver.com/mnews/article/003/0014130570?sid=101"
+              "title": "\"백화점 찐 VIP는 중국 아닙니다\"…年 3천만원씩 지르는 외국인들의 ...",
+              "url": "https://n.news.naver.com/mnews/article/009/0005722067?sid=103"
             }
           ],
           "articleCount": 1
@@ -45,31 +50,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📉",
-          "title": "대형마트 축소와 온라인 이동",
-          "summary": "10년간 대형마트 79개점 폐점으로 1만7000개 일자리 소실, 소비 위축과 온라인 채널 이동 가속화로 오프라인 유통 구조 재편 중.",
+          "emoji": "📊",
+          "title": "다이소 생활용품 1위 등극",
+          "summary": "온라인·이커머스 판매 확대와 친환경·가치소비 트렌드 속 다이소가 쿠팡·이마트를 제치고 생활용품 브랜드평판 1위 달성.",
           "articleIndices": [
+            1,
             3
           ],
           "relatedLinks": [
             {
-              "title": "대형마트 79곳 문 닫는 사이… 사라진 일자리 1만7000개, 어디로 갔나",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3425506"
+              "title": "생활용품 브랜드평판 1위 다이소…쿠팡·이마트 제치고 정상",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478047"
+            },
+            {
+              "title": "[브랜드평판] 다이소, 생활용품 8월 1위... 쿠팡, 이마트 뒤쫓아",
+              "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=53462"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🎓",
-          "title": "글로벌 온라인 시장 진출 교육",
-          "summary": "대학 창업대전에서 틱톡·라자나 등 베트남 온라인 플랫폼 시장 특성과 진출 전략 교육으로 글로벌 이커머스 진출 기반 조성.",
+          "emoji": "🌐",
+          "title": "K뷰티 해외규제 대응 체계",
+          "summary": "이커머스 기업 뉴셀렉트, 해외사업부 독립 조직화 및 권역별 전담팀 신설로 K뷰티 규제 리스크 선제 대응.",
           "articleIndices": [
-            1
+            4
           ],
           "relatedLinks": [
             {
-              "title": "대구대, 글로벌 창업교육 현장… '도전과 희망'을 말하다",
-              "url": "https://www.viva100.com/article/20260816500248"
+              "title": "K뷰티 '규제 전쟁' 시작…전담팀 띄우고 공급망 점검",
+              "url": "http://www.ktnews.com/news/articleView.html?idxno=147749"
             }
           ],
           "articleCount": 1
@@ -81,30 +91,15 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "신세계I&C AI 계산대 일본 진출",
-          "summary": "신세계I&C의 비전 AI 기술 기반 자동화 계산대가 일본 리테일 시장 자동화·DX 수요를 겨냥해 해외 확장 재도전 중.",
+          "title": "CU AI 통역 서비스 확대",
+          "summary": "CU, 70여개 점포에서 38개 언어 AI 통역 서비스 운영으로 외국인 관광객 급증에 대응한 오프라인 유통 경쟁력 강화.",
           "articleIndices": [
-            1
+            4
           ],
           "relatedLinks": [
             {
-              "title": "신세계I&C AI 계산대 일본 공략 재도전, 양윤지 AX사업 성장동력 안착 시...",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444695"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛒",
-          "title": "AI 쇼핑 어시스턴트 상용화",
-          "summary": "OpenAI GPT-5.6 울트라패스트 모델의 빠른 추론 속도로 결제 이탈 전 재고 확인·개인화 추천 등 커머스 AI 어시스턴트 실시간 운영 가능.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "오픈AI, GPT-5.6 Sol 울트라패스트로 초당 750토큰…응답속도 14배 끌어올...",
-              "url": "https://www.wikitree.co.kr/articles/1152823"
+              "title": "'한국에서 직접 사고 먹고 바른다'…외국인이 키우는 K-푸드·패션·뷰티",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315624"
             }
           ],
           "articleCount": 1
@@ -115,52 +110,38 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍗",
-          "title": "소바바 협업 황금홀릭 치킨",
-          "summary": "CU가 CJ제일제당과 협업해 4,900원 '소바바 황금홀릭 치킨' 출시, 조각 치킨 수요 공략 및 즉석조리 상품 라인업 강화.",
+          "emoji": "🎁",
+          "title": "CU 추석선물 710종 프리미엄",
+          "summary": "CU, 포켓몬부터 3100만원 휴머노이드 로봇까지 다양한 취향 맞춤형 추석선물 710종 출시로 고가 상품 수요 확대.",
           "articleIndices": [
-            2
+            1,
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "CU, 4900원 '소바바 황금홀릭 치킨' 출시…조각 치킨 수요 공략",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051641"
+              "title": "CU, 온 가족 취향 저격한 추석 선물세트 마련…포켓몬부터 로봇까지",
+              "url": "https://n.news.naver.com/mnews/article/421/0009117152?sid=101"
+            },
+            {
+              "title": "CU, 추석 선물 710종 판매…휴머노이드 로봇·골드바 등 선봬",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065585920652510"
             }
           ],
-          "articleCount": 1
+          "articleCount": 4
         },
         {
           "emoji": "📈",
-          "title": "상반기 실적 개선 및 수익성 우위",
-          "summary": "외국인 관광객 증가와 여름철 수요 확대로 CU 2분기 실적 개선, 영업이익에서 GS25 대비 220억원 우위 달성.",
+          "title": "BGF리테일 상반기 실적 호조",
+          "summary": "BGF리테일, 편의점 소비 회복에 따라 2분기 매출 6.0% 증가, 영업이익 22.3% 증가로 수익성 개선 본격화.",
           "articleIndices": [
-            1,
-            4,
             6
           ],
           "relatedLinks": [
             {
-              "title": "외국인 관광객에 여름 특수까지...CU·GS25, 2Q 실적 '쑥' 하반기도 기대",
-              "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143102"
-            },
-            {
               "title": "BGF리테일, 편의점 소비 살아나자 실적도 뛰었다… '영업 레버리지' 본격...",
               "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477852"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🍱",
-          "title": "스몰 밀 PB 간편식 라인 확대",
-          "summary": "CU가 'PBICK 더 키친 미니 간편식' 13종 출시로 소량 한 끼 수요 공략, 한 손 크기 소용량 간편식 시장 선점.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "[신상품] CU '참깨 푸실리 에그 컵' 외",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=635701"
             }
           ],
           "articleCount": 1
@@ -171,51 +152,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥃",
-          "title": "GS25 러너 특화 카드 출시",
-          "summary": "GS25가 스타벅스·올리브영 등과 제휴한 러너 특화 카드 출시, 편의점·생활용품 10% 적립으로 건강·라이프스타일 고객층 공략.",
+          "emoji": "🏪",
+          "title": "GS25 신선강화점 1000개 목표",
+          "summary": "GS25, '집 앞 장보기' 공략으로 신선강화점 1000개 눈앞에 두고 질적 성장 전략 강화, 2분기 매출 7.1% 증가.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "달린 만큼 적립해준다...'러너 특화 카드' 뭐길래",
-              "url": "https://n.news.naver.com/mnews/article/024/0000107587?sid=101"
+              "title": "K-편의점, 양의 시대서 질의 시대로…출점 대신 내실 키웠다",
+              "url": "https://www.socialvalue.kr/news/view/1065599855088975"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥃",
-          "title": "세븐일레븐 블랙서클 100만 병 돌파",
-          "summary": "세븐일레븐의 가성비 위스키 '블랙서클' 시리즈(1~2만원대)가 100만 병 판매 달성, 프리미엄 주류 시장의 가성비 트렌드 주도.",
-          "articleIndices": [
-            3,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "[경제 단신] 한전·가스公 상반기 이자만 2.7조원 외",
-              "url": "https://n.news.naver.com/mnews/article/022/0004151392?sid=101"
-            },
-            {
-              "title": "위스키도 가성비 바람… 5만원 이하 제품 '불티'",
-              "url": "https://n.news.naver.com/mnews/article/020/0003741241?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍜",
-          "title": "이마트24 K푸드랩 명동점 운영",
-          "summary": "이마트24의 'K푸드랩 명동점'에서 진라면·신라면 골드 등 덜 매운 라면이 판매 상위권, 외국인 관광객 수요 기반 K-식품 판매 강화.",
+          "emoji": "🎂",
+          "title": "세븐일레븐 롯데호텔 케이크 협업",
+          "summary": "세븐일레븐, 롯데호텔앤리조트와 협업해 호텔 케이크 출시로 '스몰 럭셔리' 소비 트렌드 포착 및 프리미엄 상품 강화.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "K브랜드 성지는 역시 명동… 골목마다 먹고, 입고, 즐긴다",
-              "url": "https://n.news.naver.com/mnews/article/081/0003670885?sid=101"
+              "title": "편의점 등장한 호텔 케이크… '스몰 럭셔리' 소비 잡는다",
+              "url": "https://n.news.naver.com/mnews/article/081/0003671114?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📦",
+          "title": "이마트24 배달앱 입점 완료",
+          "summary": "이마트24, 배달의민족·요기요·쿠팡이츠 등 주요 배달앱 입점 완료로 편의점 4사 배달 경쟁 본격화.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "편의점 4사, 배달앱 입점 완료…24시간·상품 경쟁 2라운드",
+              "url": "https://n.news.naver.com/mnews/article/421/0009117885?sid=101"
             }
           ],
           "articleCount": 1
@@ -226,31 +202,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍮",
-          "title": "편의점 수입 디저트 경쟁 심화",
-          "summary": "세븐일레븐·CU 등 편의점이 홋카이도 수플레 푸딩 등 해외 디저트 단독 출시로 경쟁, 현지 실제 판매 브랜드 수입으로 차별화.",
+          "emoji": "🍓",
+          "title": "편의점 즉석스무디 확대 경쟁",
+          "summary": "CU 등 편의점, 고물가·헬시플레저 트렌드와 폭염에 힘입어 즉석스무디를 상시 디저트로 키우며 판매점포·제품군 공격적 확대.",
           "articleIndices": [
-            1
+            4
           ],
           "relatedLinks": [
             {
-              "title": "\"비행기 안 타도 현지 그 맛\"…366억달러 수입식품 시장, 유통가 '직...",
-              "url": "https://n.news.naver.com/mnews/article/022/0004151427?sid=101"
+              "title": "\"카페 대신 편의점 간다\"…고물가·헬시플레저에 스무디 '쑥'",
+              "url": "https://n.news.naver.com/mnews/article/018/0006352874?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍷",
-          "title": "SNS 화제의 '빨간 테라' 과실주",
-          "summary": "테라의 과실주 신제품이 SNS 난리로 2030 소비층 지갑을 사로잡으며 여름 트렌드 상품으로 부상, 편의점·대형마트 전국 판매 중.",
+          "emoji": "🍪",
+          "title": "빼빼로 국민과자 1위 재확인",
+          "summary": "빼빼로, 편의점·대형마트 등 주요 유통채널에서 한 해 1456억원 판매로 1위 자리 유지하며 '국민 과자' 위상 재확인.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "SNS 난리 난 '빨간 테라'의 정체… 2030 지갑 싹 쓸어간 여름 트렌드",
-              "url": "https://www.wikitree.co.kr/articles/1152795"
+              "title": "신상 과자 쏟아져도 결국 이거 산다... 한 해 동안 1456억 팔려 1위 찍은...",
+              "url": "https://www.insight.co.kr/news/568477"
             }
           ],
           "articleCount": 1
