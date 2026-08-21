@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T22:15:02.407Z",
+  "generatedAt": "2026-08-21T22:11:46.500Z",
   "summary": [
-    "CU, 폐주유소 업사이클링 'CU Re:fuel' 프로젝트로 도시재생 선도",
-    "GS25 단백질음료 매출 26.8% 증가로 바나나우유 앞질렀다",
-    "세븐일레븐, K리그×산리오 협업 신상품 10종 출시로 MZ층 공략"
+    "CU, 폐주유소 업사이클링 'CU Re:fuel' 프로젝트로 도시 재생형 매장 확대",
+    "GS25·세븐일레븐, 저도주·워터젤리 하이볼 등 신상 음료로 MZ세대 공략",
+    "카카오, AI·광고·커머스 통합 'KakaoAI' 신설로 에이전틱 커머스 시장 선점"
   ],
   "categories": [
     {
@@ -11,30 +11,30 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "MZ층 공략 장수브랜드 리뉴얼",
-          "summary": "오리온 '핫브레이크 쫀득쿠키바'가 6개월 만에 1000만개 판매 돌파하며 MZ세대 마케팅 성공 사례 입증.",
+          "title": "금어기 해제 꽃게 할인전",
+          "summary": "유통업계가 산지직송·초저가 전략으로 가을 꽃게 물량 확보 및 신선도 경쟁 강화",
           "articleIndices": [
-            7
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'MZ 공략' 통했다… 핫브레이크·미쯔의 변신은 무죄",
-              "url": "https://n.news.naver.com/mnews/article/005/0001868125?sid=101"
+              "title": "[유통 이슈] '가을 꽃게 싸게 드세요'…산지직송·초저가 승부",
+              "url": "https://sports.hankooki.com/news/articleView.html?idxno=6938343"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛒",
-          "title": "초저가 신선식품 콜드체인 경쟁",
-          "summary": "이마트 햇 꽃게 대란으로 대표되는 초신선 먹거리 공급과 초저가 마케팅의 결합으로 집객력 극대화 전략 강화.",
+          "emoji": "🌍",
+          "title": "외국인 고객 5000억 시대",
+          "summary": "현대백화점이 외국인 장기고객 확보 전략으로 해외 리테일 기업과 공동 마케팅 협약 추진",
           "articleIndices": [
-            6
+            7
           ],
           "relatedLinks": [
             {
-              "title": "파격적인 가격에 식탁 점령 이마트 햇 꽃게 대란",
-              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072618"
+              "title": "외국인 매출 5000억 시대…현대백화점, 관광객 넘어 '큰손' 장기고객으로",
+              "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=238985"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,38 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🌐",
-          "title": "K-뷰티 해외 이커머스 확산",
-          "summary": "K-뷰티 가품이 아마존, 라자다, 알리익스프레스 등 해외 이커머스 플랫폼을 중심으로 확산되며 글로벌 시장 진출 가속화.",
+          "emoji": "🤖",
+          "title": "카카오AI 에이전틱 커머스",
+          "summary": "카카오가 카카오톡 중심 AI·광고·커머스 통합으로 A2A 기반 버티컬 서비스 연동 및 거래 수수료 신규 매출화",
+          "articleIndices": [
+            8,
+            10,
+            11,
+            12
+          ],
+          "relatedLinks": [
+            {
+              "title": "둘로 나뉜 카카오, 카톡 떼고 '카카오AI' 신설로 승부수 띄워",
+              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405214"
+            },
+            {
+              "title": "카카오톡, 메신저서 에이전트 창구로...AI 추론비용 90% 깎는다",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694649"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "📦",
+          "title": "이커머스 당일배송 시장 확대",
+          "summary": "쿠팡 등 이커머스 업체의 식품·생필품 당일·새벽배송 확대로 대형마트 고객 이탈 심화",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "중국 넘어 美·유럽까지 홀린 'K-뷰티 비밀'",
-              "url": "https://n.news.naver.com/mnews/article/016/0002685612?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📱",
-          "title": "버티컬 커머스 플랫폼 경쟁 심화",
-          "summary": "에이블리 MAU 1000만명 돌파, 지그재그 900만~1000만 수준으로 버티컬 커머스 플랫폼 간 연령대별 고객층 분화 가속.",
-          "articleIndices": [
-            10
-          ],
-          "relatedLinks": [
-            {
-              "title": "29CM 멀어지고 퀸잇은 추격…한때 패션 플랫폼 1위 W컨셉의 고민",
-              "url": "https://n.news.naver.com/mnews/article/366/0001187389?sid=101"
+              "title": "수혈 2000억 vs 체불 7900억… 홈플러스 회생 '산 넘어 산'",
+              "url": "https://n.news.naver.com/mnews/article/029/0003043411?sid=101"
             }
           ],
           "articleCount": 1
@@ -80,44 +87,34 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "의약품 유통 AI 수급 예측 혁신",
-          "summary": "지오영 등 의약품 유통사의 AI 기반 수급 예측 도입으로 품절 악순환 해결 및 디지털 전환 선도.",
+          "emoji": "🛒",
+          "title": "AI 선별 과일·시설재배 상품",
+          "summary": "대형마트가 이상기후 대응으로 AI 선별 과일과 시설재배 상품 확대 공급",
           "articleIndices": [
-            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "잠자는 의약품 데이터 깨워야…AI 수급 예측, '품절 악순환' 끊는다",
-              "url": "https://www.etoday.co.kr/news/view/2615117"
-            },
-            {
-              "title": "기업 혼자 못 바꾼다…의약품 유통혁신, 제도·인센티브 열쇠",
-              "url": "https://www.etoday.co.kr/news/view/2615129"
+              "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 '꽃게 할인'",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202608210284"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "리테일테크 오픈이노베이션 확대",
-          "summary": "GS리테일 등 주요 유통사가 AI·AX, 스마트건설, 클라우드 등 신기술 협력을 통해 리테일테크 생태계 구축 가속화.",
+          "emoji": "🤖",
+          "title": "리테일테크 AI 에이전트",
+          "summary": "넥스트페이먼츠 등 리테일테크 기업이 온톨로지·RAG 기술 기반 오프라인 매장 자율운영 AI 에이전트 고도화",
           "articleIndices": [
-            5,
-            6
+            8
           ],
           "relatedLinks": [
             {
-              "title": "GST 오픈이노베이션 밋업, 투자·PoC 후속 협의 이어져",
-              "url": "https://platum.kr/archives/292950"
-            },
-            {
-              "title": "네이버클라우드·현대건설 만난 스타트업 19개사…씨엔티테크, PoC 연결",
-              "url": "https://www.venturesquare.net/1107390/"
+              "title": "뉴패러다임인베스트먼트 육성 5개사, '딥테크 TIPS' 선정",
+              "url": "https://n.news.naver.com/mnews/article/092/0002434708?sid=105"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -126,40 +123,43 @@
       "issues": [
         {
           "emoji": "♻️",
-          "title": "CU Re:fuel 폐주유소 업사이클링",
-          "summary": "BGF리테일의 'CU Re:fuel' 프로젝트로 폐주유소를 편의점으로 재생하며 도시재생 및 지속가능성 선도.",
+          "title": "CU Re:fuel 도시재생",
+          "summary": "BGF리테일의 폐주유소 업사이클링 'CU Re:fuel' 프로젝트로 도시 재생형 편의점 모델 확대 및 KCC 컬러디자인 협력",
           "articleIndices": [
-            1,
-            3,
-            4,
-            5
+            2,
+            4
           ],
           "relatedLinks": [
+            {
+              "title": "폐주유소를 안전한 CU 편의점으로… KCC, 업사이클링 매장에 컬러 디자인",
+              "url": "https://n.news.naver.com/mnews/article/310/0000139331?sid=101"
+            },
             {
               "title": "KCC, 폐주유소 재생 'CU 소흘IC점'에 컬러 유니버설 디자인 적용",
               "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90936"
-            },
-            {
-              "title": "폐주유소를 CU편의점으로…KCC, 안전환경 디자인 적용",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608201516323760733"
             }
           ],
-          "articleCount": 4
+          "articleCount": 2
         },
         {
-          "emoji": "🤝",
-          "title": "부산시 이동노동자 쉼터 협약",
-          "summary": "CU와 세븐일레븐이 부산시와 협약해 편의점 96곳을 이동노동자 휴게공간으로 운영하며 사회공헌 강화.",
+          "emoji": "🚬",
+          "title": "VOVU B one 전자담배 출시",
+          "summary": "하카코리아의 액상형 전자담배 'VOVU B one'이 CU 전국 점포 순차 공급으로 편의점 유통 채널 확대",
           "articleIndices": [
-            2
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'편의점을 이동노동자 쉼터로'…부산시, CU·세븐일레븐과 협약",
-              "url": "https://www.cnbnews.com/news/articleView.html?idxno=1012178"
+              "title": "하카코리아, 액상형 전자담배 'VOVU B one' 출시…CU 편의점 유통 확대",
+              "url": "https://theviewers.co.kr/View.aspx?No=4194400"
+            },
+            {
+              "title": "하카코리아, 액상형 전자담배 'VOVU B one' 26일 출시… CU 통해 편의점 유통",
+              "url": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402434"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -167,46 +167,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💪",
-          "title": "GS25 단백질음료 매출 급증",
-          "summary": "GS25 단백질음료 매출이 상반기 26.8% 증가하며 바나나우유 매출을 3.7% 앞질렀고 초코우유 대비 44.6% 초과 달성.",
+          "emoji": "🍺",
+          "title": "GS25 워터젤리 하이볼",
+          "summary": "GS25가 포도·리치 과즙 활용 워터젤리 형태 '믹스업 하이볼' 2종 출시로 저도주 트렌드 공략",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "\"바나나우유 매출도 앞질렀다\"…식품업계 '단백질' 열풍에 콩 소비...",
-              "url": "https://n.news.naver.com/mnews/article/662/0000102337?sid=101"
+              "title": "GS25, 3.5도 워터젤리 하이볼 2종 선보여",
+              "url": "http://www.lawissue.co.kr/view.php?ud=202608211928033394204ead0791_12"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎨",
-          "title": "세븐일레븐 K리그×산리오 협업",
-          "summary": "세븐일레븐이 K리그와 산리오캐릭터즈 협업으로 신상품 10종 출시하며 MZ층 공략 강화.",
+          "emoji": "🍷",
+          "title": "세븐일레븐 모스카토 와인볼",
+          "summary": "세븐일레븐이 모스카토 와인 기반 '와인볼' 라인업 확대로 저도주 시장 공략",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "세븐일레븐, 저도주 트렌드 겨냥 '모스카토 와인볼' 2종 출시",
+              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88242"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌏",
+          "title": "이마트24 라오스 진출",
+          "summary": "이마트24가 라오스에 베이커리 카페 형식 편의점 진출로 동남아 시장 확대",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "K리그 유니폼 입은 산리오… 스낵 먹어볼까",
-              "url": "https://n.news.naver.com/mnews/article/022/0004152450?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🏪",
-          "title": "이마트 트레이더스 성장 가속",
-          "summary": "이마트가 트레이더스를 24개점으로 확대하고 통합 매입으로 가격경쟁력 강화해 2분기 매출 10.3% 증가 달성.",
-          "articleIndices": [
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "[Lab.C] 정용진ㆍ정유경, 마트ㆍ백화점 본업 수익성 나란히 회복",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608201121543680664"
+              "title": "동남아 다음은 '라오스'… K-유통·외식 잇단 진출",
+              "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726605"
             }
           ],
           "articleCount": 1
@@ -217,31 +217,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍪",
-          "title": "편의점 신상 콘텐츠 소비 트렌드",
-          "summary": "20대가 편의점을 신상과 굿즈를 찾는 '콘텐츠 공간'으로 인식하며 세대별 편의점 이용 목적 분화 심화.",
+          "emoji": "🌽",
+          "title": "꼬깔콘 야장시리즈 SNS 인증",
+          "summary": "롯데웰푸드의 시즌 한정 '꼬깔콘 야장시리즈'가 편의점별 이색 맛으로 SNS 인증 트렌드 주도",
           "articleIndices": [
-            5
+            7
           ],
           "relatedLinks": [
             {
-              "title": "세대마다 다른 편의점 가는 이유…20대 '콘텐츠 소비', 60대 '동네 슈...",
-              "url": "https://n.news.naver.com/mnews/article/028/0002819330?sid=101"
+              "title": "삼겹살에 쌈장 대신 꼬깔콘?…F&B 시장 흔드는 '이색변주'",
+              "url": "https://n.news.naver.com/mnews/article/008/0005403223?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌏",
-          "title": "외국인 관광객 K-푸드 소비 확대",
-          "summary": "외국인 관광객이 명품 쇼핑에서 벗어나 한국인의 일상 식문화를 느낄 수 있는 K-푸드와 K-패션 소비 증가.",
+          "emoji": "🥛",
+          "title": "고단백 식품 시장 확대",
+          "summary": "저출산 여파 흰 우유 소비 감소 속 유업사들이 고단백 식품 전면 출시로 8000억 시장 개척",
           "articleIndices": [
-            6
+            8
           ],
           "relatedLinks": [
             {
-              "title": "\"명품 쇼핑은 옛말\"…외국인 관광객, 성수서 찜하고 K-패션·K-푸드 쓴...",
-              "url": "https://n.news.naver.com/mnews/article/468/0001261039?sid=101"
+              "title": "'흰 우유 불황' 깬 단백질···8000억 시장 판 키운다",
+              "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423231"
             }
           ],
           "articleCount": 1
