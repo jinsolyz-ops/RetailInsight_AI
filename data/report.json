@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-08-24T22:14:01.874Z",
+  "generatedAt": "2026-08-25T22:13:54.752Z",
   "summary": [
-    "CU, 대구 치맥페스티벌 우승작 '아보 트러플 치킨' 전국 출시로 지역 축제 연계 마케팅 강화",
-    "편의점별 차별화 전략 심화: 농심·롯데웰푸드 포테토칩 신제품 4종 동시 출시로 채널별 맞춤 상품 경쟁",
-    "세븐일레븐 '올 뉴 간편식' 마끼 형태 확장 및 GS25 햇고구마 조기 판매로 계절 상품 선점 경쟁"
+    "CU, 금미옥과 협업 떡볶이 신제품 출시로 편의점 분식 시장 공략",
+    "GS25, 추석 명절 선물세트 600종 및 액티브 시니어 창업체험 프로그램 신설",
+    "세븐일레븐, 휴머노이드 로봇 'ROI' 적용한 미래형 편의점 'AX LAB 3.0' 운영"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "편의점 채널별 맞춤 상품 전략",
-          "summary": "농심·롯데웰푸드가 포테토칩 신제품 4종을 편의점별로 다른 맛으로 출시하며 채널 차별화 마케팅을 본격화하고 있다.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "'CU엔 이 맛, GS25엔 저 맛'…농심·롯데웰푸드, 편의점별 '다른 맛' 전략",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1398572"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "👥",
-          "title": "4050 여성 타겟 뷰티·패션 공략",
-          "summary": "탄탄한 경제력의 영올드 세대가 유통업계 핵심 소비층으로 부상하면서 뷰티·패션 업계가 4050 여성을 겨냥한 상품 기획과 마케팅을 강화하고 있다.",
+          "emoji": "🍂",
+          "title": "계절 앞당긴 향료 마케팅",
+          "summary": "유통가가 우디향·청귤 등 제철 원료로 가을 계절감을 살린 마케팅을 전개하며 소비자 수요 선점 중.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "'주름' 펴고 '엣지'있게… 뷰티-패션업계 \"4050 여성 잡아라\"",
-              "url": "https://n.news.naver.com/mnews/article/020/0003743019?sid=101"
+              "title": "'가을을 한발 먼저' 우디향·청귤로 계절 앞당긴 유통가",
+              "url": "https://n.news.naver.com/mnews/article/003/0014148032?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌏",
+          "title": "K-발효식품 북미 시장 공략",
+          "summary": "aT가 한국 발효·간편식 6개사와 JFC 입점을 추진하며 북미 유통채널 확대에 나섬.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "한국농수산식품유통공사(aT), K-발효·간편식 북미 시장 공략...6개사 JFC 입점",
+              "url": "https://www.news2day.co.kr/article/20260825500271"
             }
           ],
           "articleCount": 1
@@ -45,36 +45,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "이커머스 특화 AI 컨택센터 개발",
-          "summary": "플래티어와 네이블이 상품·주문·결제 데이터와 연결된 이커머스 특화 AICC를 공동 개발하며 AI 기반 고객 서비스 혁신을 추진하고 있다.",
+          "emoji": "🛒",
+          "title": "SSG.COM 수익성 방어 및 생태계 활성화",
+          "summary": "이마트 자회사 SSG.COM이 치열한 이커머스 시장에서 수익성 방어와 장보기 생태계 활성화에 집중하며 SCK컴퍼니 마케팅 이슈 극복 중.",
           "articleIndices": [
-            8,
-            9
+            1,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "AI 상담, 상품·주문·결제 데이터와 연결…플래티어·네이블 AICC 개발",
-              "url": "https://www.venturesquare.net/1108056/"
+              "title": "이마트, 본업 성장 속 오프라인 지배력 확대… 하반기 자회사 실적 반등",
+              "url": "http://www.lkp.news/news/articleView.html?idxno=83303"
             },
             {
-              "title": "플래티어·네이블, 이커머스 특화 AICC 시장 협공",
-              "url": "https://www.datanet.co.kr/news/articleView.html?idxno=213968"
+              "title": "이마트, 2분기 별도 영업익 전년比 64%↑…상반기 별도 영업익은 전년比",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=143518"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🛍️",
-          "title": "카카오AI 에이전틱 커머스 플랫폼 확대",
-          "summary": "카카오AI가 5000만 카톡 사용자 데이터를 활용해 에이전틱 커머스 플랫폼을 강화하고 외부 버티컬 서비스 연동을 확대하며 구매 전환율 제고를 목표로 하고 있다.",
+          "emoji": "🤖",
+          "title": "버티컬 AI 플랫폼 자체 모델 개발",
+          "summary": "중국 라이프스타일·이커머스 플랫폼들이 외부 API 의존을 탈피하고 독자 AI 파운데이션 모델 개발에 나서며 수직계열화 경쟁 심화.",
           "articleIndices": [
-            10
+            11
           ],
           "relatedLinks": [
             {
-              "title": "카카오AI 본업 집중 벨류업 확대 '2030년 매출 6조·영업이익률 30% 목표'",
-              "url": "https://n.news.naver.com/mnews/article/076/0004438792?sid=101"
+              "title": "'외부 API 의존 끝'… 中 인터넷 플랫폼, '독자 AI 파운데이션 모델' 내...",
+              "url": "https://www.g-enews.com/view.php?ud=2026082500133335900c8c1c064d_1"
             }
           ],
           "articleCount": 1
@@ -85,31 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "추석 선물세트 AI 로봇 등장",
-          "summary": "올해 추석 시즌에 편의점·대형마트·백화점이 3000만원대 AI 로봇부터 가성비 상품까지 다양한 선물세트를 선보이며 명절 선물 시장을 확대하고 있다.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "3000만원 로봇까지 등장…올해 '추석 선물' 싸게 사는 꿀팁 [트렌드+]",
-              "url": "https://n.news.naver.com/mnews/article/015/0005324259?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🔄",
-          "title": "중국 이커머스 플랫폼 독자 AI 모델 개발",
-          "summary": "레드노트 등 중국 이커머스 플랫폼들이 외부 API 의존을 벗고 자체 AI 파운데이션 모델을 개발하며 버티컬 AI 수직계열화 전략을 추진하고 있다.",
+          "emoji": "🤖",
+          "title": "휴머노이드 로봇 출하 300% 증가",
+          "summary": "중국 애지봇·유니트리가 74% 점유하며 휴머노이드 로봇 출하가 300% 증가, 아마존·테슬라 등 글로벌 기업의 로봇 투입 계획 가속화.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "'외부 API 의존 끝'… 中 인터넷 플랫폼, '독자 AI 파운데이션 모델' 내놓다",
-              "url": "https://www.g-enews.com/view.php?ud=2026082500133335900c8c1c064d_1"
+              "title": "휴머노이드 로봇 출하 300%↑…중국 애지봇·유니트리 74% 점유",
+              "url": "https://www.itdaily.kr/news/articleView.html?idxno=241197"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🛍️",
+          "title": "유통·식품업계 AX 활용 확대",
+          "summary": "CJ, 팔도, BGF리테일, GS리테일 등 유통·식품업계가 AI(AX)를 신제품 개발, 품질 검수, 마케팅 등 다양한 영역에 활용 중.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "유통·식품업계 AX 진풍경···CJ는 신제품 찾고, 팔도는 면발 잰다",
+              "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257809"
             }
           ],
           "articleCount": 1
@@ -120,55 +120,19 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍗",
-          "title": "대구 치맥페스티벌 우승작 상품화",
-          "summary": "CU가 2026 대구 치맥페스티벌 K-치킨 신메뉴 경연대회 우승작 '아보 트러플 치킨'을 전국 점포에서 판매하며 지역 축제 연계 마케팅을 강화하고 있다.",
+          "emoji": "🌶️",
+          "title": "금미옥 협업 떡볶이 신제품",
+          "summary": "CU가 금미옥과 협업해 '킹떡순 떡볶이'와 '근본떡볶이' 2종을 8월·9월 연이어 출시하며 편의점 분식 시장 공략, 누적 판매량 135만개 달성.",
           "articleIndices": [
-            1,
-            6
+            1
           ],
           "relatedLinks": [
             {
-              "title": "CU, 대구 치맥페스티벌 우승작 '아보 트러플 치킨' 출시",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=130631"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🥃",
-          "title": "대용량 떡볶이 확대로 냉장분식 1위 달성",
-          "summary": "CU가 4900원에 1.5인분 구성의 대용량 떡볶이를 확대하며 냉장분식류 카테고리에서 연속 매출 1위를 기록하고 있다.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "'4900원에 1.5인분' 통했다…CU 대용량 떡볶이 잇달아 매출 1위",
-              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=364163"
+              "title": "금미옥, CU와 '킹떡순·근본떡볶이' 출시… 편의점 한 끼 분식 공략",
+              "url": "https://n.news.naver.com/mnews/article/396/0000753360?sid=103"
             }
           ],
           "articleCount": 1
-        },
-        {
-          "emoji": "🍶",
-          "title": "프리미엄 증류주 '신라주' 출시",
-          "summary": "CU가 신라시대 전통주를 현대적으로 복원한 프리미엄 증류주 '신라주'를 출시하며 고급 주류 시장 진출을 강화하고 있다.",
-          "articleIndices": [
-            3,
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "[유통 브리핑] CU, 11번가, CJ프레시웨이",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054371"
-            },
-            {
-              "title": "고급 증류주 내놓는 CU…26일 '신라주' 출시",
-              "url": "https://n.news.naver.com/mnews/article/015/0005324115?sid=101"
-            }
-          ],
-          "articleCount": 2
         }
       ]
     },
@@ -176,31 +140,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍚",
-          "title": "세븐일레븐 '올 뉴 간편식' 마끼 형태 확장",
-          "summary": "세븐일레븐이 라이스 프로젝트를 적용한 '올 뉴 간편식' 시리즈를 마끼 형태로 확장하며 간편식 카테고리 혁신을 추진하고 있다.",
+          "emoji": "🎁",
+          "title": "GS25 추석 명절 선물세트 600종",
+          "summary": "GS25가 '2026 우리동네 선물가게' 테마로 600여 종의 명절 선물세트를 선보이며 감성형 테크 상품과 스마트 가전 라인업 강화.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 마끼 형태 신개념 간편식 3종 선 봬...'올 뉴 간편식' 라인업 확장",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=130632"
+              "title": "[비바100] 통조림·식용유 가고 로봇·미식 왔다⋯ 편의점·백화점 추석...",
+              "url": "https://www.viva100.com/article/20260824501389"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🦀",
-          "title": "이마트24 꽃게 초특가 경쟁 참여",
-          "summary": "이마트24가 주요 유통사들의 꽃게 초특가 경쟁에 참여하며 가격 경쟁력을 강화하고 있다.",
+          "emoji": "👴",
+          "title": "GS25 액티브 시니어 창업체험 프로그램",
+          "summary": "GS25가 5060세대 예비 창업자를 위한 '액티브 시니어 창업체험 프로그램'을 신설하며 고령층 창업 수요 포착.",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[뉴스톡톡] 꽃게 1원 싸움, 자존심 경쟁 아니다…유통사의 숨은 셈법",
-              "url": "https://n.news.naver.com/mnews/article/421/0009130206?sid=101"
+              "title": "GS25, 5060 창업 수요 잡는다… '액티브 시니어 창업체험' 신설",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423728"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🤖",
+          "title": "세븐일레븐 휴머노이드 로봇 'ROI' 도입",
+          "summary": "세븐일레븐이 미래형 편의점 'AX LAB 3.0'에 롯데이노베이트 개발 휴머노이드 로봇 'ROI'를 적용해 상품 안내·고객 상호작용 자동화.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "[AI시대, 권력 대이동-롯데] 유통부터 식품·화학까지…'AX'로 그룹 색깔...",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316740"
             }
           ],
           "articleCount": 1
@@ -211,31 +190,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍠",
-          "title": "편의점 가을 시즌 상품 조기 선점",
-          "summary": "GS25·CU·이마트24가 폭염 속에서도 햇고구마·감자 등 가을 먹거리와 구황작물 테마 간편식·디저트를 조기 출시하며 계절 상품 경쟁을 심화하고 있다.",
+          "emoji": "🐕",
+          "title": "편의점 반려동물 상품 매출 증가",
+          "summary": "GS25 반려동물 관련 상품 매출이 전년 대비 2024년 15.3%, 2025년 13.2% 증가하며 펫심 마케팅 경쟁 심화, 반려동물 디저트도 출시.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "처서 지나도 폭염…편의점엔 벌써 가을 먹거리 '햇고구마' 등장",
-              "url": "https://n.news.naver.com/mnews/article/421/0009130216?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎨",
-          "title": "캐릭터·팬덤 교차 콜라보 디저트 화제",
-          "summary": "편의점에서 축구 팬덤과 캐릭터 팬덤을 교차시킨 디저트·빵 상품이 SNS에서 화제가 되며 팬덤 기반 마케팅의 효과를 입증하고 있다.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "[유프로의 AI픽] \"뱅봉 찍고, 태닝 키티 모으고\"…유통채널 TOP3",
-              "url": "https://www.mediapen.com/news/view/1118556"
+              "title": "\"댕댕이 고객 모십니다\"⋯ '세계 개의 날' 유통가 펫심 잡기 경쟁",
+              "url": "https://www.viva100.com/article/20260825501073"
             }
           ],
           "articleCount": 1
