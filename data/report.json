@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-08-25T22:13:54.752Z",
+  "generatedAt": "2026-08-27T02:21:07.108Z",
   "summary": [
-    "CU, 금미옥과 협업 떡볶이 신제품 출시로 편의점 분식 시장 공략",
-    "GS25, 추석 명절 선물세트 600종 및 액티브 시니어 창업체험 프로그램 신설",
-    "세븐일레븐, 휴머노이드 로봇 'ROI' 적용한 미래형 편의점 'AX LAB 3.0' 운영"
+    "CU, 팔로워 100만 '데일리패션뉴스'와 협업해 2030세대 공략",
+    "편의점서 AI 로봇·포켓몬 신제품 등 명절 선물 경쟁 심화",
+    "GS25 '라라스윗 쫀득바' 3개월 400만개 판매로 아이스크림 신트렌드 주도"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🍂",
-          "title": "계절 앞당긴 향료 마케팅",
-          "summary": "유통가가 우디향·청귤 등 제철 원료로 가을 계절감을 살린 마케팅을 전개하며 소비자 수요 선점 중.",
+          "emoji": "🎯",
+          "title": "이른 추석 선물 경쟁",
+          "summary": "예년보다 10일 이상 앞당겨진 추석으로 유통업계 전반이 조기 마케팅에 돌입, 백화점·편의점·이커머스 채널 간 선물 판매 경쟁 심화.",
           "articleIndices": [
-            5
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'가을을 한발 먼저' 우디향·청귤로 계절 앞당긴 유통가",
-              "url": "https://n.news.naver.com/mnews/article/003/0014148032?sid=101"
+              "title": "[같이경제] 이른 추석·고물가…올 추석 선물 트렌드는?",
+              "url": "https://n.news.naver.com/mnews/article/056/0012245589?sid=101"
+            },
+            {
+              "title": "G마켓, 배우 이성민과 '한가위 빅세일' 캠페인 진행",
+              "url": "https://www.econovill.com/news/articleView.html?idxno=749049"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
           "emoji": "🌏",
-          "title": "K-발효식품 북미 시장 공략",
-          "summary": "aT가 한국 발효·간편식 6개사와 JFC 입점을 추진하며 북미 유통채널 확대에 나섬.",
+          "title": "외국인 결제 경험 개선",
+          "summary": "방한 관광객 증가에 따라 롯데백화점 등 유통사들이 QR 결제, 다국어 서비스 등으로 결제 장벽을 낮추며 외국인 맞춤 전략 강화.",
           "articleIndices": [
-            7
+            4
           ],
           "relatedLinks": [
             {
-              "title": "한국농수산식품유통공사(aT), K-발효·간편식 북미 시장 공략...6개사 JFC 입점",
-              "url": "https://www.news2day.co.kr/article/20260825500271"
+              "title": "외국인 쇼핑, 현금 대신 QR···롯데百 '결제 장벽' 낮춘다",
+              "url": "https://www.smartbizn.com/news/articleView.html?idxno=152290"
             }
           ],
           "articleCount": 1
@@ -45,36 +50,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "SSG.COM 수익성 방어 및 생태계 활성화",
-          "summary": "이마트 자회사 SSG.COM이 치열한 이커머스 시장에서 수익성 방어와 장보기 생태계 활성화에 집중하며 SCK컴퍼니 마케팅 이슈 극복 중.",
+          "emoji": "📺",
+          "title": "유튜브 홈쇼핑 플랫폼화",
+          "summary": "유튜브가 국내 홈쇼핑 3사를 한꺼번에 입점시키며 동영상 소비를 구매로 연결하는 새로운 이커머스 경쟁 구도 형성.",
           "articleIndices": [
-            1,
-            8
+            2
           ],
           "relatedLinks": [
             {
-              "title": "이마트, 본업 성장 속 오프라인 지배력 확대… 하반기 자회사 실적 반등",
-              "url": "http://www.lkp.news/news/articleView.html?idxno=83303"
-            },
-            {
-              "title": "이마트, 2분기 별도 영업익 전년比 64%↑…상반기 별도 영업익은 전년比",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=143518"
+              "title": "[테크M 이슈] 유튜브, 홈쇼핑 3사 한꺼번에 품은 이유",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=154618"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
           "emoji": "🤖",
-          "title": "버티컬 AI 플랫폼 자체 모델 개발",
-          "summary": "중국 라이프스타일·이커머스 플랫폼들이 외부 API 의존을 탈피하고 독자 AI 파운데이션 모델 개발에 나서며 수직계열화 경쟁 심화.",
+          "title": "AI 쇼핑 에이전트 확산",
+          "summary": "네이버플러스 등 주요 이커머스 플랫폼이 AI 쇼핑 에이전트를 도입해 상품 검색·추천 과정을 자동화하며 고객 경험 혁신 추진.",
           "articleIndices": [
-            11
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'외부 API 의존 끝'… 中 인터넷 플랫폼, '독자 AI 파운데이션 모델' 내...",
-              "url": "https://www.g-enews.com/view.php?ud=2026082500133335900c8c1c064d_1"
+              "title": "[네이버 쇼핑톡톡] 네플스, 디지털·가전 페스타 진행…AI로 상품 스펙",
+              "url": "https://n.news.naver.com/mnews/article/030/0003460860?sid=101"
             }
           ],
           "articleCount": 1
@@ -86,33 +86,38 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "휴머노이드 로봇 출하 300% 증가",
-          "summary": "중국 애지봇·유니트리가 74% 점유하며 휴머노이드 로봇 출하가 300% 증가, 아마존·테슬라 등 글로벌 기업의 로봇 투입 계획 가속화.",
+          "title": "편의점 AI 로봇 상품화",
+          "summary": "CU가 추석 선물 시즌에 AI 바둑 로봇 등 6종의 로봇 상품을 판매하며 최근 AI·로봇 트렌드를 편의점 상품으로 구체화.",
           "articleIndices": [
-            6
+            3
           ],
           "relatedLinks": [
             {
-              "title": "휴머노이드 로봇 출하 300%↑…중국 애지봇·유니트리 74% 점유",
-              "url": "https://www.itdaily.kr/news/articleView.html?idxno=241197"
+              "title": "'이걸 누가 사냐고?'…편의점서 3100만원짜리 휴머노이드 로봇 등장한 이유",
+              "url": "https://n.news.naver.com/mnews/article/277/0005808035?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "유통·식품업계 AX 활용 확대",
-          "summary": "CJ, 팔도, BGF리테일, GS리테일 등 유통·식품업계가 AI(AX)를 신제품 개발, 품질 검수, 마케팅 등 다양한 영역에 활용 중.",
+          "emoji": "💄",
+          "title": "AI 피부 분석 리테일테크",
+          "summary": "룰루랩이 AI 피부 분석 키오스크를 백화점·리테일에 확대 입점시키며 뷰티 데이터 기반 K-뷰티테크 모델 선도.",
           "articleIndices": [
-            5
+            9,
+            11
           ],
           "relatedLinks": [
             {
-              "title": "유통·식품업계 AX 진풍경···CJ는 신제품 찾고, 팔도는 면발 잰다",
-              "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257809"
+              "title": "[뷰티업계 이모저모] 룰루랩, '2026 서울뷰티위크'서 AI 피부 분석 기기",
+              "url": "https://n.news.naver.com/mnews/article/346/0000115026?sid=103"
+            },
+            {
+              "title": "룰루랩, '2026 서울뷰티위크'서 AI·데이터 기반 K-뷰티테크 선도",
+              "url": "https://n.news.naver.com/mnews/article/144/0001134240?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -120,16 +125,36 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🌶️",
-          "title": "금미옥 협업 떡볶이 신제품",
-          "summary": "CU가 금미옥과 협업해 '킹떡순 떡볶이'와 '근본떡볶이' 2종을 8월·9월 연이어 출시하며 편의점 분식 시장 공략, 누적 판매량 135만개 달성.",
+          "emoji": "👗",
+          "title": "CU 데일리패션뉴스 협업",
+          "summary": "CU가 팔로워 100만 명의 패션 콘텐츠 채널 '데일리패션뉴스'와 MOU를 체결해 콘텐츠·상품 협업으로 2030세대 공략 및 패션·편의점 경계 허물기.",
+          "articleIndices": [
+            2,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, 100만 팔로워 '데일리패션뉴스'와 맞손…콘텐츠 협업",
+              "url": "https://n.news.naver.com/mnews/article/092/0002435264?sid=103"
+            },
+            {
+              "title": "CU, 패션 채널과 손잡았다…콘텐츠로 2030 공략",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=1406628"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "❤️",
+          "title": "CU 생명사랑 편의점",
+          "summary": "CU가 금천구와 협약해 98개 점포를 '생명사랑 편의점'으로 조성하며 자살예방 및 정신건강 증진 사회공헌 활동 추진.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "금미옥, CU와 '킹떡순·근본떡볶이' 출시… 편의점 한 끼 분식 공략",
-              "url": "https://n.news.naver.com/mnews/article/396/0000753360?sid=103"
+              "title": "금천구 내 CU편의점 98개소, 생명사랑 편의점으로 조성",
+              "url": "https://www.cnbizm.com/news/articleView.html?idxno=312914"
             }
           ],
           "articleCount": 1
@@ -140,46 +165,58 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "GS25 추석 명절 선물세트 600종",
-          "summary": "GS25가 '2026 우리동네 선물가게' 테마로 600여 종의 명절 선물세트를 선보이며 감성형 테크 상품과 스마트 가전 라인업 강화.",
+          "emoji": "💳",
+          "title": "GS25 KB페이 디지털 결제",
+          "summary": "KB국민카드의 'KB페이 탭앤페이'가 GS25 등 4만8000개 매장에서 앱 없이 NFC 터치 결제를 지원하며 디지털 고객경험 강화.",
           "articleIndices": [
-            1
+            1,
+            2,
+            3,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[비바100] 통조림·식용유 가고 로봇·미식 왔다⋯ 편의점·백화점 추석...",
-              "url": "https://www.viva100.com/article/20260824501389"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "👴",
-          "title": "GS25 액티브 시니어 창업체험 프로그램",
-          "summary": "GS25가 5060세대 예비 창업자를 위한 '액티브 시니어 창업체험 프로그램'을 신설하며 고령층 창업 수요 포착.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
+              "title": "앱 안 켜도 스마트폰 터치로 결제…국민카드, 디지털 고객경험 2년 연속",
+              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=272430"
+            },
             {
-              "title": "GS25, 5060 창업 수요 잡는다… '액티브 시니어 창업체험' 신설",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423728"
+              "title": "KB국민카드, '디지털고객경험지수(DCXI)' 신용카드 부문 2년 연속 1위",
+              "url": "https://www.pointe.co.kr/news/articleView.html?idxno=83884"
             }
           ],
-          "articleCount": 1
+          "articleCount": 4
         },
         {
-          "emoji": "🤖",
-          "title": "세븐일레븐 휴머노이드 로봇 'ROI' 도입",
-          "summary": "세븐일레븐이 미래형 편의점 'AX LAB 3.0'에 롯데이노베이트 개발 휴머노이드 로봇 'ROI'를 적용해 상품 안내·고객 상호작용 자동화.",
+          "emoji": "📚",
+          "title": "세븐일레븐 성시경 협업",
+          "summary": "세븐일레븐이 가수 성시경과 손잡고 '제철 비빔밥' 시리즈를 시즌 한정 상품으로 출시하며 셀러브리티 협업 마케팅 강화.",
           "articleIndices": [
+            6,
             7
           ],
           "relatedLinks": [
             {
-              "title": "[AI시대, 권력 대이동-롯데] 유통부터 식품·화학까지…'AX'로 그룹 색깔...",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316740"
+              "title": "[유통딜리버리] 신세계百ㆍ롯데百ㆍ현대百ㆍ신세계免ㆍGS25ㆍ세븐일레븐",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608270913135140502"
+            },
+            {
+              "title": "[유통갤러리] 신세계백화점, 대규모 와인행사 '뱅드신세계' 개최 外",
+              "url": "https://theviewers.co.kr/View.aspx?No=4201238"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🥤",
+          "title": "이마트24 성수310 밀크티",
+          "summary": "이마트24가 '성수310 로열밀크티'를 출시하며 카페 트렌드를 편의점 음료로 확대, 프리미엄 음료 경쟁 심화.",
+          "articleIndices": [
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트24, 편의점에서 즐기는 카페 '성수310 로열밀크티' 출시",
+              "url": "https://n.news.naver.com/mnews/article/030/0003460849?sid=101"
             }
           ],
           "articleCount": 1
@@ -190,19 +227,40 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🐕",
-          "title": "편의점 반려동물 상품 매출 증가",
-          "summary": "GS25 반려동물 관련 상품 매출이 전년 대비 2024년 15.3%, 2025년 13.2% 증가하며 펫심 마케팅 경쟁 심화, 반려동물 디저트도 출시.",
+          "emoji": "🍦",
+          "title": "GS25 라라스윗 쫀득바",
+          "summary": "GS25의 '라라스윗 쫀득바'가 출시 3개월 만에 400만 개 판매를 기록하며 새로운 아이스크림 트렌드 주도 및 편의점 디저트 경쟁 심화.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "\"댕댕이 고객 모십니다\"⋯ '세계 개의 날' 유통가 펫심 잡기 경쟁",
-              "url": "https://www.viva100.com/article/20260825501073"
+              "title": "GS25 '라라스윗 쫀득바', 출시 3개월 만에 400만 개 팔렸다",
+              "url": "https://www.cnbizm.com/news/articleView.html?idxno=312907"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🎮",
+          "title": "삼립 포켓몬빵 신제품",
+          "summary": "삼립이 포켓몬스터 30주년 맞춰 역대 최다 1013종 띠부씰과 함께 신제품 7종을 출시하며 캐릭터 IP 활용 편의점 디저트 마케팅 강화.",
+          "articleIndices": [
+            1,
+            2,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "삼립, 포켓몬스터 30주년 맞아 역대 최다 1013종 띠부씰 선봬",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=130953"
+            },
+            {
+              "title": "삼립·파스쿠찌, 포켓몬 빵 신제품 7종 출시·가을 시즌 흑임자 신제품",
+              "url": "http://www.wsobi.com/news/articleView.html?idxno=317104"
+            }
+          ],
+          "articleCount": 3
         }
       ]
     }
