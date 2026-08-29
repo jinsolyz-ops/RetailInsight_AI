@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-08-29T03:25:00.076Z",
+  "generatedAt": "2026-08-29T23:40:58.570Z",
   "summary": [
-    "GS25 '민음사빵' 5일 만에 10만개 판매, 텍스트힙 트렌드 편의점 확산",
-    "신세계 SSG닷컴 인적분할 완료, 이마트·신세계 이커머스 사업 교통정리",
-    "CU, 서울시와 배달라이더 쉼터 3000곳 협력으로 사회공헌 마케팅 강화"
+    "GS25 '민음사빵' 5일 만에 10만개 판매, 문학·트렌드 결합 마케팅 성공",
+    "CU, 서울시와 배달라이더 쉼터 3000곳 협력으로 사회공헌 마케팅 강화",
+    "SSG닷컴 인적분할 완료, 신세계몰 프리미엄 이커머스 플랫폼 고도화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "📚",
-          "title": "민음사빵 품절 대란",
-          "summary": "GS25가 출판사 민음사와 협업한 '민음사빵'이 5일 만에 10만개 판매하며 텍스트힙 트렌드를 편의점 먹거리로 확산시키고 있다.",
-          "articleIndices": [
-            1,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "[홍승완의 M.S.G] 빵이 아니라 취향을 산다…'민음사빵' 품절 대란을 만...",
-              "url": "https://www.ajunews.com/view/20260828145643059"
-            },
-            {
-              "title": "[영상클립] 포켓몬빵 다음은 '민음사빵'…5일 만에 10만개 팔린 '텍스트...",
-              "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=501259"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
           "emoji": "🎯",
-          "title": "경험 소비 중심 전환",
-          "summary": "Z세대 발길에 살아난 동대문종합시장 사례처럼 유통업계가 제품 판매 중심에서 경험 제공 중심으로 마케팅 전략을 전환하고 있다.",
+          "title": "인플루언서 공구 마케팅",
+          "summary": "수십만 팔로어 인플루언서가 유통업계 영업사원 역할을 하며 매출 30% 수수료에도 높은 수익성을 보이는 새로운 마케팅 채널로 부상.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "Z세대 발길에 살아난 동대문종합시장…핵심은 '경험 소비'",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=316619"
+              "title": "'매출 30% 떼줘도 이득'…'인플루언서 공구' 얼마나 벌길래",
+              "url": "https://n.news.naver.com/mnews/article/015/0005326218?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "♻️",
+          "title": "현대백화점 자원순환",
+          "summary": "현대백화점이 자원순환 캠페인을 실시하며 지속가능성을 강조한 ESG 마케팅으로 브랜드 이미지 제고.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "[이주의 유통포인트] 현대百, 자원순환 캠페인 실시",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317210"
             }
           ],
           "articleCount": 1
@@ -52,15 +47,15 @@
         {
           "emoji": "🔄",
           "title": "SSG닷컴 인적분할",
-          "summary": "신세계가 SSG닷컴을 인적분할하여 이마트가 SSG닷컴을, 신세계가 신세계몰(프리미엄 이커머스)을 각각 100% 자회사로 운영하며 이커머스 사업 교통정리를 완료했다.",
+          "summary": "신세계와 이마트가 SSG닷컴을 인적분할하여 신세계몰(프리미엄)과 SSG닷컴(생활용품)으로 이커머스 사업을 재편성, 플랫폼 차별화 전략 추진.",
           "articleIndices": [
-            1,
             2,
-            4
+            3,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[S-이슈] 신세계, 정용진-정유경 남매 계열 분리 종지부… SSG닷컴 7년 만...",
+              "title": "[S-이슈] 신세계, 정용진-정유경 남매 계열 분리 종지부",
               "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43313"
             },
             {
@@ -71,16 +66,16 @@
           "articleCount": 3
         },
         {
-          "emoji": "🚚",
-          "title": "전통시장 새벽배송 진출",
-          "summary": "울산 학성새벽시장이 전통시장 최초로 새벽배송 서비스를 시작하며 온라인 쇼핑 공세에 대응하는 전통시장의 생존 전략을 보여주고 있다.",
+          "emoji": "📊",
+          "title": "롯데쇼핑 현금창출력",
+          "summary": "롯데쇼핑이 홈쇼핑과 이커머스 사업 비용 효율화로 현금창출력을 회복하며 상반기 영업활동현금흐름 개선 성과 달성.",
           "articleIndices": [
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "이슈) 전통시장 첫 새벽배송.. 학성새벽시장의 도전",
-              "url": "http://web.ubc.co.kr/wp/archives/129680"
+              "title": "'1년 내 만기 5.9조, 현금성 자산은 1조'…롯데쇼핑, 커지는 상환부담 견고히",
+              "url": "https://www.the-today.com/news/articleView.html?idxno=89102"
             }
           ],
           "articleCount": 1
@@ -92,33 +87,38 @@
       "issues": [
         {
           "emoji": "🥩",
-          "title": "AI 등급판정 이미지 온라인 연계",
-          "summary": "축평원이 AI 등급판정 장비로 촬영한 한우 등심 단면 이미지를 온라인 판매 화면에 연계하여 소비자가 마블링을 직접 확인하고 구매할 수 있도록 개선했다.",
+          "title": "AI 등급판정 한우 온라인",
+          "summary": "축산물품질평가원이 AI 등급판정 이미지를 온라인 판매 화면에 연계하여 소비자가 마블링을 직접 확인하고 구매할 수 있는 투명성 강화 마케팅 실현.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "한우, '1++' 숫자만 보지 마세요…온라인에서도 '마블링' 보고 산다[食...",
+              "title": "한우, '1++' 숫자만 보지 마세요…온라인에서도 '마블링' 보고 산다",
               "url": "https://n.news.naver.com/mnews/article/018/0006360042?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💄",
-          "title": "AI 피부 분석 뷰티테크",
-          "summary": "룰루랩이 AI 피부 분석 키오스크를 통해 피부 데이터를 화장품·리테일·클리닉으로 연결하는 K-뷰티테크 모델을 선보이며 리테일 고도화를 추진하고 있다.",
+          "emoji": "🤖",
+          "title": "카카오 AI 인적분할",
+          "summary": "카카오가 카카오톡·광고·커머스·AI를 통합한 카카오AI 신설법인으로 분할하여 AI 기반 커머스 플랫폼 강화 및 기업가치 극대화 추진.",
           "articleIndices": [
-            9
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[뷰티 트렌드] 룰루랩, 서울뷰티위크서 AI·데이터 기반 K-뷰티테크 선보...",
-              "url": "https://www.ibabynews.com/news/articleView.html?idxno=154086"
+              "title": "카카오 AI·투자 인적분할 승부수, 주주·노조 표 대결 진통",
+              "url": "https://www.globale.co.kr/news/articleView.html?idxno=40105"
+            },
+            {
+              "title": "0.36·0.64 카카오 분할, 주총 표계산 남았다",
+              "url": "https://www.tokenpost.kr/news/market/400509"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -126,16 +126,31 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🚴",
-          "title": "배달라이더 쉼터 협력",
-          "summary": "CU가 서울시와 협력하여 서울 시내 CU 편의점 3000여 곳을 배달라이더 쉼터로 제공하며 사회공헌 마케팅을 강화하고 있다.",
+          "emoji": "🧀",
+          "title": "농협목우촌 티니핑 협업",
+          "summary": "농협목우촌이 인기 캐릭터 '티니핑'과 협업한 치즈소시지 3종을 CU 편의점 단독 상품으로 출시하며 BGF리테일과 공동 프로모션 진행.",
           "articleIndices": [
-            1,
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "\"잠시 쉬어가세요\" 서울시, CU 편의점 3000곳에 '배달라이더 쉼터'...",
+              "title": "농협목우촌, '티니핑' 치즈소시지 3종 CU 출격…편의점 접점 넓힌다",
+              "url": "https://www.apnews.kr/news/articleView.html?idxno=3050818"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🚴",
+          "title": "CU 배달라이더 쉼터",
+          "summary": "서울시와 협력하여 CU 편의점 3000곳을 배달라이더 공식 쉼터로 지정, 사회공헌과 고객 접점 확대를 동시에 달성하는 전략적 파트너십.",
+          "articleIndices": [
+            2,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"잠시 쉬어가세요\" 서울시, CU 편의점 3000곳에 '배달라이더 쉼터'",
               "url": "https://n.news.naver.com/mnews/article/016/0002689999?sid=102"
             },
             {
@@ -144,21 +159,6 @@
             }
           ],
           "articleCount": 2
-        },
-        {
-          "emoji": "🌟",
-          "title": "티니핑 치즈소시지 협업",
-          "summary": "목우촌이 인기 캐릭터 '티니핑'과 협업한 치즈소시지 3종을 CU 편의점에 입점시키며 BGF리테일과 함께 1+1 등 공동 프로모션을 진행하고 있다.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "목우촌, '티니핑' 치즈소시지 CU 입점 … 1+1·할인 프로모션",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88537"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -166,31 +166,53 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍚",
-          "title": "세븐일레븐 성시경 협업",
-          "summary": "세븐일레븐이 가수 성시경과 협업하여 제철 식재료를 활용한 '시경 pick 제철 비빔밥 시리즈'를 9월 2일 출시하며 연예인 마케팅을 강화하고 있다.",
+          "emoji": "📚",
+          "title": "GS25 민음사빵 대히트",
+          "summary": "GS25가 출판사 민음사와 협업한 '문학 빵'이 5일 만에 10만개 판매, 2030세대 트렌드를 즉각 반영한 편의점 디저트 마케팅의 성공 사례.",
+          "articleIndices": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "'민음사빵' 5일 만에 10만개…2030 유행 담는 편의점 빵",
+              "url": "https://www.sentv.co.kr/article/view/sentv202608280113"
+            },
+            {
+              "title": "팬덤 찾고 트렌드 이끌어야…후발주자 이마트24 운명은",
+              "url": "https://n.news.naver.com/mnews/article/050/0000110260?sid=101"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "🍜",
+          "title": "세븐일레븐 지역미식 냉장안주",
+          "summary": "세븐일레븐이 춘천, 안동, 대구 등 전국 유명 맛집 메뉴를 간편식으로 구현한 '세븐셀렉트 지역미식 냉장안주' 3종 출시로 프리미엄 간편식 시장 공략.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "성시경이 직접 맛봤다… 세븐일레븐, '시경 pick' 제철 비빔밥 출시",
-              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1178036"
+              "title": "세븐일레븐, '세븐셀렉트 지역미식 냉장안주' 3종 선봬",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=762305"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "이마트 트레이더스 지방 확장",
-          "summary": "이마트가 올 연말 충청권과 의정부에 트레이더스 신규 점포를 오픈하며 문화 공간까지 포함한 프리미엄 포맷 확장에 나서고 있다.",
+          "emoji": "🎓",
+          "title": "이마트24 편슐랭스타 5기",
+          "summary": "이마트24가 대학생 서포터즈 '편슐랭스타' 5기 발대식을 개최하여 MZ세대 타겟 마케팅 및 브랜드 충성도 강화 전략 추진.",
           "articleIndices": [
-            5
+            8
           ],
           "relatedLinks": [
             {
-              "title": "이마트, '트레이더스 지방 확장'에 승부수...문화 공간까지 품는다",
-              "url": "https://www.newspim.com/news/view/20260828000364"
+              "title": "이마트24, 대학생 서포터즈 '편슐랭스타' 5기 발대식 진행",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=131168"
             }
           ],
           "articleCount": 1
@@ -201,39 +223,35 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍵",
-          "title": "말차·밀크티 트렌드 확산",
-          "summary": "편의점과 카페업계가 말차, 밀크티, 호지차 등 차 기반 음료와 디저트로 상품군을 다양화하며 커피 중심의 음료 시장을 재편하고 있다.",
+          "emoji": "🍞",
+          "title": "민음사빵 문학 디저트",
+          "summary": "GS25의 '민음사빵'이 출판사와의 협업으로 문학 콘텐츠를 담은 디저트로 5일 만에 10만개 판매, 2030세대의 트렌드 민감성을 반영한 편의점 간식 신트렌드 확립.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "커피 대신 말차·밀크티...유통·카페업계 '티'에 빠졌다",
-              "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129041"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "⭐",
-          "title": "PB 상품 브랜드화",
-          "summary": "편의점 전용 간편식, 디저트, 스낵 등 PB 상품이 가격 경쟁력을 넘어 맛·품질·독창성으로 차별화되며 매장 방문 이유 자체가 되고 있다.",
-          "articleIndices": [
-            2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "'싼 맛'에 사던 PB의 반란…이젠 하나의 브랜드 됐다",
-              "url": "https://n.news.naver.com/mnews/article/031/0001053479?sid=101"
-            },
-            {
-              "title": "'랜덤깡'에 꽂힌 2030…편의점 이색 협업 경쟁",
-              "url": "https://news.mtn.co.kr/news-detail/2026082815513671803"
+              "title": "[홍승완의 M.S.G] 빵이 아니라 취향을 산다…'민음사빵' 품절 대란을 만든 이유",
+              "url": "https://www.ajunews.com/view/20260828145643059"
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "🌶️",
+          "title": "K소스 고추장 디저트",
+          "summary": "SNS에서 고추장을 활용한 이색 레시피가 인기를 끌면서 GS25가 고추장 쿠키 등 K소스 기반 디저트 제품을 출시, 해외 트렌드를 국내 편의점 상품으로 빠르게 구현.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "고추장을 쿠키에?…해외서 뜨는 'K소스'의 변신[K홀릭]",
+              "url": "https://n.news.naver.com/mnews/article/277/0005809019?sid=104"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     }
