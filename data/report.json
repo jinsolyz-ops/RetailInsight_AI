@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T23:40:58.570Z",
+  "generatedAt": "2026-08-31T00:00:11.892Z",
   "summary": [
-    "GS25 '민음사빵' 5일 만에 10만개 판매, 문학·트렌드 결합 마케팅 성공",
-    "CU, 서울시와 배달라이더 쉼터 3000곳 협력으로 사회공헌 마케팅 강화",
-    "SSG닷컴 인적분할 완료, 신세계몰 프리미엄 이커머스 플랫폼 고도화"
+    "CU, SNS 유행 '한강 복소사' RTD 출시로 복분자주 매출 31.4% 증가",
+    "G마켓, 레트로 B급 마케팅으로 이커머스 시장 존재감 회복 본격화",
+    "이마트24, Z세대 대학생 서포터즈 '편슐랭스타' 5기로 상품 개발 혁신"
   ],
   "categories": [
     {
@@ -11,30 +11,30 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "인플루언서 공구 마케팅",
-          "summary": "수십만 팔로어 인플루언서가 유통업계 영업사원 역할을 하며 매출 30% 수수료에도 높은 수익성을 보이는 새로운 마케팅 채널로 부상.",
+          "title": "G마켓 B급 마케팅 전환",
+          "summary": "G마켓이 레트로 B급 콘텐츠 마케팅으로 이커머스 시장에서 약해진 존재감을 회복하며 새로운 차별화 전략 추진.",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'매출 30% 떼줘도 이득'…'인플루언서 공구' 얼마나 벌길래",
-              "url": "https://n.news.naver.com/mnews/article/015/0005326218?sid=101"
+              "title": "[그때 그 광고]'얼마나 좋아!'…G마켓, 'B급 콘텐츠' 명가로 급부상",
+              "url": "https://n.news.naver.com/mnews/article/648/0000050289?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "♻️",
-          "title": "현대백화점 자원순환",
-          "summary": "현대백화점이 자원순환 캠페인을 실시하며 지속가능성을 강조한 ESG 마케팅으로 브랜드 이미지 제고.",
+          "emoji": "🌿",
+          "title": "편의점 건강식품 판매 확대",
+          "summary": "CU·GS25·세븐일레븐이 건강식품 판매 인허가를 확대하며 편의점 계산대 앞 진열 상품 구성을 건강 우선으로 재편.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[이주의 유통포인트] 현대百, 자원순환 캠페인 실시",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317210"
+              "title": "껌 대신 비타민…'건강 우선' 편의점 계산대 앞 진열대도 바꿨다",
+              "url": "https://n.news.naver.com/mnews/article/018/0006360689?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,37 +45,16 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🔄",
-          "title": "SSG닷컴 인적분할",
-          "summary": "신세계와 이마트가 SSG닷컴을 인적분할하여 신세계몰(프리미엄)과 SSG닷컴(생활용품)으로 이커머스 사업을 재편성, 플랫폼 차별화 전략 추진.",
+          "emoji": "🛍️",
+          "title": "롯데온 가을 뷰티 대전 '뷰세라'",
+          "summary": "롯데온이 FW 시즌 맞춰 연간 최대 규모 화장품 할인 행사 '뷰세라'로 뷰티 버티컬 경쟁력 강화 및 매출 확대 추진.",
           "articleIndices": [
-            2,
-            3,
-            5
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[S-이슈] 신세계, 정용진-정유경 남매 계열 분리 종지부",
-              "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43313"
-            },
-            {
-              "title": "[SSG닷컴 인적분할] 정용진·정유경 계열분리 앞당긴 '속도전'",
-              "url": "https://n.news.naver.com/mnews/article/293/0000089725?sid=101"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "📊",
-          "title": "롯데쇼핑 현금창출력",
-          "summary": "롯데쇼핑이 홈쇼핑과 이커머스 사업 비용 효율화로 현금창출력을 회복하며 상반기 영업활동현금흐름 개선 성과 달성.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "'1년 내 만기 5.9조, 현금성 자산은 1조'…롯데쇼핑, 커지는 상환부담 견고히",
-              "url": "https://www.the-today.com/news/articleView.html?idxno=89102"
+              "title": "롯데온, 가을 뷰티 대전 '뷰세라' 개막… '최대 80% 할인 혜택 제공'",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=117119"
             }
           ],
           "articleCount": 1
@@ -86,39 +65,34 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🥩",
-          "title": "AI 등급판정 한우 온라인",
-          "summary": "축산물품질평가원이 AI 등급판정 이미지를 온라인 판매 화면에 연계하여 소비자가 마블링을 직접 확인하고 구매할 수 있는 투명성 강화 마케팅 실현.",
+          "emoji": "🤖",
+          "title": "CU 휴머노이드 로봇 추석 선물",
+          "summary": "CU가 추석 선물로 휴머노이드 로봇을 앞세워 최신 AI·로봇 트렌드와 상품 소싱 역량을 소비자에게 시연하는 프리미엄 마케팅 전개.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "한우, '1++' 숫자만 보지 마세요…온라인에서도 '마블링' 보고 산다",
-              "url": "https://n.news.naver.com/mnews/article/018/0006360042?sid=101"
+              "title": "[기획] 편의점은 '초고가', 호텔은 '실속형'…명절 선물 '선택지'...",
+              "url": "https://www.sentv.co.kr/article/view/sentv202608270161"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "카카오 AI 인적분할",
-          "summary": "카카오가 카카오톡·광고·커머스·AI를 통합한 카카오AI 신설법인으로 분할하여 AI 기반 커머스 플랫폼 강화 및 기업가치 극대화 추진.",
+          "emoji": "📊",
+          "title": "컬리N마트 거래액 10배 증가",
+          "summary": "리테일 테크 기업 컬리의 네이버 협력 장보기 서비스 '컬리N마트'가 1년 만에 월 거래액 10배 증가로 AI 기반 리테일 혁신 성과 입증.",
           "articleIndices": [
-            4,
-            5
+            10
           ],
           "relatedLinks": [
             {
-              "title": "카카오 AI·투자 인적분할 승부수, 주주·노조 표 대결 진통",
-              "url": "https://www.globale.co.kr/news/articleView.html?idxno=40105"
-            },
-            {
-              "title": "0.36·0.64 카카오 분할, 주총 표계산 남았다",
-              "url": "https://www.tokenpost.kr/news/market/400509"
+              "title": "네이버서 통했다…컬리N마트, 1년 만에 거래액 10배",
+              "url": "https://www.sentv.co.kr/article/view/sentv202608310008"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -126,39 +100,40 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🧀",
-          "title": "농협목우촌 티니핑 협업",
-          "summary": "농협목우촌이 인기 캐릭터 '티니핑'과 협업한 치즈소시지 3종을 CU 편의점 단독 상품으로 출시하며 BGF리테일과 공동 프로모션 진행.",
+          "emoji": "🍷",
+          "title": "CU 한강 복소사주 출시",
+          "summary": "CU가 SNS 유행 '한강 복소사'를 RTD 상품으로 구현한 '복소사주' 출시로 복분자주 매출 31.4% 증가 및 한강 인근 점포 매출 급증 달성.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "농협목우촌, '티니핑' 치즈소시지 3종 CU 출격…편의점 접점 넓힌다",
-              "url": "https://www.apnews.kr/news/articleView.html?idxno=3050818"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🚴",
-          "title": "CU 배달라이더 쉼터",
-          "summary": "서울시와 협력하여 CU 편의점 3000곳을 배달라이더 공식 쉼터로 지정, 사회공헌과 고객 접점 확대를 동시에 달성하는 전략적 파트너십.",
-          "articleIndices": [
+            1,
             2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "\"잠시 쉬어가세요\" 서울시, CU 편의점 3000곳에 '배달라이더 쉼터'",
-              "url": "https://n.news.naver.com/mnews/article/016/0002689999?sid=102"
+              "title": "CU, 한강 휩쓴 K-음주 문화 '복소사주' 출시",
+              "url": "https://n.news.naver.com/mnews/article/421/0009140668?sid=101"
             },
             {
-              "title": "[비즈투데이] CU편의점, 서울시 손 잡고 배달 쉼터 활용",
-              "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1535655"
+              "title": "'복분자주에 소주·사이다'…CU, 한강서 뜬 '복소사주' 출시",
+              "url": "https://n.news.naver.com/mnews/article/003/0014157522?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
+        },
+        {
+          "emoji": "🍱",
+          "title": "CU 개강철 도시락 가격 인하",
+          "summary": "CU가 개강·개학 시즌 맞춰 도시락 가격을 최대 500원 인하하고 맛·구성·가성비를 강화한 '레벨업' 간편식 상품 순차 출시로 가성비 경쟁력 강화.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, 개강철 도시락 가격 최대 500원 낮춘다…'가성비 간편식' 승부",
+              "url": "https://www.apnews.kr/news/articleView.html?idxno=3050845"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -166,53 +141,52 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "📚",
-          "title": "GS25 민음사빵 대히트",
-          "summary": "GS25가 출판사 민음사와 협업한 '문학 빵'이 5일 만에 10만개 판매, 2030세대 트렌드를 즉각 반영한 편의점 디저트 마케팅의 성공 사례.",
+          "emoji": "🎁",
+          "title": "GS25 코웨이 비렉스 페스타",
+          "summary": "코웨이가 '비렉스 페스타' 프로모션에서 GS25 모바일 상품권을 경품으로 제공하며 편의점과의 협력 마케팅으로 고객 유입 확대.",
           "articleIndices": [
             1,
             2,
-            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "'민음사빵' 5일 만에 10만개…2030 유행 담는 편의점 빵",
-              "url": "https://www.sentv.co.kr/article/view/sentv202608280113"
+              "title": "'침대·안마의자 전부 1만 원에 렌탈'…코웨이, 가을 맞이 '비렉스 페스타'...",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=364463"
             },
             {
-              "title": "팬덤 찾고 트렌드 이끌어야…후발주자 이마트24 운명은",
-              "url": "https://n.news.naver.com/mnews/article/050/0000110260?sid=101"
+              "title": "코웨이, '비렉스 페스타' 진행...최대 15개월 월 1만 원 혜택",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=131216"
             }
           ],
-          "articleCount": 4
+          "articleCount": 3
         },
         {
-          "emoji": "🍜",
-          "title": "세븐일레븐 지역미식 냉장안주",
-          "summary": "세븐일레븐이 춘천, 안동, 대구 등 전국 유명 맛집 메뉴를 간편식으로 구현한 '세븐셀렉트 지역미식 냉장안주' 3종 출시로 프리미엄 간편식 시장 공략.",
+          "emoji": "💧",
+          "title": "세븐일레븐 엘:보틀 입점",
+          "summary": "롯데홈쇼핑의 프리미엄 음료 브랜드 '엘:보틀'이 세븐일레븐과 올리브베러 등에 입점하며 편의점 채널을 통한 오프라인 유통망 확대 본격화.",
           "articleIndices": [
-            6
+            5
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, '세븐셀렉트 지역미식 냉장안주' 3종 선봬",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=762305"
+              "title": "롯데홈쇼핑 '엘:보틀', 백화점 VIP 라운지 찍고 편의점 간다",
+              "url": "https://n.news.naver.com/mnews/article/003/0014157599?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎓",
+          "emoji": "👥",
           "title": "이마트24 편슐랭스타 5기",
-          "summary": "이마트24가 대학생 서포터즈 '편슐랭스타' 5기 발대식을 개최하여 MZ세대 타겟 마케팅 및 브랜드 충성도 강화 전략 추진.",
+          "summary": "이마트24가 Z세대 대학생 서포터즈 '편슐랭스타' 5기를 출범하여 소비자 아이디어를 실제 상품과 마케팅에 반영하는 혁신적 상품 개발 전략 추진.",
           "articleIndices": [
             8
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, 대학생 서포터즈 '편슐랭스타' 5기 발대식 진행",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=131168"
+              "title": "이마트24, 'Z세대 인사이트' 상품에 담는다…'편스타' 5기 출범",
+              "url": "https://www.apnews.kr/news/articleView.html?idxno=3050843"
             }
           ],
           "articleCount": 1
@@ -223,32 +197,37 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍞",
-          "title": "민음사빵 문학 디저트",
-          "summary": "GS25의 '민음사빵'이 출판사와의 협업으로 문학 콘텐츠를 담은 디저트로 5일 만에 10만개 판매, 2030세대의 트렌드 민감성을 반영한 편의점 간식 신트렌드 확립.",
+          "emoji": "🍹",
+          "title": "한강 복소사 RTD 상품화",
+          "summary": "CU가 SNS에서 유행한 '한강 복소사'를 복분자주·소주·사이다 조합의 RTD 상품으로 출시하며 소비자 트렌드 기반 신상품 개발 성공 사례 제시.",
           "articleIndices": [
             1,
-            2
+            2,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[홍승완의 M.S.G] 빵이 아니라 취향을 산다…'민음사빵' 품절 대란을 만든 이유",
-              "url": "https://www.ajunews.com/view/20260828145643059"
+              "title": "[오늘의신상]한강서 뜬 '복소사'…편의점 RTD",
+              "url": "https://n.news.naver.com/mnews/article/277/0005809272?sid=101"
+            },
+            {
+              "title": "'하루 장사에 물량 100배'…불꽃축제 앞두고 편의점 '대목 준비'",
+              "url": "https://n.news.naver.com/mnews/article/421/0009140560?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         },
         {
-          "emoji": "🌶️",
-          "title": "K소스 고추장 디저트",
-          "summary": "SNS에서 고추장을 활용한 이색 레시피가 인기를 끌면서 GS25가 고추장 쿠키 등 K소스 기반 디저트 제품을 출시, 해외 트렌드를 국내 편의점 상품으로 빠르게 구현.",
+          "emoji": "🔥",
+          "title": "불닭 디저트·굿즈 확대",
+          "summary": "불닭 브랜드가 편의점·면세점·대형마트에서 시식·포토부스·DJ 이벤트 등 체험형 마케팅과 함께 디저트·굿즈 판매로 소비자 경험 강화 및 매출 확대.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "고추장을 쿠키에?…해외서 뜨는 'K소스'의 변신[K홀릭]",
-              "url": "https://n.news.naver.com/mnews/article/277/0005809019?sid=104"
+              "title": "[K-푸드 브랜드의 힘③] '소비자경험' 더하니 새로운 '성장 공식'",
+              "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726968"
             }
           ],
           "articleCount": 1
