@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T00:00:11.892Z",
+  "generatedAt": "2026-09-01T00:51:42.665Z",
   "summary": [
-    "CU, SNS 유행 '한강 복소사' RTD 출시로 복분자주 매출 31.4% 증가",
-    "G마켓, 레트로 B급 마케팅으로 이커머스 시장 존재감 회복 본격화",
-    "이마트24, Z세대 대학생 서포터즈 '편슐랭스타' 5기로 상품 개발 혁신"
+    "CU, 리센느와 전국 1만8800개 점포 규모 브랜드 캠페인 시작",
+    "GS리테일, 챗GPT 연동으로 AI 쇼핑 플랫폼 강화",
+    "세븐일레븐, 경희대와 AI·빅데이터 기반 점포 운영 혁신 추진"
   ],
   "categories": [
     {
@@ -11,30 +11,30 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "G마켓 B급 마케팅 전환",
-          "summary": "G마켓이 레트로 B급 콘텐츠 마케팅으로 이커머스 시장에서 약해진 존재감을 회복하며 새로운 차별화 전략 추진.",
+          "title": "2030 감성 마케팅 확산",
+          "summary": "유통가가 제품 설명보다 감정과 라이프스타일을 담은 마케팅으로 2030 소비자를 공략하는 추세 확산 중.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[그때 그 광고]'얼마나 좋아!'…G마켓, 'B급 콘텐츠' 명가로 급부상",
-              "url": "https://n.news.naver.com/mnews/article/648/0000050289?sid=101"
+              "title": "\"숙취해소제 광고에 왜 연애가?\"…유통가, 2030 '썸' 파고든다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004155304?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌿",
-          "title": "편의점 건강식품 판매 확대",
-          "summary": "CU·GS25·세븐일레븐이 건강식품 판매 인허가를 확대하며 편의점 계산대 앞 진열 상품 구성을 건강 우선으로 재편.",
+          "emoji": "☕",
+          "title": "계절 쇼핑 시즌 차별화 프로모션",
+          "summary": "가을 시즌 이사·혼수·신학기 수요 집중에 대응한 대규모 프로모션과 타겟 마케팅 경쟁 심화.",
           "articleIndices": [
-            3
+            5
           ],
           "relatedLinks": [
             {
-              "title": "껌 대신 비타민…'건강 우선' 편의점 계산대 앞 진열대도 바꿨다",
-              "url": "https://n.news.naver.com/mnews/article/018/0006360689?sid=101"
+              "title": "11번가, 가을 쇼핑 시즌 맞이 대규모 프로모션 전개",
+              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207482"
             }
           ],
           "articleCount": 1
@@ -45,16 +45,37 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "롯데온 가을 뷰티 대전 '뷰세라'",
-          "summary": "롯데온이 FW 시즌 맞춰 연간 최대 규모 화장품 할인 행사 '뷰세라'로 뷰티 버티컬 경쟁력 강화 및 매출 확대 추진.",
+          "emoji": "📺",
+          "title": "홈쇼핑 브랜드 평판 경쟁",
+          "summary": "롯데홈쇼핑 선두 유지 가운데 홈앤쇼핑이 30% 급등하며 소통·확산 지수 중심의 브랜드 경쟁 심화.",
           "articleIndices": [
-            6
+            1,
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "롯데온, 가을 뷰티 대전 '뷰세라' 개막… '최대 80% 할인 혜택 제공'",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=117119"
+              "title": "롯데홈쇼핑, 9월 홈쇼핑 평판 1위 독주…홈앤쇼핑 30% '폭풍 성장'",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=131363"
+            },
+            {
+              "title": "소비자 온라인 습관이 가른 홈쇼핑 순위, 1위는 롯데홈쇼핑",
+              "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275890"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "💳",
+          "title": "버티컬 커머스 PLCC 전략",
+          "summary": "신한카드가 지그재그와 첫 PLCC 출시하며 금융사의 버티컬 플랫폼 제휴 기반 영타깃 마케팅 확대.",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "신한카드, 2030 여성 패션 플랫폼 '지그재그'와 첫 PLCC 출시",
+              "url": "http://www.srtimes.kr/news/articleView.html?idxno=211297"
             }
           ],
           "articleCount": 1
@@ -66,33 +87,44 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "CU 휴머노이드 로봇 추석 선물",
-          "summary": "CU가 추석 선물로 휴머노이드 로봇을 앞세워 최신 AI·로봇 트렌드와 상품 소싱 역량을 소비자에게 시연하는 프리미엄 마케팅 전개.",
+          "title": "챗GPT 연동 AI 쇼핑 플랫폼",
+          "summary": "GS리테일이 챗GPT 플러그인으로 상품 탐색·추천·매장 정보 연동을 통해 AI 기반 쇼핑 경험 제공 시작.",
           "articleIndices": [
-            1
+            1,
+            2,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[기획] 편의점은 '초고가', 호텔은 '실속형'…명절 선물 '선택지'...",
-              "url": "https://www.sentv.co.kr/article/view/sentv202608270161"
+              "title": "GS리테일, '우리동네GS'에 챗GPT 연동…AI 쇼핑 강화",
+              "url": "https://www.sentv.co.kr/article/view/sentv202609010035"
+            },
+            {
+              "title": "'탐색부터 추천까지'…GS리테일, 연동 전용 플러그인 출시",
+              "url": "https://n.news.naver.com/mnews/article/215/0001264371?sid=103"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         },
         {
-          "emoji": "📊",
-          "title": "컬리N마트 거래액 10배 증가",
-          "summary": "리테일 테크 기업 컬리의 네이버 협력 장보기 서비스 '컬리N마트'가 1년 만에 월 거래액 10배 증가로 AI 기반 리테일 혁신 성과 입증.",
+          "emoji": "🏪",
+          "title": "편의점 AI 점포 운영 혁신",
+          "summary": "세븐일레븐·CU 등 편의점이 AI·빅데이터를 상품 추천·결제·발주·재고 관리 등 점포 운영 전반에 적용 추진.",
           "articleIndices": [
-            10
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "네이버서 통했다…컬리N마트, 1년 만에 거래액 10배",
-              "url": "https://www.sentv.co.kr/article/view/sentv202608310008"
+              "title": "[유통포커스] 편의점도 AI 시대…상품 추천부터 결제·발주까지 바뀐다",
+              "url": "http://www.newsian.co.kr/news/articleView.html?idxno=94551"
+            },
+            {
+              "title": "[편의점 브리핑] CU 리센느 마케팅·세븐일레븐 AI 산학협력·이마트24 라...",
+              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=79285"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -100,9 +132,9 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍷",
-          "title": "CU 한강 복소사주 출시",
-          "summary": "CU가 SNS 유행 '한강 복소사'를 RTD 상품으로 구현한 '복소사주' 출시로 복분자주 매출 31.4% 증가 및 한강 인근 점포 매출 급증 달성.",
+          "emoji": "🎤",
+          "title": "리센느 전국 브랜드 캠페인",
+          "summary": "CU가 걸그룹 리센느를 브랜드 모델로 전국 1만8800개 점포와 온라인 채널을 활용한 '일상의 모든 Scene, CU' 캠페인 전개.",
           "articleIndices": [
             1,
             2,
@@ -110,30 +142,15 @@
           ],
           "relatedLinks": [
             {
-              "title": "CU, 한강 휩쓴 K-음주 문화 '복소사주' 출시",
-              "url": "https://n.news.naver.com/mnews/article/421/0009140668?sid=101"
+              "title": "CU, 리센느와 전국 단위 브랜드 캠페인…1만8800여 점포 활용",
+              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128970"
             },
             {
-              "title": "'복분자주에 소주·사이다'…CU, 한강서 뜬 '복소사주' 출시",
-              "url": "https://n.news.naver.com/mnews/article/003/0014157522?sid=101"
+              "title": "CU, 걸그룹 '리센느'와 대규모 브랜드 캠페인 가동… 온·오프라인 팬...",
+              "url": "https://thetracker.co.kr/View.aspx?No=4207252"
             }
           ],
           "articleCount": 3
-        },
-        {
-          "emoji": "🍱",
-          "title": "CU 개강철 도시락 가격 인하",
-          "summary": "CU가 개강·개학 시즌 맞춰 도시락 가격을 최대 500원 인하하고 맛·구성·가성비를 강화한 '레벨업' 간편식 상품 순차 출시로 가성비 경쟁력 강화.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 개강철 도시락 가격 최대 500원 낮춘다…'가성비 간편식' 승부",
-              "url": "https://www.apnews.kr/news/articleView.html?idxno=3050845"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -141,52 +158,56 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "GS25 코웨이 비렉스 페스타",
-          "summary": "코웨이가 '비렉스 페스타' 프로모션에서 GS25 모바일 상품권을 경품으로 제공하며 편의점과의 협력 마케팅으로 고객 유입 확대.",
+          "emoji": "🤖",
+          "title": "GS25 챗GPT 쇼핑 플랫폼",
+          "summary": "GS리테일이 챗GPT 연동으로 상품 추천·매장 정보 제공 등 AI 기반 쇼핑 경험 강화하며 디지털 차별화 추진.",
           "articleIndices": [
-            1,
             2,
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'침대·안마의자 전부 1만 원에 렌탈'…코웨이, 가을 맞이 '비렉스 페스타'...",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=364463"
+              "title": "GS리테일, 'AI 쇼핑' 승부수…챗GPT로 상품 추천부터 매장 방문까지 연...",
+              "url": "https://www.viva100.com/article/20260901500336"
             },
             {
-              "title": "코웨이, '비렉스 페스타' 진행...최대 15개월 월 1만 원 혜택",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=131216"
+              "title": "[유통갤러리] 롯데백화점, 잠실서 '심문섭 개인전' 개최 外",
+              "url": "https://theviewers.co.kr/View.aspx?No=4207139"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
-          "emoji": "💧",
-          "title": "세븐일레븐 엘:보틀 입점",
-          "summary": "롯데홈쇼핑의 프리미엄 음료 브랜드 '엘:보틀'이 세븐일레븐과 올리브베러 등에 입점하며 편의점 채널을 통한 오프라인 유통망 확대 본격화.",
+          "emoji": "🎓",
+          "title": "세븐일레븐 경희대 AI 산학협력",
+          "summary": "세븐일레븐이 경희대와 개발한 AI·빅데이터 기술을 점포 운영에 적용하며 인턴십 연계로 현장 혁신 추진.",
           "articleIndices": [
+            4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "롯데홈쇼핑 '엘:보틀', 백화점 VIP 라운지 찍고 편의점 간다",
-              "url": "https://n.news.naver.com/mnews/article/003/0014157599?sid=101"
+              "title": "[유통브리핑] GS리테일, '챗GPT 쇼핑' 시작 외",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=636897"
+            },
+            {
+              "title": "대학생 AI 아이디어, 현장 적용 검토한다…세븐일레븐, 경희대와 산학협...",
+              "url": "https://n.news.naver.com/mnews/article/014/0005569085?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "👥",
-          "title": "이마트24 편슐랭스타 5기",
-          "summary": "이마트24가 Z세대 대학생 서포터즈 '편슐랭스타' 5기를 출범하여 소비자 아이디어를 실제 상품과 마케팅에 반영하는 혁신적 상품 개발 전략 추진.",
+          "emoji": "🍜",
+          "title": "이마트24 라면 성수기 캠페인",
+          "summary": "이마트24가 9월 라면 수요 성수기를 겨냥해 '10년 전 가격' 720원대 라면 9종 라인업으로 차별화 공략.",
           "articleIndices": [
-            8
+            6
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, 'Z세대 인사이트' 상품에 담는다…'편스타' 5기 출범",
-              "url": "https://www.apnews.kr/news/articleView.html?idxno=3050843"
+              "title": "[유통딜리버리] 롯데百ㆍ현대百ㆍ이마트ㆍ롯데마트ㆍCUㆍㆍW컨셉ㆍSSG닷...",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609010908245110091"
             }
           ],
           "articleCount": 1
@@ -197,37 +218,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍹",
-          "title": "한강 복소사 RTD 상품화",
-          "summary": "CU가 SNS에서 유행한 '한강 복소사'를 복분자주·소주·사이다 조합의 RTD 상품으로 출시하며 소비자 트렌드 기반 신상품 개발 성공 사례 제시.",
+          "emoji": "🍜",
+          "title": "편의점 라면 가격 경쟁",
+          "summary": "이마트24가 '10년 전 가격' 720원대 라면 9종으로 성수기 공략하며 편의점 간 가성비 상품 경쟁 심화.",
           "articleIndices": [
-            1,
-            2,
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"라면 한 개 720원\"…이마트24, '10년 전 가격' 내세워 라면 성수기...",
+              "url": "https://www.viva100.com/article/20260901500096"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🚬",
+          "title": "릴 토니노 람보르기니 신제품",
+          "summary": "KT&G가 '초고속 3초 예열' 기능의 궐련형 전자담배 신제품을 9월 15일 출시하며 편의점 채널 확대.",
+          "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의신상]한강서 뜬 '복소사'…편의점 RTD",
-              "url": "https://n.news.naver.com/mnews/article/277/0005809272?sid=101"
-            },
-            {
-              "title": "'하루 장사에 물량 100배'…불꽃축제 앞두고 편의점 '대목 준비'",
-              "url": "https://n.news.naver.com/mnews/article/421/0009140560?sid=101"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🔥",
-          "title": "불닭 디저트·굿즈 확대",
-          "summary": "불닭 브랜드가 편의점·면세점·대형마트에서 시식·포토부스·DJ 이벤트 등 체험형 마케팅과 함께 디저트·굿즈 판매로 소비자 경험 강화 및 매출 확대.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[K-푸드 브랜드의 힘③] '소비자경험' 더하니 새로운 '성장 공식'",
-              "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726968"
+              "title": "'초고속 3초 예열' 전자담배 '릴 토니노 람보르기니' 15일 나온다",
+              "url": "http://www.newsbrite.net/news/articleView.html?idxno=200083"
             }
           ],
           "articleCount": 1
