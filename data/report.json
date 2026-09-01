@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-01T00:51:42.665Z",
+  "generatedAt": "2026-09-01T23:38:03.372Z",
   "summary": [
-    "CU, 리센느와 전국 1만8800개 점포 규모 브랜드 캠페인 시작",
-    "GS리테일, 챗GPT 연동으로 AI 쇼핑 플랫폼 강화",
-    "세븐일레븐, 경희대와 AI·빅데이터 기반 점포 운영 혁신 추진"
+    "CU, 아이돌 그룹 리센느와 브랜드 캠페인으로 팬덤 마케팅 확대",
+    "GS25·세븐일레븐·이마트24, 협업 신상품으로 차별화 경쟁 심화",
+    "유통업계, AI 활용해 상품 개발·재고 예측·개인화 마케팅 고도화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "2030 감성 마케팅 확산",
-          "summary": "유통가가 제품 설명보다 감정과 라이프스타일을 담은 마케팅으로 2030 소비자를 공략하는 추세 확산 중.",
+          "emoji": "🛒",
+          "title": "국산 배추 신뢰도 강화",
+          "summary": "중국산 배추 이슈로 유통업계가 국산 배추의 생산지·유통 과정을 투명하게 표시하는 '출생증명서' 마케팅으로 소비자 신뢰 회복을 추진 중.",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "\"숙취해소제 광고에 왜 연애가?\"…유통가, 2030 '썸' 파고든다",
-              "url": "https://n.news.naver.com/mnews/article/022/0004155304?sid=101"
+              "title": "배추도 '스펙' 따진다…中 '발암 배추' 쇼크에 '출생증명서' 뗀...",
+              "url": "https://n.news.naver.com/mnews/article/029/0003045643?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "☕",
-          "title": "계절 쇼핑 시즌 차별화 프로모션",
-          "summary": "가을 시즌 이사·혼수·신학기 수요 집중에 대응한 대규모 프로모션과 타겟 마케팅 경쟁 심화.",
+          "emoji": "🤖",
+          "title": "AI 초개인화 마케팅 경쟁",
+          "summary": "신세계백화점 등 유통 대기업들이 AI 기반 초개인화 전략으로 고객 선택을 유도하는 경쟁이 심화되며, 고객 확보가 핵심 경쟁 요소로 부상.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "11번가, 가을 쇼핑 시즌 맞이 대규모 프로모션 전개",
-              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207482"
+              "title": "유통가 AI 경쟁의 명암…\"고객을 잡느냐, 뺏기느냐\"[경제밥도둑]",
+              "url": "https://n.news.naver.com/mnews/article/032/0003467926?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,37 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📺",
-          "title": "홈쇼핑 브랜드 평판 경쟁",
-          "summary": "롯데홈쇼핑 선두 유지 가운데 홈앤쇼핑이 30% 급등하며 소통·확산 지수 중심의 브랜드 경쟁 심화.",
-          "articleIndices": [
-            1,
-            6,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "롯데홈쇼핑, 9월 홈쇼핑 평판 1위 독주…홈앤쇼핑 30% '폭풍 성장'",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=131363"
-            },
-            {
-              "title": "소비자 온라인 습관이 가른 홈쇼핑 순위, 1위는 롯데홈쇼핑",
-              "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275890"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
           "emoji": "💳",
-          "title": "버티컬 커머스 PLCC 전략",
-          "summary": "신한카드가 지그재그와 첫 PLCC 출시하며 금융사의 버티컬 플랫폼 제휴 기반 영타깃 마케팅 확대.",
+          "title": "버티컬 커머스 PLCC 확대",
+          "summary": "신한카드가 패션 플랫폼 지그재그와 첫 PLCC를 출시하며, 카드사들의 버티컬 커머스 플랫폼 제휴 마케팅이 2030 여성 타겟 공략으로 확산 중.",
           "articleIndices": [
-            8
+            5
           ],
           "relatedLinks": [
             {
               "title": "신한카드, 2030 여성 패션 플랫폼 '지그재그'와 첫 PLCC 출시",
               "url": "http://www.srtimes.kr/news/articleView.html?idxno=211297"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📺",
+          "title": "TV홈쇼핑 방송·이커머스 융합",
+          "summary": "롯데홈쇼핑이 9월 평판 1위를 차지하며, TV홈쇼핑이 방송·이커머스·IP 사업을 융합한 통합 마케팅으로 일상 소비 주도 전략을 강화 중.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "롯데홈쇼핑, 9월 홈쇼핑 평판 1위 독주…홈앤쇼핑 30% '폭풍 성장'",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=131363"
             }
           ],
           "articleCount": 1
@@ -86,45 +80,34 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "챗GPT 연동 AI 쇼핑 플랫폼",
-          "summary": "GS리테일이 챗GPT 플러그인으로 상품 탐색·추천·매장 정보 연동을 통해 AI 기반 쇼핑 경험 제공 시작.",
+          "emoji": "🎯",
+          "title": "AI 기반 상품 개발·재고 관리",
+          "summary": "유통업계가 AI를 챗봇 단계를 넘어 상품 개발·판매량 예측·배송·품질 관리까지 확대 적용하며, AI가 유통 전 과정의 의사결정을 주도하는 단계로 진화 중.",
           "articleIndices": [
-            1,
-            2,
-            7
+            3
           ],
           "relatedLinks": [
             {
-              "title": "GS리테일, '우리동네GS'에 챗GPT 연동…AI 쇼핑 강화",
-              "url": "https://www.sentv.co.kr/article/view/sentv202609010035"
-            },
-            {
-              "title": "'탐색부터 추천까지'…GS리테일, 연동 전용 플러그인 출시",
-              "url": "https://n.news.naver.com/mnews/article/215/0001264371?sid=103"
+              "title": "'AI가 상품도 만든다'…챗봇 넘어 유통 현장 파고든 AI",
+              "url": "https://n.news.naver.com/mnews/article/421/0009145252?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "편의점 AI 점포 운영 혁신",
-          "summary": "세븐일레븐·CU 등 편의점이 AI·빅데이터를 상품 추천·결제·발주·재고 관리 등 점포 운영 전반에 적용 추진.",
+          "emoji": "🎬",
+          "title": "콘텐츠 커머스 AI 매칭 고도화",
+          "summary": "CJ온스타일의 '온트너' 플랫폼이 AI와 데이터를 결합해 콘텐츠 기반 상품 발견과 성과 예측 기능을 고도화하며, 콘텐츠 커머스의 경쟁력 강화 중.",
           "articleIndices": [
-            3,
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[유통포커스] 편의점도 AI 시대…상품 추천부터 결제·발주까지 바뀐다",
-              "url": "http://www.newsian.co.kr/news/articleView.html?idxno=94551"
-            },
-            {
-              "title": "[편의점 브리핑] CU 리센느 마케팅·세븐일레븐 AI 산학협력·이마트24 라...",
-              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=79285"
+              "title": "CJ온스타일, 매칭 플랫폼 '온트너' 출범",
+              "url": "https://www.fntimes.com/html/view.php?ud=202609020829448118923defd0cc_18"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -133,24 +116,25 @@
       "issues": [
         {
           "emoji": "🎤",
-          "title": "리센느 전국 브랜드 캠페인",
-          "summary": "CU가 걸그룹 리센느를 브랜드 모델로 전국 1만8800개 점포와 온라인 채널을 활용한 '일상의 모든 Scene, CU' 캠페인 전개.",
+          "title": "리센느 브랜드 캠페인 확대",
+          "summary": "CU가 아이돌 그룹 리센느를 브랜드 모델로 '일상의 모든 Scene, CU' 캠페인을 9월 본격 추진하며, 전국 1만8800개 점포에서 팬덤 마케팅으로 매출 48% 증가 효과 기대.",
           "articleIndices": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "CU, 리센느와 전국 단위 브랜드 캠페인…1만8800여 점포 활용",
-              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128970"
+              "title": "LG전자는 '에이아이돌' 파격 실험… CU·동아오츠카는 '리센느'로 통했다",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423872"
             },
             {
-              "title": "CU, 걸그룹 '리센느'와 대규모 브랜드 캠페인 가동… 온·오프라인 팬...",
-              "url": "https://thetracker.co.kr/View.aspx?No=4207252"
+              "title": "CU, 전국 1만8800개 점포에 리센느 띄운다... 아이돌 팬덤 마케팅 확대",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207369"
             }
           ],
-          "articleCount": 3
+          "articleCount": 4
         }
       ]
     },
@@ -158,56 +142,47 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "GS25 챗GPT 쇼핑 플랫폼",
-          "summary": "GS리테일이 챗GPT 연동으로 상품 추천·매장 정보 제공 등 AI 기반 쇼핑 경험 강화하며 디지털 차별화 추진.",
+          "emoji": "🍞",
+          "title": "GS25 민음사 협업 빵 대히트",
+          "summary": "GS25가 민음사와 협업한 빵이 출시 직후 35만 개 판매를 기록하며 편의점 순례와 웃돈 거래까지 발생, 랜덤 굿즈 마케팅의 강력한 소비 유도 효과 입증.",
           "articleIndices": [
-            2,
-            3
+            2
           ],
           "relatedLinks": [
             {
-              "title": "GS리테일, 'AI 쇼핑' 승부수…챗GPT로 상품 추천부터 매장 방문까지 연...",
-              "url": "https://www.viva100.com/article/20260901500336"
-            },
-            {
-              "title": "[유통갤러리] 롯데백화점, 잠실서 '심문섭 개인전' 개최 外",
-              "url": "https://theviewers.co.kr/View.aspx?No=4207139"
+              "title": "[핌 포커스] '빵 있어요?' 아침부터 편의점 순례…다시 불붙은 '랜덤 굿...",
+              "url": "https://www.newspim.com/news/view/20260901001122"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🎓",
-          "title": "세븐일레븐 경희대 AI 산학협력",
-          "summary": "세븐일레븐이 경희대와 개발한 AI·빅데이터 기술을 점포 운영에 적용하며 인턴십 연계로 현장 혁신 추진.",
+          "emoji": "🍿",
+          "title": "세븐일레븐 CGV 팝콘 협업",
+          "summary": "세븐일레븐이 CGV와 협업해 영화관 팝콘을 편의점 상품으로 선보이는 '시네마 팝콘' 프로젝트를 시작하며, 영화관 경험을 편의점으로 확장하는 차별화 전략 추진.",
           "articleIndices": [
-            4,
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "[유통브리핑] GS리테일, '챗GPT 쇼핑' 시작 외",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=636897"
-            },
-            {
-              "title": "대학생 AI 아이디어, 현장 적용 검토한다…세븐일레븐, 경희대와 산학협...",
-              "url": "https://n.news.naver.com/mnews/article/014/0005569085?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍜",
-          "title": "이마트24 라면 성수기 캠페인",
-          "summary": "이마트24가 9월 라면 수요 성수기를 겨냥해 '10년 전 가격' 720원대 라면 9종 라인업으로 차별화 공략.",
-          "articleIndices": [
+            5,
             6
           ],
           "relatedLinks": [
             {
-              "title": "[유통딜리버리] 롯데百ㆍ현대百ㆍ이마트ㆍ롯데마트ㆍCUㆍㆍW컨셉ㆍSSG닷...",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609010908245110091"
+              "title": "'영화관 팝콘이 편의점에'…세븐일레븐, CGV와 협업 상품 출시",
+              "url": "https://n.news.naver.com/mnews/article/421/0009145343?sid=101"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🎮",
+          "title": "이마트24 게임 협업 간편식",
+          "summary": "이마트24가 컴투스의 신작 MMORPG '제우스: 오만의 신'과 협업해 제육 간편식 5종을 출시하며, 게임 IP를 활용한 차별화 상품 라인업 확대 전략 추진.",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트24, 게임 '제우스' 협업 간편식 출시",
+              "url": "https://n.news.naver.com/mnews/article/421/0009145335?sid=101"
             }
           ],
           "articleCount": 1
@@ -218,34 +193,35 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍜",
-          "title": "편의점 라면 가격 경쟁",
-          "summary": "이마트24가 '10년 전 가격' 720원대 라면 9종으로 성수기 공략하며 편의점 간 가성비 상품 경쟁 심화.",
+          "emoji": "🍰",
+          "title": "제로 디저트 2030 트렌드",
+          "summary": "대학가에 제로 칼로리·저당 디저트 전문점이 확산되며, 체중 관리를 중시하는 2030 세대의 건강한 간식 수요가 편의점 디저트 시장을 재편하는 중.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "\"라면 한 개 720원\"…이마트24, '10년 전 가격' 내세워 라면 성수기...",
-              "url": "https://www.viva100.com/article/20260901500096"
+              "title": "당·칼로리 걱정 내려놓고픈 2030…대학가에 퍼지는 '제로 편의점'[출동...",
+              "url": "https://n.news.naver.com/mnews/article/003/0014162894?sid=102"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🚬",
-          "title": "릴 토니노 람보르기니 신제품",
-          "summary": "KT&G가 '초고속 3초 예열' 기능의 궐련형 전자담배 신제품을 9월 15일 출시하며 편의점 채널 확대.",
+          "emoji": "🍜",
+          "title": "이마트24 차별화 라면 할인",
+          "summary": "이마트24가 신상품 4종을 추가해 총 9종의 차별화 라면 라인업을 구축하고, 10년 전 가격 수준까지 체감 가격을 낮춘 프로모션으로 라면 시장 선점 전략 추진.",
           "articleIndices": [
-            4
+            5,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "'초고속 3초 예열' 전자담배 '릴 토니노 람보르기니' 15일 나온다",
-              "url": "http://www.newsbrite.net/news/articleView.html?idxno=200083"
+              "title": "'라면 한 개 720원'…이마트24, 혜택 적용하면 10년 전 가격 수준",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=273152"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     }
