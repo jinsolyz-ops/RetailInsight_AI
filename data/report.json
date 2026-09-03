@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-01T23:38:03.372Z",
+  "generatedAt": "2026-09-03T23:37:53.996Z",
   "summary": [
-    "CU, 아이돌 그룹 리센느와 브랜드 캠페인으로 팬덤 마케팅 확대",
-    "GS25·세븐일레븐·이마트24, 협업 신상품으로 차별화 경쟁 심화",
-    "유통업계, AI 활용해 상품 개발·재고 예측·개인화 마케팅 고도화"
+    "CU, KT와 RMN 계약으로 3000개 매장 디지털 사이니지 광고 플랫폼 연계",
+    "CU, BAKE405 리브랜딩으로 편의점 베이커리 2.0시대 개막…3년간 3500만개 판매 실적",
+    "편의점 디저트 시장 경쟁 심화: 한정선·세븐일레븐·CU 글로벌 소싱·K-디저트로 차별화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "국산 배추 신뢰도 강화",
-          "summary": "중국산 배추 이슈로 유통업계가 국산 배추의 생산지·유통 과정을 투명하게 표시하는 '출생증명서' 마케팅으로 소비자 신뢰 회복을 추진 중.",
+          "emoji": "📱",
+          "title": "통신사 보조금 경쟁",
+          "summary": "아이폰 신작 출시 시즌 통신사의 유통점 마케팅 비용(리베이트) 경쟁 심화로 소비자 추가지원금 확대.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "배추도 '스펙' 따진다…中 '발암 배추' 쇼크에 '출생증명서' 뗀...",
-              "url": "https://n.news.naver.com/mnews/article/029/0003045643?sid=101"
+              "title": "'아이폰17 '차비폰' 됐다'… 아이폰 신작 출시에 통신사 보조금 경쟁 시...",
+              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169405"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "AI 초개인화 마케팅 경쟁",
-          "summary": "신세계백화점 등 유통 대기업들이 AI 기반 초개인화 전략으로 고객 선택을 유도하는 경쟁이 심화되며, 고객 확보가 핵심 경쟁 요소로 부상.",
+          "emoji": "🏬",
+          "title": "소비 양극화 심화",
+          "summary": "상위 10개 점포에 매출 절반 쏠림 현상으로 백화점 호황 속 소비 양극화 심화, 마케팅만으로 격차 해소 어려움.",
           "articleIndices": [
-            5
+            3
           ],
           "relatedLinks": [
             {
-              "title": "유통가 AI 경쟁의 명암…\"고객을 잡느냐, 뺏기느냐\"[경제밥도둑]",
-              "url": "https://n.news.naver.com/mnews/article/032/0003467926?sid=101"
+              "title": "\"상위 10개 점포에 매출 절반 쏠림…백화점 호황, 소비 양극화의 산물...",
+              "url": "https://n.news.naver.com/mnews/article/018/0006363424?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "💳",
-          "title": "버티컬 커머스 PLCC 확대",
-          "summary": "신한카드가 패션 플랫폼 지그재그와 첫 PLCC를 출시하며, 카드사들의 버티컬 커머스 플랫폼 제휴 마케팅이 2030 여성 타겟 공략으로 확산 중.",
+          "emoji": "📸",
+          "title": "인스타매거진 미디어화",
+          "summary": "인스타그램이 캐러셀·릴스 콘텐츠로 젊은층 공략하며 SNS를 넘어 미디어·이커머스 플랫폼으로 진화 중.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "신한카드, 2030 여성 패션 플랫폼 '지그재그'와 첫 PLCC 출시",
-              "url": "http://www.srtimes.kr/news/articleView.html?idxno=211297"
+              "title": "인스타매거진, 캐러셀·릴스로 젊은 이용자 공략…SNS 넘어 미디어로",
+              "url": "https://n.news.naver.com/mnews/article/119/0003128724?sid=103"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📺",
-          "title": "TV홈쇼핑 방송·이커머스 융합",
-          "summary": "롯데홈쇼핑이 9월 평판 1위를 차지하며, TV홈쇼핑이 방송·이커머스·IP 사업을 융합한 통합 마케팅으로 일상 소비 주도 전략을 강화 중.",
+          "emoji": "🏪",
+          "title": "오프라인 유통 구조조정",
+          "summary": "이커머스 확산으로 위축된 오프라인 유통(홈플러스 등)이 인력효율화·납품대금 변제로 경쟁력 회복 추진 중.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "롯데홈쇼핑, 9월 홈쇼핑 평판 1위 독주…홈앤쇼핑 30% '폭풍 성장'",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=131363"
+              "title": "한숨 돌린 홈플러스…'인력효율화·납품대금 변제'가 관건",
+              "url": "https://n.news.naver.com/mnews/article/016/0002692416?sid=101"
             }
           ],
           "articleCount": 1
@@ -80,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "AI 기반 상품 개발·재고 관리",
-          "summary": "유통업계가 AI를 챗봇 단계를 넘어 상품 개발·판매량 예측·배송·품질 관리까지 확대 적용하며, AI가 유통 전 과정의 의사결정을 주도하는 단계로 진화 중.",
+          "emoji": "🤖",
+          "title": "국산 로봇청소기 굿즈 마케팅",
+          "summary": "LG전자 로봇청소기가 AI 사물 인식·스팀 기술 기반 '귀여움 장착' 굿즈로 소비자 감정 마케팅 강화.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'AI가 상품도 만든다'…챗봇 넘어 유통 현장 파고든 AI",
-              "url": "https://n.news.naver.com/mnews/article/421/0009145252?sid=101"
+              "title": "[비즈&플러스] 국산 로봇청소기의 반격‥귀여움 장착 굿즈 불티",
+              "url": "https://n.news.naver.com/mnews/article/214/0001522009?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎬",
-          "title": "콘텐츠 커머스 AI 매칭 고도화",
-          "summary": "CJ온스타일의 '온트너' 플랫폼이 AI와 데이터를 결합해 콘텐츠 기반 상품 발견과 성과 예측 기능을 고도화하며, 콘텐츠 커머스의 경쟁력 강화 중.",
+          "emoji": "💡",
+          "title": "리테일 AI 기술 혁신",
+          "summary": "롯데하이마트 갤럭시 S26 FE 판매에서 AI 카메라 기능과 구독형 모바일 요금제 결합으로 고객 부담 경감.",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "CJ온스타일, 매칭 플랫폼 '온트너' 출범",
-              "url": "https://www.fntimes.com/html/view.php?ud=202609020829448118923defd0cc_18"
+              "title": "'체험하고 요금 줄이고'… 롯데하이마트 '갤럭시 S26 FE' 판매 돌입",
+              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3074257"
             }
           ],
           "articleCount": 1
@@ -115,26 +115,61 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎤",
-          "title": "리센느 브랜드 캠페인 확대",
-          "summary": "CU가 아이돌 그룹 리센느를 브랜드 모델로 '일상의 모든 Scene, CU' 캠페인을 9월 본격 추진하며, 전국 1만8800개 점포에서 팬덤 마케팅으로 매출 48% 증가 효과 기대.",
+          "emoji": "📡",
+          "title": "KT RMN 계약 체결",
+          "summary": "KT가 CU 3000개 매장 디지털 사이니지를 '바로광고' AI 플랫폼과 연계해 리테일 미디어 사업 확장.",
           "articleIndices": [
             1,
-            2,
-            3,
-            5
+            2
           ],
           "relatedLinks": [
             {
-              "title": "LG전자는 '에이아이돌' 파격 실험… CU·동아오츠카는 '리센느'로 통했다",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423872"
+              "title": "KT 축적 빅데이터, CU 매장에 쓰인다…RMN 계약 체결",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=273660"
             },
             {
-              "title": "CU, 전국 1만8800개 점포에 리센느 띄운다... 아이돌 팬덤 마케팅 확대",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207369"
+              "title": "KT, CU서 디지털 사이니지 광고 선봬… 리테일 미디어 사업 확장",
+              "url": "http://www.thebigdata.co.kr/view.php?ud=2026090317211596610a47484cf8_23"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍞",
+          "title": "BAKE405 리브랜딩",
+          "summary": "CU, 3년간 3500만개 판매 실적의 베이크하우스405를 BAKE405로 리브랜딩하며 편의점 베이커리 2.0시대 개막.",
+          "articleIndices": [
+            3,
+            5,
+            6,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "'3년간 3500만개 팔렸다'... CU, 'BAKE405'로 개편",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207659"
+            },
+            {
+              "title": "\"BAKE405 리브랜딩\" CU, 편의점 베이커리 2.0시대 연다",
+              "url": "https://www.fntimes.com/html/view.php?ud=202609031522435864b5b890e35c_18"
             }
           ],
           "articleCount": 4
+        },
+        {
+          "emoji": "🎬",
+          "title": "캐치! 티니핑 협업",
+          "summary": "CU, 목우촌과 '캐치! 티니핑' 협업 치즈소시지 3종 출시로 IP 기반 한정 상품 프로모션 강화.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "'캐치! 티니핑' 이제 CU 편의점에서 만나요",
+              "url": "http://www.amnews.co.kr/news/articleView.html?idxno=74327"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -142,47 +177,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍞",
-          "title": "GS25 민음사 협업 빵 대히트",
-          "summary": "GS25가 민음사와 협업한 빵이 출시 직후 35만 개 판매를 기록하며 편의점 순례와 웃돈 거래까지 발생, 랜덤 굿즈 마케팅의 강력한 소비 유도 효과 입증.",
+          "emoji": "🎯",
+          "title": "GS25 한정선 협업",
+          "summary": "GS25, K-디저트 브랜드 한정선과 협업해 '요거트 찹쌀떡' 냉동 디저트 출시로 프리미엄 디저트 시장 공략.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[핌 포커스] '빵 있어요?' 아침부터 편의점 순례…다시 불붙은 '랜덤 굿...",
-              "url": "https://www.newspim.com/news/view/20260901001122"
+              "title": "GS리테일 '한정선 요거트 찹쌀떡' 출시...'챗GPT 전용 플러그인' 선보여",
+              "url": "http://www.wsobi.com/news/articleView.html?idxno=317543"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍿",
-          "title": "세븐일레븐 CGV 팝콘 협업",
-          "summary": "세븐일레븐이 CGV와 협업해 영화관 팝콘을 편의점 상품으로 선보이는 '시네마 팝콘' 프로젝트를 시작하며, 영화관 경험을 편의점으로 확장하는 차별화 전략 추진.",
-          "articleIndices": [
-            5,
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "'영화관 팝콘이 편의점에'…세븐일레븐, CGV와 협업 상품 출시",
-              "url": "https://n.news.naver.com/mnews/article/421/0009145343?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🎮",
-          "title": "이마트24 게임 협업 간편식",
-          "summary": "이마트24가 컴투스의 신작 MMORPG '제우스: 오만의 신'과 협업해 제육 간편식 5종을 출시하며, 게임 IP를 활용한 차별화 상품 라인업 확대 전략 추진.",
+          "emoji": "🍫",
+          "title": "세븐일레븐 글로벌 소싱",
+          "summary": "세븐일레븐, 일본 '치로루초코' 4종 확대 및 오하요 브륄레 밀크 35만개 판매로 글로벌 직소싱 디저트 경쟁력 강화.",
           "articleIndices": [
             8
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, 게임 '제우스' 협업 간편식 출시",
-              "url": "https://n.news.naver.com/mnews/article/421/0009145335?sid=101"
+              "title": "'일본 가면 사오던 초콜릿' 세븐일레븐, '치로루초코' 4종 확대",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=273568"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🎪",
+          "title": "편의점 추석 선물 확대",
+          "summary": "세븐일레븐·이마트24, 전통 한우·과일에서 벗어나 호텔 케이크·골드바·로봇 등 프리미엄 명절 선물 영역 확대.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"3100만원짜리 로봇을 팔아?\"…상상 초월 편의점 추석 선물",
+              "url": "https://n.news.naver.com/mnews/article/025/0003549086?sid=101"
             }
           ],
           "articleCount": 1
@@ -194,31 +228,45 @@
       "issues": [
         {
           "emoji": "🍰",
-          "title": "제로 디저트 2030 트렌드",
-          "summary": "대학가에 제로 칼로리·저당 디저트 전문점이 확산되며, 체중 관리를 중시하는 2030 세대의 건강한 간식 수요가 편의점 디저트 시장을 재편하는 중.",
+          "title": "편의점 디저트 경쟁 심화",
+          "summary": "GS25 한정선 협업, 세븐일레븐 글로벌 소싱, CU 베이커리 리브랜딩으로 K-디저트·일본 간식·프리미엄 빵 경쟁 가열.",
           "articleIndices": [
-            1
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "당·칼로리 걱정 내려놓고픈 2030…대학가에 퍼지는 '제로 편의점'[출동...",
-              "url": "https://n.news.naver.com/mnews/article/003/0014162894?sid=102"
+              "title": "편의점 디저트 경쟁 뜨겁다…'K-디저트·빵·일본 간식' 총출동",
+              "url": "https://www.namdonews.com/news/articleView.html?idxno=922247"
+            },
+            {
+              "title": "바브카까지… '동네 빵집' 넘보는 편의점",
+              "url": "https://n.news.naver.com/mnews/article/005/0001870853?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 7
         },
         {
-          "emoji": "🍜",
-          "title": "이마트24 차별화 라면 할인",
-          "summary": "이마트24가 신상품 4종을 추가해 총 9종의 차별화 라면 라인업을 구축하고, 10년 전 가격 수준까지 체감 가격을 낮춘 프로모션으로 라면 시장 선점 전략 추진.",
+          "emoji": "🍂",
+          "title": "추석 명절 선물 트렌드",
+          "summary": "올가홀푸드 추석 선물 169종 출격으로 유기농·홈미식·친환경·명인 상품 등 라이프스타일 반영 선물세트 확대.",
           "articleIndices": [
-            5,
-            8
+            8,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "'라면 한 개 720원'…이마트24, 혜택 적용하면 10년 전 가격 수준",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=273152"
+              "title": "올가홀푸드, 추석 선물 169종 출격…유기농부터 '홈미식·실속형'까지",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=545519"
+            },
+            {
+              "title": "올가홀푸드, '홈미식·친환경' 트렌드 정조준… '2026 추석 명절 기획전...",
+              "url": "https://www.maxmovie.com/news/articleView.html?idxno=501682"
             }
           ],
           "articleCount": 2
