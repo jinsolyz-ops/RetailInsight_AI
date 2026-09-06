@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-09-04T23:30:20.989Z",
+  "generatedAt": "2026-09-06T23:19:21.576Z",
   "summary": [
-    "CU, 베이커리 브랜드 'BAKE405'로 리브랜딩하며 3년간 3500만개 판매 성과 기반 차별화 추진",
-    "CU, 스마트 그로서리 전략으로 신선식품 비중 확대…식재료 매출 연 18% 이상 성장",
-    "편의점 쫀득빵·요거트찹쌀떡 등 SNS 트렌드 상품 경쟁 심화, CU도 협업 통한 한정 상품 출시"
+    "CU, 크림·런위더와 협업 팝업 런닝 스테이션으로 MZ층 공략 강화",
+    "GS25 도시락 풀체인지 리뉴얼로 간편식 품질 경쟁 심화",
+    "편의점 트렌드 상품 3개월 주기 유행으로 재고 관리 전략 전환"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🔥",
-          "title": "소스 전쟁 심화",
-          "summary": "오뚜기·하인즈 케첩 경쟁이 지역 커뮤니티 마케팅으로 확대되며 편의점 식품 카테고리 경쟁 구도 변화.",
+          "emoji": "🏃",
+          "title": "편의점 마라톤·팝업 확대",
+          "summary": "롯데마트 3000명 규모 마라톤 개최, CU 런닝 스테이션 팝업 등 오프라인 고객 접점 확보 마케팅 경쟁 심화.",
           "articleIndices": [
-            4
+            4,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "\"케첩 하나로 55년 버텼는데\"…하인즈·오뚜기, '소스 전쟁' 판 커...",
-              "url": "https://n.news.naver.com/mnews/article/022/0004156511?sid=101"
+              "title": "롯데마트, 업계 첫 3000명 '통큰런' 마라톤 개최",
+              "url": "https://n.news.naver.com/mnews/article/015/0005329312?sid=101"
+            },
+            {
+              "title": "편의점 팝업에 걸린 러닝 의류…'크림 X 런위더 X CU'",
+              "url": "https://n.news.naver.com/mnews/article/003/0014172684?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "📊",
-          "title": "AI 쇼핑 확산",
-          "summary": "미국 백투스쿨 쇼핑에서 AI 활용 비율 61%로 증가, 아마존·구글 결제 경쟁 심화로 글로벌 유통 판도 변화.",
+          "emoji": "🎁",
+          "title": "명절 실속형 선물세트",
+          "summary": "고물가 속 소비자 수요 변화에 대응해 롯데마트 900여개 실속형 선물세트 출시, 편의점·유통사 명절 마케팅 전략 전환.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "AI 쇼핑 61%, 아마존·구글 결제 경쟁 번졌다",
-              "url": "https://www.tokenpost.kr/news/ai/402624"
+              "title": "고물가에 '실속파' 잡는다… 롯데마트, 900여개 선물세트 출격",
+              "url": "https://n.news.naver.com/mnews/article/081/0003677249?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,31 +50,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "SSG닷컴 사업부문 분할",
-          "summary": "SSG닷컴이 이마트·신세계 사업부문 인적분할 추진으로 통합 이커머스 플랫폼 시너지 한계 노출.",
+          "emoji": "🤖",
+          "title": "AI 쇼핑 에이전트 확산",
+          "summary": "앤트로픽 클로드 기반 AI 쇼핑 에이전트가 글로벌 이커머스·마켓플레이스에 확산, 소매 경험 혁신 가속화.",
           "articleIndices": [
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[ABC Up & Down] SSG닷컴, 사업부문 인적분할 '이마트·신세계 각 사업 경...",
-              "url": "https://www.ajunews.com/view/20260904084513556"
+              "title": "[AI핫이슈] 오픈소스 겨냥 '빅AI' 반격...AI 개발 맹주 노린 엔비디아",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698544"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "패션산업 AI 도입 확산",
-          "summary": "패션협회장 발언으로 3D 샘플링·공급망 DX·이커머스 등 패션산업 전반에 AI 활용 가속화 추세 확인.",
+          "emoji": "📊",
+          "title": "버티컬 AI 광고 솔루션",
+          "summary": "매드업 등 버티컬 AI 기반 광고 플랫폼이 커머스 파트너 광고 비용 절감·매출 증대 솔루션으로 부상.",
           "articleIndices": [
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "성래은 패션협회장 \"패션 AI, 기술 도입 넘어 기업 경쟁력·현장 성과로...",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570949497157"
+              "title": "AI 투자 2라운드 시작됐다… 매드업, 비용 줄이고 매출 키운다",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484285"
             }
           ],
           "articleCount": 1
@@ -80,39 +85,40 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "AI 쇼핑 어시스턴트 확대",
-          "summary": "롯데·현대백화점 등 대형 유통사가 AI 감사카드·헤이디 등 AI 쇼핑 어시스턴트 도입으로 고객 경험 고도화.",
+          "emoji": "🎓",
+          "title": "소상공인 AI 교육 프로그램",
+          "summary": "NS홈쇼핑 '소상공인 AI 라이브 커머스 아카데미' 무상 교육으로 협력사 디지털 역량 강화, 유통사 AI 민주화 전략.",
+          "articleIndices": [
+            2,
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "'AI로 상세페이지 만드는 법 배운다'…NS홈쇼핑, 소상공인 무상 교육 실시",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=87221"
+            },
+            {
+              "title": "NS홈쇼핑, 소상공인 예비 협력사 대상 AI 실무교육 무상 지원",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=364893"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🛍️",
+          "title": "AI VOC·선별 시스템",
+          "summary": "롯데백화점 AI VOC 시스템, 롯데마트 AI 선별 상품 등 유통사 고객 경험·품질 관리 AI 도입 확대.",
           "articleIndices": [
             1,
             3
           ],
           "relatedLinks": [
             {
-              "title": "주말 장보기 어디가 쌀까…이마트 포도 8900원대·롯데마트 사과 5960원",
-              "url": "https://www.kizmom.com/news/articleView.html?idxno=112545"
-            },
-            {
-              "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 '할인 추석준...",
-              "url": "https://www.bntnews.co.kr/article/view/bnt202609040273"
+              "title": "[K-기업, 가치를 잇다] '함께 가는 가치' 롯데백화점, 'ESG 라이프스타일'",
+              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405645"
             }
           ],
           "articleCount": 2
-        },
-        {
-          "emoji": "🚀",
-          "title": "라이브커머스 스타트업 급성장",
-          "summary": "왓낫 등 라이브커머스 앱이 AI 투자 열풍 속에서도 높은 기업가치 평가받으며 쇼핑 앱 시장 재편.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "아마존도 제쳤다…몸값 27조원, 게임처럼 '도파민' 터진 쇼핑앱 [비크...",
-              "url": "https://n.news.naver.com/mnews/article/025/0003549233?sid=101"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -120,53 +126,36 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎂",
-          "title": "BAKE405 리브랜딩",
-          "summary": "CU 베이커리 브랜드 '베이크하우스405'를 'BAKE405'로 리브랜딩하며 3년간 3500만개 판매 성과 기반 차별화 추진.",
+          "emoji": "🏅",
+          "title": "아시안게임 응원 프로모션",
+          "summary": "CU, 2026 아이치·나고야 아시안게임 앞두고 주류·안주류 70여종 최대 50% 이상 할인 '응원은 HOT하게' 캠페인.",
           "articleIndices": [
-            2,
-            5,
-            7,
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU rebrands bakery label, launches Marble Cream series",
-              "url": "https://n.news.naver.com/mnews/article/009/0005730533?sid=104"
-            },
-            {
-              "title": "CU 베이커리 브랜드, 'BAKE405'로 새단장",
-              "url": "https://n.news.naver.com/mnews/article/016/0002692869?sid=101"
-            }
-          ],
-          "articleCount": 4
-        },
-        {
-          "emoji": "🥬",
-          "title": "스마트 그로서리 전략",
-          "summary": "CU, 신선식품 비중 확대로 근거리 수요 공략…식재료 매출 연 18% 이상 성장으로 장보기 특화점 진화.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 장보기 특화점 넘어 '스마트 그로서리'로…근거리 수요 공략",
-              "url": "https://www.pointe.co.kr/news/articleView.html?idxno=84253"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📦",
-          "title": "부산 물류센터 완공",
-          "summary": "BGF리테일, 2200억 투자 부산 물류센터 완공으로 영남권 배송 효율화 및 해외 CU 상품 공급 강화.",
-          "articleIndices": [
+            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일, 2200억 쏟은 '부산 물류센터' 완공 임박…영남·해외 물류 새...",
-              "url": "https://www.newspim.com/news/view/20260904000458"
+              "title": "CU, 아시안게임 앞두고 맥주 최대 56% 싸게",
+              "url": "https://n.news.naver.com/mnews/article/032/0003468747?sid=101"
+            },
+            {
+              "title": "CU, 19일 개막 아시아 스포츠 대회 앞두고 '응원 먹거리' 할인 행사",
+              "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=610997"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🇲🇳",
+          "title": "몽골 이태준 기념공원 기부",
+          "summary": "CU, 광복 81주년 캠페인 수익금을 몽골 이태준 선생 기념공원·기념관에 기부하는 사회공헌 마케팅.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, 몽골 이태준 기념공원에 광복 캠페인 수익금 기부",
+              "url": "https://n.news.naver.com/mnews/article/421/0009154074?sid=101"
             }
           ],
           "articleCount": 1
@@ -177,46 +166,47 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🔐",
-          "title": "GS25 개인정보 유출",
-          "summary": "GS샵·GS25에서 166만명 개인정보 유출, 보안투자 압박 커지며 편의점 업계 보안 리스크 대두.",
+          "emoji": "🍱",
+          "title": "GS25 도시락 풀체인지 리뉴얼",
+          "summary": "GS25, 간편식 품질 경쟁력 강화 위해 도시락 풀체인지 리뉴얼 추진, '제대로 된 한 끼' 구현으로 프리미엄 포지셔닝.",
           "articleIndices": [
-            1
+            1,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "개인정보 유출 과징금 최대 매출 10%…보안투자 압박 커진다",
-              "url": "https://www.sentv.co.kr/article/view/sentv202609040126"
+              "title": "GS25, 도시락 '풀체인지 리뉴얼'...'혜자로운집밥' 신상 출시",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=764105"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🥤",
+          "title": "세븐일레븐 웰니스 PB 확대",
+          "summary": "세븐일레븐, NS홈쇼핑 웰니스 PB '엔웰스' 입점으로 건강기능식품·혈당 음료 등 웰니스 카테고리 강화.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "홈쇼핑, '웰니스 PB' 키운다…혈당 음료·건기식 들고 TV 밖으로",
+              "url": "https://www.ajunews.com/view/20260906095629724"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍿",
-          "title": "세븐일레븐 불꽃축제 특수",
-          "summary": "세븐일레븐, 불꽃축제 대비 음료·스낵 발주 20배 증량으로 계절 이벤트 기반 수요 대응 강화.",
+          "emoji": "🎨",
+          "title": "이마트24 취향 저격 상품 확대",
+          "summary": "이마트24, 피규어·굿즈 등 서브컬처 상품과 구황작물 활용 차별화 식품 5종 출시로 젊은층 공략 강화.",
           "articleIndices": [
-            3
+            8
           ],
           "relatedLinks": [
             {
-              "title": "'물량 100배 더' 분주한 편의점...올해도 '불꽃축제 특수' 기대",
-              "url": "https://n.news.naver.com/mnews/article/008/0005409751?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🏪",
-          "title": "이마트24 스탠다드 점포 확대",
-          "summary": "이마트24, 차세대 점포 모델 '스탠다드 점포' 확대로 업계 최하위 탈출 본격화, CU·GS25와 경쟁 심화.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "차세대 '스탠다드 점포' 늘리는 이마트24...'게 섰거라 CU·GS25'",
-              "url": "https://n.news.naver.com/mnews/article/008/0005409627?sid=101"
+              "title": "이마트24, 피규어부터 구황작물까지…'취향 저격' 상품으로 젊은층 공략",
+              "url": "https://www.viva100.com/article/20260907500037"
             }
           ],
           "articleCount": 1
@@ -227,41 +217,40 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍞",
-          "title": "쫀득빵 트렌드 확산",
-          "summary": "쫀득한 식감의 쫀득빵이 디저트 시장 주도, CU 등 편의점이 협업 상품 출시로 SNS 트렌드 상품 경쟁 심화.",
+          "emoji": "🍰",
+          "title": "편의점 트렌드 디저트 3개월 주기",
+          "summary": "두쫀쿠 이후 편의점 신상 디저트가 3개월 주기 유행으로 반복, CU·이마트24 등 재고 관리·발주 전략 전환.",
           "articleIndices": [
             1,
-            2
+            2,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "쫀득 디저트 어디까지 먹어봤니…쫀득빵부터 쫀뜩아이스크림까지 '쫀...",
-              "url": "https://n.news.naver.com/mnews/article/025/0003549260?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍡",
-          "title": "한정선 요거트찹쌀떡 편의점 상륙",
-          "summary": "백화점 인기 메뉴 '한정선 요거트찹쌀떡'이 편의점 냉동 디저트로 재해석되며 프리미엄 디저트 대중화 추세.",
-          "articleIndices": [
-            3,
-            5,
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "[한입 직썰] 백화점 줄서던 'K찹쌀떡', 편의점 상륙···원조와 비교해...",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=145415"
+              "title": "두쫀쿠 다음은 또 뭐지?…편의점업계 '3개월 유행'에 웃고 운다",
+              "url": "https://n.news.naver.com/mnews/article/421/0009153978?sid=101"
             },
             {
-              "title": "[똑똑한신상] 롯데마트 토이저러스, 세븐일레븐, CU, GS25",
-              "url": "https://www.ekn.kr/web/view.php?key=20260903020240118"
+              "title": "'간판만 4번 바꿨다'…23년 차 편의점 베테랑의 생존법",
+              "url": "https://n.news.naver.com/mnews/article/015/0005329038?sid=101"
             }
           ],
           "articleCount": 3
+        },
+        {
+          "emoji": "🎆",
+          "title": "여의도 불꽃축제 편의점 매출 폭증",
+          "summary": "여의도 불꽃축제 100만명 몰림으로 편의점 도시락 579배, 디저트 68배 등 카테고리별 매출 폭증, 이벤트 기반 수요 변동성 극대화.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"도시락 579배·물티슈 48배 팔렸다\"…100만명 몰린 여의도 '130억 불꽃'",
+              "url": "https://n.news.naver.com/mnews/article/022/0004156763?sid=101"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     }
