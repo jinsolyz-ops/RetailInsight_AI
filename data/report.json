@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-08T23:44:35.679Z",
+  "generatedAt": "2026-09-09T23:37:15.977Z",
   "summary": [
-    "CU, 1인 가구 겨냥 추석 간편식 3년 연속 두 자릿수 성장으로 명절 시장 주도",
-    "GS25, '우리의 냉장고' 그룹 공유 기능 출시로 O4O 모바일 생태계 확대",
-    "이마트24, '장인한과 미니약과' 단독 출시로 약과 열풍 트렌드 선점"
+    "CU, 우체국택배 도입으로 편의점 택배 서비스 경쟁력 강화",
+    "이마트24, 박은영 셰프 협업 간편식 누적 68만개 판매로 2차 흥행",
+    "유통가 문화예술 콘텐츠 활용 경쟁 심화, 온라인 59.6% 비중 차지"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🍡",
-          "title": "떡 열풍, 유통사 협업 확대",
-          "summary": "유통업계가 '떡지순례', '떡켓팅' 등 떡 트렌드에 대응해 유명 떡 브랜드 협업 및 신상품 출시를 강화하고 있다.",
+          "emoji": "🎨",
+          "title": "유통가 아트 경쟁 확대",
+          "summary": "프리즈 서울 등 문화예술 콘텐츠를 활용한 유통업계의 차별화 전략이 심화되고 있으며, 문화예술 플랫폼 역할을 자처하는 추세가 확산 중.",
           "articleIndices": [
-            5
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[이슈PICK+] '두쫀쿠' 다음은 '퓨전 떡'···유통업계, '떡지순례' 열풍",
-              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405775"
+              "title": "프리즈부터 뱅크시까지… 유통가 '아트 경쟁' 뜨거워진 이유는",
+              "url": "https://n.news.naver.com/mnews/article/005/0001872020?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎁",
-          "title": "추석 선물, 세분화된 취향 공략",
-          "summary": "백화점 3사가 AI 쇼핑 어시스턴트를 활용해 '세분화된 취향'을 키워드로 추석 선물 마케팅을 전개하고 있다.",
+          "emoji": "📚",
+          "title": "텍스트 힙 트렌드 협업",
+          "summary": "출판업계와 유통업계의 협업이 활발해지면서 '텍스트 힙' 소비 트렌드에 맞춘 책 관련 제품 개발이 확대되고 있음.",
           "articleIndices": [
-            8
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[S-트렌드] 트렌드 녹인 취향별 명절 선물… 각양각색 백화점 3사, 추석",
-              "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43594"
+              "title": "[이슈PICK+] '민음사 빵에 영풍문고 파스타'···'텍스트 힙' 시대, 출판...",
+              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405885"
             }
           ],
           "articleCount": 1
@@ -46,8 +46,8 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 트렌드 분석 플랫폼 도입",
-          "summary": "뉴엔AI의 AI 맞춤형 분석 플랫폼이 W컨셉 등 주요 패션 이커머스에 공급되며, 소비자 트렌드 데이터 기반 상품 기획이 강화되고 있다.",
+          "title": "AI 트렌드 분석 플랫폼",
+          "summary": "W컨셉이 뉴엔AI의 AI 맞춤형 분석 플랫폼을 도입하여 소셜·이커머스 채널의 트렌드 변곡점을 실시간 감지하고 인사이트 리포트를 제공하는 서비스 시작.",
           "articleIndices": [
             2,
             4
@@ -65,16 +65,16 @@
           "articleCount": 2
         },
         {
-          "emoji": "🎯",
-          "title": "쿠팡 추석 페스타, 8만개 상품 할인",
-          "summary": "쿠팡이 추석 시즌을 겨냥해 메인특가존 운영 및 추석 선물 구매 편의 강화로 소비자 관심도를 상승시키고 있다.",
+          "emoji": "🎬",
+          "title": "라이브커머스 시장 확대",
+          "summary": "유통·홈쇼핑 기업과 패션·버티컬 플랫폼들이 자사 앱에서 라이브와 숏폼 콘텐츠를 확대하며 라이브커머스를 고객 유입과 상품 판매 연결 채널로 활용 중.",
           "articleIndices": [
-            7
+            8
           ],
           "relatedLinks": [
             {
-              "title": "쿠팡 '추석 페스타' 8만여개 상품 할인...소비자 관심도 상승",
-              "url": "http://www.thebigdata.co.kr/view.php?ud=202609080955579269df3c2a17b7_23"
+              "title": "라이브커머스 시장 확대… 폰드그룹, 잇단 M&A로 사업 영역 넓혀",
+              "url": "https://n.news.naver.com/mnews/article/366/0001191225?sid=101"
             }
           ],
           "articleCount": 1
@@ -85,36 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "💳",
-          "title": "AI 에이전트 커머스 시대 개막",
-          "summary": "메타 뮤즈, 앤스로픽 클로드 등 AI 에이전트가 상품 검색·장바구니 구성·결제까지 자동화하는 새로운 커머스 모델을 구축하고 있다.",
-          "articleIndices": [
-            6,
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "여행 예약부터 쇼핑까지 알아서 척척...메타, 개인용 AI 에이전트 '뮤즈'",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485191"
-            },
-            {
-              "title": "'AI야, 알아서 사줘'…'AI 결제 시대' 오면 카드사 역할은",
-              "url": "https://n.news.naver.com/mnews/article/277/0005813667?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🎨",
-          "title": "AI 감사 카드, 명절 선물 문화 혁신",
-          "summary": "롯데백화점이 올해 처음 도입한 'AI 감사 카드' 서비스로 명절 인사 문화를 스마트화하며 고객 경험을 개선하고 있다.",
+          "emoji": "🏪",
+          "title": "상표권 선점 경쟁",
+          "summary": "유통업계가 신규 상품 출시 전 상표권을 미리 선점하는 경쟁이 심화되고 있으며, W컨셉 등이 AI 관련 상표 출원을 선제적으로 진행 중.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "[르포] 선물은 QR, 인사는 AI···전남광주 유통업계 '명절 준비, 스마트'",
-              "url": "http://www.mdilbo.com/detail/DDAuq0/758618"
+              "title": "출시 전 이름부터 '찜'...유통가 '상표권 선점' 경쟁",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723576"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🛍️",
+          "title": "이머시브 커머스 확산",
+          "summary": "롯데이노베이트 칼리버스가 AI·3D 기술을 활용한 '롯데자이언츠 가상 스타일링샵'을 선보이며 이머시브 커머스 서비스가 확산되는 추세.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "롯데이노베이트 칼리버스, AI∙3D 로 구현한 롯데자이언츠 가상 스타일...",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=41847"
             }
           ],
           "articleCount": 1
@@ -125,41 +120,27 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍱",
-          "title": "CU 추석 간편식, 3년 연속 두 자릿수 성장",
-          "summary": "CU의 명절 도시락 매출이 최근 3년간 전년 대비 두 자릿수 성장을 기록하며, 1인 가구 수요에 맞춘 정찬·단품요리·디저트 상품 확대로 시장을 주도하고 있다.",
+          "emoji": "📦",
+          "title": "우체국택배 서비스 도입",
+          "summary": "BGF리테일이 우정사업본부와 협약하여 전국 CU에서 우체국택배 서비스를 24시간 이용 가능하게 하며 편의점 택배 경쟁력을 강화.",
           "articleIndices": [
             1,
+            2,
             3,
             4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일 CU, 추석 간편식 수요 증가에 명절 메뉴 구성",
-              "url": "http://www.lawissue.co.kr/view.php?ud=20260908203215937204ead0791_12"
+              "title": "BGF리테일, 우정사업본부와 MOU…CU서 우체국택배 보낸다",
+              "url": "https://n.news.naver.com/mnews/article/421/0009161814?sid=101"
             },
             {
-              "title": "CU, 명절 도시락 3년째 두 자릿수 성장... '매출 60%는 '1인 가구 밀집지'",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207982"
+              "title": "우체국택배, 이제 편의점 CU서 24시간 보낸다…BGF리테일·우정사업본부...",
+              "url": "https://n.news.naver.com/mnews/article/277/0005814297?sid=101"
             }
           ],
-          "articleCount": 4
-        },
-        {
-          "emoji": "🇰🇷",
-          "title": "CU 태극기 간편식, 광복 캠페인 ESG 확대",
-          "summary": "CU가 광복 81주년 태극기 간편식 판매 수익금을 몽골 이태준 선생 기념공원에 기부하며 생활밀착형 ESG 활동을 강화하고 있다.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 태극기 간편식서 몽골 기부까지… 보폭 넓힌 생활밀착 ESG",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=423980"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 5
         }
       ]
     },
@@ -167,52 +148,52 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "❄️",
-          "title": "GS25 '우리의 냉장고' 그룹 공유 기능 출시",
-          "summary": "GS25가 2011년 도입한 '나만의 냉장고'를 최대 5명이 공유할 수 있도록 개편하며 O4O 모바일 생태계를 확대하고 있다.",
+          "emoji": "🏢",
+          "title": "GS25 스크랩앤빌드 전략",
+          "summary": "GS리테일의 GS25가 기존 점포 면적 확장과 입지 개선, 신선강화형 매장 확대로 2분기 기존점 매출 7.5% 증가를 달성하며 차별화 전략 추진 중.",
           "articleIndices": [
-            1,
-            2,
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "GS25, '우리의 냉장고' 함께 쓴다…최대 5명 상품 공유",
-              "url": "https://n.news.naver.com/mnews/article/003/0014178333?sid=101"
-            },
-            {
-              "title": "GS25, '나만의 냉장고' 그룹 공유형 개편…O4O 모바일 생태계 확대",
-              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=207952"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🍷",
-          "title": "세븐일레븐 반 고흐 아트와인 9900원 출시",
-          "summary": "세븐일레븐이 반 고흐 명화를 라벨에 담은 프리미엄 와인을 9900원대 합리적 가격으로 선보이며 와인 소비 트렌드에 대응하고 있다.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "세븐일레븐, 반 고흐 명작 담은 9900원 아트와인 선봬",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=764636"
+              "title": "편의점 점포 수 4년 전으로…출점 경쟁 주춤",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=863934"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍯",
-          "title": "이마트24 '장인한과 미니약과' 편의점 단독 출시",
-          "summary": "이마트24가 약과 열풍의 주인공 '장인한과'의 미니약과를 편의점 단독 상품으로 출시하며 '약케팅' 트렌드를 선점하고 있다.",
+          "emoji": "👨‍🍳",
+          "title": "이마트24 박은영 셰프 협업",
+          "summary": "이마트24가 박은영 셰프와 협업한 간편식이 누적 판매량 68만개를 넘어서며 2차 흥행에 나서고 있으며, 중화풍 간편식 3종을 추가 출시.",
           "articleIndices": [
-            10
+            6,
+            7,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, '약케팅' 주인공 장인한과 미니약과 단독 출시",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=117734"
+              "title": "'김밥에 짬짜면'…이마트24, 박은영 셰프와 차별화 간편식 출시",
+              "url": "https://n.news.naver.com/mnews/article/003/0014181058?sid=101"
+            },
+            {
+              "title": "'박은영 신드롬' 편의점 삼켰다…이마트24, 중화풍 간편식으로 2차 흥행...",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=87573"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "📺",
+          "title": "GS25 인스토어 미디어 확대",
+          "summary": "GS리테일이 GS25와 GS더프레시 매장의 디지털 사이니지와 우리동네GS 앱을 연계한 광고 인프라를 구축하여 매장과 구매데이터 기반 새로운 수익원 창출.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "매장에 경기장급 전광판까지…'매장+구매데이터' 새 수익원",
+              "url": "https://n.news.naver.com/mnews/article/008/0005411778?sid=101"
             }
           ],
           "articleCount": 1
@@ -223,35 +204,44 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 디저트 '약과 열풍' 확산",
-          "summary": "이마트24의 '장인한과 미니약과' 단독 출시로 약과 열풍이 편의점 디저트 시장으로 확산되며, 온·오프라인 품귀 현상을 빚은 트렌드 상품이 대중화되고 있다.",
+          "emoji": "🍦",
+          "title": "우주떡집 협업 찰떡아이스",
+          "summary": "롯데웰푸드의 우주떡집 협업 찰떡아이스가 닷새 만에 50만개 완판되며 SNS에서 화제가 되었고, 방송 속 화제의 레시피를 일상 디저트로 즐길 수 있는 기획이 소비자 반응을 이끌어냄.",
           "articleIndices": [
             1,
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'이웃집 백만장자' 크림빵 김영식 편",
-              "url": "https://www.bntnews.co.kr/article/view/bnt202609080176"
+              "title": "롯데웰푸드 '우주떡집 협업 찰떡아이스 닷새 만에 50만개 완판'",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=365128"
+            },
+            {
+              "title": "'먹고 싶어서 편의점 싹 털었다'…SNS 인증 쏟아진 '디저트' [셀럽픽]",
+              "url": "https://n.news.naver.com/mnews/article/015/0005330662?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🥛",
-          "title": "서울우유 '비요뜨 초코링 당저감' 건강식 트렌드",
-          "summary": "서울우유가 당 함량 45% 낮춘 '비요뜨 초코링 당저감'을 출시하며 건강한 식습관과 당 관리 수요에 대응하고 있다.",
+          "emoji": "🍡",
+          "title": "전통간식 디저트 트렌드",
+          "summary": "떡과 약과 등 전통간식이 MZ세대와 외국인을 중심으로 디저트 트렌드로 재조명되면서 편의점들의 한정선, 로로멜로 협업 요거트 등 신상 출시 경쟁이 심화 중.",
           "articleIndices": [
-            3
+            4,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "서울우유협동조합, 당 함량 45% 낮춘 '비요뜨 초코링 당저감' 선보여",
-              "url": "http://www.lawissue.co.kr/view.php?ud=202609090832514065204ead0791_12"
+              "title": "'찹쌀떡·약과 먹으러 MZ·외국인 줄 선다' 편의점들 어르신 입맛 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/003/0014180098?sid=101"
+            },
+            {
+              "title": "컬리, 떡·한과 거래액 2배 증가…전통간식 수요 확대",
+              "url": "https://n.news.naver.com/mnews/article/421/0009161817?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     }
