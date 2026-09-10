@@ -1,40 +1,44 @@
 {
-  "generatedAt": "2026-09-09T23:37:15.977Z",
+  "generatedAt": "2026-09-10T23:30:36.886Z",
   "summary": [
-    "CU, 우체국택배 도입으로 편의점 택배 서비스 경쟁력 강화",
-    "이마트24, 박은영 셰프 협업 간편식 누적 68만개 판매로 2차 흥행",
-    "유통가 문화예술 콘텐츠 활용 경쟁 심화, 온라인 59.6% 비중 차지"
+    "CU, 우체국과 택배 서비스 전국 확대로 편의점 물류 경쟁 심화",
+    "편의점 디저트 시장 폭발적 성장, CU 1~8월 매출 65.6% 증가",
+    "에이전틱 AI 커머스 확산으로 결제 보안 및 운영 혁신 가속화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎨",
-          "title": "유통가 아트 경쟁 확대",
-          "summary": "프리즈 서울 등 문화예술 콘텐츠를 활용한 유통업계의 차별화 전략이 심화되고 있으며, 문화예술 플랫폼 역할을 자처하는 추세가 확산 중.",
+          "emoji": "📦",
+          "title": "편의점 택배 경쟁 격화",
+          "summary": "CU·GS25·세븐일레븐·이마트24가 배송 속도, 가격, 방문수거 등으로 택배 서비스 경쟁을 심화시키며 중고거래·소규모 거래 수요 증가에 대응 중.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "프리즈부터 뱅크시까지… 유통가 '아트 경쟁' 뜨거워진 이유는",
-              "url": "https://n.news.naver.com/mnews/article/005/0001872020?sid=101"
+              "title": "'빠르게, 저렴하게, 편리하게'…편의점업계, 택배서비스 전쟁 '격화'",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=226824"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📚",
-          "title": "텍스트 힙 트렌드 협업",
-          "summary": "출판업계와 유통업계의 협업이 활발해지면서 '텍스트 힙' 소비 트렌드에 맞춘 책 관련 제품 개발이 확대되고 있음.",
+          "emoji": "🎂",
+          "title": "편의점 디저트 시장 폭발",
+          "summary": "CU 올해 1~8월 디저트 매출 65.6% 증가로 편의점 디저트 시장이 빠르게 성장하며, 한정판 상품과 SNS 화제성이 주요 드라이버로 작용 중.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "[이슈PICK+] '민음사 빵에 영풍문고 파스타'···'텍스트 힙' 시대, 출판...",
-              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405885"
+              "title": "'국진이빵'부터 '리센느빵'까지…왜 소비자는 빵에 열광하나",
+              "url": "https://n.news.naver.com/mnews/article/421/0009164095?sid=101"
+            },
+            {
+              "title": "\"50만개 동나도 또 찾는다\"…롯데웰푸드 '찰떡아이스 우주떡집'의...",
+              "url": "https://n.news.naver.com/mnews/article/021/0002817955?sid=101"
             }
           ],
           "articleCount": 1
@@ -46,35 +50,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 트렌드 분석 플랫폼",
-          "summary": "W컨셉이 뉴엔AI의 AI 맞춤형 분석 플랫폼을 도입하여 소셜·이커머스 채널의 트렌드 변곡점을 실시간 감지하고 인사이트 리포트를 제공하는 서비스 시작.",
+          "title": "AI 물류 운영 고도화",
+          "summary": "카카오가 직매입 물류 조직을 신설하여 신선식품 특성에 맞춘 품절·재고·폐기 이슈 관리 및 새벽배송 운영 역량을 강화 중.",
           "articleIndices": [
-            2,
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "뉴엔AI, 패션플랫폼 W컨셉에 AI 맞춤형 분석 플랫폼 공급",
-              "url": "https://n.news.naver.com/mnews/article/008/0005411044?sid=101"
-            },
-            {
-              "title": "뉴엔AI-W컨셉, AI 트렌드 분석 플랫폼 공급 계약으로 패션 AI 협력",
-              "url": "https://www.hellot.net/news/article.html?no=114843"
+              "title": "카카오, 직매입 물류 조직 신설…'운영 역량 고도화'",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026091018431179219"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
           "emoji": "🎬",
-          "title": "라이브커머스 시장 확대",
-          "summary": "유통·홈쇼핑 기업과 패션·버티컬 플랫폼들이 자사 앱에서 라이브와 숏폼 콘텐츠를 확대하며 라이브커머스를 고객 유입과 상품 판매 연결 채널로 활용 중.",
+          "title": "라이브커머스 10조 시장 진출",
+          "summary": "폰드그룹의 M&A 전략으로 라이브커머스 10조 시장이 본격 개화하며, 유통사부터 버티컬 플랫폼까지 핵심 성장 채널로 편입되는 추세.",
           "articleIndices": [
-            8
+            6
           ],
           "relatedLinks": [
             {
-              "title": "라이브커머스 시장 확대… 폰드그룹, 잇단 M&A로 사업 영역 넓혀",
-              "url": "https://n.news.naver.com/mnews/article/366/0001191225?sid=101"
+              "title": "라이브커머스 10조 '빅뱅' 시작됐다, 폰드그룹 M&A전략으로 시장선점",
+              "url": "https://n.news.naver.com/mnews/article/468/0001265403?sid=101"
             }
           ],
           "articleCount": 1
@@ -85,31 +84,35 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "상표권 선점 경쟁",
-          "summary": "유통업계가 신규 상품 출시 전 상표권을 미리 선점하는 경쟁이 심화되고 있으며, W컨셉 등이 AI 관련 상표 출원을 선제적으로 진행 중.",
+          "emoji": "🔐",
+          "title": "에이전틱 커머스 보안 표준화",
+          "summary": "AI가 결제 주체로 참여하는 에이전틱 커머스 시대에 신한카드가 SK텔레콤과 협업하여 AI 결제 표준을 수립하고 계정·기기·권한·작업 종류를 통합 확인하는 보안 체계 구축 중.",
           "articleIndices": [
-            2
+            4
           ],
           "relatedLinks": [
             {
-              "title": "출시 전 이름부터 '찜'...유통가 '상표권 선점' 경쟁",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1723576"
+              "title": "AI 챗봇 대화창서 바로 결제… 신한카드 '에이전트 페이' 표준 만든다",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=318299"
+            },
+            {
+              "title": "AI가 '나는 로봇이 아닙니다' 통과… 캡차도 못 가르는 '인간-AI' 경계",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=318326"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "이머시브 커머스 확산",
-          "summary": "롯데이노베이트 칼리버스가 AI·3D 기술을 활용한 '롯데자이언츠 가상 스타일링샵'을 선보이며 이머시브 커머스 서비스가 확산되는 추세.",
+          "emoji": "💡",
+          "title": "AI 솔루션 벤더 플래티어 성장",
+          "summary": "플래티어가 에이전틱 AI 커머스 솔루션 벤더로서 제로클릭 시대를 정의하며, 3~5년 내 글로벌 확장을 목표로 유통 외 산업 확대 추진 중.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "롯데이노베이트 칼리버스, AI∙3D 로 구현한 롯데자이언츠 가상 스타일...",
-              "url": "https://www.aitimes.kr/news/articleView.html?idxno=41847"
+              "title": "(내일의 거인들)'AI 솔루션계 TSMC 되겠다'…플래티어, 제로클릭 시대 정...",
+              "url": "http://www.newstomato.com/ReadNews.aspx?no=1313166&inflow=N"
             }
           ],
           "articleCount": 1
@@ -120,27 +123,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "우체국택배 서비스 도입",
-          "summary": "BGF리테일이 우정사업본부와 협약하여 전국 CU에서 우체국택배 서비스를 24시간 이용 가능하게 하며 편의점 택배 경쟁력을 강화.",
+          "emoji": "📮",
+          "title": "CU 우체국택배 전국 확대",
+          "summary": "BGF리테일이 우정사업본부와 협약을 체결하여 CU에서 우체국택배를 이용할 수 있는 서비스를 전국 단위로 확대하고, 향후 국제 택배도 도입 예정.",
           "articleIndices": [
             1,
             2,
             3,
-            4,
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일, 우정사업본부와 MOU…CU서 우체국택배 보낸다",
-              "url": "https://n.news.naver.com/mnews/article/421/0009161814?sid=101"
+              "title": "BGF리테일, CU와 우체국 연계 서비스 전국 단위로 확대",
+              "url": "http://www.lawissue.co.kr/view.php?ud=20260910213659436204ead0791_12"
             },
             {
-              "title": "우체국택배, 이제 편의점 CU서 24시간 보낸다…BGF리테일·우정사업본부...",
-              "url": "https://n.news.naver.com/mnews/article/277/0005814297?sid=101"
+              "title": "편의점 CU에서 우체국 택배 보낸다",
+              "url": "https://n.news.naver.com/mnews/article/009/0005733562?sid=103"
             }
           ],
-          "articleCount": 5
+          "articleCount": 4
         }
       ]
     },
@@ -148,52 +150,31 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🏢",
-          "title": "GS25 스크랩앤빌드 전략",
-          "summary": "GS리테일의 GS25가 기존 점포 면적 확장과 입지 개선, 신선강화형 매장 확대로 2분기 기존점 매출 7.5% 증가를 달성하며 차별화 전략 추진 중.",
+          "emoji": "💳",
+          "title": "GS25 추석 도시락 프로모션",
+          "summary": "GS25가 6900원 '이달의 도시락 한가위편'을 선보이며 편의점 4사가 명절 간편식 경쟁을 심화시키고 혼추(혼자 추석) 트렌드에 대응 중.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "편의점 점포 수 4년 전으로…출점 경쟁 주춤",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=863934"
+              "title": "[2026 한가위 선물 ②] 차례상 대신 6900원 한 끼…편의점으로 간 '혼추...",
+              "url": "https://n.news.naver.com/mnews/article/138/0002241005?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "👨‍🍳",
-          "title": "이마트24 박은영 셰프 협업",
-          "summary": "이마트24가 박은영 셰프와 협업한 간편식이 누적 판매량 68만개를 넘어서며 2차 흥행에 나서고 있으며, 중화풍 간편식 3종을 추가 출시.",
+          "emoji": "🏪",
+          "title": "이마트24 지역사회 기여",
+          "summary": "이마트24 가맹점주가 함양군 청년친화헌정대상 소통대상을 3년 연속 수상하며 지역 농업과 명절 이웃돕기를 통해 지역사회 신뢰 구축 중.",
           "articleIndices": [
-            6,
-            7,
-            8
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'김밥에 짬짜면'…이마트24, 박은영 셰프와 차별화 간편식 출시",
-              "url": "https://n.news.naver.com/mnews/article/003/0014181058?sid=101"
-            },
-            {
-              "title": "'박은영 신드롬' 편의점 삼켰다…이마트24, 중화풍 간편식으로 2차 흥행...",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=87573"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "📺",
-          "title": "GS25 인스토어 미디어 확대",
-          "summary": "GS리테일이 GS25와 GS더프레시 매장의 디지털 사이니지와 우리동네GS 앱을 연계한 광고 인프라를 구축하여 매장과 구매데이터 기반 새로운 수익원 창출.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "매장에 경기장급 전광판까지…'매장+구매데이터' 새 수익원",
-              "url": "https://n.news.naver.com/mnews/article/008/0005411778?sid=101"
+              "title": "함양군, 청년친화헌정대상 '소통대상'…3년 연속 수상",
+              "url": "https://www.kukinews.com/article/view/kuk202609110010"
             }
           ],
           "articleCount": 1
@@ -204,44 +185,19 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍦",
-          "title": "우주떡집 협업 찰떡아이스",
-          "summary": "롯데웰푸드의 우주떡집 협업 찰떡아이스가 닷새 만에 50만개 완판되며 SNS에서 화제가 되었고, 방송 속 화제의 레시피를 일상 디저트로 즐길 수 있는 기획이 소비자 반응을 이끌어냄.",
+          "emoji": "🥢",
+          "title": "편의점 전통간식 협업 확대",
+          "summary": "GS25가 K-디저트 브랜드 한정선, 로로멜로와 협업하여 '한정선 요거트' 등 전통간식을 선보이며, MZ세대와 외국인 고객 수요에 대응 중.",
           "articleIndices": [
-            1,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "롯데웰푸드 '우주떡집 협업 찰떡아이스 닷새 만에 50만개 완판'",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=365128"
-            },
-            {
-              "title": "'먹고 싶어서 편의점 싹 털었다'…SNS 인증 쏟아진 '디저트' [셀럽픽]",
-              "url": "https://n.news.naver.com/mnews/article/015/0005330662?sid=101"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍡",
-          "title": "전통간식 디저트 트렌드",
-          "summary": "떡과 약과 등 전통간식이 MZ세대와 외국인을 중심으로 디저트 트렌드로 재조명되면서 편의점들의 한정선, 로로멜로 협업 요거트 등 신상 출시 경쟁이 심화 중.",
-          "articleIndices": [
-            4,
             6
           ],
           "relatedLinks": [
             {
               "title": "'찹쌀떡·약과 먹으러 MZ·외국인 줄 선다' 편의점들 어르신 입맛 경쟁",
               "url": "https://n.news.naver.com/mnews/article/003/0014180098?sid=101"
-            },
-            {
-              "title": "컬리, 떡·한과 거래액 2배 증가…전통간식 수요 확대",
-              "url": "https://n.news.naver.com/mnews/article/421/0009161817?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     }
