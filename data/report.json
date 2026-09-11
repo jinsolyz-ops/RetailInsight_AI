@@ -1,47 +1,53 @@
 {
-  "generatedAt": "2026-09-10T23:30:36.886Z",
+  "generatedAt": "2026-09-11T23:38:18.054Z",
   "summary": [
-    "CU, 우체국과 택배 서비스 전국 확대로 편의점 물류 경쟁 심화",
-    "편의점 디저트 시장 폭발적 성장, CU 1~8월 매출 65.6% 증가",
-    "에이전틱 AI 커머스 확산으로 결제 보안 및 운영 혁신 가속화"
+    "CU, 전국 1만8900개 점포서 우체국 택배 접수 서비스 시작",
+    "편의점 업계, AI 쇼핑 어시스턴트·에이전틱 커머스로 소비자 맞춤형 추천 경쟁",
+    "GS25·세븐일레븐·이마트24, 떡 디저트·헬로키티 굿즈·제로음료로 추석 선물 시장 공략"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "편의점 택배 경쟁 격화",
-          "summary": "CU·GS25·세븐일레븐·이마트24가 배송 속도, 가격, 방문수거 등으로 택배 서비스 경쟁을 심화시키며 중고거래·소규모 거래 수요 증가에 대응 중.",
+          "emoji": "🤖",
+          "title": "AI 에이전틱 커머스 확산",
+          "summary": "신세계면세점·현대백화점·GS리테일 등이 AI 쇼핑 어시스턴트를 도입해 소비자 의도 파악 기반 상품 추천으로 경쟁력 전환 중.",
           "articleIndices": [
-            2
+            3,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'빠르게, 저렴하게, 편리하게'…편의점업계, 택배서비스 전쟁 '격화'",
-              "url": "https://www.youthdaily.co.kr/news/article.html?no=226824"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎂",
-          "title": "편의점 디저트 시장 폭발",
-          "summary": "CU 올해 1~8월 디저트 매출 65.6% 증가로 편의점 디저트 시장이 빠르게 성장하며, 한정판 상품과 SNS 화제성이 주요 드라이버로 작용 중.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "'국진이빵'부터 '리센느빵'까지…왜 소비자는 빵에 열광하나",
-              "url": "https://n.news.naver.com/mnews/article/421/0009164095?sid=101"
+              "title": "[이슈] '3만원대 선크림 추천해줘'...신세계免, 업계 첫 '카톡 AI 쇼핑'",
+              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=812744"
             },
             {
-              "title": "\"50만개 동나도 또 찾는다\"…롯데웰푸드 '찰떡아이스 우주떡집'의...",
-              "url": "https://n.news.naver.com/mnews/article/021/0002817955?sid=101"
+              "title": "['함께 더 멀리' AI 대전환과 공존/⑥(끝)]AI와 함께 재설계하는 소비자...",
+              "url": "https://www.businessplus.kr/news/articleView.html?idxno=116683"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
+        },
+        {
+          "emoji": "🔄",
+          "title": "농협 하나로유통 흡수합병",
+          "summary": "농협경제지주가 12년 만에 분리했던 하나로유통을 내년 1월 흡수합병하며 통합 구매·마케팅 효율화 추진.",
+          "articleIndices": [
+            6,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "[농담]분리할 때도 '효율화', 합칠 때도 '효율화'…농협 하나로유통 12년...",
+              "url": "https://n.news.naver.com/mnews/article/008/0005412717?sid=101"
+            },
+            {
+              "title": "농협경제지주, 하나로유통 흡수합병 추진…내년 1월 통합",
+              "url": "https://n.news.naver.com/mnews/article/008/0005412704?sid=101"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -49,31 +55,37 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 물류 운영 고도화",
-          "summary": "카카오가 직매입 물류 조직을 신설하여 신선식품 특성에 맞춘 품절·재고·폐기 이슈 관리 및 새벽배송 운영 역량을 강화 중.",
+          "emoji": "🎯",
+          "title": "버티컬 AI 커머스 확대",
+          "summary": "딸기로컴퍼니·폰드그룹 등이 디저트·베이커리 특화 버티컬 AI 모델 개발로 도메인 최적화 추천 시장 선점 중.",
           "articleIndices": [
-            2
+            7,
+            8,
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "'딸기로픽' 운영 딸기로컴퍼니, 중기부 TIPS 선정…디저트 특화 버티컬...",
+              "url": "http://www.bizwnews.com/news/articleView.html?idxno=146046"
+            },
+            {
+              "title": "[기획] 검색창도 사라진다…AI가 대신하는 '판단'",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=1412472"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "📦",
+          "title": "카카오 직매입 물류 조직 신설",
+          "summary": "카카오가 새벽배송 운영 역량 고도화를 위해 직매입 물류 조직을 신설하며 신선식품 이커머스 경쟁 강화.",
+          "articleIndices": [
+            3
           ],
           "relatedLinks": [
             {
               "title": "카카오, 직매입 물류 조직 신설…'운영 역량 고도화'",
               "url": "https://www.newsway.co.kr/news/view?ud=2026091018431179219"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎬",
-          "title": "라이브커머스 10조 시장 진출",
-          "summary": "폰드그룹의 M&A 전략으로 라이브커머스 10조 시장이 본격 개화하며, 유통사부터 버티컬 플랫폼까지 핵심 성장 채널로 편입되는 추세.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "라이브커머스 10조 '빅뱅' 시작됐다, 폰드그룹 M&A전략으로 시장선점",
-              "url": "https://n.news.naver.com/mnews/article/468/0001265403?sid=101"
             }
           ],
           "articleCount": 1
@@ -84,35 +96,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🔐",
-          "title": "에이전틱 커머스 보안 표준화",
-          "summary": "AI가 결제 주체로 참여하는 에이전틱 커머스 시대에 신한카드가 SK텔레콤과 협업하여 AI 결제 표준을 수립하고 계정·기기·권한·작업 종류를 통합 확인하는 보안 체계 구축 중.",
+          "emoji": "🎨",
+          "title": "롯데 AI 디자인 스튜디오 개발",
+          "summary": "롯데가 경영·브랜드·디자인 철학을 AI에 접목한 디자인 스튜디오를 개발해 백화점 차별화 전략 추진 중.",
           "articleIndices": [
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "AI 챗봇 대화창서 바로 결제… 신한카드 '에이전트 페이' 표준 만든다",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=318299"
-            },
-            {
-              "title": "AI가 '나는 로봇이 아닙니다' 통과… 캡차도 못 가르는 '인간-AI' 경계",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=318326"
+              "title": "[알쏭달쏭Y] 명품 대신 '거장 작품'…백화점이 예술에 빠진 이유",
+              "url": "https://theviewers.co.kr/View.aspx?No=4218020"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💡",
-          "title": "AI 솔루션 벤더 플래티어 성장",
-          "summary": "플래티어가 에이전틱 AI 커머스 솔루션 벤더로서 제로클릭 시대를 정의하며, 3~5년 내 글로벌 확장을 목표로 유통 외 산업 확대 추진 중.",
+          "emoji": "🎁",
+          "title": "현대백화점 AI 쇼핑 어시스턴트 '헤이디'",
+          "summary": "현대백화점이 AI 어시스턴트 '헤이디'로 예산·연령대 입력 시 맞춤형 선물 추천 서비스 제공해 추석 선물 시장 공략.",
           "articleIndices": [
-            5
+            3
           ],
           "relatedLinks": [
             {
-              "title": "(내일의 거인들)'AI 솔루션계 TSMC 되겠다'…플래티어, 제로클릭 시대 정...",
-              "url": "http://www.newstomato.com/ReadNews.aspx?no=1313166&inflow=N"
+              "title": "5~20만원으로 추석 선물 뭘 고르지?…온라인 장터가 고민 해결",
+              "url": "https://n.news.naver.com/mnews/article/138/0002241139?sid=101"
             }
           ],
           "articleCount": 1
@@ -124,25 +132,38 @@
       "issues": [
         {
           "emoji": "📮",
-          "title": "CU 우체국택배 전국 확대",
-          "summary": "BGF리테일이 우정사업본부와 협약을 체결하여 CU에서 우체국택배를 이용할 수 있는 서비스를 전국 단위로 확대하고, 향후 국제 택배도 도입 예정.",
+          "title": "CU 우체국 택배 접수 서비스",
+          "summary": "CU가 우정사업본부와 협력해 전국 1만8900개 점포에서 우체국 택배 접수 서비스 시작, 물류 배송망 다변화 추진.",
           "articleIndices": [
-            1,
-            2,
-            3,
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일, CU와 우체국 연계 서비스 전국 단위로 확대",
-              "url": "http://www.lawissue.co.kr/view.php?ud=20260910213659436204ead0791_12"
-            },
-            {
-              "title": "편의점 CU에서 우체국 택배 보낸다",
-              "url": "https://n.news.naver.com/mnews/article/009/0005733562?sid=103"
+              "title": "\"우체국 멀다면\"…전국 CU에서 보내는 우체국 택배",
+              "url": "https://www.sentv.co.kr/article/view/sentv202609110116"
             }
           ],
-          "articleCount": 4
+          "articleCount": 1
+        },
+        {
+          "emoji": "🏝️",
+          "title": "BGF리테일 독도사랑 원정대 14년 지속",
+          "summary": "BGF리테일이 CU 임직원·가맹점주로 구성된 독도사랑 원정대를 통해 2012년부터 14년간 독도 수호 활동 지속.",
+          "articleIndices": [
+            2,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "BGF리테일, 14년째 후원…'독도사랑 원정대' 독도 방문",
+              "url": "http://www.sisacast.kr/news/articleView.html?idxno=99985"
+            },
+            {
+              "title": "BGF리테일 'CU 독도사랑 원정대', 2012년부터 독도 수호 활동",
+              "url": "https://www.nspna.com/news/?mode=view&newsid=827989"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -150,31 +171,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💳",
-          "title": "GS25 추석 도시락 프로모션",
-          "summary": "GS25가 6900원 '이달의 도시락 한가위편'을 선보이며 편의점 4사가 명절 간편식 경쟁을 심화시키고 혼추(혼자 추석) 트렌드에 대응 중.",
+          "emoji": "🍡",
+          "title": "GS25 떡 디저트 신상 출시",
+          "summary": "GS25가 '요거트 찹쌀떡' 등 전통 떡을 냉동 디저트로 재해석한 상품으로 편의점 디저트 시장 공략.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[2026 한가위 선물 ②] 차례상 대신 6900원 한 끼…편의점으로 간 '혼추...",
-              "url": "https://n.news.naver.com/mnews/article/138/0002241005?sid=101"
+              "title": "인절미·설기가 달라졌다…유통업계 '떡 디저트' 공략",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026091112494731049"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "이마트24 지역사회 기여",
-          "summary": "이마트24 가맹점주가 함양군 청년친화헌정대상 소통대상을 3년 연속 수상하며 지역 농업과 명절 이웃돕기를 통해 지역사회 신뢰 구축 중.",
+          "emoji": "🎀",
+          "title": "세븐일레븐 헬로키티 굿즈 추석 선물",
+          "summary": "세븐일레븐이 MZ세대 겨냥 헬로키티 키링·카드지갑·텀블러 등 굿즈로 추석 선물 시장 공략.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "900만원대 편의점 와인도 '완판'…추석 선물 대전",
+              "url": "https://n.news.naver.com/mnews/article/079/0004188607?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥤",
+          "title": "이마트24 제로음료 1+1 프로모션",
+          "summary": "이마트24가 티로그 애플청포도 아이스티제로 등 제로 음료를 1+1 상품으로 판매하며 건강음료 트렌드 대응.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "함양군, 청년친화헌정대상 '소통대상'…3년 연속 수상",
-              "url": "https://www.kukinews.com/article/view/kuk202609110010"
+              "title": "탄산 쫓아내는 '무알코올·제로'음료…편의점 진열대·1+1 점령",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026091114082696573"
             }
           ],
           "articleCount": 1
@@ -185,16 +221,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🥢",
-          "title": "편의점 전통간식 협업 확대",
-          "summary": "GS25가 K-디저트 브랜드 한정선, 로로멜로와 협업하여 '한정선 요거트' 등 전통간식을 선보이며, MZ세대와 외국인 고객 수요에 대응 중.",
+          "emoji": "📉",
+          "title": "1인가구 주도 간편식 '군살빼기' 트렌드",
+          "summary": "용량 축소·가격 인하 실속형 상품이 1인가구와 건강관리 수요층을 중심으로 편의점·마트 간편식 시장 확산 중.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "'찹쌀떡·약과 먹으러 MZ·외국인 줄 선다' 편의점들 어르신 입맛 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/003/0014180098?sid=101"
+              "title": "용량 줄이고 가격 낮췄다…1인가구가 이끈 먹거리 '군살빼기'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005815340?sid=101"
             }
           ],
           "articleCount": 1
