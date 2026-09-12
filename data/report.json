@@ -1,53 +1,43 @@
 {
-  "generatedAt": "2026-09-11T23:38:18.054Z",
+  "generatedAt": "2026-09-12T23:30:50.280Z",
   "summary": [
-    "CU, 전국 1만8900개 점포서 우체국 택배 접수 서비스 시작",
-    "편의점 업계, AI 쇼핑 어시스턴트·에이전틱 커머스로 소비자 맞춤형 추천 경쟁",
-    "GS25·세븐일레븐·이마트24, 떡 디저트·헬로키티 굿즈·제로음료로 추석 선물 시장 공략"
+    "이마트24, 셰프 IP 활용한 중화 간편식 라인업 확대로 카테고리 다변화 견인",
+    "편의점 디저트 카테고리 82% 신장, 유명 브랜드 협업 상품으로 경쟁 심화",
+    "AI 기반 소비자 의도 파악이 유통업계 경쟁력의 핵심으로 전환"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 에이전틱 커머스 확산",
-          "summary": "신세계면세점·현대백화점·GS리테일 등이 AI 쇼핑 어시스턴트를 도입해 소비자 의도 파악 기반 상품 추천으로 경쟁력 전환 중.",
+          "emoji": "👨‍🍳",
+          "title": "이마트24 셰프IP 중화간편식",
+          "summary": "이마트24가 박은영 등 셰프 IP를 활용한 중화 간편식 라인업을 확대하며 일회성 이슈를 넘어 카테고리 다변화와 매출 성장의 핵심 동력으로 자리 잡고 있다.",
           "articleIndices": [
-            3,
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] '3만원대 선크림 추천해줘'...신세계免, 업계 첫 '카톡 AI 쇼핑'",
-              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=812744"
-            },
+              "title": "'중식 여신 박은영 이유 있는 흥행'… 이마트24, 중화 간편식 라인업 넓...",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424047"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🤖",
+          "title": "AI 소비자 의도 파악 경쟁",
+          "summary": "유통업계가 '상품 노출량'에서 '소비자 의도 정확 파악'으로 경쟁 축을 이동시키며 AI 기반 MD와 마케팅 전략이 핵심 차별화 요소로 부상하고 있다.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
             {
               "title": "['함께 더 멀리' AI 대전환과 공존/⑥(끝)]AI와 함께 재설계하는 소비자...",
               "url": "https://www.businessplus.kr/news/articleView.html?idxno=116683"
             }
           ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🔄",
-          "title": "농협 하나로유통 흡수합병",
-          "summary": "농협경제지주가 12년 만에 분리했던 하나로유통을 내년 1월 흡수합병하며 통합 구매·마케팅 효율화 추진.",
-          "articleIndices": [
-            6,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "[농담]분리할 때도 '효율화', 합칠 때도 '효율화'…농협 하나로유통 12년...",
-              "url": "https://n.news.naver.com/mnews/article/008/0005412717?sid=101"
-            },
-            {
-              "title": "농협경제지주, 하나로유통 흡수합병 추진…내년 1월 통합",
-              "url": "https://n.news.naver.com/mnews/article/008/0005412704?sid=101"
-            }
-          ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -55,37 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "버티컬 AI 커머스 확대",
-          "summary": "딸기로컴퍼니·폰드그룹 등이 디저트·베이커리 특화 버티컬 AI 모델 개발로 도메인 최적화 추천 시장 선점 중.",
+          "emoji": "📦",
+          "title": "쿠팡 결제액 5조원 돌파",
+          "summary": "쿠팡이 개인정보 유출 사태 이후에도 결제액 5조원을 돌파하며 배송망과 상품 구색의 경쟁력이 개인정보 이슈를 상쇄하는 핵심 요소임을 입증했다.",
           "articleIndices": [
-            7,
-            8,
-            9
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'딸기로픽' 운영 딸기로컴퍼니, 중기부 TIPS 선정…디저트 특화 버티컬...",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=146046"
-            },
-            {
-              "title": "[기획] 검색창도 사라진다…AI가 대신하는 '판단'",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=1412472"
+              "title": "쿠팡, 유출 사태 이후 결제액 5조원 돌파… 이용자도 역대 최고",
+              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1180539"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "📦",
-          "title": "카카오 직매입 물류 조직 신설",
-          "summary": "카카오가 새벽배송 운영 역량 고도화를 위해 직매입 물류 조직을 신설하며 신선식품 이커머스 경쟁 강화.",
+          "emoji": "🎯",
+          "title": "무신사 C뷰티 카테고리 확장",
+          "summary": "무신사가 '이커머스' 정체성을 강화하며 패션을 넘어 뷰티 카테고리로 확장하여 플랫폼 경쟁력을 다각화하고 있다.",
           "articleIndices": [
-            3
+            2
           ],
           "relatedLinks": [
             {
-              "title": "카카오, 직매입 물류 조직 신설…'운영 역량 고도화'",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026091018431179219"
+              "title": "무신사는 왜 하필 'C뷰티'를 선택했을까",
+              "url": "https://n.news.naver.com/mnews/article/648/0000050711?sid=101"
             }
           ],
           "articleCount": 1
@@ -96,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎨",
-          "title": "롯데 AI 디자인 스튜디오 개발",
-          "summary": "롯데가 경영·브랜드·디자인 철학을 AI에 접목한 디자인 스튜디오를 개발해 백화점 차별화 전략 추진 중.",
+          "emoji": "🔐",
+          "title": "AI 시대 개인정보 보안 위협",
+          "summary": "OTT·미용·결제 등 업종을 가리지 않고 개인정보 침해·유출 사고가 확산되며 AI 기술이 공격 문턱을 낮추고 있어 기업 보안 강화가 시급한 상황이다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[알쏭달쏭Y] 명품 대신 '거장 작품'…백화점이 예술에 빠진 이유",
-              "url": "https://theviewers.co.kr/View.aspx?No=4218020"
+              "title": "AI 시대 개인정보 어디까지 털리나…OTT·미용까지 뚫렸다",
+              "url": "https://n.news.naver.com/mnews/article/001/0016306256?sid=102"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎁",
-          "title": "현대백화점 AI 쇼핑 어시스턴트 '헤이디'",
-          "summary": "현대백화점이 AI 어시스턴트 '헤이디'로 예산·연령대 입력 시 맞춤형 선물 추천 서비스 제공해 추석 선물 시장 공략.",
+          "emoji": "🎮",
+          "title": "AI·XR 캐릭터 IP 팝업 전략",
+          "summary": "현대백화점이 흰디 캐릭터 IP를 AI·XR 기술과 결합하여 관람형에서 참여형으로 전환한 팝업을 선보이며 오프라인 공간에서 고객 접점 강화 트렌드를 주도하고 있다.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "5~20만원으로 추석 선물 뭘 고르지?…온라인 장터가 고민 해결",
-              "url": "https://n.news.naver.com/mnews/article/138/0002241139?sid=101"
+              "title": "흰디, AI·XR 입고 게임 캐릭터로 부활...현대백화점 신촌점 팝업 화제",
+              "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253037"
             }
           ],
           "articleCount": 1
@@ -131,39 +115,54 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📮",
-          "title": "CU 우체국 택배 접수 서비스",
-          "summary": "CU가 우정사업본부와 협력해 전국 1만8900개 점포에서 우체국 택배 접수 서비스 시작, 물류 배송망 다변화 추진.",
+          "emoji": "🤝",
+          "title": "CU 굿 프렌즈 데이 협력사",
+          "summary": "BGF리테일이 중소 협력사 임직원과 함께하는 '굿 프렌즈 데이'를 개최하여 협력사와의 소통·화합을 강화하고 상생 경영 의지를 표현했다.",
           "articleIndices": [
-            1
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "\"우체국 멀다면\"…전국 CU에서 보내는 우체국 택배",
-              "url": "https://www.sentv.co.kr/article/view/sentv202609110116"
+              "title": "BGF리테일, 협력사 초청 화합 행사 '2026 굿 프렌즈 데이' 개최",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=132732"
+            },
+            {
+              "title": "BGF리테일, 협력사 초청 '굿 프렌즈 데이' 성료",
+              "url": "https://n.news.naver.com/mnews/article/030/0003466129?sid=101"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "⭐",
+          "title": "CU 업계 첫 브랜드 모델 리센느",
+          "summary": "CU가 편의점 업계 최초로 브랜드 모델을 발탁하여 업계 1위 위상을 공고히 하는 온·오프라인 마케팅 전략을 강화하고 있다.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "[기획] CU·할리스가 선택한 얼굴 '리센느'...'브랜드 모델' 뭐길래",
+              "url": "https://www.sentv.co.kr/article/view/sentv202609100178"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "🏝️",
-          "title": "BGF리테일 독도사랑 원정대 14년 지속",
-          "summary": "BGF리테일이 CU 임직원·가맹점주로 구성된 독도사랑 원정대를 통해 2012년부터 14년간 독도 수호 활동 지속.",
+          "title": "CU 독도사랑 원정대 14년 지속",
+          "summary": "BGF리테일이 임직원과 가맹점주로 구성된 '독도사랑 원정대'를 통해 14년째 독도 후원을 지속하며 사회공헌 활동을 강화하고 있다.",
           "articleIndices": [
-            2,
-            3
+            4
           ],
           "relatedLinks": [
             {
               "title": "BGF리테일, 14년째 후원…'독도사랑 원정대' 독도 방문",
               "url": "http://www.sisacast.kr/news/articleView.html?idxno=99985"
-            },
-            {
-              "title": "BGF리테일 'CU 독도사랑 원정대', 2012년부터 독도 수호 활동",
-              "url": "https://www.nspna.com/news/?mode=view&newsid=827989"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -171,46 +170,31 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍡",
-          "title": "GS25 떡 디저트 신상 출시",
-          "summary": "GS25가 '요거트 찹쌀떡' 등 전통 떡을 냉동 디저트로 재해석한 상품으로 편의점 디저트 시장 공략.",
+          "emoji": "🍺",
+          "title": "GS25 신선강화형 매장 확대",
+          "summary": "GS25의 신선강화형 매장(1,041개점)이 일반 매장 대비 신선식품 구색 500종 확대로 일일 평균 매출 100만원 이상 증가, 객수 36% 상승을 기록하며 특화 매장 전략의 성공을 입증했다.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "'천편일률' 벗어던진 편의점…특화매장, 일반점 매출의 '2배'",
+              "url": "https://n.news.naver.com/mnews/article/001/0016306296?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍰",
+          "title": "세븐일레븐 소화우유 디저트",
+          "summary": "세븐일레븐이 '소화가잘되는우유' 디저트 4종을 출시하며 편의점 디저트 카테고리 82% 신장 추세에 대응하고 있다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "인절미·설기가 달라졌다…유통업계 '떡 디저트' 공략",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026091112494731049"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎀",
-          "title": "세븐일레븐 헬로키티 굿즈 추석 선물",
-          "summary": "세븐일레븐이 MZ세대 겨냥 헬로키티 키링·카드지갑·텀블러 등 굿즈로 추석 선물 시장 공략.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "900만원대 편의점 와인도 '완판'…추석 선물 대전",
-              "url": "https://n.news.naver.com/mnews/article/079/0004188607?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🥤",
-          "title": "이마트24 제로음료 1+1 프로모션",
-          "summary": "이마트24가 티로그 애플청포도 아이스티제로 등 제로 음료를 1+1 상품으로 판매하며 건강음료 트렌드 대응.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "탄산 쫓아내는 '무알코올·제로'음료…편의점 진열대·1+1 점령",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026091114082696573"
+              "title": "세븐일레븐, '소화가잘되는우유 디저트' 4종 출시",
+              "url": "https://n.news.naver.com/mnews/article/030/0003466127?sid=101"
             }
           ],
           "articleCount": 1
@@ -221,16 +205,32 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "📉",
-          "title": "1인가구 주도 간편식 '군살빼기' 트렌드",
-          "summary": "용량 축소·가격 인하 실속형 상품이 1인가구와 건강관리 수요층을 중심으로 편의점·마트 간편식 시장 확산 중.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 카테고리 폭발",
+          "summary": "편의점 디저트 카테고리가 1~8월 82% 신장, 배달 매출 533% 급증하며 세븐일레븐·GS25 등이 유명 브랜드 협업 상품(한정선 떡, 모찌 등)으로 경쟁을 심화시키고 있다.",
           "articleIndices": [
-            6
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "용량 줄이고 가격 낮췄다…1인가구가 이끈 먹거리 '군살빼기'",
-              "url": "https://n.news.naver.com/mnews/article/277/0005815340?sid=101"
+              "title": "유명 떡집 찾아 '떡지순례'…디저트 흥행 키워드 된 '퓨전 떡'",
+              "url": "https://www.ekn.kr/web/view.php?key=20260912029413549"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍶",
+          "title": "편의점 신상 술 280만캔 판매",
+          "summary": "편의점이 2030세대의 신상 술 구매처로 자리 잡으며 롯데칠성 RTD 2분기 매출 143% 급증, 280만캔 판매 기록을 세웠다.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "'이게 그렇게 맛있나'…'품절 대란' 280만캔 팔린 술 [권용훈의 트렌드...",
+              "url": "https://n.news.naver.com/mnews/article/015/0005331587?sid=101"
             }
           ],
           "articleCount": 1
