@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T23:43:54.536Z",
+  "generatedAt": "2026-09-15T00:03:32.533Z",
   "summary": [
-    "CU, 한국조리과학고 학생 레시피 도시락 출시로 MZ세대 공략",
-    "이마트24 K푸드·디저트 특화점 매출 123% 상승으로 차별화 전략 성공",
-    "GS25 민음사 캐릭터 IP 협업 빵으로 2030 여성 고객 50% 이상 확보"
+    "CU, 리센느 협업 'BAKE405' 베이커리 5종 출시로 컬래버 상품 수요 지속",
+    "GS25, SNS 화제 '삼포깐포도' 통조림을 하이볼로 재해석해 차별화 주류 전략",
+    "이마트24, '떡지순례' 트렌드 공략으로 유명 떡집 상품 11종 팝업 판매"
   ],
   "categories": [
     {
@@ -11,30 +11,30 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "이마트24 중화 간편식 라인업 확대",
-          "summary": "셰프 IP를 활용한 상품이 일회성 이슈를 벗어나 카테고리 다변화와 매출 견인의 핵심 동력으로 자리 잡으며 유통업계의 IP 활용 전략 확산을 주도.",
+          "title": "간편식 시장 경쟁 심화",
+          "summary": "쿠팡이 간편식 평판 1위를 차지하며 이마트·롯데마트를 제치고 유통업계 간편식 경쟁이 본격화되는 추세.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "'중식 여신 박은영 이유 있는 흥행'… 이마트24, 중화 간편식 라인업 넓...",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424047"
+              "title": "간편식 평판 1위 쿠팡…이마트·롯데마트 제쳤다",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486964"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "무신사의 C뷰티 카테고리 진출",
-          "summary": "무신사가 자신을 '이커머스'로 재정의하며 패션 제품 판매를 넘어 뷰티 카테고리로 사업 범위를 확장하는 전략적 포지셔닝 전환.",
+          "emoji": "🏃",
+          "title": "스포츠 마케팅 확대",
+          "summary": "롯데백화점이 아디다스와 협력해 도시형 러닝 스포츠 이벤트를 통해 젊은 소비층을 공략하는 대형 마케팅 전개.",
           "articleIndices": [
-            3
+            6
           ],
           "relatedLinks": [
             {
-              "title": "무신사는 왜 하필 'C뷰티'를 선택했을까",
-              "url": "https://n.news.naver.com/mnews/article/648/0000050711?sid=101"
+              "title": "'2700여 러너 지켜본다'…롯데백화점, 아디다스 손잡고 '서울 100K' 팝업...",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=88028"
             }
           ],
           "articleCount": 1
@@ -46,30 +46,35 @@
       "issues": [
         {
           "emoji": "📦",
-          "title": "쿠팡 개인정보 유출 후 거래액 5조원 돌파",
-          "summary": "쿠팡이 개인정보 유출 사태 이후에도 거래액 5조원을 돌파하며 배송망과 상품 구색의 경쟁력이 소비자 이탈을 방어하는 핵심 요소임을 입증.",
+          "title": "생활용품 브랜드 경쟁 심화",
+          "summary": "다이소가 생활용품 브랜드평판 9월 1위를 유지하며 이커머스와 대형마트 채널에서 브랜드 경쟁이 치열해지는 상황.",
           "articleIndices": [
+            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "쿠팡, 유출 사태 이후 결제액 5조원 돌파… 이용자도 역대 최고",
-              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1180539"
+              "title": "생활용품 브랜드 관심 4.16% 증가…다이소 독주 이어졌다",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486965"
+            },
+            {
+              "title": "[브랜드평판] 다이소, 생활용품 브랜드평판 9월 1위... 쿠팡, 이마트 뒤...",
+              "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=54377"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🎁",
-          "title": "라포랩스 버티컬 커머스 '퀸잇' 상반기 거래액 21% 신장",
-          "summary": "4050세대 라이프스타일 특화 버티컬 커머스 '퀸잇'이 상반기 거래액 21% 신장으로 니치 타겟 공략의 성장성을 입증하며 e커머스 시장의 세분화 트렌드 가속화.",
+          "emoji": "🛍️",
+          "title": "K뷰티 글로벌 위조품 대응",
+          "summary": "K뷰티 수출 증가에 따라 글로벌 이커머스 플랫폼에서 정품과 구분 어려운 가품이 확산되며 업계 대응 수위 강화.",
           "articleIndices": [
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[이슈+] SK스토아 인수 재시동 건 라포랩스",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061709"
+              "title": "K뷰티 수출 늘자 '짝퉁'도 기승…화장품업계, 대응 수위 높인다",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1405874"
             }
           ],
           "articleCount": 1
@@ -81,30 +86,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "SSG닷컴 AI 퍼포먼스 광고 지원으로 소상공인 매출 68% 증가",
-          "summary": "SSG닷컴이 입점사 판매 데이터 분석 기반 컨설팅형 AI 광고 지원을 통해 소상공인 매출을 68% 증가시키며 e커머스 플랫폼의 AI 활용 수익화 모델 확립.",
+          "title": "AI 기반 숏폼 콘텐츠 제작",
+          "summary": "유통업계가 AI 도입으로 숏폼 콘텐츠 제작 효율을 극대화하며 하루 최대 6배 이상의 콘텐츠 생산 가능해진 추세.",
           "articleIndices": [
-            6
+            3
           ],
           "relatedLinks": [
             {
-              "title": "SSG닷컴, TOPS 참여 소상공인 매출 68%↑…데이터 컨설팅 성과",
-              "url": "https://n.news.naver.com/mnews/article/421/0009167783?sid=101"
+              "title": "예능 만들고, AI 활용까지…유통가 '숏폼 전쟁' 2라운드 돌입",
+              "url": "https://n.news.naver.com/mnews/article/011/0004661835?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍎",
-          "title": "e커머스 식품 경쟁력 강화에 AI 비파괴 광학 센서 활용",
-          "summary": "온라인 식품 시장 성장에 따라 e커머스 업계가 AI 컴퓨터 비전 기술을 통해 제철 과일의 당도와 품질을 검증하며 온라인 신선식품 신뢰도 제고.",
+          "emoji": "💡",
+          "title": "RMN 시장 경쟁 심화",
+          "summary": "온라인 플랫폼 주도의 리테일 미디어 네트워크(RMN)에 오프라인 유통업체까지 진입하며 AI 기반 타깃팅 경쟁 확대.",
           "articleIndices": [
-            9
+            4
           ],
           "relatedLinks": [
             {
-              "title": "e커머스 '장보기 전쟁' 더 뜨거워진다…왜 식품에 목매나",
-              "url": "https://n.news.naver.com/mnews/article/421/0009167632?sid=101"
+              "title": "[창간기획: 유통업계, 미래 먹거리 RMN 잡아라] \"매장이 곧 광고판\"…...",
+              "url": "https://www.viva100.com/article/20260903500948"
             }
           ],
           "articleCount": 1
@@ -115,19 +120,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "👨‍🍳",
-          "title": "CU 한국조리과학고 학생 레시피 도시락 출시",
-          "summary": "CU가 한국조리과학고등학교 학생들의 요리경연대회 우수 레시피를 실제 편의점 간편식으로 상품화하며 MZ세대 공략과 교육 기관과의 협력 마케팅 강화.",
+          "emoji": "🎤",
+          "title": "리센느 협업 베이커리 출시",
+          "summary": "CU가 브랜드 모델 리센느와 협업한 'BAKE405' 베이커리 5종을 17일부터 순차 출시하며 컬래버 상품 수요 지속.",
           "articleIndices": [
-            1
+            1,
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "CU, 한국조리과학고 학생 레시피 도시락으로 출시",
-              "url": "https://n.news.naver.com/mnews/article/003/0014187305?sid=101"
+              "title": "CU, 리센느 취향 반영한 'BAKE405' 5종 출시…한정판 포토카드 동봉",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=720650"
+            },
+            {
+              "title": "'리센느가 좋아하는 맛 그대로' CU, 협업 빵 5종 출시",
+              "url": "https://n.news.naver.com/mnews/article/003/0014189991?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 4
         }
       ]
     },
@@ -135,49 +147,62 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "📚",
-          "title": "GS25 민음사 캐릭터 IP '오늘의 귀여움' 협업 빵",
-          "summary": "GS25가 출판사 민음사의 캐릭터 IP를 반영한 '민음사빵'을 선보여 2030 여성 고객 50% 이상을 확보하며 IP 협업을 통한 차별화 마케팅 성공.",
+          "emoji": "🍇",
+          "title": "GS25 삼포깐포도 하이볼 출시",
+          "summary": "GS25가 SNS에서 화제가 된 과일 통조림 '삼포깐포도'를 하이볼로 재해석해 16일 단독 출시하며 차별화 주류 전략 전개.",
+          "articleIndices": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "GS25, '삼포깐포도' 하이볼로 재해석…16일 단독 출시",
+              "url": "https://n.news.naver.com/mnews/article/421/0009169996?sid=101"
+            },
+            {
+              "title": "'SNS서 화제' GS25, 과일 통조림 '삼포깐포도' 하이볼로 재해석",
+              "url": "https://n.news.naver.com/mnews/article/003/0014189940?sid=101"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "🍠",
+          "title": "세븐일레븐 계절 간식 강화",
+          "summary": "세븐일레븐이 동절기를 앞두고 국산 신품종 '호풍미' 고구마를 활용한 군고구마와 어묵 판매를 14일부터 본격 시작.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "'책갈피 때문에 빵 사요'…'텍스트힙'에 들썩이는 유통가",
-              "url": "https://n.news.naver.com/mnews/article/648/0000050725?sid=101"
+              "title": "'아침저녁 찬 바람에'…세븐일레븐, 군고구마·어묵 판매",
+              "url": "https://n.news.naver.com/mnews/article/001/0016310438?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍷",
-          "title": "세븐일레븐 아시안게임 '집관족' 겨냥 먹거리·주류 300종 할인",
-          "summary": "세븐일레븐이 아시안게임 기간 국제 스포츠 대회 수요를 겨냥해 먹거리와 주류 300종을 할인 프로모션하며 스포츠 이벤트 연계 마케팅 강화.",
+          "emoji": "🍡",
+          "title": "이마트24 떡지순례 팝업 전개",
+          "summary": "이마트24가 '떡지순례' 트렌드에 발맞춰 17~20일 성수동 특화 점포에서 유명 떡집 상품 11종을 편의점 업계 최초로 판매.",
           "articleIndices": [
-            6
+            7,
+            8,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "아시안게임 앞두고 '집관족' 겨냥…세븐일레븐, 먹거리·주류 300종 할인",
-              "url": "https://n.news.naver.com/mnews/article/003/0014187290?sid=104"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍖",
-          "title": "이마트24 K푸드·디저트 특화점 매출 123% 상승",
-          "summary": "이마트24의 명동·서울숲 K푸드·디저트 특화점이 전체 점포 평균 대비 123% 높은 매출을 기록하며 외국인 관광객 겨냥 특화 매장 전략의 성공 입증.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
+              "title": "이마트24, 17∼20일 성수 일대서 '퓨전 떡 팝업'",
+              "url": "https://n.news.naver.com/mnews/article/001/0016310475?sid=101"
+            },
             {
-              "title": "'복붙' 편의점 시대 끝…특화 매장 매출 2배 껑충",
-              "url": "https://n.news.naver.com/mnews/article/015/0005331791?sid=101"
+              "title": "이마트24, 성수서 '떡지순례' 팝업…유명 떡집 상품 11종 선봬",
+              "url": "https://n.news.naver.com/mnews/article/421/0009170008?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     },
@@ -185,34 +210,42 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "세븐일레븐 생크림빵·모찌롤 전문점 수준 품질 강화",
-          "summary": "세븐일레븐이 편의점 디저트에 전문점 수준의 맛과 품질을 요구하는 소비 흐름에 맞춰 크림과 빵의 맛을 강화한 신상품으로 디저트 카테고리 고급화 추진.",
+          "emoji": "🎂",
+          "title": "편의점 SNS 화제 상품 경쟁",
+          "summary": "GS25의 '삼포깐포도 하이볼'과 CU의 '리센느 협업 BAKE405' 등 SNS에서 화제가 된 상품들이 편의점 차별화 전략의 핵심으로 부상.",
           "articleIndices": [
-            2
+            4,
+            5,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "크림 아낌없이 듬뿍…세븐일레븐, 생크림빵·모찌롤 승부수",
-              "url": "https://n.news.naver.com/mnews/article/658/0000155430?sid=101"
+              "title": "[오늘의신상]삼포깐포도 판매 21배 뛰었다…하이볼까지 만든 편의점",
+              "url": "https://n.news.naver.com/mnews/article/277/0005816264?sid=101"
+            },
+            {
+              "title": "[오늘의신상]원이의 옥수수크림빵…CU,리센느 멤버 쏙 담았다",
+              "url": "https://n.news.naver.com/mnews/article/277/0005816282?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         },
         {
-          "emoji": "🍺",
-          "title": "RTD 신상 술 '품절 대란' 280만캔 판매로 편의점 주도",
-          "summary": "편의점이 2030세대의 신상 술 구매처로 자리 잡으며 RTD 2분기 매출 143% 급증으로 편의점 중심의 주류 소비 트렌드 변화 가속화.",
+          "emoji": "🍰",
+          "title": "떡 트렌드 팝업 확대",
+          "summary": "이마트24가 '떡지순례' 열풍에 대응해 유명 떡집 상품 11종을 팝업으로 판매하며 편의점 디저트 시장 강화.",
           "articleIndices": [
-            9
+            1,
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'이게 그렇게 맛있나'…'품절 대란' 280만캔 팔린 술",
-              "url": "https://n.news.naver.com/mnews/article/015/0005331587?sid=101"
+              "title": "\"떡 맛집부터 명절 한상까지\"…이마트24, '혼추족' 겨냥 먹거리 강...",
+              "url": "https://www.viva100.com/article/20260915500100"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     }
