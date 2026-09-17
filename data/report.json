@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-16T23:57:20.563Z",
+  "generatedAt": "2026-09-17T23:47:12.790Z",
   "summary": [
-    "CU, 연수 활용해 삼각김밥 품질 개선…보습력 20% 향상",
-    "세븐일레븐 즉석 스무디 6개월 100만개 판매…편의점 디저트 시장 재편",
-    "GS25, AI 트렌드 분석 시스템으로 SNS 인기 레시피 상품화"
+    "CU, 푸드테크 연구로 경도 낮춘 연수 삼각김밥 출시해 밥맛 품질 혁신",
+    "이마트24, SNS 화제 '떡지순례' 상품 11종 팝업으로 MZ층 공략",
+    "BGF리테일, 부산 글로벌 물류센터로 CU PB 상품 해외 수출 기반 구축"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "중소 브랜드 유통 진입 문턱 낮추기",
-          "summary": "CJ올리브영이 2400개 중소·인디 브랜드와 협력하며 대기업 중심 유통시장의 진입 장벽을 낮추고 K뷰티 생태계를 확장하는 전략적 움직임.",
+          "emoji": "🎯",
+          "title": "추석 명절 할인 경쟁",
+          "summary": "이마트가 정부 지원사업과 연계한 제수용 수산물 최대 40% 할인 행사로 명절 수요 선점 전략 추진 중.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "[SV 리포트] 대기업 중심 유통 문턱 낮춘 '올다무'…중소기업 성장 사...",
-              "url": "https://www.socialvalue.kr/news/view/1065579556661830"
+              "title": "이마트, 정부와 추석 할인 행사…제수용 수산물 최대 40%↓",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=319200"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "홈플러스 회생계획 인가…67개점 재출발",
-          "summary": "홈플러스가 서울회생법원으로부터 회생계획안을 인가받아 청산을 피하고 67개 점포로 재출발하는 유통업계 구조 조정 사례.",
+          "emoji": "💼",
+          "title": "유통업계 대규모 신규채용",
+          "summary": "롯데·신세계·현대백화점 등 유통 대형사들이 AI·마케팅·R&D 등 50여 개 직무에서 세 자릿수 규모 채용으로 기술 경쟁력 강화.",
           "articleIndices": [
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "청산 피한 홈플러스…'67개 점포'로 다시 설 수 있을까",
-              "url": "https://www.kukinews.com/article/view/kuk202609080161"
+              "title": "\"챗GPT 죽었다깨도 화장품 못팔죠\"…올리브영, 역대최대 신규채용",
+              "url": "https://n.news.naver.com/mnews/article/009/0005737007?sid=103"
             }
           ],
           "articleCount": 1
@@ -45,39 +45,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "움파, IP 협업·팝업으로 온라인 팬덤 확대",
-          "summary": "온라인 팬덤 기반 움파가 IP 협업과 팝업스토어로 오프라인을 확대하며 중국 티몰 정식 입점까지 달성해 매출 50% 증가 목표.",
+          "emoji": "📊",
+          "title": "AI 시대 데이터 차별성",
+          "summary": "카페24가 AI 이커머스 성패의 핵심으로 내부·외부 데이터 통합 분석 능력을 강조하며 데이터 기반 경쟁력 중요성 부각.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "온라인 팬덤 키운 '움파' IP 협업 · 오프라인 확대… 매출 50% ↑ 목표",
-              "url": "https://www.fashionbiz.co.kr/article/229524"
+              "title": "'AI는 공평해도 데이터는 불공평'...카페24가 밝힌 이커머스 생존 공식",
+              "url": "https://n.news.naver.com/mnews/article/014/0005577595?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "버티컬 AI·DX 솔루션 기업들의 AI 커머스 플랫폼 수요 확대",
-          "summary": "플래티어 등 버티컬 AI·DX 솔루션 기업들이 K-브랜드 글로벌 확산에 따른 AI 커머스 플랫폼 구축·운영 수요 증가를 강조하며 성장 기회 모색.",
+          "emoji": "🎨",
+          "title": "버티컬 커머스 뷰티 PB 확대",
+          "summary": "패션·신선식품 영역의 버티컬 플랫폼들이 자체 브랜드 뷰티 상품 출시로 수익 다각화 및 고마진 사업 전환 추진 중.",
           "articleIndices": [
-            6,
             8
           ],
           "relatedLinks": [
             {
-              "title": "플래티어 '젠서 GEO', 국내 소비재 브랜드 자사몰로 확장 적용",
-              "url": "https://www.sentv.co.kr/article/view/sentv202609160212"
-            },
-            {
-              "title": "그로쓰리서치, 코스닥 상장사 7곳 초청 '9월 콥데이' 개최",
-              "url": "https://www.sentv.co.kr/article/view/sentv202609160168"
+              "title": "패션-신선식품 넘은 이커머스 격전지...버티컬 플랫폼이 뷰티 PB에 꽂힌...",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=155329"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -85,40 +80,34 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🧠",
-          "title": "유통업계 AI 마케팅 고민 확산",
-          "summary": "유통업계 실무자들이 AI 마케팅 도입에 대한 고민을 공유하며 AI 혁신 포럼에서 산업 현장의 생생한 과제들을 논의.",
+          "emoji": "🤖",
+          "title": "유통업 AI 수요예측·재고관리",
+          "summary": "대형마트들이 AI 기반 수요예측과 재고 관리, 산지 다변화로 공급망 경쟁력 강화 및 이상기후 대응 전략 추진.",
           "articleIndices": [
-            2,
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "대한민국 'AI 혁신'의 고민, 폭넓은 공감대… 본지 '2026 AI 이노베이션...",
-              "url": "https://n.news.naver.com/mnews/article/138/0002241721?sid=105"
+              "title": "추석 차례상 비용 '40만원' 육박... 대형마트, 생산지 다변화에도 납품...",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=227203"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🛒",
-          "title": "GS샵·카카오AI, 쇼핑 서비스 AI 고도화",
-          "summary": "GS샵이 상품 검색·리뷰 요약·비교를 지원하는 AI 쇼핑 어시스턴트를 도입하고, 카카오AI가 결제·커머스 연결을 통해 2030년 매출 16조 목표 추진.",
+          "emoji": "🍙",
+          "title": "CU 푸드테크 밥맛 혁신",
+          "summary": "CU가 10개월 푸드테크 연구로 경도 5mg/L 이하 연수를 적용한 삼각김밥 출시, 간편식 시장 품질 경쟁력 강화.",
           "articleIndices": [
-            5,
             7
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의 커머스] 무신사·GS샵·쓱닷컴·스타필드",
-              "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44909"
-            },
-            {
-              "title": "카카오, AI 에이전트로 승부수…2030년 '매출 16조' 청사진",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319605"
+              "title": "10개월 푸드테크 '밥맛 혁신'…CU, '연수 삼각김밥' 첫선",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065603582142374"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -126,36 +115,47 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍙",
-          "title": "CU 삼각김밥, 연수 활용해 품질 혁신",
-          "summary": "CU가 경도 5㎎/ℓ 이하의 연수를 적용해 삼각김밥의 보습력을 20% 향상시키고 식감을 개선하는 제품 혁신 추진.",
+          "emoji": "🌏",
+          "title": "부산 글로벌 물류센터 구축",
+          "summary": "BGF리테일이 부산신항 연계 글로벌 물류센터 구축으로 국내 중소 제조사 CU PB 상품의 해외 수출 기반 마련.",
           "articleIndices": [
-            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "CU, 연수 활용한 삼각김밥 개발…'밥의 보습력·식감 개선'",
-              "url": "https://n.news.naver.com/mnews/article/001/0016316431?sid=103"
-            },
+              "title": "'국내 편의점 넘어 세계로'… BGF리테일, 부산에 '글로벌 물류' 포석",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424172"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍙",
+          "title": "연수 삼각김밥 품질 고도화",
+          "summary": "CU가 경도 5mg/L 이하 연수를 쌀 세척부터 취반까지 전 과정에 적용한 삼각김밥으로 밥맛 품질 개선 실현.",
+          "articleIndices": [
+            3,
+            4
+          ],
+          "relatedLinks": [
             {
-              "title": "CU, 삼각김밥 밥물까지 바꿨다…보습력 20%↑",
-              "url": "https://n.news.naver.com/mnews/article/421/0009175369?sid=101"
+              "title": "CU, 삼각김밥 제조에 경도 낮춘 물 적용",
+              "url": "http://www.lawissue.co.kr/view.php?ud=20260917192031438204ead0791_12"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🏗️",
-          "title": "BGF리테일 부산물류센터 준공",
-          "summary": "BGF리테일이 2600억 원 투자로 부산물류센터를 준공하며 신항 연계 거점을 구축해 CU 운영 효율성 강화.",
+          "emoji": "🌐",
+          "title": "중앙아시아 CU 벨트 확장",
+          "summary": "CU가 몽골·카자흐스탄 진출로 중앙아시아 거점 구축, 현지 파트너십 기반 'CU 벨트' 확대 추진 중.",
           "articleIndices": [
-            4
+            5
           ],
           "relatedLinks": [
             {
-              "title": "CU 운영, 'BGF리테일 부산물류센터' 준공삭 가져",
-              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=881018"
+              "title": "몽골·카자흐에 'K편의점' 안착… 중앙亞 'CU벨트' 확장 주목",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260918010006905"
             }
           ],
           "articleCount": 1
@@ -166,54 +166,56 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "GS25, AI 트렌드 분석으로 SNS 레시피 상품화",
-          "summary": "GS25가 자체 구축한 AI 트렌드 분석 시스템으로 SNS 인기 레시피(치즈미역국, 카레당면 등)를 발굴해 상품화하는 데이터 기반 상품 개발 전략.",
+          "emoji": "🍞",
+          "title": "GS25 민음사빵 협업 성공",
+          "summary": "GS25의 민음사빵이 4주 만에 100만 개 이상 판매, 출판·서점과의 크로스오버 마케팅으로 편의점 신규 고객층 확보.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의신상]치즈미역국에 카레당면…AI 포착한 '이 조합' 어때요?",
-              "url": "https://n.news.naver.com/mnews/article/277/0005817538?sid=101"
+              "title": "취미와 접목하고, 편의점 진출…일상 파고드는 서점·출판가",
+              "url": "https://n.news.naver.com/mnews/article/119/0003134106?sid=103"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥤",
-          "title": "세븐일레븐 즉석 스무디, 6개월 100만개 판매 돌파",
-          "summary": "세븐일레븐의 일본 오리지널 즉석 스무디가 출시 6개월 만에 누적 판매 100만개를 달성하며 편의점 음료 시장의 새로운 디저트 카테고리 확립.",
+          "emoji": "🌶️",
+          "title": "세븐일레븐 고가 와인 완판",
+          "summary": "세븐일레븐이 추석 선물 시즌 고가 와인(샤또 라피트 118만원 등) 5시간 완판으로 프리미엄 상품 수요 확인.",
           "articleIndices": [
-            6,
-            7
+            4
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, '누적 판매 100만' 즉석 스무디 인기 잇는다…신상 출시",
-              "url": "https://n.news.naver.com/mnews/article/003/0014195843?sid=101"
+              "title": "'5대 샤또' 편의점 추석선물 5시간 '완판'…억소리 위스키도 팔려",
+              "url": "https://n.news.naver.com/mnews/article/277/0005818145?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍰",
+          "title": "이마트24 떡지순례 팝업",
+          "summary": "이마트24가 SNS 화제 '피자설기' 등 유명 떡집 상품 11종을 특화점 팝업으로 선보이며 MZ층 트렌드 공략.",
+          "articleIndices": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "'피자설기·생크림떡 성수 상륙'…이마트24 특화점, MZ 겨냥 '이색 떡' 팝...",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=118444"
             },
             {
-              "title": "세븐일레븐, 즉석 스무디로 편의점 음료 시장 새 지형 만든다",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=276074"
+              "title": "이마트24, 성수서 유명 떡집 만난다…'떡지순례' 상품 11종 선봬",
+              "url": "https://n.news.naver.com/mnews/article/421/0009177869?sid=101"
             }
           ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🏬",
-          "title": "이마트, 추석 특수 대비 사전예약 기간 확대",
-          "summary": "이마트가 지난해보다 2일 늘린 사전예약 기간을 운영하며 인기 과일세트 물량을 전년 대비 확대해 추석 시즌 소비 수요 선점.",
-          "articleIndices": [
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "[트렌드] 2026 추석 소비 풍속도- 달라진 한가위마음은 그대로",
-              "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1551095"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 4
         }
       ]
     },
@@ -221,33 +223,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🥤",
-          "title": "편의점 즉석 스무디, 사계절 웰니스 디저트로 성장",
-          "summary": "세븐일레븐의 즉석 스무디가 계절 음료에서 사계절 웰니스 디저트로 확장되며 편의점 음료 시장의 새로운 카테고리 형성 및 지속적 신상 출시.",
+          "emoji": "🍜",
+          "title": "GS25 AI 트렌드 신상",
+          "summary": "GS25가 자체 AI 트렌드 분석 시스템으로 SNS 인기 레시피 '치즈 미역국·카레 당면'을 상품화, 소비자 니즈 반영 신상 개발.",
           "articleIndices": [
-            1,
-            2,
-            4
+            7
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, '즉석 스무디' 6개월 만에 100만개 판매",
-              "url": "https://n.news.naver.com/mnews/article/421/0009175387?sid=101"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🍞",
-          "title": "편의점 우유 생크림빵, SNS 오픈런 열풍",
-          "summary": "최근 출시된 편의점 신상 우유 생크림빵이 SNS에서 화제가 되며 여러 점포를 돌아다니며 구매하는 오픈런 현상까지 발생하는 고품질 일본식 베이커리 상품 인기.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "'딱 하나 남아 간신히 샀다'…SNS서 난리 난 '크림빵' 정체 [먹킷리스트...",
-              "url": "https://n.news.naver.com/mnews/article/015/0005332964?sid=101"
+              "title": "[오늘의신상]치즈미역국에 카레당면…AI 포착한 '이 조합' 어때요?",
+              "url": "https://n.news.naver.com/mnews/article/277/0005817538?sid=101"
             }
           ],
           "articleCount": 1
