@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-18T23:43:23.522Z",
+  "generatedAt": "2026-09-20T23:40:03.145Z",
   "summary": [
-    "CU, UFC 맥그리거 흑맥주 단독 유통으로 프리미엄 주류 차별화 전략 강화",
-    "BGF리테일, 부산 물류센터 준공으로 2600억 투자 완료해 물류 경쟁력 확보",
-    "편의점 업계, SNS 트렌드 기반 떡·디저트 신상으로 MZ세대·외국인 공략"
+    "CU 핫브레드 6종 확대로 올해 1~8월 매출 114% 증가 달성",
+    "세븐일레븐 K-인바운드 상품 강화로 외국인 매출 59% 증가",
+    "편의점 간편식·디저트 트렌드 가속화로 명절 소비 채널 재편"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "CU 프리미엄 주류 차별화",
-          "summary": "CU가 UFC 챔프 맥그리거 브랜드 흑맥주를 편의점 채널 단독 유통하며 수입 맥주 라인업 강화로 경쟁사와 차별화.",
+          "emoji": "🎯",
+          "title": "IP 협업 보편화",
+          "summary": "유통업계에서 단순 캐릭터 부착을 넘어 글로벌 네트워크 활용한 상품 기획·마케팅·유통 통합 전략으로 진화 중.",
           "articleIndices": [
-            2
+            4
           ],
           "relatedLinks": [
             {
-              "title": "UFC '챔프' 맥그리거 흑맥주 한국 착륙…CU, '포지드 아이리쉬 스타우트' 단독 출시",
-              "url": "http://www.bizwnews.com/news/articleView.html?idxno=146802"
+              "title": "'디즈니·마블 천하' 옛말…토종 IP 커진 한국에 손 내밀었다",
+              "url": "https://n.news.naver.com/mnews/article/293/0000090713?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🚚",
-          "title": "BGF 물류 인프라 강화",
-          "summary": "BGF리테일이 부산 물류센터 준공으로 2600억 투자를 완료하며 CU 전국 1만8700개 점포의 물류 경쟁력을 확보.",
+          "emoji": "🌏",
+          "title": "K푸드 할랄 시장 진출",
+          "summary": "정부 간 할랄 인증 협력과 기업의 현지화 제품·마케팅 시너지로 인도네시아 등 동남아 거대 시장 공략 가속화.",
           "articleIndices": [
-            1
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[주간유통잇슈] '물류 역량' 키운 BGF리테일, '밖으로 나온' 쿠팡 PB",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063825"
+              "title": "정부 지원 얹고 현지화 날개…K푸드, 세계 최대 '할랄 공룡' 뚫는다",
+              "url": "http://www.metroseoul.co.kr/article/20260920500229"
             }
           ],
           "articleCount": 1
@@ -45,40 +45,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📊",
-          "title": "AI 시대 데이터 차별성",
-          "summary": "카페24가 AI 이커머스 성패의 핵심을 '데이터의 차별성'으로 제시하며 내부·외부 데이터 통합 분석의 중요성 강조.",
+          "emoji": "⚖️",
+          "title": "전통시장 vs 이커머스",
+          "summary": "쿠팡 등 이커머스 급성장으로 대형마트 약화, 새벽배송 규제 완화 논의 가속화.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'AI는 공평해도 데이터는 불공평'...카페24가 밝힌 이커머스 생존 공식",
-              "url": "https://n.news.naver.com/mnews/article/014/0005577595?sid=101"
+              "title": "전통시장과 대형마트의 '제로섬 게임'",
+              "url": "https://n.news.naver.com/mnews/article/648/0000050919?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "👗",
-          "title": "버티컬 커머스 PB 확대",
-          "summary": "무신사·바인드 등 버티컬 플랫폼들이 패션·뷰티 PB 상품 출시로 수수료 수익 모델을 다각화하며 경쟁 심화.",
+          "emoji": "🤝",
+          "title": "신세계免 K-푸드 글로벌 확대",
+          "summary": "신세계면세점과 이삭토스트 협업으로 인천공항·명동·온라인몰 등 다채널 K-푸드 판매 네트워크 구축.",
           "articleIndices": [
-            8,
-            9,
-            11
+            2
           ],
           "relatedLinks": [
             {
-              "title": "운동화 커뮤니티에서 패션·뷰티 플랫폼으로…무신사, 8조 몸값 인정받아",
-              "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512795"
-            },
-            {
-              "title": "패션-신선식품 넘은 이커머스 격전지...버티컬 플랫폼이 뷰티 PB에 꽂힌 이유",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=155329"
+              "title": "[이주의 유통포인트] 신세계免, 이삭토스트와 K-푸드 동반 성장 MOU",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319975"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -87,39 +81,33 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "리테일 AI 인재 확보전",
-          "summary": "유통 대기업들이 AI·콘텐츠·글로벌 사업 확장에 따라 하반기 채용을 강화하며 미래 경쟁력 확보에 나섬.",
+          "title": "편의점 푸드테크 경쟁",
+          "summary": "CU 푸드테크랩 TF의 10개월 연구 기반 간편식 개발, 세븐일레븐·GS25도 SNS·계절 트렌드 접목한 신상품 집중 출시.",
           "articleIndices": [
-            3
+            8
           ],
           "relatedLinks": [
             {
-              "title": "유통업계, 하반기 채용 본격화...AI·글로벌 미래 인재 찾는다",
-              "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=106336"
+              "title": "간편식에 '푸드테크·SNS·계절' 접목…편의점업계, 먹거리 트렌드 '집중'",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=227289"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "리테일 테크 솔루션 확산",
-          "summary": "AI 영상·3D 공간 플랫폼, 전자종이 사이니지 등 리테일 테크 솔루션이 매장 설계·홍보·미디어 운영에 활용 확대.",
+          "emoji": "🚚",
+          "title": "배달앱 AI·데이터 경쟁",
+          "summary": "배달업계가 AI와 데이터 기술로 배달 정확도·만족도 향상에 집중, 고객 예상 시간 충족 경쟁 심화.",
           "articleIndices": [
-            2,
-            10,
-            11
+            2
           ],
           "relatedLinks": [
             {
-              "title": "씨엔티테크, AI 영상 플랫폼 '담가라'·3D 공간 플랫폼 '메타로지' 투자",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063496"
-            },
-            {
-              "title": "솔루엠, NRF 유럽 2026서 리테일 미디어 솔루션 선보여",
-              "url": "https://n.news.naver.com/mnews/article/215/0001266449?sid=101"
+              "title": "\"더 빠르고 정확하게\"…배달앱, AI·데이터 기술 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/011/0004663881?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -127,50 +115,44 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "CU 물류 플랫폼화 전략",
-          "summary": "BGF리테일이 CU 1만8700개 점포를 단순 판매처에서 상품 공급·배송 플랫폼으로 재정의하며 해외 확장 추진.",
+          "emoji": "🔥",
+          "title": "핫브레드 라인업 확대",
+          "summary": "CU가 히팅빵·화덕도우·생식빵 활용 데우는 샌드위치 6종 출시, 올해 1~8월 핫브레드 매출 114% 증가 달성.",
           "articleIndices": [
             1,
-            3
+            2
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일, CU 1만8700점은 결국 '플랫폼'…'포화'라던 점포망의 반전",
-              "url": "https://sateconomy.co.kr/news/view/1065621559814786"
+              "title": "CU, 찬바람 부는 계절 맞춰 데워먹는 '핫브레드' 라인업 강화",
+              "url": "https://n.news.naver.com/mnews/article/421/0009182193?sid=101"
+            },
+            {
+              "title": "CU, 데워 먹는 샌드위치 6종으로 핫브레드 구성 확대",
+              "url": "http://www.lawissue.co.kr/view.php?ud=20260921073346284204ead0791_12"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🍞",
-          "title": "CU 리센느 콜라보 베이커리",
-          "summary": "CU가 브랜드 모델 리센느 멤버 취향을 반영한 'BAKE405' 베이커리 5종을 출시하며 K-팝 팬덤 마케팅 강화.",
+          "emoji": "🎨",
+          "title": "아동 안전 그림 공모전",
+          "summary": "BGF리테일이 경찰청·국가아동권리보장원과 제6회 아동 안전 그림 공모전 개최, 아동학대 예방의 날 맞춰 사회공헌 강화.",
           "articleIndices": [
+            4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "CU, 리센느 취향담은 베이커리 5종 출시... 라인업은?",
-              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1181865"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍙",
-          "title": "CU 학생 아이디어 김밥 상품화",
-          "summary": "CU가 한국조리과학고등학교 학생 참여로 개발한 '오삼이 반반 김밥' 등 지역 경연대회 우승작을 상품화하며 소비자 공동 창작 전략 추진.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
+              "title": "BGF리테일, 경찰청 등과 '아동 안전 그림 공모전' 개최",
+              "url": "https://n.news.naver.com/mnews/article/014/0005578463?sid=101"
+            },
             {
-              "title": "익숙한 브랜드에 신선한 조합…GS25·CU '맛의 영역' 경쟁",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026091814281644559"
+              "title": "BGF리테일, 아동학대 예방의 날 맞아 제6회 '아동 안전 그림 공모전' 개최",
+              "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=614522"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -178,46 +160,52 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🚚",
-          "title": "GS25 반값택배 추석 경쟁력",
-          "summary": "GS25의 자체 물류망 기반 반값택배가 추석 연휴에도 정상 운영되며 일반택배 대란 속 차별화된 배송 서비스 제공.",
+          "emoji": "🎓",
+          "title": "GS25 인재 채용 강화",
+          "summary": "GS리테일이 소비자학 인재 47명에 장학금 7500만원 지원, 채용연계형 인턴십으로 영업관리·점포운영 인력 육성.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "택배 중단돼도 자체망 동원…유통가 추석 전날까지 배송 전쟁",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026091814135474254"
+              "title": "GS리테일, 소비자학 인재 47명에 장학금 7500만원 전",
+              "url": "https://www.viva100.com/article/20260921500077"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍺",
-          "title": "세븐일레븐 스포츠 마케팅",
-          "summary": "세븐일레븐이 아시안게임·월드컵 등 스포츠 이벤트 기간 맥주·치킨 등 300여종 제품 할인으로 간편식 매출 158% 증가 경험 활용.",
+          "emoji": "🇰🇷",
+          "title": "세븐일레븐 K-인바운드 전략",
+          "summary": "세븐일레븐이 누룽지·약과·제주 특산물 활용 K-헤리티지 스낵 4종 출시, 외국인 관광객 매출 59% 증가 달성.",
           "articleIndices": [
-            6
+            5,
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "아시안게임 개막인데 F&B·편의점 온도차…'희비' 갈린 이유는",
-              "url": "https://n.news.naver.com/mnews/article/008/0005416054?sid=101"
+              "title": "세븐일레븐, 외국인 매출 59%↑…'K-인바운드' 상품 강화",
+              "url": "https://n.news.naver.com/mnews/article/421/0009182198?sid=101"
+            },
+            {
+              "title": "세븐일레븐, 누룽지·약과 활용한 K-인바운드 상품 4종 선봬",
+              "url": "http://www.lawissue.co.kr/view.php?ud=20260921074824874204ead0791_12"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         },
         {
-          "emoji": "🍡",
-          "title": "이마트24 떡 신상 트렌드",
-          "summary": "이마트24가 백설기·피자 토핑 떡 등 MZ세대·외국인 관광객 공략 신상 떡을 출시하며 편의점 디저트 시장 선도.",
+          "emoji": "🍱",
+          "title": "이마트 명절 간편식 강화",
+          "summary": "이마트가 피코크 제수용품 50여 종 할인 및 명절 6종나물 등 간편 제수용품 대폭 확대, 명절 음식 준비 간소화 수요 대응.",
           "articleIndices": [
             9
           ],
           "relatedLinks": [
             {
-              "title": "백설기에 피자 토핑…MZ·외국인 '떡지순례'에 빠지다",
-              "url": "https://n.news.naver.com/mnews/article/056/0012260515?sid=101"
+              "title": "명절 음식도 간편하게…이마트, 피코크 제수용품 50여 종 할인",
+              "url": "https://n.news.naver.com/mnews/article/468/0001267701?sid=101"
             }
           ],
           "articleCount": 1
@@ -228,20 +216,34 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍶",
-          "title": "편의점 프리미엄 주류 확대",
-          "summary": "편의점들이 CU 맥그리거 흑맥주, GS25 바즈타운 버번 등 프리미엄 수입 주류를 앞다투어 출시하며 고가 주류 시장 공략.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 트렌드 가속",
+          "summary": "버터떡·두쫀쿠·피자설기 등 SNS 유행 디저트가 편의점 신상품 기획 주도, CU는 약 한 달 만에 버터떡 상품 출시로 빠른 대응.",
           "articleIndices": [
-            2,
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[금주의 주류 신상] 9월 셋째주",
-              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131623"
+              "title": "[요즈음] 자고 나면 새 디저트…SNS가 바꾼 먹거리 유행",
+              "url": "https://www.asiatime.co.kr/article/20260918500206"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍜",
+          "title": "명절 간편식 소비 확대",
+          "summary": "편의점이 도시락·김밥·송편·약과 등 명절 음식 전문 채널로 자리잡으며, 대량 준비 대신 취향 맞춤형 간편식 수요 급증.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"명절 상차림 대신 편의점 갑니다\"…진화하는 한가위 간편식에 '혼추'",
+              "url": "https://n.news.naver.com/mnews/article/468/0001267763?sid=101"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     }
