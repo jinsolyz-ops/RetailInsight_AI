@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-20T23:40:03.145Z",
+  "generatedAt": "2026-09-22T00:20:36.405Z",
   "summary": [
-    "CU 핫브레드 6종 확대로 올해 1~8월 매출 114% 증가 달성",
-    "세븐일레븐 K-인바운드 상품 강화로 외국인 매출 59% 증가",
-    "편의점 간편식·디저트 트렌드 가속화로 명절 소비 채널 재편"
+    "CU, 리센느 협업 빵 4일 만에 10만 개 판매…K-콜라보 상품 강세",
+    "세븐일레븐 K-인바운드 상품 확대…외국인 관광객 겨냥 마케팅 본격화",
+    "풀무원 생성형 AI 검색엔진 도입 후 방문자 2.3배·구매 7.4배 증가"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "IP 협업 보편화",
-          "summary": "유통업계에서 단순 캐릭터 부착을 넘어 글로벌 네트워크 활용한 상품 기획·마케팅·유통 통합 전략으로 진화 중.",
+          "emoji": "🍽️",
+          "title": "혼밥 진화, 미식 소비로",
+          "summary": "한때 '대충 한 끼'였던 혼밥이 '나를 위한 미식' 트렌드로 진화하며 편의점·외식업계의 프리미엄 상품 수요 증가.",
           "articleIndices": [
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'디즈니·마블 천하' 옛말…토종 IP 커진 한국에 손 내밀었다",
-              "url": "https://n.news.naver.com/mnews/article/293/0000090713?sid=101"
+              "title": "[박성은의 리테일 읽기] 혼밥의 진화…'대충 한 끼'서 '나를 위한 미식'",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063782"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌏",
-          "title": "K푸드 할랄 시장 진출",
-          "summary": "정부 간 할랄 인증 협력과 기업의 현지화 제품·마케팅 시너지로 인도네시아 등 동남아 거대 시장 공략 가속화.",
+          "emoji": "🎁",
+          "title": "추석 명절 배달·배송 강화",
+          "summary": "편의점과 이커머스가 추석 연휴 배달·배송 서비스와 할인 혜택을 앞세워 간편식·선물 수요 공략 중.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "정부 지원 얹고 현지화 날개…K푸드, 세계 최대 '할랄 공룡' 뚫는다",
-              "url": "http://www.metroseoul.co.kr/article/20260920500229"
+              "title": "이마트, 추석 먹거리 최대 50% 할인…회·초밥·밀키트까지 '반값 장보기'",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=549873"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "⚖️",
-          "title": "전통시장 vs 이커머스",
-          "summary": "쿠팡 등 이커머스 급성장으로 대형마트 약화, 새벽배송 규제 완화 논의 가속화.",
+          "emoji": "🤖",
+          "title": "AI 에이전트 커머스 시동",
+          "summary": "카카오가 에이전틱 커머스로 시동을 걸며 AI가 상품 탐색·추천을 자동화하는 새로운 쇼핑 경험 제시.",
           "articleIndices": [
-            1
+            5
           ],
           "relatedLinks": [
             {
-              "title": "전통시장과 대형마트의 '제로섬 게임'",
-              "url": "https://n.news.naver.com/mnews/article/648/0000050919?sid=101"
+              "title": "[창간기획]AI 커머스 시대/ 카카오, 에이전틱 커머스 시동…상품 탐색부터",
+              "url": "https://n.news.naver.com/mnews/article/030/0003468798?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤝",
-          "title": "신세계免 K-푸드 글로벌 확대",
-          "summary": "신세계면세점과 이삭토스트 협업으로 인천공항·명동·온라인몰 등 다채널 K-푸드 판매 네트워크 구축.",
+          "emoji": "🌏",
+          "title": "K-뷰티 아마존 10월 빅딜",
+          "summary": "메디큐브·조선미녀 등 K-뷰티 브랜드가 아마존 10월 빅딜에 참여하며 글로벌 판매 기회 확대.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[이주의 유통포인트] 신세계免, 이삭토스트와 K-푸드 동반 성장 MOU",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319975"
+              "title": "[더벨][유통가 풍향계] 아마존서 다시 붙는 K뷰티…10월 빅딜로 '연말 전략'",
+              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609171130288720105375"
             }
           ],
           "articleCount": 1
@@ -80,31 +80,36 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "편의점 푸드테크 경쟁",
-          "summary": "CU 푸드테크랩 TF의 10개월 연구 기반 간편식 개발, 세븐일레븐·GS25도 SNS·계절 트렌드 접목한 신상품 집중 출시.",
+          "emoji": "🔍",
+          "title": "생성형 AI 검색엔진 도입 확산",
+          "summary": "풀무원이 GEO 도입 후 방문자 2.3배·구매 7.4배 증가하며 생성형 AI 기반 쇼핑 최적화 효과 입증.",
           "articleIndices": [
-            8
+            2,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "간편식에 '푸드테크·SNS·계절' 접목…편의점업계, 먹거리 트렌드 '집중'",
-              "url": "https://www.youthdaily.co.kr/news/article.html?no=227289"
+              "title": "'AI가 알아서 척척 추천한다'…풀무원, 공식몰 '#풀무원'에 생성형 엔진",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=88770"
+            },
+            {
+              "title": "풀무원, GEO 도입 후 방문자 2.3배·구매 7.4배 증가",
+              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=3467"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🚚",
-          "title": "배달앱 AI·데이터 경쟁",
-          "summary": "배달업계가 AI와 데이터 기술로 배달 정확도·만족도 향상에 집중, 고객 예상 시간 충족 경쟁 심화.",
+          "emoji": "🛒",
+          "title": "퀵커머스 경쟁 백화점까지 확산",
+          "summary": "편의점·SSM을 넘어 백화점까지 퀵커머스 경쟁이 확산되며 근거리 배송 경쟁 심화.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "\"더 빠르고 정확하게\"…배달앱, AI·데이터 기술 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/011/0004663881?sid=101"
+              "title": "메트로신문 9월22일자 한줄뉴스",
+              "url": "http://www.metroseoul.co.kr/article/20260921500551"
             }
           ],
           "articleCount": 1
@@ -115,44 +120,40 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🔥",
-          "title": "핫브레드 라인업 확대",
-          "summary": "CU가 히팅빵·화덕도우·생식빵 활용 데우는 샌드위치 6종 출시, 올해 1~8월 핫브레드 매출 114% 증가 달성.",
+          "emoji": "🍷",
+          "title": "CU 와인 신상 출시, 가을 성수기 공략",
+          "summary": "CU가 자체 브랜드 '음mmm!' 메를로·까바 2종을 출시하며 가을 와인 성수기 수요 공략, 지난해 대비 와인 매출 16% 이상 증가.",
           "articleIndices": [
             1,
-            2
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "CU, 찬바람 부는 계절 맞춰 데워먹는 '핫브레드' 라인업 강화",
-              "url": "https://n.news.naver.com/mnews/article/421/0009182193?sid=101"
+              "title": "'찬 바람에 와인 생각 나네' CU, 레드·스파클링 신상 출시",
+              "url": "https://n.news.naver.com/mnews/article/003/0014206662?sid=101"
             },
             {
-              "title": "CU, 데워 먹는 샌드위치 6종으로 핫브레드 구성 확대",
-              "url": "http://www.lawissue.co.kr/view.php?ud=20260921073346284204ead0791_12"
+              "title": "CU, 음mmm! 메를로·까바 와인 2종 출시...3천원 할인",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=767940"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         },
         {
-          "emoji": "🎨",
-          "title": "아동 안전 그림 공모전",
-          "summary": "BGF리테일이 경찰청·국가아동권리보장원과 제6회 아동 안전 그림 공모전 개최, 아동학대 예방의 날 맞춰 사회공헌 강화.",
+          "emoji": "🎤",
+          "title": "CU 리센느 협업 빵, 4일 만에 10만 개 판매",
+          "summary": "CU가 걸그룹 리센느와 협업한 옥수수크림빵이 출시 4일 만에 10만 개 판매하며 K-콜라보 상품의 강한 소비자 반응 입증.",
           "articleIndices": [
-            4,
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일, 경찰청 등과 '아동 안전 그림 공모전' 개최",
-              "url": "https://n.news.naver.com/mnews/article/014/0005578463?sid=101"
-            },
-            {
-              "title": "BGF리테일, 아동학대 예방의 날 맞아 제6회 '아동 안전 그림 공모전' 개최",
-              "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=614522"
+              "title": "[기업] CU '리센느 빵' 사흘 만에 10만 개 판매...22일 추가 출시",
+              "url": "https://n.news.naver.com/mnews/article/052/0002409887?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -160,52 +161,56 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎓",
-          "title": "GS25 인재 채용 강화",
-          "summary": "GS리테일이 소비자학 인재 47명에 장학금 7500만원 지원, 채용연계형 인턴십으로 영업관리·점포운영 인력 육성.",
+          "emoji": "🚚",
+          "title": "GS25 추석 배달·픽업 할인 강화",
+          "summary": "GS25가 추석 연휴 배달·픽업 수요를 겨냥한 할인 행사 진행, 지난해 추석 기간 배달 매출 28.1% 증가 기록.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "GS리테일, 소비자학 인재 47명에 장학금 7500만원 전",
-              "url": "https://www.viva100.com/article/20260921500077"
+              "title": "GS25, 추석 연휴 배달·픽업 할인 행사…'간식류 인기'",
+              "url": "https://n.news.naver.com/mnews/article/001/0016328446?sid=101"
+            },
+            {
+              "title": "\"연휴에도 집 앞으로\"…유통업계, 추석 배달·배송 강화",
+              "url": "https://www.etoday.co.kr/news/view/2628345"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🇰🇷",
-          "title": "세븐일레븐 K-인바운드 전략",
-          "summary": "세븐일레븐이 누룽지·약과·제주 특산물 활용 K-헤리티지 스낵 4종 출시, 외국인 관광객 매출 59% 증가 달성.",
+          "emoji": "🍜",
+          "title": "세븐일레븐 K-인바운드 상품 확대",
+          "summary": "세븐일레븐이 외국인 관광객 겨냥 K-인바운드 상품(누룽지·약과 등)을 선보이며 방한 관광객 수요 공략.",
           "articleIndices": [
-            5,
-            6,
+            3,
             7
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 외국인 매출 59%↑…'K-인바운드' 상품 강화",
-              "url": "https://n.news.naver.com/mnews/article/421/0009182198?sid=101"
+              "title": "[푸드·다이닝 트렌드] 세븐일레븐, 누룽지·약과 앞세운 'K-인바운드' 상품",
+              "url": "https://www.ibabynews.com/news/articleView.html?idxno=154710"
             },
             {
-              "title": "세븐일레븐, 누룽지·약과 활용한 K-인바운드 상품 4종 선봬",
-              "url": "http://www.lawissue.co.kr/view.php?ud=20260921074824874204ead0791_12"
+              "title": "[오늘의신상]'한국의 맛을 기념품으로'…세븐일레븐 K-인바운드 상품",
+              "url": "https://n.news.naver.com/mnews/article/277/0005818994?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
-          "emoji": "🍱",
-          "title": "이마트 명절 간편식 강화",
-          "summary": "이마트가 피코크 제수용품 50여 종 할인 및 명절 6종나물 등 간편 제수용품 대폭 확대, 명절 음식 준비 간소화 수요 대응.",
+          "emoji": "🧥",
+          "title": "이마트24 겨울 상품 한 달 앞당겨 출시",
+          "summary": "이마트24가 타이즈·핫팩·경량패딩 등 겨울 상품을 10월부터 판매하며 계절 수요 선제 공략.",
           "articleIndices": [
-            9
+            8
           ],
           "relatedLinks": [
             {
-              "title": "명절 음식도 간편하게…이마트, 피코크 제수용품 50여 종 할인",
-              "url": "https://n.news.naver.com/mnews/article/468/0001267701?sid=101"
+              "title": "이마트24, 겨울 상품 한 달 일찍 꺼낸다…패딩부터 고구마까지",
+              "url": "https://www.etoday.co.kr/news/view/2628352"
             }
           ],
           "articleCount": 1
@@ -216,31 +221,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 디저트 트렌드 가속",
-          "summary": "버터떡·두쫀쿠·피자설기 등 SNS 유행 디저트가 편의점 신상품 기획 주도, CU는 약 한 달 만에 버터떡 상품 출시로 빠른 대응.",
+          "emoji": "🍞",
+          "title": "CU 핫브레드 라인업 강화, 누적 80만 개 판매",
+          "summary": "CU가 데워 먹는 핫브레드 6종을 출시하며 기존 히팅 샌드위치 누적 80만 개 판매 기록을 바탕으로 따뜻한 간식 수요 확대.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "[요즈음] 자고 나면 새 디저트…SNS가 바꾼 먹거리 유행",
-              "url": "https://www.asiatime.co.kr/article/20260918500206"
+              "title": "[똑똑한신상] CU 데워먹는 핫브레드 6종, 세븐일레븐 K-인바운드 4종…신상 경쟁",
+              "url": "https://www.ekn.kr/web/view.php?key=20260921020397622"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍜",
-          "title": "명절 간편식 소비 확대",
-          "summary": "편의점이 도시락·김밥·송편·약과 등 명절 음식 전문 채널로 자리잡으며, 대량 준비 대신 취향 맞춤형 간편식 수요 급증.",
+          "emoji": "🎀",
+          "title": "산리오·포켓몬 IP 캐릭터 상품 과열",
+          "summary": "산리오·포켓몬 캐릭터 IP를 활용한 음료·디저트·피규어 등 편의점 상품이 과열되며 IP 마케팅 경쟁 심화.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "\"명절 상차림 대신 편의점 갑니다\"…진화하는 한가위 간편식에 '혼추'",
-              "url": "https://n.news.naver.com/mnews/article/468/0001267763?sid=101"
+              "title": "[MD포커스] 산리오·포켓몬 없으면 안 팔리나…유통가 'IP 경쟁' 과열",
+              "url": "https://n.news.naver.com/mnews/article/117/0004107783?sid=103"
             }
           ],
           "articleCount": 1
