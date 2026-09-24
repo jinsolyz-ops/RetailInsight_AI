@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-09-22T23:54:19.931Z",
+  "generatedAt": "2026-09-24T00:05:12.228Z",
   "summary": [
-    "상어 캐릭터 열풍으로 CU 죠스바 매출 12.5% 증가, 편의점 업계 특수 지속",
-    "CU 리센느 협업 빵 4일간 10만개 판매, K-셀럽 콜라보 마케팅 성공",
-    "CU 음mmm! 와인 신제품 출시로 가을 시즌 주류 수요 공략"
+    "CU, 물류·배송·헬스케어 등으로 '생활 플랫폼' 확장 추진",
+    "떡·하이볼 등 명절 간편식 수요 급증으로 편의점 경쟁 심화",
+    "AI 에이전트 커머스 확산으로 플랫폼 기반 쇼핑 경험 재편"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🦈",
-          "title": "상어 캐릭터 특수",
-          "summary": "부산발 '상어 특수'가 전국으로 확산되며 CU 죠스바 매출 12.5% 증가, 고래밥·아기상어 관련 상품도 10% 이상 성장으로 편의점 업계에 활기 불어넣음.",
+          "emoji": "🛍️",
+          "title": "명절 간편식 경쟁 심화",
+          "summary": "추석 연휴 혼추족 수요 증가로 편의점들이 도시락·떡·디저트 상품 확대 경쟁을 벌이고 있으며, CU 떡 매출이 전년 동기 대비 125.6% 급증했다.",
           "articleIndices": [
-            1,
-            4
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[이슈] 죠스바 매출 28% 뛰었다...부산 편의점 덮친 '상어 특수'",
-              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=813909"
+              "title": "'우리 할머니가 먹던 건데'…요즘 2030 푹 빠지더니, 전국 '오픈런'까지",
+              "url": "https://n.news.naver.com/mnews/article/277/0005820672?sid=101"
             },
             {
-              "title": "'부캉이' 뜨자 '이게 땡기네'…'상어바·고래 과자' 매출이 '쑥'",
-              "url": "https://n.news.naver.com/mnews/article/437/0000512402?sid=101"
+              "title": "송편에 11첩 반찬까지…편의점 '혼추족' 밥상 경쟁",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026092215550236526"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "👶",
-          "title": "골드키즈 마케팅",
-          "summary": "외동으로 귀한 대접을 받는 '골드키즈' 세대를 겨냥한 백화점·호텔의 마케팅 강화로 키즈 매장 대형화 및 태교 단계부터의 고객 선점 전략 확대.",
+          "emoji": "📊",
+          "title": "국감 쟁점 플랫폼 수수료",
+          "summary": "플랫폼 거래조건·수수료 문제와 대형 유통업체-납품업체 간 거래 관행이 국회 국감의 주요 이슈로 부상하고 있다.",
           "articleIndices": [
-            5
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'귀하신 '골드키즈' 모셔라'…백화점 450평 싹 바꾼 이유가",
-              "url": "https://n.news.naver.com/mnews/article/015/0005335465?sid=101"
+              "title": "추석 지나면 '국감 전쟁'…유통업계 주요 쟁점은",
+              "url": "https://sports.hankooki.com/news/articleView.html?idxno=6940291"
             }
           ],
           "articleCount": 1
@@ -50,31 +50,35 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🍗",
-          "title": "시즌별 라이브커머스",
-          "summary": "BHC가 경기 시즌을 맞아 카카오쇼핑라이브에서 인기 메뉴 최대 4,700원 할인 행사를 진행하며 시즌별 이슈와 소비 트렌드에 맞춘 온라인 판매 전략 강화.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "bhc, 경기 시즌 맞아 카카오쇼핑라이브 특가…'인기 메뉴 최대 4700원 할인'",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489572"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
           "emoji": "🤖",
-          "title": "AI 커머스 플랫폼화",
-          "summary": "메타 뮤즈 등 AI가 상품 검색을 넘어 실제 거래까지 수행하는 단계로 진입하며 검색·광고 중심의 온라인 커머스 수익 구조 변화 예상.",
+          "title": "AI 에이전트 커머스 확산",
+          "summary": "네이버·카카오 등이 자사 데이터 기반 버티컬 에이전트를 개발하며 탐색부터 예약·구매까지 통합하는 AI 쇼핑 경험이 확산 중이다.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "[서학개미 안테나] 쇼피파이 7%↑…메타 '뮤즈'가 쇼핑까지 대신한다",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725456"
+              "title": "메타 AI 에이전트 '뮤즈'…출시 2주 만에 챗GPT 기록 넘었다",
+              "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37894"
+            },
+            {
+              "title": "[스타트업 모닝커피 1403회] 트리거스, 일상의 반복 행동을 리워드로 연",
+              "url": "https://platum.kr/archives/295044"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "⚠️",
+          "title": "의료 콘텐츠 허위광고 이슈",
+          "summary": "의료 유튜브 채널이 건강식품 판매로 연결되는 콘텐츠 마케팅이 논란이 되며 온라인 쇼핑 신뢰도 문제가 대두되고 있다.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "아산병원 교수의 '천연 위고비' 레시피?…병원 '허위 광고 주의'",
+              "url": "https://n.news.naver.com/mnews/article/119/0003136115?sid=103"
             }
           ],
           "articleCount": 1
@@ -85,31 +89,36 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "💳",
-          "title": "유통사 PLCC 경쟁",
-          "summary": "다이소·쿠팡·네이버·무신사 등 유통사들이 브랜드 카드(PLCC) 출시로 고객 락인 효과를 노리며, GS25는 이미 2개 PLCC로 선도 중.",
+          "emoji": "🎯",
+          "title": "AI 기반 리테일테크 확대",
+          "summary": "전자가격표시기·디지털 사이니지 등 AI 리테일테크가 편의점·뷰티 매장에 도입되며 스마트 소매 환경이 구축되고 있다.",
           "articleIndices": [
-            1
+            7,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "다이소도 '브랜드 카드' 경쟁 합류…쿠팡·네이버·무신사와 '유통 PL...'",
-              "url": "https://www.socialvalue.kr/news/view/1065593342570907"
+              "title": "키사이드, '2026 멕시코 K-EXPO' 참가…중남미 시장 본격 진출",
+              "url": "https://www.sentv.co.kr/article/view/sentv202609220147"
+            },
+            {
+              "title": "엑스와이지, 2026 서울AI로봇쇼서 양팔형 로봇 '듀스' 공개",
+              "url": "https://kr.aving.net/news/articleView.html?idxno=1814719"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🛍️",
-          "title": "AI 쇼핑 어시스턴트",
-          "summary": "유통업계가 추석 연휴 도시 나들이 수요 공략을 위해 AI 쇼핑 어시스턴트 '헤이디(heydi)'로 외국인 고객에게 K로컬 브랜드 스토리 전달.",
+          "emoji": "🚀",
+          "title": "AI 마케팅 콘텐츠 활용",
+          "summary": "대선 소주 등 브랜드가 AI 영상 콘텐츠를 SNS 마케팅에 활용하며 바이럴 마케팅 트렌드가 확산되고 있다.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "나흘뿐인 추석 연휴…공연·체험 앞세워 도심 나들이객 공략",
-              "url": "https://n.news.naver.com/mnews/article/011/0004664792?sid=101"
+              "title": "상어 보러 부산 간다… 추석 앞두고 기업들까지 '부캉이 마케팅'",
+              "url": "https://www.wikitree.co.kr/articles/1161781"
             }
           ],
           "articleCount": 1
@@ -120,60 +129,34 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🦈",
-          "title": "상어 캐릭터 매출 증가",
-          "summary": "CU 부산 지점에서 상어 캐릭터 제품 매출이 21.6% 증가하고 아기상어 머천다이즈 판매도 급증하며 캐릭터 IP 활용 마케팅 성과 입증.",
+          "emoji": "📦",
+          "title": "부산 물류센터 2600억 투자",
+          "summary": "BGF리테일이 부산에 2600억원 규모 물류센터를 구축해 CU 배송 효율화와 PB 수출 거점으로 활용할 계획이다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "Shark in the water, Jaws Bar in hand: Busan sighting boosts CU sales",
-              "url": "https://n.news.naver.com/mnews/article/640/0000094594?sid=101"
+              "title": "BGF리테일 홍정국, 2600억 물류센터 베팅 노림수는",
+              "url": "https://dealsite.co.kr/articles/169534"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎤",
-          "title": "리센느 협업 빵 성공",
-          "summary": "CU의 리센느 협업 빵이 출시 직후 품절 행진을 이어가며 4일간 10만개 판매로 K-셀럽 콜라보 마케팅의 강력한 성공 사례 입증.",
+          "emoji": "🌐",
+          "title": "생활 플랫폼 사업 확장",
+          "summary": "CU가 배송·택배·패션·헬스케어까지 사업 영역을 확대하며 '물건 판매점'에서 '생활 서비스 플랫폼'으로 전환 중이다.",
           "articleIndices": [
-            5,
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "CU 리센느빵 인기",
-              "url": "https://n.news.naver.com/mnews/article/421/0009186777?sid=101"
-            },
-            {
-              "title": "CU 리센느빵 인기, 나흘만에 10만게 판매",
-              "url": "https://n.news.naver.com/mnews/article/421/0009186776?sid=101"
+              "title": "CU, '물건 파는 점포' 넘어 '생활 플랫폼'으로 외연 확장",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725443"
             }
           ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍷",
-          "title": "음mmm! 와인 신제품",
-          "summary": "CU가 가을 와인 성수기를 맞아 자체 브랜드 '음mmm!'의 메를로·까바 신제품 2종 출시로 가성비와 품질을 갖춘 차별화 전략 추진.",
-          "articleIndices": [
-            2,
-            3,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "가을 되자 와인 매출 '쑥'…CU, 음mmm! 신제품 2종 출시",
-              "url": "https://n.news.naver.com/mnews/article/468/0001268280?sid=101"
-            },
-            {
-              "title": "'날씨 선선해지자 와인 찾았다'... CU, 레드·스파클링 매출 16% 증가",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=209338"
-            }
-          ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -181,46 +164,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "GS25 추석 배송 할인",
-          "summary": "GS25가 추석 기간 요기요·배달의민족·쿠팡이츠 주문 시 5,000~10,000원 할인으로 배송 수요 공략.",
+          "emoji": "🥃",
+          "title": "GS25 하이볼 마케팅",
+          "summary": "GS25의 '골든블루 쿼츠' 하이볼이 핫플레이스별 맞춤 맛으로 릴레이 출시되며 혼술·홈술 트렌드를 주도하고 있다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "연휴배송에 체험ㆍ할인 '풍성'… 백화점ㆍ이커머스ㆍ편의점 총공세",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221159003940127"
+              "title": "골든블루 쿼츠, 핫플마다 다른 맛으로…'맞춤 하이볼' 릴레이",
+              "url": "https://www.g-enews.com/view.php?ud=202609231400568700740eacf404_1"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍷",
-          "title": "세븐일레븐 K-인바운드",
-          "summary": "세븐일레븐이 누룽지·약과 등 K-푸드와 예산 사과 와인 협업으로 외국인 인바운드 수요 공략.",
+          "emoji": "🍜",
+          "title": "세븐일레븐 페트 맥주 부진",
+          "summary": "세븐일레븐 등 편의점의 페트 맥주 매출이 2025년부터 전년 대비 하락세로 전환되며 대용량 주류 수요 감소 추세를 보이고 있다.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "'대학생 MT서도 안마셔요'…대용량 '페트 맥주'의 쇠락",
+              "url": "https://n.news.naver.com/mnews/article/277/0005820688?sid=103"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🎮",
+          "title": "이마트24 게임 IP 콜라보",
+          "summary": "이마트24가 '제우스: 오만의 신' 게임과 협력해 제육 콘셉트 간편식 5종을 출시하며 게임 IP 기반 푸드 마케팅을 전개 중이다.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "[예산소식] 제14회 예당국제공연예술제, 25일 예당호서 개막 외",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1409155"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📦",
-          "title": "이마트24 당일배송",
-          "summary": "이마트24가 추석 당일(25일) 제외 정상 운영으로 24일 새벽·주간 배송과 26일부터 장보기 서비스 재개.",
-          "articleIndices": [
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "명절 당일 딱 하루만 쉰다...'지각생' 추석 장보기 수요 싹쓸이 나선 G마...",
-              "url": "https://www.insight.co.kr/news/574729"
+              "title": "게임사, 먹거리 입고 'IP 영토' 확장…온·오프라인 경계 허문다",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490027"
             }
           ],
           "articleCount": 1
@@ -229,7 +212,39 @@
     },
     {
       "name": "상품 이슈",
-      "issues": []
+      "issues": [
+        {
+          "emoji": "🍰",
+          "title": "떡 디저트 트렌드 급성장",
+          "summary": "CU의 떡 매출이 전년 동기 대비 125.6% 급증하며 MZ세대가 전통 떡을 '힙 디저트'로 재해석하는 소비 트렌드가 확산 중이다.",
+          "articleIndices": [
+            2,
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "[르포] \"누가 명절에만 먹는대?\" MZ 입맛 사로잡은 떡을 만나다",
+              "url": "https://n.news.naver.com/mnews/article/005/0001874916?sid=102"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍞",
+          "title": "CU BAKE405 베이커리 성공",
+          "summary": "CU의 자체 브랜드 베이커리 'BAKE405'가 누적 판매량 3500만 개를 돌파하며 편의점 초가성비 PB 부문의 대표 상품으로 자리잡았다.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "빵지 순례가 만든 700조 시장, 일상의 빵이 재편하는 지구촌 식탁",
+              "url": "https://n.news.naver.com/mnews/article/366/0001194289?sid=101"
+            }
+          ],
+          "articleCount": 1
+        }
+      ]
     }
   ]
 }
