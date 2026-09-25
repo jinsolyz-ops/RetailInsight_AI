@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-09-24T00:05:12.228Z",
+  "generatedAt": "2026-09-25T00:07:23.878Z",
   "summary": [
-    "CU, 물류·배송·헬스케어 등으로 '생활 플랫폼' 확장 추진",
-    "떡·하이볼 등 명절 간편식 수요 급증으로 편의점 경쟁 심화",
-    "AI 에이전트 커머스 확산으로 플랫폼 기반 쇼핑 경험 재편"
+    "CU, 포켓몬 포코피아 컬래버로 MZ세대 공략 강화",
+    "GS25 추석 프리미엄 선물(900만원대 와인) 5시간 완판으로 양극화 소비 대응",
+    "BGF리테일, 2600억 부산 물류센터 투자로 편의점 본업 한계 극복 신성장축 마련"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "명절 간편식 경쟁 심화",
-          "summary": "추석 연휴 혼추족 수요 증가로 편의점들이 도시락·떡·디저트 상품 확대 경쟁을 벌이고 있으며, CU 떡 매출이 전년 동기 대비 125.6% 급증했다.",
+          "emoji": "🎁",
+          "title": "추석 양극화 선물 공략",
+          "summary": "편의점 4사가 900만원대 프리미엄 와인부터 가성비 도시락까지 양극화된 소비 수요에 동시 대응하며 명절 시장 선점 경쟁 심화.",
           "articleIndices": [
-            2,
-            3
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'우리 할머니가 먹던 건데'…요즘 2030 푹 빠지더니, 전국 '오픈런'까지",
-              "url": "https://n.news.naver.com/mnews/article/277/0005820672?sid=101"
-            },
-            {
-              "title": "송편에 11첩 반찬까지…편의점 '혼추족' 밥상 경쟁",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026092215550236526"
+              "title": "'가성비부터 프리미엄까지'…유통가, '극과 극' 추석 공략",
+              "url": "https://news.mtn.co.kr/news-detail/2026092317385293197"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "국감 쟁점 플랫폼 수수료",
-          "summary": "플랫폼 거래조건·수수료 문제와 대형 유통업체-납품업체 간 거래 관행이 국회 국감의 주요 이슈로 부상하고 있다.",
+          "emoji": "🛍️",
+          "title": "오픈마켓 가품 확산 위기",
+          "summary": "K뷰티 호황 뒤 AI 기반 자동 제작 가품이 2년 만에 오픈마켓을 잠식하며 유통업계의 구조적 대응 필요성 대두.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "추석 지나면 '국감 전쟁'…유통업계 주요 쟁점은",
-              "url": "https://sports.hankooki.com/news/articleView.html?idxno=6940291"
+              "title": "K뷰티 호황 뒤덮은 '짝퉁 습격'···2년 만에 오픈마켓 잠식하다",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=147075"
             }
           ],
           "articleCount": 1
@@ -50,35 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 에이전트 커머스 확산",
-          "summary": "네이버·카카오 등이 자사 데이터 기반 버티컬 에이전트를 개발하며 탐색부터 예약·구매까지 통합하는 AI 쇼핑 경험이 확산 중이다.",
+          "emoji": "🏪",
+          "title": "오프라인 경험 수요 증가",
+          "summary": "온라인 쇼핑의 편의성을 넘어 남대문시장 같은 오프라인 복합 경험을 찾는 소비자 증가로 '던전형' 쇼핑 트렌드 부상.",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "메타 AI 에이전트 '뮤즈'…출시 2주 만에 챗GPT 기록 넘었다",
-              "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37894"
-            },
-            {
-              "title": "[스타트업 모닝커피 1403회] 트리거스, 일상의 반복 행동을 리워드로 연",
-              "url": "https://platum.kr/archives/295044"
+              "title": "옥 반지 사러 남대문 간다...요즘 시장은 경험의 '던전' [비크닉]",
+              "url": "https://n.news.naver.com/mnews/article/025/0003553726?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "⚠️",
-          "title": "의료 콘텐츠 허위광고 이슈",
-          "summary": "의료 유튜브 채널이 건강식품 판매로 연결되는 콘텐츠 마케팅이 논란이 되며 온라인 쇼핑 신뢰도 문제가 대두되고 있다.",
+          "emoji": "📱",
+          "title": "무신사 IPO 추진 및 버티컬 커머스 성장",
+          "summary": "고등학생 창업 신발 커뮤니티에서 시작한 무신사가 국내 패션 버티컬 플랫폼 최초 코스피 상장 절차 진입으로 버티컬 커머스 시장 성숙도 입증.",
           "articleIndices": [
-            1
+            4
           ],
           "relatedLinks": [
             {
-              "title": "아산병원 교수의 '천연 위고비' 레시피?…병원 '허위 광고 주의'",
-              "url": "https://n.news.naver.com/mnews/article/119/0003136115?sid=103"
+              "title": "등록금 털어 서버비 내던 고3, 몸값 10조 거인 됐다…무신사의 25년 증명",
+              "url": "https://n.news.naver.com/mnews/article/022/0004161695?sid=101"
             }
           ],
           "articleCount": 1
@@ -89,36 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "AI 기반 리테일테크 확대",
-          "summary": "전자가격표시기·디지털 사이니지 등 AI 리테일테크가 편의점·뷰티 매장에 도입되며 스마트 소매 환경이 구축되고 있다.",
+          "emoji": "🤖",
+          "title": "추석 AI 에이전트 커머스 활용",
+          "summary": "카카오톡 선물하기 등 주요 플랫폼이 AI 에이전트로 상품 분석·추천 기능을 도입하며 명절 선물 구매 경험 혁신.",
           "articleIndices": [
-            7,
-            9
+            3
           ],
           "relatedLinks": [
             {
-              "title": "키사이드, '2026 멕시코 K-EXPO' 참가…중남미 시장 본격 진출",
-              "url": "https://www.sentv.co.kr/article/view/sentv202609220147"
-            },
-            {
-              "title": "엑스와이지, 2026 서울AI로봇쇼서 양팔형 로봇 '듀스' 공개",
-              "url": "https://kr.aving.net/news/articleView.html?idxno=1814719"
+              "title": "'성묘 맛집 찾고 선물도 척척' … 추석 일상 파고든 'AI 에이전트'",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/23/2026092300257.html"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🚀",
-          "title": "AI 마케팅 콘텐츠 활용",
-          "summary": "대선 소주 등 브랜드가 AI 영상 콘텐츠를 SNS 마케팅에 활용하며 바이럴 마케팅 트렌드가 확산되고 있다.",
+          "emoji": "🎯",
+          "title": "AI 기반 상품 선별 및 프리미엄 선물 라인업",
+          "summary": "딥러닝 AI로 당도 선별한 영주 포도, 124만원 AI 바둑 로봇 등 프리미엄 선물 카테고리에 AI 기술 적용 확대.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "상어 보러 부산 간다… 추석 앞두고 기업들까지 '부캉이 마케팅'",
-              "url": "https://www.wikitree.co.kr/articles/1161781"
+              "title": "[추석 기획]실속형vs프리미엄형...추석 선물세트도 취향 따라 세분화",
+              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=881780"
             }
           ],
           "articleCount": 1
@@ -129,11 +115,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "부산 물류센터 2600억 투자",
-          "summary": "BGF리테일이 부산에 2600억원 규모 물류센터를 구축해 CU 배송 효율화와 PB 수출 거점으로 활용할 계획이다.",
+          "emoji": "🎮",
+          "title": "포켓몬 포코피아 컬래버",
+          "summary": "CU가 닌텐도 신작 '포켓몬 포코피아'와 협력해 포켓몬 캐릭터 기획 상품 판매로 MZ세대 고객 확보 및 브랜드 활성화.",
           "articleIndices": [
             1
+          ],
+          "relatedLinks": [
+            {
+              "title": "편의점에 찾아온 메타몽과 친구들, CUx포코피아 컬래버",
+              "url": "https://m.sports.naver.com/esports/article/356/0000086175"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📦",
+          "title": "BGF리테일 2600억 부산 물류센터 투자",
+          "summary": "홍정국 부회장이 부산 물류센터 투자로 편의점 본업 성장 한계 극복 및 PB 수출 거점 확보로 신성장축 마련.",
+          "articleIndices": [
+            3
           ],
           "relatedLinks": [
             {
@@ -145,10 +146,10 @@
         },
         {
           "emoji": "🌐",
-          "title": "생활 플랫폼 사업 확장",
-          "summary": "CU가 배송·택배·패션·헬스케어까지 사업 영역을 확대하며 '물건 판매점'에서 '생활 서비스 플랫폼'으로 전환 중이다.",
+          "title": "CU 생활 플랫폼 확장 전략",
+          "summary": "BGF리테일이 물류 인프라, 생활서비스, 콘텐츠 협업을 동시 확대하며 CU를 '물건 파는 점포'에서 '생활 플랫폼'으로 전환.",
           "articleIndices": [
-            2
+            4
           ],
           "relatedLinks": [
             {
@@ -164,46 +165,31 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥃",
-          "title": "GS25 하이볼 마케팅",
-          "summary": "GS25의 '골든블루 쿼츠' 하이볼이 핫플레이스별 맞춤 맛으로 릴레이 출시되며 혼술·홈술 트렌드를 주도하고 있다.",
+          "emoji": "☕",
+          "title": "세븐일레븐 휴게소 음료 매출 급증",
+          "summary": "세븐일레븐 고속도로 휴게소에서 추석 연휴 음료 매출이 전년 대비 111% 증가하며 이동 시간대 음료 수요 포착.",
           "articleIndices": [
-            1
+            4
           ],
           "relatedLinks": [
             {
-              "title": "골든블루 쿼츠, 핫플마다 다른 맛으로…'맞춤 하이볼' 릴레이",
-              "url": "https://www.g-enews.com/view.php?ud=202609231400568700740eacf404_1"
+              "title": "귀성길엔 커피, 귀경길엔 과자…추석 휴게소서 1인당 1만 8천 원 썼다",
+              "url": "https://n.news.naver.com/mnews/article/660/0000117862?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍜",
-          "title": "세븐일레븐 페트 맥주 부진",
-          "summary": "세븐일레븐 등 편의점의 페트 맥주 매출이 2025년부터 전년 대비 하락세로 전환되며 대용량 주류 수요 감소 추세를 보이고 있다.",
+          "emoji": "🎁",
+          "title": "GS25 쿠팡 기프트카드 입점",
+          "summary": "쿠팡이 GS25 편의점에서 실물 기프트카드 판매를 시작하며 온·오프라인 채널 연계 강화로 편의점 결제 생태계 확대.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "'대학생 MT서도 안마셔요'…대용량 '페트 맥주'의 쇠락",
-              "url": "https://n.news.naver.com/mnews/article/277/0005820688?sid=103"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎮",
-          "title": "이마트24 게임 IP 콜라보",
-          "summary": "이마트24가 '제우스: 오만의 신' 게임과 협력해 제육 콘셉트 간편식 5종을 출시하며 게임 IP 기반 푸드 마케팅을 전개 중이다.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "게임사, 먹거리 입고 'IP 영토' 확장…온·오프라인 경계 허문다",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490027"
+              "title": "쿠팡, GS25서 실물 기프트카드 판매… 신용카드 결제 지원·자유 금액 충전",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=320052"
             }
           ],
           "articleCount": 1
@@ -214,32 +200,32 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "떡 디저트 트렌드 급성장",
-          "summary": "CU의 떡 매출이 전년 동기 대비 125.6% 급증하며 MZ세대가 전통 떡을 '힙 디저트'로 재해석하는 소비 트렌드가 확산 중이다.",
+          "emoji": "🍱",
+          "title": "추석 1인분 간편식 대세",
+          "summary": "편의점 4사가 1인분 잡채·모둠전·불고기 등 '명절 한정판 도시락'을 출시하며 1027만 '혼추족' 공략 본격화.",
           "articleIndices": [
-            2,
-            9
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[르포] \"누가 명절에만 먹는대?\" MZ 입맛 사로잡은 떡을 만나다",
-              "url": "https://n.news.naver.com/mnews/article/005/0001874916?sid=102"
+              "title": "밀키트에 혼행까지…1027만 '혼추족' 품은 추석 경제학",
+              "url": "https://n.news.naver.com/mnews/article/018/0006375439?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🍞",
-          "title": "CU BAKE405 베이커리 성공",
-          "summary": "CU의 자체 브랜드 베이커리 'BAKE405'가 누적 판매량 3500만 개를 돌파하며 편의점 초가성비 PB 부문의 대표 상품으로 자리잡았다.",
+          "emoji": "🥛",
+          "title": "저당·고단백 건강식품 트렌드",
+          "summary": "동원F&B 등 식품업계가 단백질 30g 제품, 나트륨 70% 감소 제품 등 건강 트렌드 반영한 명절 선물세트 확대.",
           "articleIndices": [
-            4
+            9
           ],
           "relatedLinks": [
             {
-              "title": "빵지 순례가 만든 700조 시장, 일상의 빵이 재편하는 지구촌 식탁",
-              "url": "https://n.news.naver.com/mnews/article/366/0001194289?sid=101"
+              "title": "100년 장어·우지라면·BTS 진까지…추석 선물 공식 깨졌다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004161512?sid=101"
             }
           ],
           "articleCount": 1
