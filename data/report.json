@@ -1,110 +1,53 @@
 {
-  "generatedAt": "2026-09-26T00:14:16.485Z",
+  "generatedAt": "2026-09-26T23:59:35.427Z",
   "summary": [
-    "편의점 아이스 디저트 격전지화로 찹쌀떡·고구마맛탕 등 신상품 품절대란 발생",
-    "CU, 신상품 도입 지원금 연 최대 192만원으로 확대해 점포 수익성 강화",
-    "무신사 10조 IPO 추진으로 K-패션 플랫폼의 글로벌 확장 가속화"
+    "CU 트리플 삼각김밥, 가성비 트렌드 선도로 삼각김밥 카테고리 5위 진입",
+    "GS25 손질 과일 매출 27.6% 증가, 편의점 신선식품 경쟁 심화",
+    "네이버·카카오 AI 쇼핑 에이전트 확대, 에이전틱 커머스 시장 경쟁 본격화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
-      "issues": [
-        {
-          "emoji": "🦈",
-          "title": "부캉이 특수 SNS 밈 확산",
-          "summary": "지역 돌발 이슈가 SNS 밈을 거쳐 실제 소비와 브랜드 마케팅으로 연결되는 자발적 확산 사례로, 기업 캠페인보다 강력한 파급력 입증.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "상어 한 마리가 이렇게 셌나…커피·소주·편의점까지 '부캉이 특수'",
-              "url": "https://n.news.naver.com/mnews/article/014/0005580827?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📊",
-          "title": "채널별 성장률 온도차",
-          "summary": "백화점 17.9% 성장 대비 마트 11.2% 하락으로 유통업계 내 채널별 성과 격차 심화.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "[2026 국감Ⅱ-지표에 가려진 현장②] 반도체가 끌어올린 '3.3% 성장'",
-              "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95956"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
+      "issues": []
     },
     {
       "name": "이커머스 트렌드",
-      "issues": [
-        {
-          "emoji": "🛍️",
-          "title": "전통주 온라인 판매 확대",
-          "summary": "2017년 이후 전통주 통신판매가 일반 온라인쇼핑몰까지 확대되면서 소비 추세와 사회적 이슈에 따른 매출 변동성 증가.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[응답하라 우리술 454] 우리 술 10년, 변방에서 중심으로",
-              "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226006"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🏪",
-          "title": "오프라인 경험 수요 증가",
-          "summary": "온라인 쇼핑의 편의성을 넘어 오프라인 시장에서 복잡한 경험과 직접 확인의 가치를 추구하는 소비자 트렌드 부상.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "옥 반지 사러 남대문 간다...요즘 시장은 경험의 '던전'",
-              "url": "https://n.news.naver.com/mnews/article/025/0003553726?sid=101"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
+      "issues": []
     },
     {
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🚚",
-          "title": "퀵커머스 플랫폼 협업 전환",
-          "summary": "롯데슈퍼 등 기업형 슈퍼마켓이 자체 배송망에서 배달앱 플랫폼 협업으로 전환하며 수수료 부담 속 경쟁 방식 변화.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "기업형 슈퍼마켓, 배달앱 인프라 타고 '퀵커머스' 키운다",
-              "url": "https://www.newspim.com/news/view/20260923000450"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
           "emoji": "🤖",
-          "title": "AI 에이전트 커머스 적용",
-          "summary": "카카오 선물하기 등 커머스 서비스에 AI가 상품 정보 분석·추천 기능을 도입하며 소비자 경험 개선.",
+          "title": "AI 쇼핑 에이전트 경쟁",
+          "summary": "네이버·카카오 등 주요 플랫폼이 AI 기반 상품 검색·추천·결제 통합 서비스 출시로 에이전틱 커머스 시장 경쟁 본격화.",
           "articleIndices": [
+            6,
             5
           ],
           "relatedLinks": [
             {
-              "title": "'성묘 맛집 찾고 선물도 척척' … 추석 일상 파고든 'AI 에이전트'",
-              "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/23/2026092300257.html"
+              "title": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다",
+              "url": "https://n.news.naver.com/mnews/article/001/0016337775?sid=105"
+            },
+            {
+              "title": "최수연 'AI 인프라' vs 정신아 'AI 서비스'…AI 수익화 전략 갈렸다",
+              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064846"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🛍️",
+          "title": "GEO 기술 도입 확대",
+          "summary": "풀무원 등 식품기업이 생성형 AI 기반 검색 최적화(GEO) 기술 도입으로 자사몰 방문자 2.3배 증가, AI 커머스 전환 가속화.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "풀무원, 공식몰 '#풀무원' GEO(생성형 엔진 최적화) 도입…방문자 2.3배",
+              "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522991"
             }
           ],
           "articleCount": 1
@@ -115,19 +58,24 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "💜",
-          "title": "점포 수익성 강화 전략",
-          "summary": "CU 운영사 BGF리테일이 신상품 도입 지원금을 연 최대 192만원으로 확대하고 신상품 순환 지원금을 신설해 폐기·재고 부담 경감.",
+          "emoji": "🍙",
+          "title": "트리플 삼각김밥 출시",
+          "summary": "CU의 '레벨업' 간편식 전략 일환으로 출시한 트리플 삼각김밥이 가성비 트렌드 선도하며 삼각김밥 카테고리 5위 진입 및 높은 판매 성과 달성.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "CU·GS25·세븐일레븐·이마트24, 출점보다 '점포 수익'",
-              "url": "https://sateconomy.co.kr/news/view/1065572546447962"
+              "title": "'3가지 맛 저렴하게' CU, '트리플 삼각김밥' 인기",
+              "url": "https://n.news.naver.com/mnews/article/003/0014215059?sid=101"
+            },
+            {
+              "title": "CU, '레벨업' 간편식 일환 '트리플 삼각김밥' 출시···가성비 트렌드에",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=134095"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -135,46 +83,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "GS25 한정선 찹쌀떡 품절",
-          "summary": "GS25의 '한정선 요거트 찹쌀떡'이 출시 한 달 내 아이스크림 카테고리 판매 1위 달성하며 편의점 디저트 격전지 주도.",
+          "emoji": "🥝",
+          "title": "GS25 손질 과일 매출 급증",
+          "summary": "GS25의 손질 과일 매출이 1~8월 27.6% 증가하며 전체 과일 매출 증가율(20.3%)을 크게 상회, 편의점 신선식품 경쟁 심화.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "품절대란 '한정선 찹쌀떡'부터 고구마 맛탕까지…편의점 디저트 격전지",
-              "url": "https://n.news.naver.com/mnews/article/014/0005580910?sid=101"
+              "title": "껍질 버리기 싫어 2000원 더 낸다…백화점 커팅 서비스 90% 폭증",
+              "url": "https://n.news.naver.com/mnews/article/022/0004162015?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📚",
-          "title": "세븐일레븐 명절 간편식",
-          "summary": "세븐일레븐이 '혼추족' 증가 트렌드에 대응해 1인분 명절 간편식 3종을 선보이며 새로운 소비 단위 대응.",
+          "emoji": "🥃",
+          "title": "세븐일레븐 예산 사과 소주 단독 출시",
+          "summary": "세븐일레븐이 예산 사과를 활용한 '선양 추사' 소주를 전국 매장에서 단독 출시, 지역 특산물 협업 마케팅 강화.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "'혼추족'이 바꾼 명절 소비의 단위, '1인분'",
-              "url": "http://www.newskr.kr/news/articleView.html?idxno=106652"
+              "title": "예산 사과 넣은 소주 '선양 추사', 출시초도 30만 병 생산",
+              "url": "https://www.viva100.com/article/20260927500063"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏬",
-          "title": "이마트24 휴무일 안내",
-          "summary": "이마트24 등 대형마트 점포별 휴무일 및 영업시간 상이로 소비자 혼동 야기.",
+          "emoji": "🥃",
+          "title": "이마트 추석 선물세트 주류 상승",
+          "summary": "이마트의 추석 선물세트 판매에서 주류 카테고리가 2016년 8위에서 올해 4위로 급상승, 프리미엄 선물 트렌드 변화.",
           "articleIndices": [
             7
           ],
           "relatedLinks": [
             {
-              "title": "이마트·홈플러스·롯데마트·코스트코 휴무일, 9월 26일(토)",
-              "url": "https://www.lecturernews.com/news/articleView.html?idxno=211135"
+              "title": "샴푸·양말 밀어낸 위스키…추석 선물세트 8위→4위",
+              "url": "https://n.news.naver.com/mnews/article/022/0004162013?sid=101"
             }
           ],
           "articleCount": 1
@@ -185,17 +133,41 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍡",
-          "title": "편의점 아이스 디저트 열풍",
-          "summary": "찹쌀떡·고구마맛탕 등 식감과 이색 비주얼의 아이스 디저트가 편의점 냉동고를 장악하며 품절대란 발생 및 매출 급증.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 협업 확대",
+          "summary": "민음사·산리오 등 이종 업종과의 협업으로 편의점 디저트·빵 상품이 SNS 화제 상품으로 부상, 20대 고객층 확대 중.",
           "articleIndices": [
-            1,
+            2,
             4
           ],
           "relatedLinks": [
             {
-              "title": "일주일만에 1만명 몰려갔다…'떡지순례' 대박 난 이유",
-              "url": "https://n.news.naver.com/mnews/article/025/0003553782?sid=101"
+              "title": "'민음사빵'·'산리오'까지 굿즈 열풍…유통업계, 이종협업 확대",
+              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170724"
+            },
+            {
+              "title": "추석 이어 국경절까지…유통업계, 10월 외국인 특수 공략",
+              "url": "https://www.mediapen.com/news/view/1126078"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍜",
+          "title": "K-푸드 글로벌 확대",
+          "summary": "농심·대상 등 K-푸드 브랜드가 멕시코·일본 등 해외 시장 진출 및 팝업·협업 강화로 글로벌 소비자 접점 확대 중.",
+          "articleIndices": [
+            5,
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "'한국의 매운맛 알렸다'...농심, '2026 K-EXPO MEXICO'서 신라면 부스 운영",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=134098"
+            },
+            {
+              "title": "[국경 넘은 K푸드] 수출 56% 싹쓸이…대상 '종가', 90개국 뚫고 김치로드",
+              "url": "https://www.theguru.co.kr/news/article.html?no=107435"
             }
           ],
           "articleCount": 2
