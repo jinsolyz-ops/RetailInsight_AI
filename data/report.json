@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-09-28T00:05:45.838Z",
+  "generatedAt": "2026-09-29T01:20:32.137Z",
   "summary": [
-    "CU, 페리페라와 협업해 CU프렌즈 뷰티 상품 10월 출시로 IP 확장 전략 추진",
-    "GS25, 기온 데이터 기반 동절기 먹거리 2주 앞당겨 출시하며 시즈널 마케팅 강화",
-    "세븐일레븐, LoL 공식 트레이딩 카드·반고흐 아트와인 출시로 IP·문화 협업 확대"
+    "CU, 포켓몬 3D 아이스크림 3종 출시로 캐릭터 IP 활용 확대",
+    "GS25, 동절기 먹거리 2주 앞당겨 출시하며 계절 마케팅 강화",
+    "세븐일레븐, 글로벌 소싱 디저트로 편의점 경쟁력 차별화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "밈 소비로 관광·소비 연결",
-          "summary": "지역 이슈가 온라인 화제에서 실제 관광과 편의점·외식 현장 소비로 이어지는 '밈 소비' 트렌드가 유통업계의 새로운 마케팅 기회로 주목받고 있다.",
+          "emoji": "🌍",
+          "title": "무신사·롯데백, 글로벌 진출 가속",
+          "summary": "무신사는 K-패션 세계화 전초기지로 SPA 브랜드 글로벌 진출을 추진하고, 롯데백화점은 제니를 글로벌 모델로 발탁해 해외 사업 및 인바운드 마케팅을 강화하는 중.",
           "articleIndices": [
-            3
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "40만명 부른 상어 한 마리… '잘 터진 이색 콘텐츠, 해운대 안 부럽다'",
-              "url": "https://n.news.naver.com/mnews/article/029/0003049997?sid=101"
+              "title": "'K-패션 세계화 전초기지'…무신사, 토종 SPA 앞세워 글로벌 진격",
+              "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80270"
+            },
+            {
+              "title": "롯데百, 10년 만에 '빅모델' 승부수… 제니 앞세워 글로벌 공략",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=118975"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "💪",
-          "title": "스포츠 마케팅 강화",
-          "summary": "롯데백화점이 8회째 '롯데 액티브 위크' 개최로 고객 참여형 스포츠 이벤트를 통해 가을 시즌 소비 활성화를 추진하고 있다.",
+          "emoji": "💰",
+          "title": "초저가 전략 확산",
+          "summary": "고물가·경기 불황으로 식품·유통업계가 PB 상품 중심의 초저가 카드를 꺼내며 소비자 지갑 공략에 나서는 추세.",
           "articleIndices": [
-            6
+            8
           ],
           "relatedLinks": [
             {
-              "title": "롯데백화점, '롯데 액티브 위크(LOTTE Active Week)' 개최",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=134113"
+              "title": "\"1000원에 팔아도 남을까\"⋯ 식품유통업계 '초저가'의 경제학",
+              "url": "https://www.viva100.com/article/20260928500612"
             }
           ],
           "articleCount": 1
@@ -45,31 +50,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📊",
-          "title": "플랫폼 거래비용 부담 심화",
-          "summary": "온라인 입점업체가 플랫폼에 지급하는 월평균 거래비용이 매출의 20.6%에 달하면서 중소 셀러의 수익성 악화 문제가 대두되고 있다.",
+          "emoji": "🛡️",
+          "title": "알리익스프레스 위조상품 선제 차단",
+          "summary": "알리익스프레스가 K-브랜드 침해상품에 대한 사후 대응에서 사전 차단으로 전환하며 지식재산권 보호 강화.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[이슈포커스] '10조 몸값' 노리는 무신사…IPO 앞에 놓인 세무·거래·보...",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=319910"
+              "title": "'팔리기 전에 막는다' 알리익스프레스, K-브랜드 침해상품 선제 차단",
+              "url": "https://n.news.naver.com/mnews/article/003/0014219313?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "올리브영 옴니채널 성공",
-          "summary": "올리브영이 월간 이용자 934만명으로 주요 버티컬커머스 앱 1위를 차지하며 거리 매장과 모바일 앱을 연결한 한국형 옴니채널 생활 습관 구축에 성공했다.",
+          "emoji": "🤖",
+          "title": "피지컬 AI 물류 혁신",
+          "summary": "쿠팡·컬리 등 국내 이커머스 기업이 무인운반·포장 자동화 등 피지컬 AI를 물류센터에 도입하며 생산성 향상 추진.",
           "articleIndices": [
-            7
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[경영평론가 장교수의 경영MBTI] 올리브영의 도시계획, ENFJ형 큐레이터...",
-              "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085421"
+              "title": "보고 집고 옮긴다…몸 가진 AI, 유통·물류 어떻게 바꾸나",
+              "url": "https://n.news.naver.com/mnews/article/092/0002438987?sid=105"
             }
           ],
           "articleCount": 1
@@ -80,40 +85,34 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "에이전트형 커머스 확대",
-          "summary": "구글이 AI를 상품 탐색·추천을 넘어 검색부터 결제까지 수행하는 '에이전트형 커머스'로 확장하려는 움직임을 보이며 AI 기반 거래 자동화 시대를 선도하고 있다.",
+          "emoji": "🚀",
+          "title": "에이전틱 커머스 결제 혁신",
+          "summary": "생성형 AI가 상품 선택·구매까지 대행하는 에이전틱 커머스 확산에 따라 KB국민카드 등이 AI 결제 인증·보안 체계 검증 추진.",
           "articleIndices": [
-            5
+            6
           ],
           "relatedLinks": [
             {
-              "title": "구글, 인도서 AI 쇼핑 결제 시험…제미나이서 플립카트 바로 산다",
-              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703104"
+              "title": "AI가 대신 결제하는 시대…KB국민카드, '에이전트 결제' 검증 나선다",
+              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=301671"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "✨",
-          "title": "AI 기반 개인화 추천 강화",
-          "summary": "SSF샵과 다우기술 등이 AI를 활용한 개인별 콘텐츠·상품 추천 기능을 강화하며 셀러들의 데이터 기반 마케팅 수요가 높아지고 있다.",
+          "emoji": "🤝",
+          "title": "네이버-메타 AI 광고 협력",
+          "summary": "네이버와 메타가 쇼핑·커머스 데이터와 AI 타기팅 기술을 결합한 'ADVoost' 광고 솔루션으로 협력 강화.",
           "articleIndices": [
-            6,
-            7,
-            9
+            5
           ],
           "relatedLinks": [
             {
-              "title": "다우기술, 코리아 이커머스페어서 '사방넷 2.0' 선보여",
-              "url": "https://n.news.naver.com/mnews/article/092/0002438876?sid=105"
-            },
-            {
-              "title": "SSF샵, 11주년 '11TH PARTY'...최대 11만 원 쿠폰·11% 페이백 쏜다",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=134129"
+              "title": "네이버 길찾기, 메타 AI 글래스에서 쓴다",
+              "url": "https://ditoday.com/%eb%84%a4%ec%9d%b4%eb%b2%84-%ea%b8%b8%ec%b0%be%ea%b8%b0-%eb%a9%94%ed%83%80-ai-%ea%b8%b8%eb%9e%98%ec%8a%a4%ec%97%90%ec%84%9c-%ec%93%b4%eb%8b%a4/"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -121,9 +120,9 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "💄",
-          "title": "CU프렌즈 뷰티 협업",
-          "summary": "CU가 페리페라와 협업해 자체 캐릭터 'CU프렌즈'를 활용한 뷰티 상품 10종을 10월 1일 출시하며 편의점 IP를 뷰티 브랜드로 확장하는 업계 최초 사례를 선보인다.",
+          "emoji": "🎮",
+          "title": "포켓몬 3D 아이스크림 출시",
+          "summary": "CU가 포켓몬스터 IP를 활용한 3D 아이스크림 3종(메타몽·피카츄·잉어킹)을 순차 출시하며 캐릭터 상품 라인업 확대.",
           "articleIndices": [
             1,
             2,
@@ -131,12 +130,12 @@
           ],
           "relatedLinks": [
             {
-              "title": "푸딩·삼각김밥이 화장품으로...CU, 페리페라 협업으로 국내외 공략",
-              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318337"
+              "title": "CU, 포켓몬스터 3D 아이스크림 3종 출시…캐릭터 상품 라인업 확대",
+              "url": "https://n.news.naver.com/mnews/article/030/0003470598?sid=101"
             },
             {
-              "title": "CU, 편의점 IP 뷰티로 확장…페리페라 협업 상품 10월 출시",
-              "url": "https://www.cstimes.com/news/articleView.html?idxno=722010"
+              "title": "메타몽은 포도 맛, 피카츄는 망고 맛…CU, 포켓몬 아이스크림 출시",
+              "url": "https://n.news.naver.com/mnews/article/092/0002439071?sid=103"
             }
           ],
           "articleCount": 3
@@ -147,59 +146,65 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍢",
-          "title": "GS25 동절기 먹거리 조기 출시",
-          "summary": "GS25가 기온 데이터 분석을 바탕으로 즉석어묵 판매 시점을 지난해보다 2주 앞당겨 10월 1일부터 출시하며 시즈널 마케팅을 강화하고 있다.",
+          "emoji": "❄️",
+          "title": "GS25 동절기 먹거리 2주 앞당김",
+          "summary": "GS25가 평균기온 15도 이하 데이터 분석을 바탕으로 즉석어묵·군고구마 등 동절기 먹거리를 예년보다 2주 앞당겨 10월 1일 출시.",
+          "articleIndices": [
+            2,
+            3,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "GS25·GS샵, 겨울철 먹거리 출시·천연 소재 침구 PB '헤리든' 론칭",
+              "url": "http://www.wsobi.com/news/articleView.html?idxno=318863"
+            },
+            {
+              "title": "뚝 떨어진 아침기온에 편의점, 이른 '동절기 마케팅' 돌입",
+              "url": "https://www.cnbizm.com/news/articleView.html?idxno=316427"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "🍰",
+          "title": "세븐일레븐 글로벌 디저트 강화",
+          "summary": "세븐일레븐이 해외 인기 상품 도입을 확대하고 판매 데이터 기반 디저트 상품군 강화로 편의점 경쟁력 차별화.",
           "articleIndices": [
             2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "'기온 15도 아래 어묵 판매↑'…GS25, 겨울 먹거리 2주 앞당겨 판매",
-              "url": "https://n.news.naver.com/mnews/article/277/0005821315?sid=101"
+              "title": "'일본서 들여온 디저트가 통했다'...세븐일레븐, 글로벌 소싱으로 경쟁...",
+              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=136234"
             },
             {
-              "title": "GS25, 동절기 먹거리 출시 2주 앞당겨…즉석어묵·군고구마 판매",
-              "url": "https://n.news.naver.com/mnews/article/001/0016339609?sid=101"
+              "title": "100만개 팔린 '생초코파이'…세븐일레븐, 2탄 내놓는다",
+              "url": "https://n.news.naver.com/mnews/article/648/0000051146?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🎮",
-          "title": "세븐일레븐 IP 협업 확대",
-          "summary": "세븐일레븐이 게임 '리그 오브 레전드' 공식 트레이딩 카드와 반고흐 아트와인 등 문화·예술 IP 협업을 통해 프리미엄 상품 라인업을 강화하고 있다.",
+          "emoji": "📈",
+          "title": "이마트 추석 연휴 매출 반등",
+          "summary": "이마트가 추석 연휴 시기 앞당겨짐에 따른 선물세트 수요 증가로 6개월 만에 할인점 영업손실을 전년 대비 57억 원 감소.",
           "articleIndices": [
-            7,
-            8
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[출근길 포인트] '자율주행 기술, 2년간 제자리 불구 R&D 예산은 되레 4...",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320454"
+              "title": "추석 효과에 대형마트 6개월 만에 반등",
+              "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=363841"
             },
             {
-              "title": "\"가성비는 무조건 2만원 밑으로\"…쌀쌀한 4분기, 만원대 편의점 와인...",
-              "url": "https://n.news.naver.com/mnews/article/009/0005740466?sid=103"
+              "title": "짧아진 추석 연휴에 국내 쇼핑 몰렸다...백화점·아웃렛 매출 20% 안팎 증...",
+              "url": "https://www.m-economynews.com/news/article.html?no=71126"
             }
           ],
           "articleCount": 2
-        },
-        {
-          "emoji": "🧥",
-          "title": "이마트24 동절기 의류 조기 출시",
-          "summary": "이마트24가 겨울 상품 출시 시기를 최대 1개월 앞당겨 10월부터 터치장갑·패딩·히트텍 등 동절기 의류·잡화 20종을 판매하며 시즈널 대응을 강화하고 있다.",
-          "articleIndices": [
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "편의점은 벌써 초겨울 채비… \"기온 15도 아래로 떨어지면 잘 팔려\"",
-              "url": "https://www.viva100.com/article/20260928500059"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -207,33 +212,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "💜",
-          "title": "CU프렌즈 뷰티 컬렉션",
-          "summary": "CU의 푸딩·삼각김밥 등 인기 간식을 모티브로 한 페리페라 협업 뷰티 상품 10종이 10월 1일 출시되며 편의점 캐릭터 IP의 뷰티 시장 진출이 화제를 모으고 있다.",
-          "articleIndices": [
-            1,
-            2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 페리페라와 맞손…자체 IP 활용 뷰티 상품 첫선",
-              "url": "https://www.sentv.co.kr/article/view/sentv202609280014"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🌱",
-          "title": "웰니스 전문관 확대",
-          "summary": "11번가가 헬시플레저 트렌드에 맞춰 단백질·저당·비건식 등 건강 관련 상품을 전문으로 판매하는 '웰니스' 전문관을 오픈하며 건강식 시장 공략을 강화하고 있다.",
+          "emoji": "🎨",
+          "title": "CU 페리페라 뷰티 상품 협업",
+          "summary": "CU가 색조 메이크업 브랜드 페리페라와 손잡고 편의점 먹거리 모티브 뷰티 상품 10종을 출시하며 크로스오버 마케팅 추진.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "단백질·저당·비건 한곳에…11번가, '웰니스' 전문관 열어",
-              "url": "https://n.news.naver.com/mnews/article/366/0001194648?sid=101"
+              "title": "[신상브리핑] 롯데마트, CU, 세븐일레븐, 오뚜기, 배스킨라빈스, 하나투...",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1409843"
             }
           ],
           "articleCount": 1
