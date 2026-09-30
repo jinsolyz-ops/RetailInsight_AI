@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-09-29T01:20:32.137Z",
+  "generatedAt": "2026-09-30T00:50:08.004Z",
   "summary": [
-    "CU, 포켓몬 3D 아이스크림 3종 출시로 캐릭터 IP 활용 확대",
-    "GS25, 동절기 먹거리 2주 앞당겨 출시하며 계절 마케팅 강화",
-    "세븐일레븐, 글로벌 소싱 디저트로 편의점 경쟁력 차별화"
+    "CU, 포켓몬 3D 아이스크림·무신사·올리브영 진출로 편의점 경계 확장",
+    "GS25 와인25플러스 백주 매출 3년 35배 증가, 글로벌 주류 플랫폼 강화",
+    "세븐일레븐 디저트 매출 82% 증가, PB·글로벌소싱 상품 확대로 경쟁력 강화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "무신사·롯데백, 글로벌 진출 가속",
-          "summary": "무신사는 K-패션 세계화 전초기지로 SPA 브랜드 글로벌 진출을 추진하고, 롯데백화점은 제니를 글로벌 모델로 발탁해 해외 사업 및 인바운드 마케팅을 강화하는 중.",
+          "emoji": "🎯",
+          "title": "도미노피자 12년 연속 1위",
+          "summary": "도미노피자가 고객만족도 평가에서 12년 연속 피자 부문 1위를 기록하며, 리센느 모델 발탁·무신사 협업 등 마케팅 활동으로 공신력 있는 외부 평가를 브랜드 신뢰도 강화에 활용.",
           "articleIndices": [
-            6,
-            7
+            6
           ],
           "relatedLinks": [
             {
-              "title": "'K-패션 세계화 전초기지'…무신사, 토종 SPA 앞세워 글로벌 진격",
-              "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80270"
-            },
-            {
-              "title": "롯데百, 10년 만에 '빅모델' 승부수… 제니 앞세워 글로벌 공략",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=118975"
+              "title": "도미노피자, '2026 한국산업의 고객만족도' 피자 부문 12년 연속 1위",
+              "url": "https://hbnpress.com/news/view/1065570563491001"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "💰",
-          "title": "초저가 전략 확산",
-          "summary": "고물가·경기 불황으로 식품·유통업계가 PB 상품 중심의 초저가 카드를 꺼내며 소비자 지갑 공략에 나서는 추세.",
+          "emoji": "🛍️",
+          "title": "중국 관광객 대상 마케팅 강화",
+          "summary": "롯데백화점 등 유통업계가 중국인 관광객을 겨냥한 '글로벌 쇼핑위크' 등 대목 마케팅을 강화하며, 2030 싼커 트렌드로 피부과 제품 3300억 규모 매출 창출.",
           "articleIndices": [
             8
           ],
           "relatedLinks": [
             {
-              "title": "\"1000원에 팔아도 남을까\"⋯ 식품유통업계 '초저가'의 경제학",
-              "url": "https://www.viva100.com/article/20260928500612"
+              "title": "'면세점 안 가요'…'2030 싼커' 한국 피부과서 3300억 긁었다",
+              "url": "https://n.news.naver.com/mnews/article/015/0005337434?sid=101"
             }
           ],
           "articleCount": 1
@@ -50,26 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛡️",
-          "title": "알리익스프레스 위조상품 선제 차단",
-          "summary": "알리익스프레스가 K-브랜드 침해상품에 대한 사후 대응에서 사전 차단으로 전환하며 지식재산권 보호 강화.",
+          "emoji": "⭐",
+          "title": "쿠팡 오픈마켓 평판 1위 독주",
+          "summary": "쿠팡이 9월 오픈마켓 브랜드평판 1900만 점으로 1위를 기록하며, 소비자 온라인 습관 변화에 따른 브랜드 소비 선호도 강화를 입증.",
           "articleIndices": [
-            1
+            1,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'팔리기 전에 막는다' 알리익스프레스, K-브랜드 침해상품 선제 차단",
-              "url": "https://n.news.naver.com/mnews/article/003/0014219313?sid=101"
+              "title": "쿠팡, 9월 오픈마켓 평판 1900만 점 '독주'…11번가·G마켓 순 '톱3'",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=134395"
+            },
+            {
+              "title": "쿠팡, 오픈마켓 브랜드평판 1위…11번가·G마켓 順",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491225"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
           "emoji": "🤖",
-          "title": "피지컬 AI 물류 혁신",
-          "summary": "쿠팡·컬리 등 국내 이커머스 기업이 무인운반·포장 자동화 등 피지컬 AI를 물류센터에 도입하며 생산성 향상 추진.",
+          "title": "피지컬AI 물류 혁신 가속",
+          "summary": "쿠팡·컬리 등 국내 이커머스 기업이 무인운반·포장 자동화 등 피지컬AI를 물류센터에 도입하며 생산성 향상과 운영 효율화를 추진.",
           "articleIndices": [
-            2
+            4
           ],
           "relatedLinks": [
             {
@@ -85,31 +85,32 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "에이전틱 커머스 결제 혁신",
-          "summary": "생성형 AI가 상품 선택·구매까지 대행하는 에이전틱 커머스 확산에 따라 KB국민카드 등이 AI 결제 인증·보안 체계 검증 추진.",
+          "emoji": "🧠",
+          "title": "한국콜마 AI·데이터 유통망 강화",
+          "summary": "한국콜마가 블루엠텍 인수를 통해 AI 기반 디지털 유통망을 구축하고, 주문부터 유통까지 연결하는 마케팅 전략으로 의약품 유통 생태계 혁신 추진.",
           "articleIndices": [
-            6
+            2,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "AI가 대신 결제하는 시대…KB국민카드, '에이전트 결제' 검증 나선다",
-              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=301671"
+              "title": "한국콜마, 블루엠텍 인수…'AI·데이터' 기반 유통부터 HK이노엔 시너...",
+              "url": "https://n.news.naver.com/mnews/article/018/0006377404?sid=105"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🤝",
-          "title": "네이버-메타 AI 광고 협력",
-          "summary": "네이버와 메타가 쇼핑·커머스 데이터와 AI 타기팅 기술을 결합한 'ADVoost' 광고 솔루션으로 협력 강화.",
+          "emoji": "📱",
+          "title": "숏폼 커머스 AI 마케팅 확대",
+          "summary": "카운트다운에이아이의 모바일 AI 마케팅 에이전트 '미우'가 인스타그램 릴스·유튜브 쇼츠·틱톡샵 등 숏폼 커머스 플랫폼 확산에 맞춰 글로벌 생성형 AI 서비스로 확장.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "네이버 길찾기, 메타 AI 글래스에서 쓴다",
-              "url": "https://ditoday.com/%eb%84%a4%ec%9d%b4%eb%b2%84-%ea%b8%b8%ec%b0%be%ea%b8%b0-%eb%a9%94%ed%83%80-ai-%ea%b8%b8%eb%9e%98%ec%8a%a4%ec%97%90%ec%84%9c-%ec%93%b4%eb%8b%a4/"
+              "title": "카운트다운에이아이 '미우', 모바일 AI 마케팅 에이전트로 확장",
+              "url": "https://n.news.naver.com/mnews/article/009/0005741773?sid=105"
             }
           ],
           "articleCount": 1
@@ -120,25 +121,41 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎮",
+          "emoji": "💜",
           "title": "포켓몬 3D 아이스크림 출시",
-          "summary": "CU가 포켓몬스터 IP를 활용한 3D 아이스크림 3종(메타몽·피카츄·잉어킹)을 순차 출시하며 캐릭터 상품 라인업 확대.",
+          "summary": "CU가 포켓몬스터 캐릭터를 형상화한 3D 아이스크림 3종(메타몽·피카츄·잉어킹)을 순차 출시하며, 캐릭터 시각적 특징과 맛(포도·망고·오렌지)을 결합한 프리미엄 디저트 전략 추진.",
           "articleIndices": [
-            1,
             2,
-            3
+            3,
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "CU, 포켓몬스터 3D 아이스크림 3종 출시…캐릭터 상품 라인업 확대",
-              "url": "https://n.news.naver.com/mnews/article/030/0003470598?sid=101"
+              "title": "메타몽·피카츄·잉어킹까지…CU, '포켓몬 3D 아이스크림' 선봬",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597650414120"
             },
             {
-              "title": "메타몽은 포도 맛, 피카츄는 망고 맛…CU, 포켓몬 아이스크림 출시",
-              "url": "https://n.news.naver.com/mnews/article/092/0002439071?sid=103"
+              "title": "[똑똑한신상] 롯데마트·슈퍼, GS샵, CU, 세븐일레븐",
+              "url": "https://www.ekn.kr/web/view.php?key=20260929021160031"
             }
           ],
-          "articleCount": 3
+          "articleCount": 4
+        },
+        {
+          "emoji": "🎨",
+          "title": "자사 IP 무신사·올리브영 진출",
+          "summary": "CU가 자사 지식재산권(IP)을 활용해 편의점 오프라인 한계를 넘어 무신사·올리브영 온라인 채널에 진출하며, 성수디저트파크점 팝업스토어로 1020세대 뷰티 테스트존 운영.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU 협업 화장품, 올리브영ㆍ무신사 유통망 탄다",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291325199480727"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -146,65 +163,61 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "❄️",
-          "title": "GS25 동절기 먹거리 2주 앞당김",
-          "summary": "GS25가 평균기온 15도 이하 데이터 분석을 바탕으로 즉석어묵·군고구마 등 동절기 먹거리를 예년보다 2주 앞당겨 10월 1일 출시.",
+          "emoji": "🍷",
+          "title": "GS25 와인25플러스 글로벌 확대",
+          "summary": "GS25의 주류 스마트오더 플랫폼 '와인25플러스'가 중국 백주 매출 3년 35배 증가를 기록하며, 글로벌 주류 라인업 강화로 '세계 술 한곳' 포지셔닝 강화.",
           "articleIndices": [
             2,
-            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "GS25·GS샵, 겨울철 먹거리 출시·천연 소재 침구 PB '헤리든' 론칭",
-              "url": "http://www.wsobi.com/news/articleView.html?idxno=318863"
+              "title": "세계 술, 편의점 한곳에서…GS25 '와인25플러스' 글로벌 주류 플랫폼 변...",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65060"
             },
             {
-              "title": "뚝 떨어진 아침기온에 편의점, 이른 '동절기 마케팅' 돌입",
-              "url": "https://www.cnbizm.com/news/articleView.html?idxno=316427"
+              "title": "[편의점 브리핑] GS25 글로벌 주류·세븐일레븐 군부대 후원·이마트24 샌...",
+              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=80202"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
           "emoji": "🍰",
-          "title": "세븐일레븐 글로벌 디저트 강화",
-          "summary": "세븐일레븐이 해외 인기 상품 도입을 확대하고 판매 데이터 기반 디저트 상품군 강화로 편의점 경쟁력 차별화.",
+          "title": "세븐일레븐 디저트 매출 82% 증가",
+          "summary": "세븐일레븐이 생초코파이·즉석 스무디·우유 크림 디저트 등 PB·글로벌소싱 상품 확대로 디저트 카테고리 매출 82% 증가를 달성하며 상품군 다각화 전략 강화.",
           "articleIndices": [
-            2,
-            3
+            7,
+            11
           ],
           "relatedLinks": [
             {
-              "title": "'일본서 들여온 디저트가 통했다'...세븐일레븐, 글로벌 소싱으로 경쟁...",
-              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=136234"
-            },
-            {
-              "title": "100만개 팔린 '생초코파이'…세븐일레븐, 2탄 내놓는다",
-              "url": "https://n.news.naver.com/mnews/article/648/0000051146?sid=101"
+              "title": "디저트 매출 82% 뛴 세븐일레븐…생초코파이 이어 스무디 키운다",
+              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171087"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "📈",
-          "title": "이마트 추석 연휴 매출 반등",
-          "summary": "이마트가 추석 연휴 시기 앞당겨짐에 따른 선물세트 수요 증가로 6개월 만에 할인점 영업손실을 전년 대비 57억 원 감소.",
+          "emoji": "🥪",
+          "title": "이마트24 샌드위치 콤보 할인",
+          "summary": "이마트24가 10월 샌드위치 성수기를 맞아 샌드위치 전 품목과 즉석커피·레쓰비 함께 구매 시 최대 1000원 할인하는 '올데이샌드콤보' 행사로 상품 연계 판매 강화.",
           "articleIndices": [
-            6,
-            7
+            10,
+            11,
+            12
           ],
           "relatedLinks": [
             {
-              "title": "추석 효과에 대형마트 6개월 만에 반등",
-              "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=363841"
+              "title": "이마트24, 샌드위치 성수기 맞아 커피 함께 사면 최대 1000원 할인",
+              "url": "https://n.news.naver.com/mnews/article/030/0003470940?sid=101"
             },
             {
-              "title": "짧아진 추석 연휴에 국내 쇼핑 몰렸다...백화점·아웃렛 매출 20% 안팎 증...",
-              "url": "https://www.m-economynews.com/news/article.html?no=71126"
+              "title": "이마트24서는 10월 내내 '샌드위치 + 커피'가 3천원 이내",
+              "url": "https://www.insight.co.kr/news/575831"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         }
       ]
     },
@@ -212,16 +225,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎨",
-          "title": "CU 페리페라 뷰티 상품 협업",
-          "summary": "CU가 색조 메이크업 브랜드 페리페라와 손잡고 편의점 먹거리 모티브 뷰티 상품 10종을 출시하며 크로스오버 마케팅 추진.",
+          "emoji": "🧊",
+          "title": "즉석 과일 스무디 트렌드 확산",
+          "summary": "편의점·대형마트 중심으로 소비자가 냉동 과일을 직접 선택해 전용 기기에서 즉석 갈아 마시는 '즉석 과일 스무디'가 새로운 간편 디저트 카테고리로 부상하며 신세계푸드 팝업 '스꾸하우스' 오픈.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[신상브리핑] 롯데마트, CU, 세븐일레븐, 오뚜기, 배스킨라빈스, 하나투...",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1409843"
+              "title": "[유통갤러리] 신세계푸드, 즉석 과일 스무디 팝업 '스꾸하우스' 오픈...",
+              "url": "https://theviewers.co.kr/View.aspx?No=4246056"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📦",
+          "title": "소용량·소포장 식품 소비 확대",
+          "summary": "남양유업의 그릭요거트 '불가리스' 등 소용량·소포장 제품이 1~2인 가구 증가와 고물가 상황에서 한 번에 먹을 수 있는 소비 트렌드로 2년 만에 시장 3배 성장.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "2년 만에 3배 커진 그릭요거트…남양유업, '불가리스'로 시장 공략 고삐",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=155693"
             }
           ],
           "articleCount": 1
