@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-02T01:10:11.052Z",
+  "generatedAt": "2026-10-03T00:48:10.724Z",
   "summary": [
-    "CU, 하나카드와 군 장병 응원 캠페인으로 고객 참여형 마케팅 강화",
-    "삼립, 대만 차 브랜드 '3:15pm'과 협업해 밀크티 베이커리 8종 출시로 트렌드 선도",
-    "유통업계, 생성형 AI 기반 상품 추천·요약 서비스 도입으로 쇼핑 경험 고도화"
+    "CU, SNS 인기 '피자절편' 전국 출시로 떡 디저트 트렌드 선점",
+    "GS25, 와인25플러스 플랫폼으로 프리미엄 주류 시장 공략 강화",
+    "CU X 페리페라 한정판 뷰티, 일본 큐텐 진출로 글로벌 확장 가속"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "국경절 유커 맞춤형 마케팅",
-          "summary": "중국 국경절 연휴를 겨냥해 유통업계가 K-문화 체험과 프리미엄 쇼핑 환경을 결합한 차별화 전략 추진 중.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "'쇼핑에 K-문화 더했다'…갤러리아百, 국경절 유커 전용 '럭셔리 호스피...",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=89623"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📱",
-          "title": "알뜰폰·자급제 단말 번들 마케팅",
-          "summary": "유통업계에서 자급제 단말기와 알뜰폰 요금제를 결합한 번들 판매로 신규 고객층 확보 전략 확대 중.",
+          "emoji": "🍽️",
+          "title": "데스크 다이닝 수요 증가",
+          "summary": "유통업계가 직장인의 책상 식사 문화 확산에 대응해 관련 캠페인과 신제품을 출시하며 새로운 소비층 공략에 나섰다.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "알뜰폰 5G 요금제 확대 통신 3사와 정면승부",
-              "url": "https://www.gokorea.kr/news/articleView.html?idxno=880264"
+              "title": "[이슈PICK+] '책상이 식탁으로'···유통업계, '데스크 다이닝' 수요 증...",
+              "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406727"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌏",
+          "title": "중국 국경절 특수 대비",
+          "summary": "중국인 관광객의 관심이 K뷰티에서 패션·식품으로 확대되면서 유통업계 전반이 국경절 연휴 특수에 대비하고 있다.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "[EBN 오늘(2일) 이슈 종합] 호반 김대헌 호반건설 이사회 의장 내정, 철...",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726640"
             }
           ],
           "articleCount": 1
@@ -46,10 +46,10 @@
       "issues": [
         {
           "emoji": "⚡",
-          "title": "1시간 퀵커머스 시장 확대",
-          "summary": "배민·컬리·쿠팡이츠 등 플랫폼 강자들이 신선식품·생활용품까지 확대하며 1시간 배송 시장 경쟁 심화.",
+          "title": "1시간 퀵커머스 경쟁",
+          "summary": "배민, 컬리, 쿠팡이츠 등 배달·커머스 강자들이 신선식품과 생활용품까지 확대하며 1시간 배송 시장을 주도하고 있다.",
           "articleIndices": [
-            8
+            11
           ],
           "relatedLinks": [
             {
@@ -61,18 +61,23 @@
         },
         {
           "emoji": "🤖",
-          "title": "AI 에이전트 버티컬 커머스 확산",
-          "summary": "네이버 등 플랫폼이 AI 에이전트를 부동산·건강 등 버티컬 영역으로 확대하며 AI 기반 쇼핑 경험 고도화.",
+          "title": "AI 쇼핑 플랫폼 확산",
+          "summary": "네이버 웨일, Glance 등 AI 기반 쇼핑 플랫폼이 검색 전 추천 방식으로 새로운 온라인 쇼핑 경험을 제시하고 있다.",
           "articleIndices": [
-            7
+            8,
+            10
           ],
           "relatedLinks": [
+            {
+              "title": "[심층분석-AI 쇼핑] 검색하기 전에 먼저 고른다…Glance가 연 '말하지 않...",
+              "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200043"
+            },
             {
               "title": "네이버 웨일, 'AI 챗' 도입...웹 브라우저도 'AI 전환' 가속화",
               "url": "https://www.techm.kr/news/articleView.html?idxno=155787"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -80,36 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "✨",
-          "title": "AI 상품 리뷰 요약 서비스 도입",
-          "summary": "베네피아·동원몰 등 유통사가 생성형 AI로 상품 리뷰를 재가공하고 추천 기능을 강화해 정보 경쟁력 확보.",
+          "emoji": "🤖",
+          "title": "AI 물류 자동화 경쟁",
+          "summary": "롯데마트 동맹사 오카도가 AI·로봇 기반 자동화 물류센터로 영국 유통시장 1위를 달성하며 AI 기술의 경쟁력을 입증했다.",
           "articleIndices": [
-            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "\"리뷰 개수보다 정보의 질\"… 베네피아, AI 요약 서비스 도입",
-              "url": "https://n.news.naver.com/mnews/article/029/0003051143?sid=105"
-            },
-            {
-              "title": "동원몰, 생성형 AI로 상품 추천…'AI 쇼핑 어시스턴트' 도입",
-              "url": "https://n.news.naver.com/mnews/article/421/0009205373?sid=101"
+              "title": "'롯데마트 1조 동맹' 오카도, 英 유통 시장 1위 꿰찼다",
+              "url": "https://www.theguru.co.kr/news/article.html?no=107567"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🎯",
-          "title": "리테일미디어 AI 분석 시스템",
-          "summary": "공간정보·AI 기반 애드테크 기업이 옥외광고 분석 시스템을 공개하며 리테일미디어 데이터 활용 확대.",
+          "emoji": "📱",
+          "title": "통신사 AI 맞춤형 혜택",
+          "summary": "통신 3사가 AI 기반 맞춤형 혜택부터 테마파크·외식·쇼핑 할인까지 멤버십 경쟁을 강화하며 일상 커머스 접점을 확대하고 있다.",
           "articleIndices": [
-            9
+            7
           ],
           "relatedLinks": [
             {
-              "title": "'타겟은 현실 세계 어디에 있나'…애드타입, OOH 분석 시스템 공개",
-              "url": "https://n.news.naver.com/mnews/article/008/0005421234?sid=105"
+              "title": "통신 3사, 10월 멤버십 혜택 경쟁…AI 맞춤형부터 테마파크 할인까지",
+              "url": "https://n.news.naver.com/mnews/article/119/0003139203?sid=105"
             }
           ],
           "articleCount": 1
@@ -120,24 +120,49 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "💚",
-          "title": "CU 군 장병 응원 캠페인",
-          "summary": "CU가 하나카드와 협력해 고객 결제를 군부대 응원으로 연결하고 최다 응원 부대에 간식차 지원하는 참여형 프로모션 진행.",
+          "emoji": "🍕",
+          "title": "피자절편 전국 출시",
+          "summary": "CU가 SNS에서 인기를 끈 떡 디저트 '피자절편'을 전국 점포에 상시 판매하며 웨이팅 수요를 편의점으로 흡수하고 있다.",
           "articleIndices": [
-            1,
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "[단독] '웨이팅 지옥' 끝난다…CU, SNS서 뜬 '피자절편' 전국 출시",
+              "url": "https://www.etoday.co.kr/news/view/2632212"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "💜",
+          "title": "캪틴큐 한정 콜라보",
+          "summary": "CU가 11년 만에 복귀한 캪틴큐를 '보물상자' 한정 세트로 출시하며 향수 마케팅과 수집 욕구를 자극하고 있다.",
+          "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "하나카드, CU와 군 장병 응원전 '맞손'...최다 응원 부대에 간식차 보낸...",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366522"
-            },
-            {
-              "title": "[편의점 브리핑] CU 군부대 응원·GS25 북미 고객 급증·이마트24 '꼬모'...",
-              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=80252"
+              "title": "11년 만에 돌아온 '캪틴큐'…CU에서 보물상자로 만난다",
+              "url": "https://www.etoday.co.kr/news/view/2632211"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
+        },
+        {
+          "emoji": "💄",
+          "title": "페리페라 뷰티 글로벌 확장",
+          "summary": "CU X 페리페라 한정판 뷰티가 일본 큐텐 진출을 시작으로 플라자·로프트 등 글로벌 채널로 확대되며 브랜드 자산 국제화를 추진하고 있다.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "'CU X 페리페라' 한정판 뷰티, 日큐텐 찍고 열도 상륙…플라자·로프트 ...",
+              "url": "https://www.theguru.co.kr/news/article.html?no=107835"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -145,46 +170,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "GS25 국경절 중국 고객 프로모션",
-          "summary": "GS25가 알리페이·위챗페이·유니온페이 결제 고객에게 5~15% 할인 혜택을 제공하며 중국 관광객 유입 전략 강화.",
+          "emoji": "🍷",
+          "title": "GS25 와인25플러스 강화",
+          "summary": "GS25의 주류 스마트오더 플랫폼 '와인25플러스'가 중국 백주, 일본 사케, 프리미엄 크래프트 맥주 등으로 상품 라인업을 확대하며 프리미엄 주류 시장을 공략하고 있다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "국경절 지갑 열어라…유통가, '한국서만 누릴 경험' 앞세운다",
-              "url": "http://www.newsprime.co.kr/news/article.html?no=749775"
+              "title": "[유통가 패트롤] 가을 바람에 와인 찾는다...신상품으로 성수기 공략",
+              "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145229"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📚",
-          "title": "GS25 '민음사빵' 품절 대란",
-          "summary": "GS25의 '민음사빵' 출시 후 책갈피 수집 열풍으로 SNS 버즈 급증, MZ층 최애 굿즈로 부상한 마케팅 성공 사례.",
+          "emoji": "🚇",
+          "title": "세븐일레븐 교통카드 협력",
+          "summary": "세븐일레븐이 배민과 협력해 편의점 한정 교통카드를 판매하며 배달앱 기반 상품 확장 전략에 참여하고 있다.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "[마케팅 인사이트] 품절 대란 '민음사빵'...책갈피는 어떻게 'MZ 최애 굿...",
-              "url": "https://www.banronbodo.com/news/articleView.html?idxno=33108"
+              "title": "교통카드까지 배달시킨다…배민, 옷·K팝 앨범 이어 상품군 확장",
+              "url": "https://n.news.naver.com/mnews/article/022/0004163746?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌏",
-          "title": "세븐일레븐 일본 진출 전략",
-          "summary": "롯데벤처스와 협력해 세븐일레븐 등 일본 유통 채널 진출을 추진하고 2027년부터 아시아·미국 확대 계획.",
+          "emoji": "🏪",
+          "title": "이마트24 휴무 일정 공지",
+          "summary": "이마트24가 개천절·한글날 연휴 기간 점포별 휴무 일정을 사전 공지하며 고객 편의를 도모하고 있다.",
           "articleIndices": [
-            6
+            5
           ],
           "relatedLinks": [
             {
-              "title": "동원·롯데가 찜한 수면 스타트업…코자아, 시리즈A 40억 유치",
-              "url": "https://n.news.naver.com/mnews/article/015/0005338469?sid=101"
+              "title": "10/3~4 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간...",
+              "url": "http://www.newskr.kr/news/articleView.html?idxno=106864"
             }
           ],
           "articleCount": 1
@@ -195,42 +220,38 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🥐",
-          "title": "삼립 '3:15pm' 밀크티 베이커리 협업",
-          "summary": "삼립이 대만 차 브랜드 '3:15pm'과 협업해 밀크티 생크림빵·얼그레이 케이크 등 베이커리 8종 출시, 차 활용 디저트 트렌드 선도.",
+          "emoji": "🍰",
+          "title": "떡 디저트 트렌드 확산",
+          "summary": "버터떡, 양쯔깐루 등 떡 기반 디저트가 SNS 중심으로 유행하면서 편의점·카페·베이커리에서 관련 제품을 앞다퉈 출시하고 있다.",
           "articleIndices": [
-            2,
+            1,
             3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "삼립, 대만 차 브랜드 '3:15pm'과 베이커리 신제품 8종 출시",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=2002160"
-            },
-            {
-              "title": "삼립, 대만 '3시 15분'과 손잡고 밀크티 베이커리 8종 선봬",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=89990"
+              "title": "[지방 순삭] 유행하는 디저트, 다이어트 중에도 즐길 수 있을까?",
+              "url": "https://n.news.naver.com/mnews/article/018/0006379994?sid=102"
             }
           ],
           "articleCount": 3
         },
         {
-          "emoji": "🍵",
-          "title": "건강식 저당 죽·음료 신제품 확대",
-          "summary": "오뚜기·롯데칠성 등이 혈당 관리·체중조절 트렌드에 맞춰 저당·저칼로리 죽·음료 신제품 출시로 웰빙 시장 공략.",
+          "emoji": "🥤",
+          "title": "밀크티 디저트 신제품",
+          "summary": "삼립의 밀크티 파르페·푸딩 등 밀크티 기반 냉장 디저트가 전국 편의점·마트에 출시되며 가을 시즌 신상 트렌드를 주도하고 있다.",
           "articleIndices": [
-            6,
-            9
+            3,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의신상]'풍부한 과일 맛과 진한 풍미'… 롯데칠성, '칠성사이다 RI...",
-              "url": "https://n.news.naver.com/mnews/article/277/0005823899?sid=101"
+              "title": "[푸드·다이닝 트렌드] 삼립, '시알 파리 2026' 참가… K-호떡 앞세워 글...",
+              "url": "https://www.ibabynews.com/news/articleView.html?idxno=154968"
             },
             {
-              "title": "오뚜기, '라이트앤조이 저당 단호박죽·통단팥죽' 2종 출시",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=2002165"
+              "title": "[오늘의 신상] 오뚜기 저당죽·칠성사이다 RICH·삼립 밀크티 디저트",
+              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=80314"
             }
           ],
           "articleCount": 2
