@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-06T01:58:22.950Z",
+  "generatedAt": "2026-10-07T01:05:43.725Z",
   "summary": [
-    "CU, SNS 트렌드 '피자설기'를 '피자절편'으로 상품화해 편의점 신상 경쟁 주도",
-    "GS25, 한정선 찹쌀떡 70만개 판매 후 피스타치오 2탄 출시로 떡 디저트 열풍 선점",
-    "세븐일레븐 '올 뉴 마끼' 6주 만에 30만개 판매, 여성 고객 55% 차지하며 신제품 추가 출시"
+    "CU, 한글날 맞아 브랜드 공식 폰트 '좋은친구' 출시로 브랜드 정체성 강화",
+    "GS25 김혜자 도시락 13찬 한정판 출시, 누적 판매 1억개 돌파 기념 마케팅",
+    "세븐일레븐 레드와인 신상 '노네임' 출시, 가을 와인 수요 공략 지속"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🚚",
-          "title": "택배 성수기 자동화 경쟁",
-          "summary": "택배기사 과로 문제 해결을 위해 유통업계가 물류센터 자동화 설비 투자를 확대하는 추세.",
+          "emoji": "🌍",
+          "title": "중국 국경절 외국인 쇼핑 공략",
+          "summary": "한국 유통사들이 중국 국경절 연휴 기간 외국인 고객 유입을 겨냥해 알리페이 결제, K뷰티 특화 공간 등 맞춤형 마케팅 전개 중.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "겨울 택배 성수기, 물류센터는 자동화 경쟁 중",
-              "url": "https://www.gokorea.kr/news/articleView.html?idxno=880523"
+              "title": "[기획] 中 국경절 매출로 본 외국인 쇼핑지도",
+              "url": "https://www.newsinside.kr/news/articleView.html?idxno=5018003"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "GS25 글로벌 톱15 진입",
-          "summary": "GS25가 베트남·몽골 현지화 전략과 K-푸드 마케팅으로 글로벌 편의점 브랜드 톱15에 유일한 한국 기업으로 진입.",
+          "emoji": "📍",
+          "title": "성수동 포화, 서촌·북촌 팝업 확산",
+          "summary": "팝업 성지 성수동의 포화로 F&B 업계가 서촌·북촌으로 영토 확장, 아이돌 팬덤·2030세대 마케팅 거점 활용 중.",
           "articleIndices": [
-            6
+            4
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 글로벌 편의점 브랜드 '톱15' 진입…韓기업 중 유일",
-              "url": "https://www.theguru.co.kr/news/article.html?no=107875"
+              "title": "[르포] 성수 포화에 서촌·북촌 뜬다",
+              "url": "https://n.news.naver.com/mnews/article/014/0005585954?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,16 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛡️",
-          "title": "홈앤쇼핑 AI 가품 모니터링",
-          "summary": "홈앤쇼핑이 AI 기반 가품 모니터링 시스템을 도입해 온라인 유통시장의 위조상품 리스크 관리 강화.",
+          "emoji": "🎬",
+          "title": "신세계 할리우드 IP 1.4조 투자",
+          "summary": "신세계가 오프라인 매장의 '절대적 이유'를 할리우드 IP에서 찾아 1.4조원 투자, 이커머스 공세 속 차별화 전략 추진.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "홈앤쇼핑, AI로 가품 리스크 관리…유통 검증 체계 고도화",
-              "url": "https://www.asiatime.co.kr/article/20261006500077"
+              "title": "[이슈분석] '유통 공룡' 신세계, 할리우드 심장부에 1.4조 베팅",
+              "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025730"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "👗",
+          "title": "에이블리 버티컬커머스 1000만 MAU 돌파",
+          "summary": "에이블리가 여성 패션 버티컬커머스 업계 최초로 월간 활성 이용자 1000만명 달성, 약 10만개 마켓 입점으로 플랫폼 확대.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "[CEO열전] 강석훈 에이블리 대표 '일상, 취향이다'",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870317"
             }
           ],
           "articleCount": 1
@@ -65,29 +80,24 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎨",
-          "title": "삼양식품 AI 마스코트 '페포'",
-          "summary": "삼양식품이 AI 기반 이미지 제작 기술을 활용한 신규 마스코트 '페포'로 콘텐츠·굿즈 해외 상표권 확보.",
+          "emoji": "🤖",
+          "title": "롯데하이마트 휴머노이드 로봇 실증",
+          "summary": "롯데하이마트가 물류센터에 휴머노이드 로봇 도입, 단순 자동화를 넘어 현장 데이터 축적으로 AI 학습 고도화 단계 진입.",
           "articleIndices": [
-            2
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[더벨]삼양식품 신규 마스코트 '페포', 콘텐츠·굿즈 해외 상표권 확보",
-              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610011010078440104879"
+              "title": "롯데하이마트, 물류센터에 휴머노이드 로봇 실증",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210226"
             }
           ],
           "articleCount": 1
-        }
-      ]
-    },
-    {
-      "name": "당사 이슈",
-      "issues": [
+        },
         {
-          "emoji": "🍕",
-          "title": "CU '피자절편' 출시",
-          "summary": "CU가 SNS 트렌드 '피자설기'를 절편으로 변주한 '피자절편'을 업계 최초 상시 판매 상품으로 출시해 K-떡 디저트 신상 경쟁 주도.",
+          "emoji": "👶",
+          "title": "CJ프레시웨이 AI 영유아 식습관 관리",
+          "summary": "CJ프레시웨이 아이누리가 AI 푸드스캐너로 영유아 식습관 관리 서비스 제공, 식자재 유통업계 독점 서비스로 차별화.",
           "articleIndices": [
             1,
             2,
@@ -95,12 +105,38 @@
           ],
           "relatedLinks": [
             {
-              "title": "CU, SNS서 뜬 '피자설기' 편의점 상품으로...'피자절편' 출시",
-              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=136706"
+              "title": "[유통갤러리] CJ프레시웨이 아이누리, AI로 영유아 식습관 관리",
+              "url": "https://theviewers.co.kr/View.aspx?No=4254400"
             },
             {
-              "title": "[오늘의신상]'떡지순례' 부른 피자설기…CU는 '피자절편' 내놨다",
-              "url": "https://n.news.naver.com/mnews/article/277/0005824892?sid=101"
+              "title": "식자재 공급에 AI 식습관 관리 더했다",
+              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302164"
+            }
+          ],
+          "articleCount": 3
+        }
+      ]
+    },
+    {
+      "name": "당사 이슈",
+      "issues": [
+        {
+          "emoji": "🔤",
+          "title": "CU 공식 폰트 '좋은친구' 출시",
+          "summary": "BGF리테일이 산돌과 공동 개발한 CU 공식 폰트 'SD CU 좋은친구'를 한글날 맞아 선보여, 점포·상품 패키지에 적용하며 브랜드 정체성 강화.",
+          "articleIndices": [
+            1,
+            2,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "BGF리테일, 한글날 맞아 CU 공식 폰트 '좋은 친구' 선보여",
+              "url": "https://n.news.naver.com/mnews/article/008/0005423059?sid=101"
+            },
+            {
+              "title": "CU, '좋은친구' 폰트 개발...점포·상품 패키지 적용",
+              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=136807"
             }
           ],
           "articleCount": 3
@@ -111,66 +147,49 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍡",
-          "title": "GS25 한정선 찹쌀떡 성공",
-          "summary": "GS25가 K디저트 브랜드 한정선과 협업한 '요거트 찹쌀떡'으로 출시 한 달여 만에 70만개 판매, 피스타치오 2탄까지 출시하며 떡 디저트 열풍 선점.",
+          "emoji": "🍱",
+          "title": "GS25 김혜자 도시락 13찬 한정판",
+          "summary": "GS25가 김혜자와 협업한 13찬 도시락 '혜자로운 집밥' 출시, 2023년 재출시 이후 누적 판매 1억개 돌파 기념 마케팅 전개.",
           "articleIndices": [
-            2,
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "GS25, '역대 최대' 13찬 김혜자 도시락 출시",
+              "url": "https://n.news.naver.com/mnews/article/374/0000536618?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍷",
+          "title": "세븐일레븐 레드와인 '노네임' 출시",
+          "summary": "세븐일레븐이 이탈리아 레드와인 '지아코모 보르고뇨 노네임' 출시, 지난달 레드와인 매출 26% 증가에 이어 가을 와인 수요 공략 지속.",
+          "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "\"SNS서 뜨면 바로 편의점으로\"…이번엔 '피자 설기' 흥행 노린다",
-              "url": "https://n.news.naver.com/mnews/article/009/0005744297?sid=101"
-            },
-            {
-              "title": "GS25, 70만개 팔린 한정선 찹쌀떡 2탄 출시... 이번엔 피스타치오",
-              "url": "https://www.insight.co.kr/news/576568"
+              "title": "세븐일레븐, 레드와인 '노네임' 출시",
+              "url": "https://n.news.naver.com/mnews/article/374/0000536617?sid=101"
             }
           ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍣",
-          "title": "세븐일레븐 '올 뉴 마끼' 성공",
-          "summary": "세븐일레븐의 '올 뉴 마끼' 시리즈가 출시 6주 만에 30만개 판매, 여성 고객 55% 차지하며 신제품 추가 출시로 확대.",
-          "articleIndices": [
-            6,
-            7,
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "세븐일레븐, '올 뉴 마끼' 출시 6주만에 30만개 판매...신제품 추가 출시",
-              "url": "https://n.news.naver.com/mnews/article/008/0005422406?sid=101"
-            },
-            {
-              "title": "세븐일레븐 '올 뉴 마끼' 6주 만에 30만개 판매…여성 고객 비중 55%",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=2002754"
-            }
-          ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
           "emoji": "🎁",
-          "title": "이마트24 CJ ONE 프로모션",
-          "summary": "이마트24가 CJ ONE 멤버십과 협력해 '원더 시리즈' 프로모션으로 4000원 할인 쿠폰 제공, 일상 편의점 이용 활성화.",
+          "title": "이마트24 '원더위크' 할인 프로모션",
+          "summary": "이마트24가 6~11일 '원더위크' 진행, 앱 결제 시 4000원 할인 쿠폰 선착순 지급 및 '원더래플' 경품 이벤트로 가을 대목 공략.",
           "articleIndices": [
-            9,
-            10,
-            11
+            7
           ],
           "relatedLinks": [
             {
-              "title": "CJ ONE, 10월 멤버십 혜택 강화… 이마트24 할인부터 100만원 경품까지",
-              "url": "https://www.koreaittimes.com/news/articleView.html?idxno=157823"
-            },
-            {
-              "title": "\"이마트24 할인 쿠폰 받아가세요\"…CJ ONE, 10월 '원더 시리즈' 진행",
-              "url": "https://n.news.naver.com/mnews/article/366/0001196271?sid=105"
+              "title": "'할인 지원금에 경품까지'…유통업계, 10월 초특가·상생 행보",
+              "url": "http://www.dailypop.kr/news/articleView.html?idxno=103138"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -178,16 +197,37 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍺",
-          "title": "저퓨린 주류 신상품 출시",
-          "summary": "롯데칠성이 100㎖당 29㎉, 퓨린 0.5㎎ 미만의 '클라우드 퓨린 컷다운'을 출시해 건강 관심층 소비자 공략.",
+          "emoji": "🍰",
+          "title": "편의점 떡 디저트 트렌드 확산",
+          "summary": "GS25 한정선 피스타치오 찹쌀떡, 올가홀푸드 저당 현미 견과 찹쌀떡 등 전통 떡을 현대적으로 재해석한 프리미엄 디저트가 편의점에서 인기.",
           "articleIndices": [
-            8
+            1,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "100㎖당 29㎉에 퓨린 0.5㎎ 미만... 롯데칠성, '클라우드 퓨린 컷다운' 출...",
-              "url": "https://www.insight.co.kr/news/576618"
+              "title": "GS25 '13가지 반찬 김혜자 도시락' 출시",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=279068"
+            },
+            {
+              "title": "[똑똑한신상] 일화, 남양유업, 올가홀푸드 신상",
+              "url": "https://www.ekn.kr/web/view.php?key=20261007025453096"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "🍷",
+          "title": "편의점 와인 신상 출시 경쟁",
+          "summary": "세븐일레븐 '반 고흐 와인' 흥행에 이어 레드와인 신상 추가 출시, 가을철 와인 수요 증가로 편의점 와인 마케팅 경쟁 심화.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "[오늘의신상]'반 고흐 와인' 흥행 잇는다…세븐일레븐 가을 신상 와인",
+              "url": "https://n.news.naver.com/mnews/article/277/0005825428?sid=101"
             }
           ],
           "articleCount": 1
