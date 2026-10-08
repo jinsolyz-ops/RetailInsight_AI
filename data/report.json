@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-07T01:05:43.725Z",
+  "generatedAt": "2026-10-08T01:24:58.878Z",
   "summary": [
-    "CU, 한글날 맞아 브랜드 공식 폰트 '좋은친구' 출시로 브랜드 정체성 강화",
-    "GS25 김혜자 도시락 13찬 한정판 출시, 누적 판매 1억개 돌파 기념 마케팅",
-    "세븐일레븐 레드와인 신상 '노네임' 출시, 가을 와인 수요 공략 지속"
+    "CU, 한글날 맞아 AI 서체 'SD CU 좋은친구' 개발·공개",
+    "GS25 넷플릭스 협업 10주년 누적 7000만개 판매, IP 활용 확대",
+    "CU 피자설기 출시로 SNS 트렌드 상품 편의점 확산 가속화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "중국 국경절 외국인 쇼핑 공략",
-          "summary": "한국 유통사들이 중국 국경절 연휴 기간 외국인 고객 유입을 겨냥해 알리페이 결제, K뷰티 특화 공간 등 맞춤형 마케팅 전개 중.",
+          "emoji": "🎬",
+          "title": "유통업계 IP 활용 경쟁",
+          "summary": "신세계·롯데·현대백화점 등 유통사들이 할리우드·포켓몬·로블록스 등 글로벌 IP를 오프라인 매장 차별화 전략으로 활용하며 고객 확보 경쟁 심화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[기획] 中 국경절 매출로 본 외국인 쇼핑지도",
-              "url": "https://www.newsinside.kr/news/articleView.html?idxno=5018003"
+              "title": "[이슈플러스] 신세계, 워너브러더스에 1.4조 베팅…유통 경쟁력 '콘텐츠'",
+              "url": "https://www.sentv.co.kr/article/view/sentv202610070078"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📍",
-          "title": "성수동 포화, 서촌·북촌 팝업 확산",
-          "summary": "팝업 성지 성수동의 포화로 F&B 업계가 서촌·북촌으로 영토 확장, 아이돌 팬덤·2030세대 마케팅 거점 활용 중.",
+          "emoji": "🛍️",
+          "title": "중국 국경절 외국인 쇼핑",
+          "summary": "한글날 100주년 맞아 유통업계가 한글 문화 마케팅 전개, CU·GS25 등이 브랜드 전용 서체 개발·공개하며 문화 가치 활용 전략 강화.",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[르포] 성수 포화에 서촌·북촌 뜬다",
-              "url": "https://n.news.naver.com/mnews/article/014/0005585954?sid=101"
+              "title": "'ABC 초콜릿이 한글로?'…한글날 100돌 맞아 유통가 '파격 변신'",
+              "url": "https://sports.hankooki.com/news/articleView.html?idxno=6941379"
             }
           ],
           "articleCount": 1
@@ -45,34 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "신세계 할리우드 IP 1.4조 투자",
-          "summary": "신세계가 오프라인 매장의 '절대적 이유'를 할리우드 IP에서 찾아 1.4조원 투자, 이커머스 공세 속 차별화 전략 추진.",
+          "emoji": "🛡️",
+          "title": "K-뷰티 글로벌 확산 중 가품 위협",
+          "summary": "K-뷰티 글로벌 수요 증가에 따라 이커머스·SNS 내 가품 판매 이슈 심화, 브랜드들이 AI 기반 모니터링으로 신뢰도 관리 강화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[이슈분석] '유통 공룡' 신세계, 할리우드 심장부에 1.4조 베팅",
-              "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025730"
+              "title": "K-뷰티 글로벌 질주에 '가품' 복병…브랜드 신뢰도 '발등의 불'",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321570"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "👗",
-          "title": "에이블리 버티컬커머스 1000만 MAU 돌파",
-          "summary": "에이블리가 여성 패션 버티컬커머스 업계 최초로 월간 활성 이용자 1000만명 달성, 약 10만개 마켓 입점으로 플랫폼 확대.",
+          "emoji": "🤖",
+          "title": "AI 에이전트 쇼핑 시대 개막",
+          "summary": "AI 에이전트가 자동으로 웹사이트 접속·상품 검색·결제까지 수행하는 수준으로 진화, 아마존·쿠팡 등 글로벌 플랫폼과 국내 이커머스 시장 재편 예상.",
           "articleIndices": [
-            7
+            5,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "[CEO열전] 강석훈 에이블리 대표 '일상, 취향이다'",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870317"
+              "title": "'하객룩 골라줘' 말하니 결제까지…KT '모두의 AI' 써보니",
+              "url": "https://n.news.naver.com/mnews/article/421/0009216195?sid=105"
+            },
+            {
+              "title": "AI발 쇼핑전쟁…아마존과 쿠팡, '제국' 지킬 수 있을까",
+              "url": "https://n.news.naver.com/mnews/article/665/0000008312?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -80,40 +85,24 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "롯데하이마트 휴머노이드 로봇 실증",
-          "summary": "롯데하이마트가 물류센터에 휴머노이드 로봇 도입, 단순 자동화를 넘어 현장 데이터 축적으로 AI 학습 고도화 단계 진입.",
+          "emoji": "🧴",
+          "title": "롯데백화점 LA K-뷰티 팝업 AI 체험",
+          "summary": "롯데백화점이 LA에서 AI 피부 진단·스킨케어 추천 등 체험형 프로그램으로 K-뷰티 글로벌 진출 지원, 신진 브랜드 미주 시장 교두보 구축.",
           "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "롯데하이마트, 물류센터에 휴머노이드 로봇 실증",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210226"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "👶",
-          "title": "CJ프레시웨이 AI 영유아 식습관 관리",
-          "summary": "CJ프레시웨이 아이누리가 AI 푸드스캐너로 영유아 식습관 관리 서비스 제공, 식자재 유통업계 독점 서비스로 차별화.",
-          "articleIndices": [
-            1,
             2,
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[유통갤러리] CJ프레시웨이 아이누리, AI로 영유아 식습관 관리",
-              "url": "https://theviewers.co.kr/View.aspx?No=4254400"
+              "title": "롯데백화점, LA서 K-뷰티 팝업…국내 브랜드 글로벌 진출 지원",
+              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209389"
             },
             {
-              "title": "식자재 공급에 AI 식습관 관리 더했다",
-              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302164"
+              "title": "'K뷰티 영토 확장'…롯데백화점, 美 LA서 체험형 팝업 연다",
+              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90065"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         }
       ]
     },
@@ -121,25 +110,19 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🔤",
-          "title": "CU 공식 폰트 '좋은친구' 출시",
-          "summary": "BGF리테일이 산돌과 공동 개발한 CU 공식 폰트 'SD CU 좋은친구'를 한글날 맞아 선보여, 점포·상품 패키지에 적용하며 브랜드 정체성 강화.",
+          "emoji": "🍰",
+          "title": "CU 피자설기 출시 및 SNS 트렌드",
+          "summary": "CU가 SNS 인기 디저트 '피자설기'를 편의점 상품화하며 떡 트렌드 확산 주도, 빅데이터 기반 트렌드 상품 기획 전략 입증.",
           "articleIndices": [
-            1,
-            2,
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일, 한글날 맞아 CU 공식 폰트 '좋은 친구' 선보여",
-              "url": "https://n.news.naver.com/mnews/article/008/0005423059?sid=101"
-            },
-            {
-              "title": "CU, '좋은친구' 폰트 개발...점포·상품 패키지 적용",
-              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=136807"
+              "title": "떡집 밖으로 나온 '피자설기'…피자헛·CU도 '떡지순례' 합류",
+              "url": "http://www.newsprime.co.kr/news/article.html?no=750291"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -147,46 +130,56 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍱",
-          "title": "GS25 김혜자 도시락 13찬 한정판",
-          "summary": "GS25가 김혜자와 협업한 13찬 도시락 '혜자로운 집밥' 출시, 2023년 재출시 이후 누적 판매 1억개 돌파 기념 마케팅 전개.",
+          "emoji": "🎬",
+          "title": "GS25 넷플릭스 협업 10주년 확대",
+          "summary": "GS25가 넷플릭스 한국 진출 10주년 맞아 협업 상품 121종 출시, 누적 판매량 7000만개 돌파로 IP 활용 편의점 마케팅 성공 사례 입증.",
           "articleIndices": [
-            1
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "GS25, '역대 최대' 13찬 김혜자 도시락 출시",
-              "url": "https://n.news.naver.com/mnews/article/374/0000536618?sid=101"
+              "title": "'오징어게임', '케데헌' 교통가드…GS25, 넷플릭스 진출 10주년 협업",
+              "url": "https://n.news.naver.com/mnews/article/079/0004196802?sid=101"
+            },
+            {
+              "title": "'3년간 7000만개 팔려'…GS25, 넷플릭스 협업 상품 늘린다",
+              "url": "https://n.news.naver.com/mnews/article/092/0002440259?sid=103"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🍷",
-          "title": "세븐일레븐 레드와인 '노네임' 출시",
-          "summary": "세븐일레븐이 이탈리아 레드와인 '지아코모 보르고뇨 노네임' 출시, 지난달 레드와인 매출 26% 증가에 이어 가을 와인 수요 공략 지속.",
+          "emoji": "🦕",
+          "title": "세븐일레븐 캐릭터 IP 굿즈 확대",
+          "summary": "세븐일레븐이 '조구만' 캐릭터 협업 굿즈 5종 출시, 캐릭터 IP 활용 매출 4배 증가로 편의점 굿즈 시장 경쟁 심화.",
           "articleIndices": [
-            4
+            4,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 레드와인 '노네임' 출시",
-              "url": "https://n.news.naver.com/mnews/article/374/0000536617?sid=101"
+              "title": "세븐일레븐, 공룡 캐릭터 '조구만' 협업 굿즈 출시",
+              "url": "https://n.news.naver.com/mnews/article/030/0003473375?sid=101"
+            },
+            {
+              "title": "[유통갤러리] 현대퓨처넷, 'AI 시대 미디어 공간 기획' 웨비나 개최 外",
+              "url": "https://theviewers.co.kr/View.aspx?No=4256068"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🎁",
-          "title": "이마트24 '원더위크' 할인 프로모션",
-          "summary": "이마트24가 6~11일 '원더위크' 진행, 앱 결제 시 4000원 할인 쿠폰 선착순 지급 및 '원더래플' 경품 이벤트로 가을 대목 공략.",
+          "emoji": "💄",
+          "title": "이마트24 신규 뷰티 브랜드 입점",
+          "summary": "어뮤즈코리아의 신규 뷰티 브랜드 '로듀'가 이마트24 등으로 판매처 확대, 편의점 뷰티 상품 라인업 강화 추세.",
           "articleIndices": [
             7
           ],
           "relatedLinks": [
             {
-              "title": "'할인 지원금에 경품까지'…유통업계, 10월 초특가·상생 행보",
-              "url": "http://www.dailypop.kr/news/articleView.html?idxno=103138"
+              "title": "어뮤즈코리아, 브랜드 '로듀(RAWDEW)' 론칭",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366875"
             }
           ],
           "articleCount": 1
@@ -197,40 +190,20 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 떡 디저트 트렌드 확산",
-          "summary": "GS25 한정선 피스타치오 찹쌀떡, 올가홀푸드 저당 현미 견과 찹쌀떡 등 전통 떡을 현대적으로 재해석한 프리미엄 디저트가 편의점에서 인기.",
+          "emoji": "🥃",
+          "title": "GS25 넷플릭스 협업 신상 먹거리",
+          "summary": "GS25가 넷플릭스 협업 스낵·냉장피자·김밥·닭강정 등 신상 먹거리 순차 출시, 콘텐츠 IP 기반 편의점 신상 전략 강화.",
           "articleIndices": [
-            1,
-            3,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "GS25 '13가지 반찬 김혜자 도시락' 출시",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=279068"
-            },
-            {
-              "title": "[똑똑한신상] 일화, 남양유업, 올가홀푸드 신상",
-              "url": "https://www.ekn.kr/web/view.php?key=20261007025453096"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🍷",
-          "title": "편의점 와인 신상 출시 경쟁",
-          "summary": "세븐일레븐 '반 고흐 와인' 흥행에 이어 레드와인 신상 추가 출시, 가을철 와인 수요 증가로 편의점 와인 마케팅 경쟁 심화.",
-          "articleIndices": [
+            5,
             7
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의신상]'반 고흐 와인' 흥행 잇는다…세븐일레븐 가을 신상 와인",
-              "url": "https://n.news.naver.com/mnews/article/277/0005825428?sid=101"
+              "title": "GS25, 넷플릭스 협업 10주년…누적 판매량 7000만개 돌파",
+              "url": "https://www.inthenews.co.kr/news/article.html?no=92825"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     }
