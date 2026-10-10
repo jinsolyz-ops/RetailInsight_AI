@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-10-08T01:24:58.878Z",
+  "generatedAt": "2026-10-10T01:22:09.470Z",
   "summary": [
-    "CU, 한글날 맞아 AI 서체 'SD CU 좋은친구' 개발·공개",
-    "GS25 넷플릭스 협업 10주년 누적 7000만개 판매, IP 활용 확대",
-    "CU 피자설기 출시로 SNS 트렌드 상품 편의점 확산 가속화"
+    "CU, 산돌과 'SD CU 좋은친구' 서체 개발해 한글날 100주년 브랜드 마케팅 강화",
+    "GS25 한정선 요거트 찹쌀떡 누적 70만 개 판매로 편의점 디저트 경쟁 심화",
+    "롯데백화점 외국인 누적 매출 1조원 돌파, AI 음성 번역 서비스로 글로벌 고객 확보"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "유통업계 IP 활용 경쟁",
-          "summary": "신세계·롯데·현대백화점 등 유통사들이 할리우드·포켓몬·로블록스 등 글로벌 IP를 오프라인 매장 차별화 전략으로 활용하며 고객 확보 경쟁 심화.",
+          "emoji": "🎯",
+          "title": "한글날 100주년 브랜드 마케팅",
+          "summary": "유통업계가 한글 서체 개발과 우리말 활용으로 한글날 100주년을 기념하는 차별화된 브랜드 마케팅을 전개 중.",
           "articleIndices": [
-            1
+            4,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[이슈플러스] 신세계, 워너브러더스에 1.4조 베팅…유통 경쟁력 '콘텐츠'",
-              "url": "https://www.sentv.co.kr/article/view/sentv202610070078"
+              "title": "'한글날 100주년' 맞은 유통가···알파벳 떼고 훈민정음 새겼다",
+              "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259523"
+            },
+            {
+              "title": "AI가 아름다운 우리말 재조명…뉴욕에도 한글 광고",
+              "url": "https://n.news.naver.com/mnews/article/422/0000914126?sid=161"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🛍️",
-          "title": "중국 국경절 외국인 쇼핑",
-          "summary": "한글날 100주년 맞아 유통업계가 한글 문화 마케팅 전개, CU·GS25 등이 브랜드 전용 서체 개발·공개하며 문화 가치 활용 전략 강화.",
+          "emoji": "👶",
+          "title": "키즈 마케팅 강화 전략",
+          "summary": "백화점이 아동층을 프리미엄 키즈존으로 개편하고 전용 멤버십을 출시하며 어린 고객층 확보에 집중.",
           "articleIndices": [
-            6
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'ABC 초콜릿이 한글로?'…한글날 100돌 맞아 유통가 '파격 변신'",
-              "url": "https://sports.hankooki.com/news/articleView.html?idxno=6941379"
+              "title": "조카 위해 15만원 로션도 턱턱…아기한테 지갑 여는 '텐포켓'",
+              "url": "https://n.news.naver.com/mnews/article/025/0003556907?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,39 +50,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛡️",
-          "title": "K-뷰티 글로벌 확산 중 가품 위협",
-          "summary": "K-뷰티 글로벌 수요 증가에 따라 이커머스·SNS 내 가품 판매 이슈 심화, 브랜드들이 AI 기반 모니터링으로 신뢰도 관리 강화.",
+          "emoji": "⚠️",
+          "title": "농축산물 원산지 표시 위반 적발",
+          "summary": "배달앱과 이커머스 플랫폼의 농축산물 원산지 표시 위반이 국감에서 지적되며 비대면 유통 투명성 문제 대두.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "K-뷰티 글로벌 질주에 '가품' 복병…브랜드 신뢰도 '발등의 불'",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321570"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🤖",
-          "title": "AI 에이전트 쇼핑 시대 개막",
-          "summary": "AI 에이전트가 자동으로 웹사이트 접속·상품 검색·결제까지 수행하는 수준으로 진화, 아마존·쿠팡 등 글로벌 플랫폼과 국내 이커머스 시장 재편 예상.",
-          "articleIndices": [
-            5,
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "'하객룩 골라줘' 말하니 결제까지…KT '모두의 AI' 써보니",
-              "url": "https://n.news.naver.com/mnews/article/421/0009216195?sid=105"
+              "title": "[이슈국감] 배달의민족, 농축산물 원산지 표시 위반 1위",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871430"
             },
             {
-              "title": "AI발 쇼핑전쟁…아마존과 쿠팡, '제국' 지킬 수 있을까",
-              "url": "https://n.news.naver.com/mnews/article/665/0000008312?sid=101"
+              "title": "[이슈국감] '온라인 유통 쌀 민원, 쿠팡이 주요 플랫폼 중 최다'",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871415"
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "🛍️",
+          "title": "명품 버티컬 커머스 확대",
+          "summary": "11번가 '우아럭스' 등 이커머스 플랫폼이 명품 버티컬 서비스를 강화하며 프리미엄 고객층 공략.",
+          "articleIndices": [
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "쌀쌀해진 날씨, 가을옷 살 때…할인 행사 풍성[주말e커머스]",
+              "url": "https://n.news.naver.com/mnews/article/003/0014244002?sid=101"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -85,41 +90,16 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🧴",
-          "title": "롯데백화점 LA K-뷰티 팝업 AI 체험",
-          "summary": "롯데백화점이 LA에서 AI 피부 진단·스킨케어 추천 등 체험형 프로그램으로 K-뷰티 글로벌 진출 지원, 신진 브랜드 미주 시장 교두보 구축.",
-          "articleIndices": [
-            2,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "롯데백화점, LA서 K-뷰티 팝업…국내 브랜드 글로벌 진출 지원",
-              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209389"
-            },
-            {
-              "title": "'K뷰티 영토 확장'…롯데백화점, 美 LA서 체험형 팝업 연다",
-              "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90065"
-            }
-          ],
-          "articleCount": 2
-        }
-      ]
-    },
-    {
-      "name": "당사 이슈",
-      "issues": [
-        {
-          "emoji": "🍰",
-          "title": "CU 피자설기 출시 및 SNS 트렌드",
-          "summary": "CU가 SNS 인기 디저트 '피자설기'를 편의점 상품화하며 떡 트렌드 확산 주도, 빅데이터 기반 트렌드 상품 기획 전략 입증.",
+          "emoji": "🤖",
+          "title": "AI 음성 번역 서비스 도입",
+          "summary": "롯데백화점이 AI 쇼핑 안내 서비스에 실시간 음성 번역 기능을 추가해 외국인 고객 경험 개선.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "떡집 밖으로 나온 '피자설기'…피자헛·CU도 '떡지순례' 합류",
-              "url": "http://www.newsprime.co.kr/news/article.html?no=750291"
+              "title": "외국인 지갑 연 백화점...3사 매출 나란히 고공행진",
+              "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129953"
             }
           ],
           "articleCount": 1
@@ -127,59 +107,80 @@
       ]
     },
     {
-      "name": "경쟁사 이슈",
+      "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "GS25 넷플릭스 협업 10주년 확대",
-          "summary": "GS25가 넷플릭스 한국 진출 10주년 맞아 협업 상품 121종 출시, 누적 판매량 7000만개 돌파로 IP 활용 편의점 마케팅 성공 사례 입증.",
+          "emoji": "📈",
+          "title": "고마진 상품 구성 개선",
+          "summary": "BGF리테일이 기존점 매출 성장 둔화에도 상품 구성 개선과 비용 절감으로 영업이익 증가 흐름 유지.",
           "articleIndices": [
-            1,
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "BGF리테일, 매출 성장 주춤해도 이익은 증가…고마진 상품이 버팀목",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493981"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🎨",
+          "title": "CU 공식 브랜드 서체 'SD CU 좋은친구' 출시",
+          "summary": "CU가 산돌과 공동 개발한 공식 서체를 포켓CU, SNS, 점포 홍보물에 적용하며 브랜드 아이덴티티 강화.",
+          "articleIndices": [
+            2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "'오징어게임', '케데헌' 교통가드…GS25, 넷플릭스 진출 10주년 협업",
-              "url": "https://n.news.naver.com/mnews/article/079/0004196802?sid=101"
+              "title": "신세계·이랜드·29CM·CU, 한글 콘텐츠…한글날 100주년 마케팅",
+              "url": "https://sateconomy.co.kr/news/view/1065588076162679"
             },
             {
-              "title": "'3년간 7000만개 팔려'…GS25, 넷플릭스 협업 상품 늘린다",
-              "url": "https://n.news.naver.com/mnews/article/092/0002440259?sid=103"
+              "title": "편의점 경쟁, 이제 글꼴까지…CU·GS25 '우리 브랜드를 쓰세요'",
+              "url": "https://n.news.naver.com/mnews/article/031/0001064689?sid=101"
             }
           ],
           "articleCount": 2
-        },
+        }
+      ]
+    },
+    {
+      "name": "경쟁사 이슈",
+      "issues": [
         {
-          "emoji": "🦕",
-          "title": "세븐일레븐 캐릭터 IP 굿즈 확대",
-          "summary": "세븐일레븐이 '조구만' 캐릭터 협업 굿즈 5종 출시, 캐릭터 IP 활용 매출 4배 증가로 편의점 굿즈 시장 경쟁 심화.",
+          "emoji": "🍡",
+          "title": "GS25 한정선 찹쌀떡 신제품 확대",
+          "summary": "GS25가 한정선과의 협력으로 요거트·피스타치오 찹쌀떡 등 신제품을 출시하며 편의점 디저트 시장 선도.",
           "articleIndices": [
-            4,
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "세븐일레븐, 공룡 캐릭터 '조구만' 협업 굿즈 출시",
-              "url": "https://n.news.naver.com/mnews/article/030/0003473375?sid=101"
-            },
-            {
-              "title": "[유통갤러리] 현대퓨처넷, 'AI 시대 미디어 공간 기획' 웨비나 개최 外",
-              "url": "https://theviewers.co.kr/View.aspx?No=4256068"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "💄",
-          "title": "이마트24 신규 뷰티 브랜드 입점",
-          "summary": "어뮤즈코리아의 신규 뷰티 브랜드 '로듀'가 이마트24 등으로 판매처 확대, 편의점 뷰티 상품 라인업 강화 추세.",
-          "articleIndices": [
+            1,
+            2,
             7
           ],
           "relatedLinks": [
             {
-              "title": "어뮤즈코리아, 브랜드 '로듀(RAWDEW)' 론칭",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366875"
+              "title": "찹쌀떡에 크림, 절편엔 피자…팝업부터 퓨전까지 유통가 이색 떡 공략",
+              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318848"
+            },
+            {
+              "title": "한정선 이어 새 '핫템' 떴다…'새벽 6시에 품절' 인기 폭발",
+              "url": "https://n.news.naver.com/mnews/article/015/0005340873?sid=101"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "🏪",
+          "title": "이마트 가을 시즌 할인 행사",
+          "summary": "이마트가 제철 수산물과 과일, 나들이용 먹거리를 중심으로 '가을의 맛' 행사를 전개하며 시즌 수요 포착.",
+          "articleIndices": [
+            10
+          ],
+          "relatedLinks": [
+            {
+              "title": "10/10~11 이마트·홈플러스·롯데마트·코스트코, 휴무일... 영업하는 지...",
+              "url": "http://www.newskr.kr/news/articleView.html?idxno=107043"
             }
           ],
           "articleCount": 1
@@ -190,20 +191,25 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🥃",
-          "title": "GS25 넷플릭스 협업 신상 먹거리",
-          "summary": "GS25가 넷플릭스 협업 스낵·냉장피자·김밥·닭강정 등 신상 먹거리 순차 출시, 콘텐츠 IP 기반 편의점 신상 전략 강화.",
+          "emoji": "🎂",
+          "title": "편의점 프리미엄 디저트 경쟁",
+          "summary": "CU 생크림빵, 롤케이크 등 프리미엄 디저트 신제품이 출시되며 편의점 간 고마진 디저트 상품 경쟁 심화.",
           "articleIndices": [
-            5,
-            7
+            1,
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 넷플릭스 협업 10주년…누적 판매량 7000만개 돌파",
-              "url": "https://www.inthenews.co.kr/news/article.html?no=92825"
+              "title": "설탕 빼고 공주 밤 넣고…유통업계, 가을 신제품 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/022/0004165471?sid=101"
+            },
+            {
+              "title": "[오프라인 리부트②] 라면 200종부터 굿즈까지···편의점, '취향 공간...",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=639642"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         }
       ]
     }
