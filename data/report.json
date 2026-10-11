@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-10T01:22:09.470Z",
+  "generatedAt": "2026-10-11T00:34:26.718Z",
   "summary": [
-    "CU, 산돌과 'SD CU 좋은친구' 서체 개발해 한글날 100주년 브랜드 마케팅 강화",
-    "GS25 한정선 요거트 찹쌀떡 누적 70만 개 판매로 편의점 디저트 경쟁 심화",
-    "롯데백화점 외국인 누적 매출 1조원 돌파, AI 음성 번역 서비스로 글로벌 고객 확보"
+    "GS25 '한정선 찹쌀떡' 9월 캔맥주 제치고 편의점 디저트 신드롬 주도",
+    "CU, 김천김밥축제 우승작 전국 판매로 로코노미 트렌드 강화",
+    "편의점 3사, 셰프 협업·소비자 투표 결합한 신메뉴 개발 공식 확산"
   ],
   "categories": [
     {
@@ -11,35 +11,30 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "한글날 100주년 브랜드 마케팅",
-          "summary": "유통업계가 한글 서체 개발과 우리말 활용으로 한글날 100주년을 기념하는 차별화된 브랜드 마케팅을 전개 중.",
-          "articleIndices": [
-            4,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "'한글날 100주년' 맞은 유통가···알파벳 떼고 훈민정음 새겼다",
-              "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259523"
-            },
-            {
-              "title": "AI가 아름다운 우리말 재조명…뉴욕에도 한글 광고",
-              "url": "https://n.news.naver.com/mnews/article/422/0000914126?sid=161"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "👶",
-          "title": "키즈 마케팅 강화 전략",
-          "summary": "백화점이 아동층을 프리미엄 키즈존으로 개편하고 전용 멤버십을 출시하며 어린 고객층 확보에 집중.",
+          "title": "셰프협업 신메뉴 개발",
+          "summary": "편의점 3사가 셰프 시그니처 메뉴를 재해석하고 앱 사전예약·맛 평가 리뷰를 연계해 소비자 피드백을 신메뉴 개선에 즉각 반영하는 새로운 상품 개발 공식을 확산 중.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "조카 위해 15만원 로션도 턱턱…아기한테 지갑 여는 '텐포켓'",
-              "url": "https://n.news.naver.com/mnews/article/025/0003556907?sid=101"
+              "title": "[테크M 트렌드] 셰프 협업에 소비자 결정권 더했다",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=155919"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌍",
+          "title": "로코노미 지역축제 연계",
+          "summary": "GS25가 지역 축제 우승작을 상품화하는 로코노미 트렌드를 주도하며, CU도 김천김밥축제 우승작을 전국 편의점에 선보이는 지역 기반 마케팅 강화.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "[이주의 유통포인트] 롯데百, 잠실서 '전국떡지순례2' 개최",
+              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321821"
             }
           ],
           "articleCount": 1
@@ -51,35 +46,30 @@
       "issues": [
         {
           "emoji": "⚠️",
-          "title": "농축산물 원산지 표시 위반 적발",
-          "summary": "배달앱과 이커머스 플랫폼의 농축산물 원산지 표시 위반이 국감에서 지적되며 비대면 유통 투명성 문제 대두.",
+          "title": "농축산물 원산지 표시 위반",
+          "summary": "배달의민족이 이커머스 플랫폼 중 농축산물 원산지 표시 위반 1위를 기록하며 비대면 플랫폼의 소비자 신뢰 문제 대두.",
           "articleIndices": [
-            1,
-            2
+            1
           ],
           "relatedLinks": [
             {
               "title": "[이슈국감] 배달의민족, 농축산물 원산지 표시 위반 1위",
               "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871430"
-            },
-            {
-              "title": "[이슈국감] '온라인 유통 쌀 민원, 쿠팡이 주요 플랫폼 중 최다'",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871415"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "명품 버티컬 커머스 확대",
-          "summary": "11번가 '우아럭스' 등 이커머스 플랫폼이 명품 버티컬 서비스를 강화하며 프리미엄 고객층 공략.",
+          "emoji": "🍚",
+          "title": "온라인 유통 쌀 품질 민원",
+          "summary": "쿠팡이 주요 이커머스 플랫폼 중 쌀 품질 이상 상담 최다 기록으로 온라인 농산물 유통의 품질 관리 문제 심화.",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "쌀쌀해진 날씨, 가을옷 살 때…할인 행사 풍성[주말e커머스]",
-              "url": "https://n.news.naver.com/mnews/article/003/0014244002?sid=101"
+              "title": "[이슈국감] '온라인 유통 쌀 민원, 쿠팡이 주요 플랫폼 중 최다'",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871415"
             }
           ],
           "articleCount": 1
@@ -91,15 +81,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 음성 번역 서비스 도입",
-          "summary": "롯데백화점이 AI 쇼핑 안내 서비스에 실시간 음성 번역 기능을 추가해 외국인 고객 경험 개선.",
+          "title": "물류센터 휴머노이드 로봇",
+          "summary": "롯데하이마트가 산업부 지원 하에 물류센터 자동화를 위한 휴머노이드 로봇 개발 및 피지컬 AI 기업과 협력하며 로봇 파운데이션 모델 구축 추진.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "외국인 지갑 연 백화점...3사 매출 나란히 고공행진",
-              "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129953"
+              "title": "물건 집고 포장까지…물류센터에 사람 닮은 로봇 몰려온다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004165581?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🎨",
+          "title": "CU 한글날 AI 전시 서비스",
+          "summary": "BGF리테일 CU가 컬처테크 기업 도슨과 협업해 QR 기반 AI 전시 응대 서비스 'nodnod.io'를 운영하며 한글날 100주년 마케팅 강화.",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "먹고 입고 쓰는 한글…유통업계, 한글날 제정 100주년 마케팅 활발",
+              "url": "https://n.news.naver.com/mnews/article/092/0002440375?sid=103"
             }
           ],
           "articleCount": 1
@@ -110,36 +115,21 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📈",
-          "title": "고마진 상품 구성 개선",
-          "summary": "BGF리테일이 기존점 매출 성장 둔화에도 상품 구성 개선과 비용 절감으로 영업이익 증가 흐름 유지.",
+          "emoji": "🍙",
+          "title": "김천김밥축제 우승작 전국 판매",
+          "summary": "CU가 김천김밥축제 경연대회 3회차 우승작 '중화식 고추잡채 김밥'을 27일 전국 출시하며 역대 우승작 상품 100만개 판매 실적 기반으로 지역 축제 연계 마케팅 강화.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "BGF리테일, 매출 성장 주춤해도 이익은 증가…고마진 상품이 버팀목",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493981"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎨",
-          "title": "CU 공식 브랜드 서체 'SD CU 좋은친구' 출시",
-          "summary": "CU가 산돌과 공동 개발한 공식 서체를 포켓CU, SNS, 점포 홍보물에 적용하며 브랜드 아이덴티티 강화.",
-          "articleIndices": [
-            2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "신세계·이랜드·29CM·CU, 한글 콘텐츠…한글날 100주년 마케팅",
-              "url": "https://sateconomy.co.kr/news/view/1065588076162679"
+              "title": "CU, 김천김밥축제 경연대회 우승작 '중화식 고추잡채 김밥' 출시",
+              "url": "https://n.news.naver.com/mnews/article/030/0003473768?sid=101"
             },
             {
-              "title": "편의점 경쟁, 이제 글꼴까지…CU·GS25 '우리 브랜드를 쓰세요'",
-              "url": "https://n.news.naver.com/mnews/article/031/0001064689?sid=101"
+              "title": "CU, 김천김밥축제 우승작 전국 판매…역대 상품 100만개 팔렸다",
+              "url": "https://www.etoday.co.kr/news/view/2634256"
             }
           ],
           "articleCount": 2
@@ -151,36 +141,50 @@
       "issues": [
         {
           "emoji": "🍡",
-          "title": "GS25 한정선 찹쌀떡 신제품 확대",
-          "summary": "GS25가 한정선과의 협력으로 요거트·피스타치오 찹쌀떡 등 신제품을 출시하며 편의점 디저트 시장 선도.",
+          "title": "GS25 한정선 찹쌀떡 신드롬",
+          "summary": "GS25의 '한정선 요거트 찹쌀떡'이 9월 한 달간 배달·픽업에서 캔맥주를 제치고 편의점 디저트 신드롬을 주도하며 후속 피스타치오 제품까지 2만개 한정 사전예약 진행.",
           "articleIndices": [
             1,
-            2,
-            7
+            3
           ],
           "relatedLinks": [
             {
-              "title": "찹쌀떡에 크림, 절편엔 피자…팝업부터 퓨전까지 유통가 이색 떡 공략",
-              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318848"
+              "title": "여친 주려고 2시간 줄섰다는 아들, 사온 건 떡이었다",
+              "url": "https://n.news.naver.com/mnews/article/016/0002707607?sid=101"
             },
             {
-              "title": "한정선 이어 새 '핫템' 떴다…'새벽 6시에 품절' 인기 폭발",
-              "url": "https://n.news.naver.com/mnews/article/015/0005340873?sid=101"
+              "title": "빵지순례 다음은 떡지순례…'하루 백명씩 대기표 뽑는다'",
+              "url": "https://n.news.naver.com/mnews/article/015/0005341068?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
-          "emoji": "🏪",
-          "title": "이마트 가을 시즌 할인 행사",
-          "summary": "이마트가 제철 수산물과 과일, 나들이용 먹거리를 중심으로 '가을의 맛' 행사를 전개하며 시즌 수요 포착.",
+          "emoji": "🍰",
+          "title": "세븐일레븐 글로벌 디저트 직소싱",
+          "summary": "세븐일레븐이 글로벌 직소싱 전략으로 편의점 디저트 경쟁에 참여하며, 일본 생초코파이 100만개 판매 후 2탄까지 출시하는 등 냉장·냉동 디저트 카테고리 확대.",
           "articleIndices": [
-            10
+            4
           ],
           "relatedLinks": [
             {
-              "title": "10/10~11 이마트·홈플러스·롯데마트·코스트코, 휴무일... 영업하는 지...",
-              "url": "http://www.newskr.kr/news/articleView.html?idxno=107043"
+              "title": "日 생초코파이 100만개 팔리자 2탄까지…편의점 냉장고에 무슨 일이",
+              "url": "https://n.news.naver.com/mnews/article/022/0004165574?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍷",
+          "title": "GS25 주류 스마트오더 플랫폼",
+          "summary": "GS25가 주류 스마트오더 플랫폼을 통해 취향과 음식 궁합에 맞춘 와인·위스키·사케·백주 등 세계 술 전쟁을 주도하며 가격 중심에서 취향 중심 소비로 전환.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "와인·위스키 다음은 사케·백주…편의점 4사, 세계 술 전쟁 불붙었다",
+              "url": "https://n.news.naver.com/mnews/article/022/0004165570?sid=101"
             }
           ],
           "articleCount": 1
@@ -191,25 +195,19 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎂",
-          "title": "편의점 프리미엄 디저트 경쟁",
-          "summary": "CU 생크림빵, 롤케이크 등 프리미엄 디저트 신제품이 출시되며 편의점 간 고마진 디저트 상품 경쟁 심화.",
+          "emoji": "🍜",
+          "title": "신라면 40돌 한정판 소비자 투표",
+          "summary": "농심 신라면 40주년 기념 한정판이 '치즈된장 vs 해물어묵' 등 소비자 투표로 맛을 결정하는 참여형 마케팅으로 진행되며 신상품 개발의 새로운 트렌드 확산.",
           "articleIndices": [
-            1,
-            2,
-            3
+            5
           ],
           "relatedLinks": [
             {
-              "title": "설탕 빼고 공주 밤 넣고…유통업계, 가을 신제품 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/022/0004165471?sid=101"
-            },
-            {
-              "title": "[오프라인 리부트②] 라면 200종부터 굿즈까지···편의점, '취향 공간...",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=639642"
+              "title": "\"치즈된장vs해물어묵\"…신라면 40돌 한정판, 소비자가 고른다",
+              "url": "https://n.news.naver.com/mnews/article/018/0006385526?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     }
