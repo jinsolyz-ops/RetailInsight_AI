@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T00:34:26.718Z",
+  "generatedAt": "2026-10-12T00:48:25.887Z",
   "summary": [
-    "GS25 '한정선 찹쌀떡' 9월 캔맥주 제치고 편의점 디저트 신드롬 주도",
-    "CU, 김천김밥축제 우승작 전국 판매로 로코노미 트렌드 강화",
-    "편의점 3사, 셰프 협업·소비자 투표 결합한 신메뉴 개발 공식 확산"
+    "CU, 겨울 의류 19종 출시로 편의점 상품 다각화 전략 강화",
+    "GS25, 태극당 협업 아이스크림 270만개 판매 후 빵 3종으로 확대",
+    "배민 B마트 11분 배달 완료로 퀵커머스 시장 경쟁 심화"
   ],
   "categories": [
     {
@@ -11,30 +11,30 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "셰프협업 신메뉴 개발",
-          "summary": "편의점 3사가 셰프 시그니처 메뉴를 재해석하고 앱 사전예약·맛 평가 리뷰를 연계해 소비자 피드백을 신메뉴 개선에 즉각 반영하는 새로운 상품 개발 공식을 확산 중.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "[테크M 트렌드] 셰프 협업에 소비자 결정권 더했다",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=155919"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🌍",
-          "title": "로코노미 지역축제 연계",
-          "summary": "GS25가 지역 축제 우승작을 상품화하는 로코노미 트렌드를 주도하며, CU도 김천김밥축제 우승작을 전국 편의점에 선보이는 지역 기반 마케팅 강화.",
+          "title": "로코노미 확산",
+          "summary": "GS25 등 편의점이 지역 특산물과 지역 축제를 활용한 신제품으로 로컬 소비 트렌드를 선도하며 상생 마케팅 강화",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "[이주의 유통포인트] 롯데百, 잠실서 '전국떡지순례2' 개최",
+              "title": "[이주의 유통포인트] 롯데百, 잠실서 '전국떡지순례2' 개최…신세계百,...",
               "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321821"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "💰",
+          "title": "신규고객 확보 프로모션",
+          "summary": "유통업계가 가격 민감도 상승에 대응해 할인 쿠폰과 적립금 등 체감 혜택으로 신규·휴면 고객 유입 전략 확대",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "홈앤쇼핑, 신규·휴면 고객에 최대 1만 원 혜택...가을맞이 웰컴 프로모...",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=135551"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "⚠️",
-          "title": "농축산물 원산지 표시 위반",
-          "summary": "배달의민족이 이커머스 플랫폼 중 농축산물 원산지 표시 위반 1위를 기록하며 비대면 플랫폼의 소비자 신뢰 문제 대두.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[이슈국감] 배달의민족, 농축산물 원산지 표시 위반 1위",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871430"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍚",
-          "title": "온라인 유통 쌀 품질 민원",
-          "summary": "쿠팡이 주요 이커머스 플랫폼 중 쌀 품질 이상 상담 최다 기록으로 온라인 농산물 유통의 품질 관리 문제 심화.",
+          "emoji": "⚡",
+          "title": "퀵커머스 경쟁 심화",
+          "summary": "배민 B마트 11분 배달 완료 서비스로 쿠팡나우, 컬리나우와의 직매입 퀵커머스 시장 점유율 경쟁 가열",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "[이슈국감] '온라인 유통 쌀 민원, 쿠팡이 주요 플랫폼 중 최다'",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871415"
+              "title": "11분 만에 현관 앞 '배달완료'…배민 'B마트' 퀵커머스 승부수는 [이슈 ...",
+              "url": "https://www.ngetnews.com/news/articleView.html?idxno=554277"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "💪",
+          "title": "고단백 저당 신제품 확산",
+          "summary": "남양유업·오리온 등 식품업계가 고함량 단백질·저당 설계 신제품을 온라인 플랫폼 협업과 함께 출시하며 건강식 시장 선점",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "'운동할 때만 마셨는데'... 남양유업부터 오리온까지, 시장 선점 불붙었...",
+              "url": "http://www.newskr.kr/news/articleView.html?idxno=107055"
             }
           ],
           "articleCount": 1
@@ -81,30 +81,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "물류센터 휴머노이드 로봇",
-          "summary": "롯데하이마트가 산업부 지원 하에 물류센터 자동화를 위한 휴머노이드 로봇 개발 및 피지컬 AI 기업과 협력하며 로봇 파운데이션 모델 구축 추진.",
+          "title": "AI 쇼핑 어시스턴트 도입",
+          "summary": "백화점이 AI 쇼핑 어시스턴트 '헤이디'로 팝업스토어·맛집·전시 정보를 제공하며 체류형 공간 차별화 전략 추진",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "물건 집고 포장까지…물류센터에 사람 닮은 로봇 몰려온다",
-              "url": "https://n.news.naver.com/mnews/article/022/0004165581?sid=101"
+              "title": "체험·럭셔리·미식… 백화점 '체류형 공간' 차별화 승부수",
+              "url": "https://n.news.naver.com/mnews/article/022/0004165786?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎨",
-          "title": "CU 한글날 AI 전시 서비스",
-          "summary": "BGF리테일 CU가 컬처테크 기업 도슨과 협업해 QR 기반 AI 전시 응대 서비스 'nodnod.io'를 운영하며 한글날 100주년 마케팅 강화.",
+          "emoji": "🌏",
+          "title": "AI 기반 글로벌 제품 R&D",
+          "summary": "K-패션 브랜드가 AI 랩 기반 원단 R&D로 글로벌 소비자 체형·환경에 맞는 제품 개발하며 동남아 진출 강화",
           "articleIndices": [
-            8
+            5
           ],
           "relatedLinks": [
             {
-              "title": "먹고 입고 쓰는 한글…유통업계, 한글날 제정 100주년 마케팅 활발",
-              "url": "https://n.news.naver.com/mnews/article/092/0002440375?sid=103"
+              "title": "[월요기획] \"테스트 끝, 7억 인구 잡아라\" K-패션 동남아 진출 러시",
+              "url": "https://www.fashionbiz.co.kr/article/230094"
             }
           ],
           "articleCount": 1
@@ -115,24 +115,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍙",
-          "title": "김천김밥축제 우승작 전국 판매",
-          "summary": "CU가 김천김밥축제 경연대회 3회차 우승작 '중화식 고추잡채 김밥'을 27일 전국 출시하며 역대 우승작 상품 100만개 판매 실적 기반으로 지역 축제 연계 마케팅 강화.",
+          "emoji": "🧥",
+          "title": "동절기 의류 19종 출시",
+          "summary": "CU가 보온양말·스타킹·플리스재킷·경량패딩 등 겨울 의류 19종을 3만원대에 순차 출시하며 편의점 상품 다각화 전략 강화",
           "articleIndices": [
             1,
-            2
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "CU, 김천김밥축제 경연대회 우승작 '중화식 고추잡채 김밥' 출시",
-              "url": "https://n.news.naver.com/mnews/article/030/0003473768?sid=101"
+              "title": "편의점서 겨울옷 산다…CU, 플리스·경량패딩 등 동절기 의류 확대",
+              "url": "http://www.srtimes.kr/news/articleView.html?idxno=214430"
             },
             {
-              "title": "CU, 김천김밥축제 우승작 전국 판매…역대 상품 100만개 팔렸다",
-              "url": "https://www.etoday.co.kr/news/view/2634256"
+              "title": "비싸면 100만원도 넘는건데…CU가 겨울 맞아 3만원대에 출시한 뜻밖의 ...",
+              "url": "https://www.wikitree.co.kr/articles/1165392"
             }
           ],
-          "articleCount": 2
+          "articleCount": 4
         }
       ]
     },
@@ -140,51 +142,53 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍡",
-          "title": "GS25 한정선 찹쌀떡 신드롬",
-          "summary": "GS25의 '한정선 요거트 찹쌀떡'이 9월 한 달간 배달·픽업에서 캔맥주를 제치고 편의점 디저트 신드롬을 주도하며 후속 피스타치오 제품까지 2만개 한정 사전예약 진행.",
+          "emoji": "🍞",
+          "title": "GS25 태극당 협업 확대",
+          "summary": "GS25가 태극당 협업 아이스크림 270만개 판매 성공 후 버터크림빵·오란다빵·미니맘모스빵 3종으로 베이커리 협업 확대",
           "articleIndices": [
             1,
-            3
+            2,
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "여친 주려고 2시간 줄섰다는 아들, 사온 건 떡이었다",
-              "url": "https://n.news.naver.com/mnews/article/016/0002707607?sid=101"
+              "title": "GS25, 태극당 협업 빵 3종 출시...'아이스크림 270만개 흥행 잇는다'",
+              "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=265792"
             },
             {
-              "title": "빵지순례 다음은 떡지순례…'하루 백명씩 대기표 뽑는다'",
-              "url": "https://n.news.naver.com/mnews/article/015/0005341068?sid=101"
+              "title": "[오늘의 유통가] 하이트진로·기린, '기린 이치방 시보리' 국내생산 ...",
+              "url": "https://dealsite.co.kr/articles/170430"
             }
           ],
-          "articleCount": 2
+          "articleCount": 4
         },
         {
-          "emoji": "🍰",
-          "title": "세븐일레븐 글로벌 디저트 직소싱",
-          "summary": "세븐일레븐이 글로벌 직소싱 전략으로 편의점 디저트 경쟁에 참여하며, 일본 생초코파이 100만개 판매 후 2탄까지 출시하는 등 냉장·냉동 디저트 카테고리 확대.",
+          "emoji": "🎫",
+          "title": "세븐일레븐 외국인 할인 제휴",
+          "summary": "세븐일레븐이 롯데면세점·롯데마트와 함께 외국인 관광객 대상 10% 할인 혜택을 국내 70여개 제휴 가맹점에서 제공",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "日 생초코파이 100만개 팔리자 2탄까지…편의점 냉장고에 무슨 일이",
-              "url": "https://n.news.naver.com/mnews/article/022/0004165574?sid=101"
+              "title": "[금융권 이모저모]한국투자신탁운용, 한미 손익차등형 펀드 13일 모집 마...",
+              "url": "https://www.businessplus.kr/news/articleView.html?idxno=117989"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍷",
-          "title": "GS25 주류 스마트오더 플랫폼",
-          "summary": "GS25가 주류 스마트오더 플랫폼을 통해 취향과 음식 궁합에 맞춘 와인·위스키·사케·백주 등 세계 술 전쟁을 주도하며 가격 중심에서 취향 중심 소비로 전환.",
+          "emoji": "🧻",
+          "title": "이마트24 크리넥스 슥삵 에디션",
+          "summary": "이마트24가 유한킴벌리 크리넥스 미용티슈 '슥삵 에디션'을 오프라인 매장에서 판매 확대하며 캐릭터 기반 상품 전략 추진",
           "articleIndices": [
-            5
+            7
           ],
           "relatedLinks": [
             {
-              "title": "와인·위스키 다음은 사케·백주…편의점 4사, 세계 술 전쟁 불붙었다",
-              "url": "https://n.news.naver.com/mnews/article/022/0004165570?sid=101"
+              "title": "유한킴벌리, 크리넥스 '슥삵 에디션' 이마트24 판매 확대",
+              "url": "https://www.lawissue.co.kr/view.php?ud=202610120934578009204ead0791_12"
             }
           ],
           "articleCount": 1
@@ -195,19 +199,43 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍜",
-          "title": "신라면 40돌 한정판 소비자 투표",
-          "summary": "농심 신라면 40주년 기념 한정판이 '치즈된장 vs 해물어묵' 등 소비자 투표로 맛을 결정하는 참여형 마케팅으로 진행되며 신상품 개발의 새로운 트렌드 확산.",
+          "emoji": "🎂",
+          "title": "GS25 태극당 협업 디저트",
+          "summary": "GS25의 태극당 협업 아이스크림 270만개 판매 성공으로 전통 브랜드와 편의점의 세대 간 감성 결합 마케팅 입증",
           "articleIndices": [
-            5
+            1,
+            2,
+            3,
+            5,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "\"치즈된장vs해물어묵\"…신라면 40돌 한정판, 소비자가 고른다",
-              "url": "https://n.news.naver.com/mnews/article/018/0006385526?sid=101"
+              "title": "GS25, 태극당 아이스크림 270만개 판매…협업 빵 3종으로 확대",
+              "url": "https://n.news.naver.com/mnews/article/421/0009221095?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 5
+        },
+        {
+          "emoji": "🍶",
+          "title": "편의점 지역 특산물 신제품",
+          "summary": "CU·세븐일레븐이 지역 특산물(김천 딸기, 영월산 토마토)을 활용한 신제품으로 로컬 상생과 지역 농가 지원 마케팅 강화",
+          "articleIndices": [
+            4,
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "편의점부터 카페까지…지역의 맛 살리고 상생 나선다",
+              "url": "https://n.news.naver.com/mnews/article/003/0014245648?sid=101"
+            },
+            {
+              "title": "[오늘의신상]윤남노 복담주 20만병 완판…세븐일레븐, 이번엔 토마토 막...",
+              "url": "https://n.news.naver.com/mnews/article/277/0005826799?sid=101"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     }
