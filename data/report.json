@@ -1,40 +1,25 @@
 {
-  "generatedAt": "2026-10-13T02:45:53.926Z",
+  "generatedAt": "2026-10-14T00:43:06.781Z",
   "summary": [
-    "CU, K팝 팬덤 공략 강화…노래캔디 3탄 출시로 아이돌 협업 상품군 확대",
-    "편의점 4사, 가을 제철 식재료 활용한 시즌 한정 신상품 경쟁 심화",
-    "후지쓰·NEC 등 일본 기업, AI 활용한 유통업계 판매 전략 지원 서비스 본격화"
+    "CU, K-POP 음악 콘텐츠 연계 '노래캔디' 3탄 출시로 편의점 팬덤 마케팅 강화",
+    "GS25, 게임 IP 협업 상품 누적 판매 2300만개 돌파·객단가 최대 4배 상승",
+    "이마트24, 빵튜브 뽀니와 3차 협업으로 인플루언서 마케팅 확대·디저트 4종 출시"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "겨울 간식 시즌 마케팅",
-          "summary": "삼립·편의점 4사가 호빵·디저트 등 20종 이상 신제품으로 겨울철 수요 선점 경쟁 가열.",
+          "emoji": "🎵",
+          "title": "K-POP 팬덤 타겟 편의점 마케팅",
+          "summary": "편의점이 아이돌 앨범·협업 베이커리·음악 콘텐츠 상품으로 K-POP 팬덤을 직접 소비 채널로 확보하는 전략 전개.",
           "articleIndices": [
-            4
+            8
           ],
           "relatedLinks": [
             {
-              "title": "삼립, 타코·불닭 호빵 등 20종 출시...겨울 간식 경쟁 가열",
-              "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172161"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "💪",
-          "title": "운동·단백질 제품 프로모션",
-          "summary": "남양유업·오리온 등 유통업계가 운동 체험과 단백질 제품을 연계한 협업 패키지로 피트니스 트렌드 공략.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "운동인 잡아라…남양유업, 익스트림과 '운동 루틴' 공략",
-              "url": "https://n.news.naver.com/mnews/article/123/0002391666?sid=101"
+              "title": "'가방 꽉 찰 정도'…日 관광객, 마트서 싹쓸이한 'K과자' 정체",
+              "url": "https://n.news.naver.com/mnews/article/015/0005342181?sid=101"
             }
           ],
           "articleCount": 1
@@ -46,33 +31,43 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "버티컬 AI 스타트업 투자 집중",
-          "summary": "이커머스 데이터 분석·콘텐츠 현지화 등 산업별 AI 솔루션에 10월 첫주 벤처투자 집중.",
+          "title": "이커머스 물류 자동화 확대",
+          "summary": "이커머스 물류 기업들이 AI 랜덤 팔레타이저·글로벌 직영 물류센터 확대로 자동화·효율화 투자 가속.",
           "articleIndices": [
-            10
+            1,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'버티컬AI' 파고든 초기 스타트업들…10월 첫주 벤처투자 몰렸다",
-              "url": "https://n.news.naver.com/mnews/article/008/0005424518?sid=101"
+              "title": "씨메스로보틱스, '팩 엑스포 인터내셔널' 참가…AI 랜덤 팔레타이저 美 출격",
+              "url": "https://www.irobotnews.com/news/articleView.html?idxno=48963"
+            },
+            {
+              "title": "에스티엘, 美·日 직영 물류센터 4곳으로 확대…총 1만5000평 규모",
+              "url": "https://n.news.naver.com/mnews/article/119/0003142197?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🌍",
-          "title": "글로벌 물류 인프라 확대",
-          "summary": "에스티엘, 일본·미국 직영 물류 센터 확대로 이커머스 기업의 글로벌 공급망 강화 추진.",
+          "emoji": "🎓",
+          "title": "홈쇼핑 브랜드 사회공헌 마케팅",
+          "summary": "NS홈쇼핑이 대학생 토론대회 후원으로 브랜드 이미지 제고 및 사회적 책임 강화.",
           "articleIndices": [
-            1
+            6,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "에스티엘, 일본·미국 글로벌 직영 물류 인프라 확대",
-              "url": "https://n.news.naver.com/mnews/article/029/0003052726?sid=101"
+              "title": "NS홈쇼핑, '제1회 전국대학생토론대회' 참가자 모집",
+              "url": "https://n.news.naver.com/mnews/article/382/0001298821?sid=101"
+            },
+            {
+              "title": "NS홈쇼핑, 전국 대학생 토론대회 후원…내달 6일까지 참가 모집",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210678"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -80,39 +75,48 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "📊",
-          "title": "AI 판매 전략 지원 서비스",
-          "summary": "후지쓰·NEC 등 일본 기업이 유통업계 대상 AI 매출 분석·판매 계획 수립 시범 서비스 시작.",
+          "emoji": "🎓",
+          "title": "리테일테크 청소년 AI 교육 기부",
+          "summary": "신세계I&C가 농어촌 청소년 3100명 대상 AI·SW 교육 프로그램 운영으로 미래 인재 양성 및 기업 이미지 제고.",
           "articleIndices": [
-            1,
-            2
+            8,
+            9,
+            10,
+            11,
+            12
           ],
           "relatedLinks": [
             {
-              "title": "일본 기업들, AI에 경영 전략 맡긴다…히타치·후지쓰·NEC의 실험 주목",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494774"
+              "title": "신세계아이앤씨, 농어촌 지역 청소년 대상 AI·SW 교육…미래 AI 인재 양성",
+              "url": "https://n.news.naver.com/mnews/article/030/0003474727?sid=105"
             },
             {
-              "title": "日 기업, 경영 핵심에 AI 본격 활용…'가상 간부회의'까지",
-              "url": "https://n.news.naver.com/mnews/article/001/0016372726?sid=104"
+              "title": "[Tech & Now] 마키나락스, 단조 공정 AI 자율화…신세계I&C, 청소년 AI 교육",
+              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727703"
             }
           ],
-          "articleCount": 2
+          "articleCount": 5
         },
         {
-          "emoji": "🔐",
-          "title": "AI 보안 솔루션 수상",
-          "summary": "파수 AI의 생성형 AI 정보유출 차단 솔루션이 글로벌 리테일 보안상 수상, 유통업계 민감정보 보호 강화.",
+          "emoji": "🛒",
+          "title": "AI 기반 커머스 시대 브랜드 전략",
+          "summary": "AI가 상품 탐색·구매에 관여하는 시대에 브랜드들이 AI 기반 커머스 플랫폼 고도화 및 광고 효율 최적화 추진.",
           "articleIndices": [
-            3
+            5,
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "파수 AI, 생성형 AI 정보유출 차단 솔루션으로 글로벌 보안상 수상",
-              "url": "https://www.smartbizn.com/news/articleView.html?idxno=156207"
+              "title": "[IT라운지] 센트온 '쉐라톤 제주 시그니처향'·카카오그룹 '애널간담회'",
+              "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=856396"
+            },
+            {
+              "title": "사방넷, CJ대한통운과 전략적 제휴 체결…쇼핑몰 운영 효율↑",
+              "url": "https://www.smartbizn.com/news/articleView.html?idxno=156346"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     },
@@ -121,25 +125,41 @@
       "issues": [
         {
           "emoji": "🎵",
-          "title": "노래캔디 3탄 출시",
-          "summary": "CU, 골전도 원리 활용한 '노래캔디' 3탄 출시로 K팝 팬덤 공략 강화 및 아이돌 협업 상품군 확대.",
+          "title": "K-POP 음악 콘텐츠 상품 확대",
+          "summary": "CU가 아이돌 앨범·협업 베이커리에 이어 음악을 들을 수 있는 '노래캔디' 3탄 출시로 K-POP 팬덤 마케팅 강화.",
           "articleIndices": [
-            1,
             2,
             3,
-            4
+            5,
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "CU, 사탕 물면 K팝이 들린다…'노래캔디' 3탄 출시·아이돌 팬덤 공략 확대",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=554312"
+              "title": "CU, K-POP 팬덤 잡는다···앨범·빵 이어 '노래캔디'",
+              "url": "http://www.finomy.com/news/articleView.html?idxno=263501"
             },
             {
-              "title": "CU, \"사탕 먹으면 리센느 노래가 들린다\"…노래캔디 3탄 출시",
-              "url": "https://n.news.naver.com/mnews/article/030/0003474345?sid=101"
+              "title": "CU, '노래캔디' 3탄 출시...리센느·츄·이븐 노래 담아 K-팝 상품 확대",
+              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53601"
             }
           ],
-          "articleCount": 4
+          "articleCount": 5
+        },
+        {
+          "emoji": "💳",
+          "title": "카카오페이 멤버십 포인트 적립 확대",
+          "summary": "CU가 카카오페이와 제휴하여 다양한 결제수단 사용 시에도 CU 멤버십 포인트 적립 가능하게 하는 결제 편의성 강화.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "카카오페이, 결제 때 놓친 멤버십 포인트도 적립…CU부터 시작",
+              "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=240746"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -147,49 +167,60 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🌽",
-          "title": "GS25 제철 식재료 신상",
-          "summary": "GS25, 경기 여주 지역 농산물 '대왕님표 여주꾸마' 등 지역 특산물 활용한 가을 시즌 신제품 강화.",
+          "emoji": "🎮",
+          "title": "GS25 게임 IP 협업 상품 성과",
+          "summary": "GS25의 게임 IP 협업 상품 누적 판매 2300만개 돌파, 협업 상품 구매 고객 객단가 일반 고객 대비 최대 4배 상승.",
           "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"가을에만 맛볼 수 있다\"…편의점 매대 점령한 '제철코어'",
-              "url": "https://n.news.naver.com/mnews/article/138/0002244519?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍬",
-          "title": "세븐일레븐 일본 젤리 출시",
-          "summary": "세븐일레븐, 일본 젤리 '노벨소르베구미' 등 해외 인기 간식 수입 판매로 차별화 전략 추진.",
-          "articleIndices": [
+            1,
             3
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의 신제품] 농심·삼립·동서식품·hy·세븐일레븐·설빙 外",
-              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=366097"
+              "title": "GS25, 게임 상품 객단가 최대 4배…'블루 아카이브' 세 번째 협업 추진",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=149282"
+            },
+            {
+              "title": "GS25, 게임 IP 협업 상품 누적 판매 2300만개 돌파",
+              "url": "https://n.news.naver.com/mnews/article/030/0003474750?sid=101"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍜",
+          "title": "세븐일레븐 일본 시장 진출 강화",
+          "summary": "삼양1963이 일본 세븐일레븐에 입점하며 국물 라면 시장 공략, 불닭볶음면에 이어 현지 입맛 맞춘 제품 차별화.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "삼양1963, 20일 日 세븐일레븐 출격…국물 라면 라인업 강화",
+              "url": "https://www.theguru.co.kr/news/article.html?no=108218"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍕",
-          "title": "이마트24 푸드라운지 입점",
-          "summary": "이마트24, 신세계프라퍼티 스탈릿 성수N 푸드라운지에 입점하며 프리미엄 편의점 포지셔닝 강화.",
+          "emoji": "🍞",
+          "title": "이마트24 인플루언서 협업 디저트",
+          "summary": "이마트24가 빵튜브 뽀니와 3차 협업으로 고구마·밤·초콜릿 활용 디저트 4종 순차 출시, 인플루언서 마케팅 강화.",
           "articleIndices": [
-            6
+            6,
+            7,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "'북성수 공략' 신세계프라퍼티, 스탈릿 성수N에 푸드라운지 조성",
-              "url": "https://www.fashionbiz.co.kr/article/230210"
+              "title": "이마트24, '빵튜브 뽀니' 협업 신상품 4종 순차 출시",
+              "url": "https://n.news.naver.com/mnews/article/030/0003474755?sid=101"
+            },
+            {
+              "title": "이마트24, '빵튜브 뽀니'와 3차 협업… 가을 디저트 4종 출시",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=119904"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     },
@@ -197,32 +228,37 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🥜",
-          "title": "피스타치오 찹쌀떡 한정판",
-          "summary": "편의점 4사, 성수동 인기 디저트 브랜드 로로멜로와 협업한 '한정선 피스타치오 찹쌀떡' 출시로 SNS 화제성 확보.",
+          "emoji": "🍞",
+          "title": "편의점 인플루언서 협업 디저트 트렌드",
+          "summary": "이마트24·GS25가 빵튜브 뽀니·게임 IP와 협업하여 디저트·도시락 상품 출시, 편의점 간식 카테고리 차별화 경쟁.",
           "articleIndices": [
             1,
+            2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "[유프로의 AI픽] \"찹쌀떡 불티·캐릭터 굿즈 열풍\"…유통채널 TOP3",
-              "url": "https://www.mediapen.com/news/view/1129377"
+              "title": "이마트24, '빵튜브 뽀니'와 협업···디저트 4종 출시",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=149278"
+            },
+            {
+              "title": "넥슨 블루 아카이브, GS25와 컬래버레이션 이벤트",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=280268"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         },
         {
-          "emoji": "🥐",
-          "title": "겨울 호빵·간편식 신상",
-          "summary": "삼립, 밀크티·불닭·타코 등 호빵 20종과 간편식·저당 제품군 확대로 겨울 시즌 수요 다층화.",
+          "emoji": "👕",
+          "title": "편의점 계절 의류 신상 출시",
+          "summary": "CU가 플리스자켓·경량패딩 등 동절기 의류 신상으로 가을~겨울 패션 수요 대응, 편의점 의류 카테고리 확대.",
           "articleIndices": [
-            2
+            7
           ],
           "relatedLinks": [
             {
-              "title": "삼립, 겨울 호빵 20종 출시…밀크티·간편식·저당 제품군도 확대",
-              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2331948"
+              "title": "한섬 '글로벌 브랜드'·쿠팡 '스니커즈'·CU '의류 신상'…FW패션 전쟁",
+              "url": "https://www.news2day.co.kr/article/20261012500059"
             }
           ],
           "articleCount": 1
