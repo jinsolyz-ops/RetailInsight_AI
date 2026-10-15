@@ -1,25 +1,45 @@
 {
-  "generatedAt": "2026-10-14T00:43:06.781Z",
+  "generatedAt": "2026-10-15T23:58:04.974Z",
   "summary": [
-    "CU, K-POP 음악 콘텐츠 연계 '노래캔디' 3탄 출시로 편의점 팬덤 마케팅 강화",
-    "GS25, 게임 IP 협업 상품 누적 판매 2300만개 돌파·객단가 최대 4배 상승",
-    "이마트24, 빵튜브 뽀니와 3차 협업으로 인플루언서 마케팅 확대·디저트 4종 출시"
+    "CU 꼬마김밥 400만개 돌파, 아침 간편식 시장 선점 성공",
+    "GS25 차별화 김밥 전략으로 카테고리 매출 36.2% 급증",
+    "편의점 외국인 관광객 매출 급증, 디저트·한식 상품 400% 성장"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎵",
-          "title": "K-POP 팬덤 타겟 편의점 마케팅",
-          "summary": "편의점이 아이돌 앨범·협업 베이커리·음악 콘텐츠 상품으로 K-POP 팬덤을 직접 소비 채널로 확보하는 전략 전개.",
+          "emoji": "🍙",
+          "title": "편의점 김밥 시장 확대",
+          "summary": "CU 꼬마김밥 400만개 판매 달성과 GS25 차별화 김밥 전략으로 편의점 김밥 카테고리가 성장 동력으로 부상하고 있다.",
           "articleIndices": [
-            8
+            3,
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'가방 꽉 찰 정도'…日 관광객, 마트서 싹쓸이한 'K과자' 정체",
-              "url": "https://n.news.naver.com/mnews/article/015/0005342181?sid=101"
+              "title": "CU 'get모닝 꼬마김밥' 400만개 넘게 팔려…아침 간편 식사 공략",
+              "url": "https://www.ngetnews.com/news/articleView.html?idxno=554608"
+            },
+            {
+              "title": "GS25, SNS 화제 레시피 김밥 인기… 카테고리 매출 36.2% 껑충",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=120113"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🌍",
+          "title": "외국인 관광객 매출 성장",
+          "summary": "편의점 외국인 고객 매출이 새로운 성장동력으로 부상하며 디저트 매출 400% 급증, 한식 상품 수요 증가 추세를 보이고 있다.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "한국인처럼 김밥 먹고 '아아' 마신다…편의점 북미권 매출 급증",
+              "url": "https://n.news.naver.com/mnews/article/014/0005590104?sid=101"
             }
           ],
           "articleCount": 1
@@ -30,44 +50,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "이커머스 물류 자동화 확대",
-          "summary": "이커머스 물류 기업들이 AI 랜덤 팔레타이저·글로벌 직영 물류센터 확대로 자동화·효율화 투자 가속.",
+          "emoji": "🛡️",
+          "title": "호신용품 검색량 급증",
+          "summary": "인천 쇼핑몰 사건 이후 쿠팡, 11번가, 다이소몰 등 주요 이커머스에서 호신용품 검색량과 판매량이 급증하는 사건 연동형 소비 트렌드를 보이고 있다.",
           "articleIndices": [
-            1,
             3
           ],
           "relatedLinks": [
             {
-              "title": "씨메스로보틱스, '팩 엑스포 인터내셔널' 참가…AI 랜덤 팔레타이저 美 출격",
-              "url": "https://www.irobotnews.com/news/articleView.html?idxno=48963"
-            },
-            {
-              "title": "에스티엘, 美·日 직영 물류센터 4곳으로 확대…총 1만5000평 규모",
-              "url": "https://n.news.naver.com/mnews/article/119/0003142197?sid=101"
+              "title": "'1000원 호루라기 못 구해요?' 발동동...흉기난동에 호신용품 '불티'",
+              "url": "https://n.news.naver.com/mnews/article/008/0005426937?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🎓",
-          "title": "홈쇼핑 브랜드 사회공헌 마케팅",
-          "summary": "NS홈쇼핑이 대학생 토론대회 후원으로 브랜드 이미지 제고 및 사회적 책임 강화.",
+          "emoji": "🤖",
+          "title": "AI 커머스 신뢰 데이터 경쟁",
+          "summary": "2026 디조포럼에서 AI 커머스 시대의 핵심 경쟁력으로 신뢰 데이터가 강조되며, 글로벌 소비자 34%는 AI 제품 조사는 하지만 구매 완료는 8%에 불과한 신뢰 격차 해소가 과제로 지목되었다.",
           "articleIndices": [
-            6,
-            8
+            9
           ],
           "relatedLinks": [
             {
-              "title": "NS홈쇼핑, '제1회 전국대학생토론대회' 참가자 모집",
-              "url": "https://n.news.naver.com/mnews/article/382/0001298821?sid=101"
-            },
-            {
-              "title": "NS홈쇼핑, 전국 대학생 토론대회 후원…내달 6일까지 참가 모집",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210678"
+              "title": "[2026 디조포럼] AI가 '비즈니스 판' 바꾼다...\"AI 자동 결제, '신뢰'가 승부처\"",
+              "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/14/2026101480179.html"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -75,48 +85,39 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎓",
-          "title": "리테일테크 청소년 AI 교육 기부",
-          "summary": "신세계I&C가 농어촌 청소년 3100명 대상 AI·SW 교육 프로그램 운영으로 미래 인재 양성 및 기업 이미지 제고.",
+          "emoji": "🤖",
+          "title": "AI 자동 결제 및 에이전트 커머스",
+          "summary": "NH농협카드와 카카오의 AI 비서 기반 자동 결제 및 에이전트 커머스 PoC 추진으로 음성 명령 기반 주문·결제·송금 등 차세대 결제 생태계 구축이 가속화되고 있다.",
           "articleIndices": [
             8,
-            9,
-            10,
-            11,
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "NH농협카드, AI 비서가 고객 대신 쇼핑·결제…'차세대 결제 PoC' 추진",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065568200458059"
+            },
+            {
+              "title": "DB證 '카카오, 3분기 실적 기대치 하회…목표가↓'",
+              "url": "https://n.news.naver.com/mnews/article/003/0014257406?sid=101"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🏪",
+          "title": "리테일 자동화 키오스크 확대",
+          "summary": "야놀자가 호텔 로비에 K-뷰티 판매 키오스크를 도입하며 소규모 리테일의 판매·재고·가격 관리 자동화와 무인 운영 모델이 숙박업계로 확산되고 있다.",
+          "articleIndices": [
             12
           ],
           "relatedLinks": [
             {
-              "title": "신세계아이앤씨, 농어촌 지역 청소년 대상 AI·SW 교육…미래 AI 인재 양성",
-              "url": "https://n.news.naver.com/mnews/article/030/0003474727?sid=105"
-            },
-            {
-              "title": "[Tech & Now] 마키나락스, 단조 공정 AI 자율화…신세계I&C, 청소년 AI 교육",
-              "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727703"
+              "title": "야놀자, 호텔 로비에 '키오스크' 놓는다…K-뷰티 유통·운영 자동화 '...'",
+              "url": "https://www.ceoscoredaily.com/page/view/2026101516483720063"
             }
           ],
-          "articleCount": 5
-        },
-        {
-          "emoji": "🛒",
-          "title": "AI 기반 커머스 시대 브랜드 전략",
-          "summary": "AI가 상품 탐색·구매에 관여하는 시대에 브랜드들이 AI 기반 커머스 플랫폼 고도화 및 광고 효율 최적화 추진.",
-          "articleIndices": [
-            5,
-            6,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "[IT라운지] 센트온 '쉐라톤 제주 시그니처향'·카카오그룹 '애널간담회'",
-              "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=856396"
-            },
-            {
-              "title": "사방넷, CJ대한통운과 전략적 제휴 체결…쇼핑몰 운영 효율↑",
-              "url": "https://www.smartbizn.com/news/articleView.html?idxno=156346"
-            }
-          ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -124,42 +125,25 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎵",
-          "title": "K-POP 음악 콘텐츠 상품 확대",
-          "summary": "CU가 아이돌 앨범·협업 베이커리에 이어 음악을 들을 수 있는 '노래캔디' 3탄 출시로 K-POP 팬덤 마케팅 강화.",
+          "emoji": "🍙",
+          "title": "꼬마김밥 400만개 판매 달성",
+          "summary": "CU의 'get모닝 꼬마김밥'이 누적 판매량 400만개를 돌파하며 아침 간편식 시장에서 강한 수요를 입증했고, 신규 라인업 확대로 지속 성장을 추진 중이다.",
           "articleIndices": [
+            1,
             2,
-            3,
-            5,
-            6,
-            7
+            3
           ],
           "relatedLinks": [
             {
-              "title": "CU, K-POP 팬덤 잡는다···앨범·빵 이어 '노래캔디'",
-              "url": "http://www.finomy.com/news/articleView.html?idxno=263501"
+              "title": "CU, 아침 간편식 꼬마김밥 누적 판매량 400만 개 돌파",
+              "url": "https://www.lawissue.co.kr/view.php?ud=202610152221445620204ead0791_12"
             },
             {
-              "title": "CU, '노래캔디' 3탄 출시...리센느·츄·이븐 노래 담아 K-팝 상품 확대",
-              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53601"
+              "title": "CU의 '꼬마김밥' 아침밥 시장 공략 통했다",
+              "url": "https://www.econovill.com/news/articleView.html?idxno=753755"
             }
           ],
-          "articleCount": 5
-        },
-        {
-          "emoji": "💳",
-          "title": "카카오페이 멤버십 포인트 적립 확대",
-          "summary": "CU가 카카오페이와 제휴하여 다양한 결제수단 사용 시에도 CU 멤버십 포인트 적립 가능하게 하는 결제 편의성 강화.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "카카오페이, 결제 때 놓친 멤버십 포인트도 적립…CU부터 시작",
-              "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=240746"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 3
         }
       ]
     },
@@ -167,60 +151,42 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎮",
-          "title": "GS25 게임 IP 협업 상품 성과",
-          "summary": "GS25의 게임 IP 협업 상품 누적 판매 2300만개 돌파, 협업 상품 구매 고객 객단가 일반 고객 대비 최대 4배 상승.",
+          "emoji": "🍙",
+          "title": "GS25 차별화 김밥 전략 성공",
+          "summary": "GS25가 SNS 화제 레시피와 유명 맛집을 접목한 차별화 김밥 신제품으로 카테고리 매출을 전년 동기 대비 36.2% 증가시키며 경쟁력을 강화하고 있다.",
           "articleIndices": [
             1,
-            3
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 게임 상품 객단가 최대 4배…'블루 아카이브' 세 번째 협업 추진",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=149282"
+              "title": "'김밥계 에르메스'를 GS25에서? 일주일만에 10만줄 팔렸다",
+              "url": "https://n.news.naver.com/mnews/article/016/0002710098?sid=101"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "🥃",
+          "title": "이마트24 위스키 한정 판매",
+          "summary": "이마트24가 국내 대표 싱글몰트 브랜드 김창수 위스키의 '김포 2026 에디션' 1,700병을 단독 한정 판매하며 프리미엄 상품 차별화 전략을 추진하고 있다.",
+          "articleIndices": [
+            7,
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트24, '김창수 위스키 김포 2026' 1,700병 단독 한정 판매",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=120112"
             },
             {
-              "title": "GS25, 게임 IP 협업 상품 누적 판매 2300만개 돌파",
-              "url": "https://n.news.naver.com/mnews/article/030/0003474750?sid=101"
+              "title": "이마트24, 김창수 위스키 '김포 2026 에디션' 한정 판매",
+              "url": "https://n.news.naver.com/mnews/article/001/0016380418?sid=103"
             }
           ],
           "articleCount": 2
-        },
-        {
-          "emoji": "🍜",
-          "title": "세븐일레븐 일본 시장 진출 강화",
-          "summary": "삼양1963이 일본 세븐일레븐에 입점하며 국물 라면 시장 공략, 불닭볶음면에 이어 현지 입맛 맞춘 제품 차별화.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "삼양1963, 20일 日 세븐일레븐 출격…국물 라면 라인업 강화",
-              "url": "https://www.theguru.co.kr/news/article.html?no=108218"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍞",
-          "title": "이마트24 인플루언서 협업 디저트",
-          "summary": "이마트24가 빵튜브 뽀니와 3차 협업으로 고구마·밤·초콜릿 활용 디저트 4종 순차 출시, 인플루언서 마케팅 강화.",
-          "articleIndices": [
-            6,
-            7,
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "이마트24, '빵튜브 뽀니' 협업 신상품 4종 순차 출시",
-              "url": "https://n.news.naver.com/mnews/article/030/0003474755?sid=101"
-            },
-            {
-              "title": "이마트24, '빵튜브 뽀니'와 3차 협업… 가을 디저트 4종 출시",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=119904"
-            }
-          ],
-          "articleCount": 3
         }
       ]
     },
@@ -228,40 +194,40 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍞",
-          "title": "편의점 인플루언서 협업 디저트 트렌드",
-          "summary": "이마트24·GS25가 빵튜브 뽀니·게임 IP와 협업하여 디저트·도시락 상품 출시, 편의점 간식 카테고리 차별화 경쟁.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 시장 확대",
+          "summary": "찹쌀떡, 요거트 디저트 등 신상 디저트가 새벽 오픈런까지 유발하며 SNS 화제 상품 중심으로 편의점 디저트 시장이 급성장하고 있다.",
           "articleIndices": [
             1,
-            2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, '빵튜브 뽀니'와 협업···디저트 4종 출시",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=149278"
-            },
-            {
-              "title": "넥슨 블루 아카이브, GS25와 컬래버레이션 이벤트",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=280268"
+              "title": "새벽 4시 '오픈런'까지... 디저트 시장 감싼 쫀득한 찹쌀떡 열풍",
+              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1186329"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
-          "emoji": "👕",
-          "title": "편의점 계절 의류 신상 출시",
-          "summary": "CU가 플리스자켓·경량패딩 등 동절기 의류 신상으로 가을~겨울 패션 수요 대응, 편의점 의류 카테고리 확대.",
+          "emoji": "🍙",
+          "title": "SNS 트렌드 반영 김밥 신상품",
+          "summary": "GS25의 '식물원김밥', '강민경 김밥' 등 유명 맛집과 해외 SNS 레시피를 접목한 차별화 김밥이 출시 한 달 만에 10만줄 이상 판매되며 강한 소비자 반응을 얻고 있다.",
           "articleIndices": [
-            7
+            8,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "한섬 '글로벌 브랜드'·쿠팡 '스니커즈'·CU '의류 신상'…FW패션 전쟁",
-              "url": "https://www.news2day.co.kr/article/20261012500059"
+              "title": "차별화 김밥 재미 본 GS25, '강민경 김밥'도 흥행",
+              "url": "https://www.econovill.com/news/articleView.html?idxno=753795"
+            },
+            {
+              "title": "이색 김밥 잇단 흥행에…GS25 김밥 매출 36.2%↑",
+              "url": "https://www.socialvalue.kr/news/view/1065566645242469"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     }
