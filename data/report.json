@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-17T00:01:13.372Z",
+  "generatedAt": "2026-10-17T23:35:17.941Z",
   "summary": [
-    "CU 꼬마김밥 400만 개 판매 돌파, 아침 간편식 시장 선점 성공",
-    "GS25 맛집 협업 김밥으로 월 매출 36.2% 증가, SNS 기반 상품 기획 강화",
-    "편의점 업계 전반 겨울 대비 방한용품·따뜻한 먹거리 판매 18배 급증"
+    "CU 트러플하몽스틱 150만개 돌파, 스낵 카테고리 매출 1위 달성",
+    "편의점 디저트 경쟁 심화, 한정선·태극당 등 브랜드 콜라보 확산",
+    "유통업계 외국인 관광객 마케팅 강화, AI 다국어 서비스 도입"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🍡",
-          "title": "떡 열풍, 유통 채널 확대",
-          "summary": "온라인 플랫폼과 편의점이 K-디저트 떡의 인기에 발맞춰 판로 확대 및 브랜드 마케팅 지원으로 신성장 기회 포착.",
+          "emoji": "🎉",
+          "title": "빼빼로데이 글로벌 성장",
+          "summary": "편의점·대형마트가 빼빼로데이를 시즌 프로모션으로 활용하며 신제품 확대와 선물 수요 결합 전략 추진 중.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "떡 먹으려고 KTX 탄다… 2030 '떡지순례' 열풍",
-              "url": "https://n.news.naver.com/mnews/article/023/0004004303?sid=102"
+              "title": "국민 기념일 '빼빼로데이', 이제는 글로벌 성장 핵심축",
+              "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205210"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎁",
-          "title": "롯데, 럭셔리 여행 프로그램 출시",
-          "summary": "롯데백화점이 프리미엄 해외 여행 프로그램으로 VIP 고객 대상 차별화 마케팅 전개, 백화점 3사 중 가장 늦은 시장 진입.",
+          "emoji": "🌍",
+          "title": "외국인 관광객 멤버십 마케팅",
+          "summary": "방한 관광객 증가에 따라 CJ ONE 글로벌 등 외국인 대상 포인트 적립·사용 서비스 확대로 관광 서비스 거점화 추진.",
           "articleIndices": [
-            8
+            6
           ],
           "relatedLinks": [
             {
-              "title": "롯데도 신세계 따라 럭셔리 여행 '지각출시'..VIP만 겨냥",
-              "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48216"
+              "title": "외국인도 CJ ONE 포인트 적립·사용한다…유통업계 방한 관광객 마케팅",
+              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209804"
             }
           ],
           "articleCount": 1
@@ -45,34 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "오리온, 이커머스 채널 확대",
-          "summary": "오리온이 명절 영업일수 감소에도 이커머스와 다이소 등 신성장 채널 활용으로 국내 매출 4.9% 증가 달성.",
+          "emoji": "🎬",
+          "title": "신세계 워너 지분 인수",
+          "summary": "신세계가 미국 워너에 10억달러 투자하여 스타필드에 IP 기반 체험시설 조성 및 OTT 협력을 통한 온·오프라인 통합 전략 추진.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'초코파이 팔아 중앙일보 사나…오리온, 17년 만의 외눈질에 시장 '의구...",
-              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302765"
+              "title": "[재계 이슈] '정용진의 승부수'… 신세계, 美 워너 지분 인수에 10억달러",
+              "url": "https://economychosun.com/site/data/html_dir/2026/10/12/2026101200016.html"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🔐",
-          "title": "호신용품 수요 급증",
-          "summary": "인천 쇼핑몰 칼부림 사건 이후 쿠팡, 11번가, 다이소몰 등 주요 이커머스에서 스프레이·삼단봉 등 호신용품 재고 부족 현상 발생.",
+          "emoji": "🛍️",
+          "title": "신세계 쓱데이 통합 쇼핑축제",
+          "summary": "신세계그룹이 18개 계열사 총출동으로 대규모 물량 확보와 파격 할인을 통해 소비 심리 진작 및 가격 경쟁력 부각.",
           "articleIndices": [
-            3
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'1000원 호루라기 못 구해요?' 발동동...흉기난동에 호신용품 '불티'",
-              "url": "https://n.news.naver.com/mnews/article/008/0005426937?sid=101"
+              "title": "신세계그룹 '쓱데이' 30일 개막",
+              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90549"
+            },
+            {
+              "title": "신세계그룹 쇼핑축제 쓱데이 30일 개막",
+              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078949"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -81,30 +86,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "K-뷰티, AI 기반 커머스 확대",
-          "summary": "하이브랩이 베트남에서 AI 기반 K-뷰티 커머스 플랫폼 '애픽'을 선보이며 해외 시장 진출 가속화.",
+          "title": "AI 다국어 매장 서비스 확대",
+          "summary": "화장품 매장에서 AI가 외국어로 상품 설명하는 등 유통업계가 관광 서비스 거점으로 진화하며 방한객 편의성 강화.",
           "articleIndices": [
-            8
+            2
           ],
           "relatedLinks": [
             {
-              "title": "K뷰티, 해외 시장서 잇단 성과, 현지 유통망 확대도 속도",
-              "url": "https://www.meconomynews.com/news/articleView.html?idxno=202651"
+              "title": "'한국에 쇼핑하러 오길 잘했네'…외국인 관광객들 '감탄'",
+              "url": "https://n.news.naver.com/mnews/article/015/0005343580?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "게이즈샵, 체험형 리테일 전략",
-          "summary": "게이즈샵이 신세계백화점 부산 센텀시티점에 AI 로봇 등 기술 기반 체험형 리테일 공간 오픈, 라이프스타일 테크 플랫폼 확대.",
+          "emoji": "💄",
+          "title": "더마뷰티 전문 편집숍 확대",
+          "summary": "유통업계가 AI와 의료관광 결합 K-뷰티 산업 육성 정책에 따라 제약사·의료기기 기반 더마 브랜드 60여개 입점한 전문 편집숍 운영.",
           "articleIndices": [
-            10
+            1
           ],
           "relatedLinks": [
             {
-              "title": "게이즈샵, 신세계백화점 부산 센텀시티점 신규 오픈...AI 로봇부터 프리...",
-              "url": "https://n.news.naver.com/mnews/article/030/0003475841?sid=103"
+              "title": "[K뷰티 호황] ⑥ 더마로 진화...제약사·의료기기까지 '피부과학' 경쟁",
+              "url": "https://www.newspim.com/news/view/20261016000445"
             }
           ],
           "articleCount": 1
@@ -115,36 +120,36 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍙",
-          "title": "get모닝 꼬마김밥 400만 개 판매",
-          "summary": "CU의 get모닝 꼬마김밥이 누적 판매 400만 개를 달성하며 아침 간편식 시장 선점, 시리즈 전체 매출의 68% 차지.",
+          "emoji": "🔥",
+          "title": "트러플하몽 시리즈 대히트",
+          "summary": "CU의 차별화 스낵 '트러플하몽스틱'이 150만개 돌파하며 10월 스낵 카테고리 매출 1위 달성, SNS 입소문으로 품귀 현상까지 발생.",
           "articleIndices": [
-            2,
-            3
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "CU 'get모닝 꼬마김밥' 400만개 넘게 팔려…아침 간편 식사 공략",
-              "url": "https://www.ngetnews.com/news/articleView.html?idxno=554608"
+              "title": "CU '트러플하몽' 시리즈 150만 개 돌파…발주 제한에 품귀 현상까지",
+              "url": "https://n.news.naver.com/mnews/article/468/0001273226?sid=101"
             },
             {
-              "title": "CU, 꼬마김밥 400만 개 판매…인기에 '반반 김밥' 확대",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210909"
+              "title": "'전통의 강자 누른 편의점 신예'… CU '트러플하몽스틱', 스낵 매출 정상",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=136326"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "💜",
-          "title": "CU 뷰티 전쟁 참전",
-          "summary": "CU가 자사 캐릭터 'CU프렌즈'를 입힌 페리페라 뷰티 상품 출시, 중·고등학교·학원가·관광지 중심 뷰티 특화 편의점 확대.",
+          "emoji": "💳",
+          "title": "스테이블코인 결제 실증",
+          "summary": "KB국민카드가 CU 편의점에서 스테이블코인 오프라인 결제 실증을 완료하며 디지털자산 결제 기술 확대 추진.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[기획] 에이블리·CU·컬리 이어 배민까지…업종 불문 '뷰티 전쟁' 왜",
-              "url": "https://www.sentv.co.kr/article/view/sentv202610150098"
+              "title": "KB국민카드, CU서 스테이블코인 결제 실증…AI·디지털자산 결제 기술 확",
+              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337540"
             }
           ],
           "articleCount": 1
@@ -155,59 +160,49 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍜",
-          "title": "GS25 맛집 협업 김밥 성공",
-          "summary": "GS25가 유명 맛집 '식물원김밥'과 협업한 '날치알묵은지 김밥' 출시로 이달 1~15일 김밥 카테고리 매출 36.2% 증가 달성.",
+          "emoji": "🍠",
+          "title": "GS25 군고구마 품종 차별화",
+          "summary": "GS25가 해남·나주·여주산 베니하루카 고구마 사용 및 호박고구마 시범 판매로 편의점 군고구마 경쟁에서 차별화 전략 추진.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "편의점, 상품 기획에 점포 관리까지…판매 전략 재정비",
-              "url": "http://www.kdfnews.com/news/articleView.html?idxno=189416"
+              "title": "[맛잘알X파일]'이렇게 달아도 되나'…편의점 꿀고구마의 정체",
+              "url": "https://n.news.naver.com/mnews/article/277/0005829797?sid=103"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🧹",
-          "title": "세븐일레븐 점포 청결 캠페인",
-          "summary": "세븐일레븐이 전국 1000개 점포 대상 '점포 청결 메이크업 캠페인' 추진, 매장 환경 개선으로 고객 만족도 및 매출 활성화 도모.",
+          "emoji": "🍞",
+          "title": "세븐일레븐 캪틴큐 정식 출시",
+          "summary": "세븐일레븐이 11년 만에 복귀한 '캪틴큐' 양주를 21일 정식 출시하며 우리카드 20% 할인 프로모션으로 뉴트로 트렌드 공략.",
           "articleIndices": [
-            6,
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 연말까지 1000개 점포 환경 개선 … '청결 강화로 매출 경쟁...",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90546"
-            },
-            {
-              "title": "[비즈투데이] 세븐일레븐, 1천여 개 점포 대상 청결 캠페인",
-              "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540772"
+              "title": "'10년 만에 돌아온 캪틴큐' 세븐일레븐, 21일 정식 출시",
+              "url": "https://n.news.naver.com/mnews/article/003/0014260252?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "👕",
-          "title": "이마트24 올데이하이라이트 협업",
-          "summary": "이마트24가 W컨셉과 협업한 젠더리스 패션 브랜드 '올데이하이라이트' 상품 18종을 온라인에서 20% 할인 판매, 패션 채널 확대.",
+          "emoji": "🧥",
+          "title": "이마트24 동절기 의류 확대",
+          "summary": "이마트24가 3만4900원 경량패딩 신규 도입 및 타이즈·레깅스·장갑 등 동절기 의류·잡화 20종 확대로 PB 상품 범위 확장.",
           "articleIndices": [
-            8,
-            9
+            6
           ],
           "relatedLinks": [
             {
-              "title": "패딩 70% 할인에 치킨 27% 싸게…주말 온라인 쇼핑 어디가 저렴할까",
-              "url": "https://n.news.naver.com/mnews/article/022/0004167364?sid=101"
-            },
-            {
-              "title": "'가을옷부터 먹거리까지'…주말 온라인 특가 쏟아진다[주말e커머스]",
-              "url": "https://n.news.naver.com/mnews/article/003/0014259342?sid=101"
+              "title": "여기서 3만원짜리 패딩 살 수 있을 줄은 몰랐다…동네 편의점의 '파격",
+              "url": "https://n.news.naver.com/mnews/article/011/0004672311?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -216,31 +211,36 @@
       "issues": [
         {
           "emoji": "🍰",
-          "title": "편의점 떡 디저트 신상 경쟁",
-          "summary": "CU의 '피자절편', GS25의 '한정선 요거트 찹쌀떡' 등 편의점들이 떡을 서구식 디저트로 재해석한 상품 출시로 SNS 기반 인기 확산.",
+          "title": "편의점 디저트 브랜드 콜라보",
+          "summary": "한정선 요거트 찹쌀떡·태극당 버터크림빵 등 유명 디저트 브랜드가 편의점 채널 진출하며 퀵커머스 매출 1위 달성, 오픈런 맛집 모시기 경쟁 심화.",
           "articleIndices": [
-            1,
-            3
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'불닭 이어 식물원까지'…GS25, 이색 김밥으로 매출 36.2%↑",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065606231588029"
+              "title": "줄 서서 먹던 디저트, 편의점 냉동고로…'오픈런 맛집' 모시는 이유",
+              "url": "https://n.news.naver.com/mnews/article/022/0004167494?sid=101"
+            },
+            {
+              "title": "떡 먹으려고 KTX 탄다… 2030 '떡지순례' 열풍",
+              "url": "https://n.news.naver.com/mnews/article/023/0004004303?sid=102"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         },
         {
-          "emoji": "❄️",
-          "title": "겨울 방한용품·따뜻한 먹거리 판매 급증",
-          "summary": "편의점 4사(GS25·CU·세븐일레븐·이마트24)의 핫팩·손난로·방한 타이즈 등 동절기 상품 매출이 직전 주 대비 1000% 이상 급증.",
+          "emoji": "🍜",
+          "title": "장수 식품 브랜드 40주년 기념",
+          "summary": "1986년 출시된 팔도 도시락·신라면·월드콘 등 장수 브랜드가 40주년을 맞이하며 국내외 시장에서 대박 판매 기록, 러시아 수출 80억개 돌파.",
           "articleIndices": [
-            3
+            10
           ],
           "relatedLinks": [
             {
-              "title": "찬바람에 매출 18배 '껑충'…편의점서 불티나게 팔리는 제품[지금사는방...",
-              "url": "https://n.news.naver.com/mnews/article/277/0005829704?sid=101"
+              "title": "러시아서 더 잘 팔린다…80억개 대박 난 '이 라면'",
+              "url": "https://n.news.naver.com/mnews/article/015/0005343593?sid=101"
             }
           ],
           "articleCount": 1
