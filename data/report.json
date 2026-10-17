@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-10-15T23:58:04.974Z",
+  "generatedAt": "2026-10-17T00:01:13.372Z",
   "summary": [
-    "CU 꼬마김밥 400만개 돌파, 아침 간편식 시장 선점 성공",
-    "GS25 차별화 김밥 전략으로 카테고리 매출 36.2% 급증",
-    "편의점 외국인 관광객 매출 급증, 디저트·한식 상품 400% 성장"
+    "CU 꼬마김밥 400만 개 판매 돌파, 아침 간편식 시장 선점 성공",
+    "GS25 맛집 협업 김밥으로 월 매출 36.2% 증가, SNS 기반 상품 기획 강화",
+    "편의점 업계 전반 겨울 대비 방한용품·따뜻한 먹거리 판매 18배 급증"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🍙",
-          "title": "편의점 김밥 시장 확대",
-          "summary": "CU 꼬마김밥 400만개 판매 달성과 GS25 차별화 김밥 전략으로 편의점 김밥 카테고리가 성장 동력으로 부상하고 있다.",
+          "emoji": "🍡",
+          "title": "떡 열풍, 유통 채널 확대",
+          "summary": "온라인 플랫폼과 편의점이 K-디저트 떡의 인기에 발맞춰 판로 확대 및 브랜드 마케팅 지원으로 신성장 기회 포착.",
           "articleIndices": [
-            3,
-            1
+            5
           ],
           "relatedLinks": [
             {
-              "title": "CU 'get모닝 꼬마김밥' 400만개 넘게 팔려…아침 간편 식사 공략",
-              "url": "https://www.ngetnews.com/news/articleView.html?idxno=554608"
-            },
-            {
-              "title": "GS25, SNS 화제 레시피 김밥 인기… 카테고리 매출 36.2% 껑충",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=120113"
+              "title": "떡 먹으려고 KTX 탄다… 2030 '떡지순례' 열풍",
+              "url": "https://n.news.naver.com/mnews/article/023/0004004303?sid=102"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "외국인 관광객 매출 성장",
-          "summary": "편의점 외국인 고객 매출이 새로운 성장동력으로 부상하며 디저트 매출 400% 급증, 한식 상품 수요 증가 추세를 보이고 있다.",
+          "emoji": "🎁",
+          "title": "롯데, 럭셔리 여행 프로그램 출시",
+          "summary": "롯데백화점이 프리미엄 해외 여행 프로그램으로 VIP 고객 대상 차별화 마케팅 전개, 백화점 3사 중 가장 늦은 시장 진입.",
           "articleIndices": [
-            4
+            8
           ],
           "relatedLinks": [
             {
-              "title": "한국인처럼 김밥 먹고 '아아' 마신다…편의점 북미권 매출 급증",
-              "url": "https://n.news.naver.com/mnews/article/014/0005590104?sid=101"
+              "title": "롯데도 신세계 따라 럭셔리 여행 '지각출시'..VIP만 겨냥",
+              "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48216"
             }
           ],
           "articleCount": 1
@@ -50,9 +45,24 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛡️",
-          "title": "호신용품 검색량 급증",
-          "summary": "인천 쇼핑몰 사건 이후 쿠팡, 11번가, 다이소몰 등 주요 이커머스에서 호신용품 검색량과 판매량이 급증하는 사건 연동형 소비 트렌드를 보이고 있다.",
+          "emoji": "🛍️",
+          "title": "오리온, 이커머스 채널 확대",
+          "summary": "오리온이 명절 영업일수 감소에도 이커머스와 다이소 등 신성장 채널 활용으로 국내 매출 4.9% 증가 달성.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "'초코파이 팔아 중앙일보 사나…오리온, 17년 만의 외눈질에 시장 '의구...",
+              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302765"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🔐",
+          "title": "호신용품 수요 급증",
+          "summary": "인천 쇼핑몰 칼부림 사건 이후 쿠팡, 11번가, 다이소몰 등 주요 이커머스에서 스프레이·삼단봉 등 호신용품 재고 부족 현상 발생.",
           "articleIndices": [
             3
           ],
@@ -60,21 +70,6 @@
             {
               "title": "'1000원 호루라기 못 구해요?' 발동동...흉기난동에 호신용품 '불티'",
               "url": "https://n.news.naver.com/mnews/article/008/0005426937?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🤖",
-          "title": "AI 커머스 신뢰 데이터 경쟁",
-          "summary": "2026 디조포럼에서 AI 커머스 시대의 핵심 경쟁력으로 신뢰 데이터가 강조되며, 글로벌 소비자 34%는 AI 제품 조사는 하지만 구매 완료는 8%에 불과한 신뢰 격차 해소가 과제로 지목되었다.",
-          "articleIndices": [
-            9
-          ],
-          "relatedLinks": [
-            {
-              "title": "[2026 디조포럼] AI가 '비즈니스 판' 바꾼다...\"AI 자동 결제, '신뢰'가 승부처\"",
-              "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/14/2026101480179.html"
             }
           ],
           "articleCount": 1
@@ -86,35 +81,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 자동 결제 및 에이전트 커머스",
-          "summary": "NH농협카드와 카카오의 AI 비서 기반 자동 결제 및 에이전트 커머스 PoC 추진으로 음성 명령 기반 주문·결제·송금 등 차세대 결제 생태계 구축이 가속화되고 있다.",
+          "title": "K-뷰티, AI 기반 커머스 확대",
+          "summary": "하이브랩이 베트남에서 AI 기반 K-뷰티 커머스 플랫폼 '애픽'을 선보이며 해외 시장 진출 가속화.",
           "articleIndices": [
-            8,
-            6
+            8
           ],
           "relatedLinks": [
             {
-              "title": "NH농협카드, AI 비서가 고객 대신 쇼핑·결제…'차세대 결제 PoC' 추진",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065568200458059"
-            },
-            {
-              "title": "DB證 '카카오, 3분기 실적 기대치 하회…목표가↓'",
-              "url": "https://n.news.naver.com/mnews/article/003/0014257406?sid=101"
+              "title": "K뷰티, 해외 시장서 잇단 성과, 현지 유통망 확대도 속도",
+              "url": "https://www.meconomynews.com/news/articleView.html?idxno=202651"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
           "emoji": "🏪",
-          "title": "리테일 자동화 키오스크 확대",
-          "summary": "야놀자가 호텔 로비에 K-뷰티 판매 키오스크를 도입하며 소규모 리테일의 판매·재고·가격 관리 자동화와 무인 운영 모델이 숙박업계로 확산되고 있다.",
+          "title": "게이즈샵, 체험형 리테일 전략",
+          "summary": "게이즈샵이 신세계백화점 부산 센텀시티점에 AI 로봇 등 기술 기반 체험형 리테일 공간 오픈, 라이프스타일 테크 플랫폼 확대.",
           "articleIndices": [
-            12
+            10
           ],
           "relatedLinks": [
             {
-              "title": "야놀자, 호텔 로비에 '키오스크' 놓는다…K-뷰티 유통·운영 자동화 '...'",
-              "url": "https://www.ceoscoredaily.com/page/view/2026101516483720063"
+              "title": "게이즈샵, 신세계백화점 부산 센텀시티점 신규 오픈...AI 로봇부터 프리...",
+              "url": "https://n.news.naver.com/mnews/article/030/0003475841?sid=103"
             }
           ],
           "articleCount": 1
@@ -126,24 +116,38 @@
       "issues": [
         {
           "emoji": "🍙",
-          "title": "꼬마김밥 400만개 판매 달성",
-          "summary": "CU의 'get모닝 꼬마김밥'이 누적 판매량 400만개를 돌파하며 아침 간편식 시장에서 강한 수요를 입증했고, 신규 라인업 확대로 지속 성장을 추진 중이다.",
+          "title": "get모닝 꼬마김밥 400만 개 판매",
+          "summary": "CU의 get모닝 꼬마김밥이 누적 판매 400만 개를 달성하며 아침 간편식 시장 선점, 시리즈 전체 매출의 68% 차지.",
           "articleIndices": [
-            1,
             2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "CU, 아침 간편식 꼬마김밥 누적 판매량 400만 개 돌파",
-              "url": "https://www.lawissue.co.kr/view.php?ud=202610152221445620204ead0791_12"
+              "title": "CU 'get모닝 꼬마김밥' 400만개 넘게 팔려…아침 간편 식사 공략",
+              "url": "https://www.ngetnews.com/news/articleView.html?idxno=554608"
             },
             {
-              "title": "CU의 '꼬마김밥' 아침밥 시장 공략 통했다",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=753755"
+              "title": "CU, 꼬마김밥 400만 개 판매…인기에 '반반 김밥' 확대",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210909"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
+        },
+        {
+          "emoji": "💜",
+          "title": "CU 뷰티 전쟁 참전",
+          "summary": "CU가 자사 캐릭터 'CU프렌즈'를 입힌 페리페라 뷰티 상품 출시, 중·고등학교·학원가·관광지 중심 뷰티 특화 편의점 확대.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "[기획] 에이블리·CU·컬리 이어 배민까지…업종 불문 '뷰티 전쟁' 왜",
+              "url": "https://www.sentv.co.kr/article/view/sentv202610150098"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -151,39 +155,56 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍙",
-          "title": "GS25 차별화 김밥 전략 성공",
-          "summary": "GS25가 SNS 화제 레시피와 유명 맛집을 접목한 차별화 김밥 신제품으로 카테고리 매출을 전년 동기 대비 36.2% 증가시키며 경쟁력을 강화하고 있다.",
+          "emoji": "🍜",
+          "title": "GS25 맛집 협업 김밥 성공",
+          "summary": "GS25가 유명 맛집 '식물원김밥'과 협업한 '날치알묵은지 김밥' 출시로 이달 1~15일 김밥 카테고리 매출 36.2% 증가 달성.",
           "articleIndices": [
-            1,
-            2,
-            3,
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'김밥계 에르메스'를 GS25에서? 일주일만에 10만줄 팔렸다",
-              "url": "https://n.news.naver.com/mnews/article/016/0002710098?sid=101"
+              "title": "편의점, 상품 기획에 점포 관리까지…판매 전략 재정비",
+              "url": "http://www.kdfnews.com/news/articleView.html?idxno=189416"
             }
           ],
-          "articleCount": 4
+          "articleCount": 1
         },
         {
-          "emoji": "🥃",
-          "title": "이마트24 위스키 한정 판매",
-          "summary": "이마트24가 국내 대표 싱글몰트 브랜드 김창수 위스키의 '김포 2026 에디션' 1,700병을 단독 한정 판매하며 프리미엄 상품 차별화 전략을 추진하고 있다.",
+          "emoji": "🧹",
+          "title": "세븐일레븐 점포 청결 캠페인",
+          "summary": "세븐일레븐이 전국 1000개 점포 대상 '점포 청결 메이크업 캠페인' 추진, 매장 환경 개선으로 고객 만족도 및 매출 활성화 도모.",
           "articleIndices": [
-            7,
+            6,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "세븐일레븐, 연말까지 1000개 점포 환경 개선 … '청결 강화로 매출 경쟁...",
+              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90546"
+            },
+            {
+              "title": "[비즈투데이] 세븐일레븐, 1천여 개 점포 대상 청결 캠페인",
+              "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540772"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "👕",
+          "title": "이마트24 올데이하이라이트 협업",
+          "summary": "이마트24가 W컨셉과 협업한 젠더리스 패션 브랜드 '올데이하이라이트' 상품 18종을 온라인에서 20% 할인 판매, 패션 채널 확대.",
+          "articleIndices": [
+            8,
             9
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, '김창수 위스키 김포 2026' 1,700병 단독 한정 판매",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=120112"
+              "title": "패딩 70% 할인에 치킨 27% 싸게…주말 온라인 쇼핑 어디가 저렴할까",
+              "url": "https://n.news.naver.com/mnews/article/022/0004167364?sid=101"
             },
             {
-              "title": "이마트24, 김창수 위스키 '김포 2026 에디션' 한정 판매",
-              "url": "https://n.news.naver.com/mnews/article/001/0016380418?sid=103"
+              "title": "'가을옷부터 먹거리까지'…주말 온라인 특가 쏟아진다[주말e커머스]",
+              "url": "https://n.news.naver.com/mnews/article/003/0014259342?sid=101"
             }
           ],
           "articleCount": 2
@@ -195,39 +216,34 @@
       "issues": [
         {
           "emoji": "🍰",
-          "title": "편의점 디저트 시장 확대",
-          "summary": "찹쌀떡, 요거트 디저트 등 신상 디저트가 새벽 오픈런까지 유발하며 SNS 화제 상품 중심으로 편의점 디저트 시장이 급성장하고 있다.",
+          "title": "편의점 떡 디저트 신상 경쟁",
+          "summary": "CU의 '피자절편', GS25의 '한정선 요거트 찹쌀떡' 등 편의점들이 떡을 서구식 디저트로 재해석한 상품 출시로 SNS 기반 인기 확산.",
           "articleIndices": [
             1,
             3
           ],
           "relatedLinks": [
             {
-              "title": "새벽 4시 '오픈런'까지... 디저트 시장 감싼 쫀득한 찹쌀떡 열풍",
-              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1186329"
+              "title": "'불닭 이어 식물원까지'…GS25, 이색 김밥으로 매출 36.2%↑",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065606231588029"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🍙",
-          "title": "SNS 트렌드 반영 김밥 신상품",
-          "summary": "GS25의 '식물원김밥', '강민경 김밥' 등 유명 맛집과 해외 SNS 레시피를 접목한 차별화 김밥이 출시 한 달 만에 10만줄 이상 판매되며 강한 소비자 반응을 얻고 있다.",
+          "emoji": "❄️",
+          "title": "겨울 방한용품·따뜻한 먹거리 판매 급증",
+          "summary": "편의점 4사(GS25·CU·세븐일레븐·이마트24)의 핫팩·손난로·방한 타이즈 등 동절기 상품 매출이 직전 주 대비 1000% 이상 급증.",
           "articleIndices": [
-            8,
-            9
+            3
           ],
           "relatedLinks": [
             {
-              "title": "차별화 김밥 재미 본 GS25, '강민경 김밥'도 흥행",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=753795"
-            },
-            {
-              "title": "이색 김밥 잇단 흥행에…GS25 김밥 매출 36.2%↑",
-              "url": "https://www.socialvalue.kr/news/view/1065566645242469"
+              "title": "찬바람에 매출 18배 '껑충'…편의점서 불티나게 팔리는 제품[지금사는방...",
+              "url": "https://n.news.naver.com/mnews/article/277/0005829704?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     }
