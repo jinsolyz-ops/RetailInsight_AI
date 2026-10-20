@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-17T23:35:17.941Z",
+  "generatedAt": "2026-10-20T00:47:02.193Z",
   "summary": [
-    "CU 트러플하몽스틱 150만개 돌파, 스낵 카테고리 매출 1위 달성",
-    "편의점 디저트 경쟁 심화, 한정선·태극당 등 브랜드 콜라보 확산",
-    "유통업계 외국인 관광객 마케팅 강화, AI 다국어 서비스 도입"
+    "CU, 업계 최초 스마트쿠커 500대 도입으로 푸드테크 전략 강화",
+    "GS25, 소금빵 샌드위치·꼬마김밥 출시로 간편식 선택지 확대",
+    "편의점 디저트 시장 프리미엄화…'쫀득' 떡·츄러스 SNS 핫트렌드"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎉",
-          "title": "빼빼로데이 글로벌 성장",
-          "summary": "편의점·대형마트가 빼빼로데이를 시즌 프로모션으로 활용하며 신제품 확대와 선물 수요 결합 전략 추진 중.",
+          "emoji": "🛍️",
+          "title": "다이소 의류 5000원 신전략",
+          "summary": "다이소가 직매입 구조를 활용해 의류용품을 5000원대 저가로 판매하며 할인 없이도 경쟁력 있는 가격 전략으로 의류 카테고리 확대 중.",
           "articleIndices": [
-            1
+            5
           ],
           "relatedLinks": [
             {
-              "title": "국민 기념일 '빼빼로데이', 이제는 글로벌 성장 핵심축",
-              "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205210"
+              "title": "'다이소에 옷 사러 간다더니'…'5000원 니트' 등장에 깜짝",
+              "url": "https://n.news.naver.com/mnews/article/015/0005344285?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "외국인 관광객 멤버십 마케팅",
-          "summary": "방한 관광객 증가에 따라 CJ ONE 글로벌 등 외국인 대상 포인트 적립·사용 서비스 확대로 관광 서비스 거점화 추진.",
+          "emoji": "🥤",
+          "title": "K-헤리티지 음료 트렌드",
+          "summary": "유통업계에서 한국 전통 식재료를 현대적 음료·디저트에 접목한 'K-헤리티지' 트렌드가 확산되며 프리미엄 음료 시장 재편 중.",
           "articleIndices": [
-            6
+            3
           ],
           "relatedLinks": [
             {
-              "title": "외국인도 CJ ONE 포인트 적립·사용한다…유통업계 방한 관광객 마케팅",
-              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209804"
+              "title": "[커피·음료 트렌드] 테라로사, FAO 글로벌 전시서 산림과 커피의 연결성",
+              "url": "https://www.ibabynews.com/news/articleView.html?idxno=155334"
             }
           ],
           "articleCount": 1
@@ -45,39 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "신세계 워너 지분 인수",
-          "summary": "신세계가 미국 워너에 10억달러 투자하여 스타필드에 IP 기반 체험시설 조성 및 OTT 협력을 통한 온·오프라인 통합 전략 추진.",
+          "emoji": "📊",
+          "title": "다이소 생활용품 브랜드평판 1위",
+          "summary": "다이소가 생활용품 브랜드평판에서 쿠팡, 이마트를 제치고 1위를 차지하며 온라인·오프라인 통합 유통 전략의 성공을 입증.",
           "articleIndices": [
-            2
+            3,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[재계 이슈] '정용진의 승부수'… 신세계, 美 워너 지분 인수에 10억달러",
-              "url": "https://economychosun.com/site/data/html_dir/2026/10/12/2026101200016.html"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛍️",
-          "title": "신세계 쓱데이 통합 쇼핑축제",
-          "summary": "신세계그룹이 18개 계열사 총출동으로 대규모 물량 확보와 파격 할인을 통해 소비 심리 진작 및 가격 경쟁력 부각.",
-          "articleIndices": [
-            4,
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "신세계그룹 '쓱데이' 30일 개막",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90549"
+              "title": "다이소, 생활용품 브랜드평판 2026년 10월...1위",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=20261019083552545346a9e4dd7f_30"
             },
             {
-              "title": "신세계그룹 쇼핑축제 쓱데이 30일 개막",
-              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078949"
+              "title": "생활용품 2026년 10월 브랜드평판...다이소, 쿠팡, 이마트 順",
+              "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229050"
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "🍜",
+          "title": "쿠팡 간편식 브랜드평판 1위",
+          "summary": "쿠팡이 간편식 브랜드평판에서 1위를 차지하며 온라인 쇼핑 플랫폼의 식품 카테고리 영향력 확대를 보여줌.",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "쿠팡, 간편식 브랜드평판 1위…이마트 2위·CU 3위",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496274"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -86,30 +86,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 다국어 매장 서비스 확대",
-          "summary": "화장품 매장에서 AI가 외국어로 상품 설명하는 등 유통업계가 관광 서비스 거점으로 진화하며 방한객 편의성 강화.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "'한국에 쇼핑하러 오길 잘했네'…외국인 관광객들 '감탄'",
-              "url": "https://n.news.naver.com/mnews/article/015/0005343580?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "💄",
-          "title": "더마뷰티 전문 편집숍 확대",
-          "summary": "유통업계가 AI와 의료관광 결합 K-뷰티 산업 육성 정책에 따라 제약사·의료기기 기반 더마 브랜드 60여개 입점한 전문 편집숍 운영.",
+          "title": "CJ온스타일 생성형 AI 최적화",
+          "summary": "CJ온스타일이 기업 홈페이지를 전면 개편하며 생성형 AI 검색 환경에 대응하는 생성형 엔진 최적화(GEO)를 반영해 콘텐츠 커머스 경쟁력 강화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[K뷰티 호황] ⑥ 더마로 진화...제약사·의료기기까지 '피부과학' 경쟁",
-              "url": "https://www.newspim.com/news/view/20261016000445"
+              "title": "CJ온스타일, 기업 홈페이지 전면 개편…콘텐츠 커머스 경쟁력 강화",
+              "url": "https://n.news.naver.com/mnews/article/421/0009237795?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍕",
+          "title": "CU 스마트쿠커 AI 자동조리",
+          "summary": "CU가 바코드 인식으로 자동 조리하는 스마트쿠커를 업계 최초 도입하며 AI 기반 푸드테크로 편의점 조리 경험 혁신.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, 바코드 찍으면 피자·치킨 자동 조리…편의점에 '스마트쿠커' 도입",
+              "url": "https://thetracker.co.kr/View.aspx?No=4270530"
             }
           ],
           "articleCount": 1
@@ -121,38 +121,23 @@
       "issues": [
         {
           "emoji": "🔥",
-          "title": "트러플하몽 시리즈 대히트",
-          "summary": "CU의 차별화 스낵 '트러플하몽스틱'이 150만개 돌파하며 10월 스낵 카테고리 매출 1위 달성, SNS 입소문으로 품귀 현상까지 발생.",
+          "title": "CU 스마트쿠커 500대 도입",
+          "summary": "BGF리테일 운영 CU가 전자레인지·에어프라이어·오븐 기능을 결합한 스마트쿠커 500대를 10월 22일부터 도입하며 푸드테크 전략 본격화.",
           "articleIndices": [
             1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "CU '트러플하몽' 시리즈 150만 개 돌파…발주 제한에 품귀 현상까지",
-              "url": "https://n.news.naver.com/mnews/article/468/0001273226?sid=101"
+              "title": "CU, 업계 최초 '스마트쿠커' 도입…바코드 찍으면 자동 조리",
+              "url": "https://n.news.naver.com/mnews/article/030/0003476602?sid=101"
             },
             {
-              "title": "'전통의 강자 누른 편의점 신예'… CU '트러플하몽스틱', 스낵 매출 정상",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=136326"
+              "title": "바코드만 찍으면 치킨도 바삭하게…CU, 스마트쿠커 500대 도입",
+              "url": "https://n.news.naver.com/mnews/article/138/0002245257?sid=101"
             }
           ],
           "articleCount": 2
-        },
-        {
-          "emoji": "💳",
-          "title": "스테이블코인 결제 실증",
-          "summary": "KB국민카드가 CU 편의점에서 스테이블코인 오프라인 결제 실증을 완료하며 디지털자산 결제 기술 확대 추진.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "KB국민카드, CU서 스테이블코인 결제 실증…AI·디지털자산 결제 기술 확",
-              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337540"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -160,46 +145,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍠",
-          "title": "GS25 군고구마 품종 차별화",
-          "summary": "GS25가 해남·나주·여주산 베니하루카 고구마 사용 및 호박고구마 시범 판매로 편의점 군고구마 경쟁에서 차별화 전략 추진.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "[맛잘알X파일]'이렇게 달아도 되나'…편의점 꿀고구마의 정체",
-              "url": "https://n.news.naver.com/mnews/article/277/0005829797?sid=103"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍞",
-          "title": "세븐일레븐 캪틴큐 정식 출시",
-          "summary": "세븐일레븐이 11년 만에 복귀한 '캪틴큐' 양주를 21일 정식 출시하며 우리카드 20% 할인 프로모션으로 뉴트로 트렌드 공략.",
+          "emoji": "🥪",
+          "title": "GS25 간편식 다양화 전략",
+          "summary": "GS25가 소금빵 샌드위치와 꼬마김밥 등 간편식 재료·형태를 다양화하며 편의점 한 끼 식사 수요 확대에 대응.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "'10년 만에 돌아온 캪틴큐' 세븐일레븐, 21일 정식 출시",
-              "url": "https://n.news.naver.com/mnews/article/003/0014260252?sid=101"
+              "title": "소금빵 샌드위치에 꼬마김밥…GS25, 간편식 선택지 확대",
+              "url": "https://n.news.naver.com/mnews/article/092/0002441553?sid=103"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🧥",
-          "title": "이마트24 동절기 의류 확대",
-          "summary": "이마트24가 3만4900원 경량패딩 신규 도입 및 타이즈·레깅스·장갑 등 동절기 의류·잡화 20종 확대로 PB 상품 범위 확장.",
+          "emoji": "🍗",
+          "title": "세븐일레븐 치킨 상품군 확대",
+          "summary": "세븐일레븐이 닭다리에서 닭날개까지 조각 치킨 상품군을 확대하며 '매콤크럼블통날개' 출시로 외국인 관광객 수요 공략.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "여기서 3만원짜리 패딩 살 수 있을 줄은 몰랐다…동네 편의점의 '파격",
-              "url": "https://n.news.naver.com/mnews/article/011/0004672311?sid=101"
+              "title": "[유통브리핑] 롯데百, 국가보훈부와 '일상 속 보훈문화' 확산 협약 외",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=640480"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌏",
+          "title": "이마트24 말레이시아 사업 부진",
+          "summary": "이마트24의 말레이시아 매출이 25% 감소하며 현지 정부 생필품 지원 프로그램 'SARA' 사용처 제외로 직격탄을 맞음.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트24, 말레이 매출 25% 뒷걸음질 왜?…'SARA' 사용처 제외 직격탄",
+              "url": "https://www.theguru.co.kr/news/article.html?no=108504"
             }
           ],
           "articleCount": 1
@@ -210,37 +195,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 디저트 브랜드 콜라보",
-          "summary": "한정선 요거트 찹쌀떡·태극당 버터크림빵 등 유명 디저트 브랜드가 편의점 채널 진출하며 퀵커머스 매출 1위 달성, 오픈런 맛집 모시기 경쟁 심화.",
+          "emoji": "🍪",
+          "title": "편의점 프리미엄 디저트 열풍",
+          "summary": "찹쌀떡·츄러스 등 '쫀득' 식감의 프리미엄 디저트가 SNS에서 화제가 되며 하루 8만개 판매 기록, 편의점 베이커리 경쟁 심화.",
           "articleIndices": [
-            2,
-            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "줄 서서 먹던 디저트, 편의점 냉동고로…'오픈런 맛집' 모시는 이유",
-              "url": "https://n.news.naver.com/mnews/article/022/0004167494?sid=101"
-            },
-            {
-              "title": "떡 먹으려고 KTX 탄다… 2030 '떡지순례' 열풍",
-              "url": "https://n.news.naver.com/mnews/article/023/0004004303?sid=102"
+              "title": "'하루 8만개씩 팔렸다'…SNS서 난리난 '초코 츄러스' 뭐길래",
+              "url": "https://n.news.naver.com/mnews/article/015/0005344255?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "🍜",
-          "title": "장수 식품 브랜드 40주년 기념",
-          "summary": "1986년 출시된 팔도 도시락·신라면·월드콘 등 장수 브랜드가 40주년을 맞이하며 국내외 시장에서 대박 판매 기록, 러시아 수출 80억개 돌파.",
+          "emoji": "🍗",
+          "title": "외국인 관광객 편의점 치킨 인기",
+          "summary": "세븐일레븐 저녁 치킨 매출이 341% 증가하며 방한 외국인 관광객이 편의점 치킨을 주요 먹거리로 선택하는 트렌드 확산.",
           "articleIndices": [
-            10
+            6
           ],
           "relatedLinks": [
             {
-              "title": "러시아서 더 잘 팔린다…80억개 대박 난 '이 라면'",
-              "url": "https://n.news.naver.com/mnews/article/015/0005343593?sid=101"
+              "title": "'관광객도 빠진 편의점 치킨'…세븐일레븐 저녁 치킨 매출 341%↑",
+              "url": "https://n.news.naver.com/mnews/article/003/0014264464?sid=101"
             }
           ],
           "articleCount": 1
