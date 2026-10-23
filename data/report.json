@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-21T00:13:42.299Z",
+  "generatedAt": "2026-10-23T00:14:23.159Z",
   "summary": [
-    "CU 하와이 5호점 개점, 해외 915개 점포 돌파로 글로벌 확장 가속화",
-    "GS25 호빵맨 협업으로 호빵 매출 75% 증가, 계절 시즈널 마케팅 강화",
-    "이마트24 PB '옐로우' 1주년 누적 판매 1200만개 돌파, 자체브랜드 성과 입증"
+    "CU, 일본·벨기에 프리미엄 쿠키 8종 출시로 수입과자 라인업 강화",
+    "GS25, 980원 초저가 견과류 3종 출시로 가성비 PB 전략 가속화",
+    "농심·무신사, 일본 오사카 팝업서 신라면 시식 행사로 K-푸드 글로벌 확산"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌡️",
-          "title": "편의점 계절상품 마케팅",
-          "summary": "기온 하락에 따른 호빵 수요 급증으로 편의점들이 캐릭터 협업 등 시즈널 마케팅을 강화하고 있으며, 소비자 구매 패턴 변화에 신속하게 대응하는 전략을 펼치고 있다.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "편의점 호빵 매출 75% 증가…GS25 호빵맨 협업",
-              "url": "https://n.news.naver.com/mnews/article/277/0005831281?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛍️",
-          "title": "AI 인플루언서 마케팅 한계",
-          "summary": "소비자 37%가 AI 인플루언서에 부정적이며, 유통업계는 실제 사람의 참여를 부각하는 콘텐츠 제작으로 전환하는 추세를 보이고 있다.",
+          "emoji": "🌏",
+          "title": "농심·무신사 일본 협업",
+          "summary": "농심이 무신사 오사카 팝업스토어에서 신라면을 시식하게 하며 K-푸드 글로벌 마케팅을 강화하고 있다.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "소비자 37% 'AI 인플루언서는 별로'…사람이 AI 쓰는건 'OK'",
-              "url": "https://n.news.naver.com/mnews/article/421/0009240293?sid=105"
+              "title": "K패션 보러 왔다가 '신라면' 먹는다…일본서 손잡은 농심·무신사",
+              "url": "https://n.news.naver.com/mnews/article/022/0004169071?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📱",
+          "title": "이커머스 C2C 확대",
+          "summary": "무신사 등 이커머스 플랫폼이 해외 고객과 개인 간 거래(C2C)로 사업 영역을 확장하며 중고거래 시장 성장을 주도하고 있다.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "해외 고객·개인 판매자까지…이커머스, 거래의 경계 넓힌다",
+              "url": "https://www.itdaily.kr/news/articleView.html?idxno=242381"
             }
           ],
           "articleCount": 1
@@ -45,34 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📱",
-          "title": "온오프라인 채널 재편성",
-          "summary": "이커머스 기업은 현실 오프라인으로, 오프라인 유통기업은 온라인으로 진출하는 채널 역전 현상이 가속화되고 있다.",
+          "emoji": "🎬",
+          "title": "CJ온스타일 크리에이터 커머스",
+          "summary": "CJ온스타일이 크리에이터를 단순 판매자에서 브랜드 사업가로 육성하며 데이터·AI 기반 맞춤 마케팅으로 발견형 쇼핑 시대를 주도하고 있다.",
           "articleIndices": [
-            1
+            5
           ],
           "relatedLinks": [
             {
-              "title": "이커머스 기업은 현실로, 오프라인 유통은 온라인으로",
-              "url": "http://www.metroseoul.co.kr/article/20261020500493"
+              "title": "[현장] CJ온스타일, 크리에이터 '판매자' 넘어 브랜드 사업가로…'2030년 목표'",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367868"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🔐",
-          "title": "유통업계 개인정보 보안 위기",
-          "summary": "커피 프랜차이즈부터 편의점·명품 브랜드까지 유통업계 전반에서 개인정보 유출과 동의 없는 마케팅 활용이 적발되며 보안 강화가 시급한 상황이다.",
+          "emoji": "🛍️",
+          "title": "버티컬커머스 AI 수익화",
+          "summary": "AI 버티컬커머스 수익화 프로젝트가 온라인 교육 플랫폼을 통해 셀러 전문성 강화에 나서며 이커머스 시장의 데이터 기반 경쟁력 강화를 가속화하고 있다.",
           "articleIndices": [
-            2
+            8,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "과징금에도 멈추지 않는 정보 유출…유통업계 보안 부실",
-              "url": "https://www.socialvalue.kr/news/view/1065589015798764"
+              "title": "[2026 한국광고주대회] 특별세미나 개최... 미디어 진단부터 마케팅 사례...",
+              "url": "https://www.banronbodo.com/news/articleView.html?idxno=33216"
+            },
+            {
+              "title": "하이퍼스쿨, 'AI 버티컬커머스 수익화 프로젝트' 무료 라이브 29일 개최",
+              "url": "https://www.gosiweek.com/article/1065586419721649"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -81,30 +86,35 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "G마켓 AI 기술 고도화 전략",
-          "summary": "G마켓이 4년 만에 반등하며 AI 기술 고도화와 해외 사업 확대를 통해 쿠팡·네이버 양강 체제에 도전하고 있다.",
+          "title": "AI 자동 계산대 고도화",
+          "summary": "파인더스에이아이가 딥테크 TIPS 선정으로 AI 자동 계산대의 정확도와 원가 최적화에 나서며 글로벌 무인 리테일 시장 선도를 추진하고 있다.",
           "articleIndices": [
-            1
+            9,
+            10
           ],
           "relatedLinks": [
             {
-              "title": "4년 만에 반등한 G마켓…'쿠팡·네이버' 양강 뚫기는 숙제",
-              "url": "https://n.news.naver.com/mnews/article/029/0003054267?sid=101"
+              "title": "파인더스에이아이, 딥테크 팁스 선정…15억원 지원받아 AI 자동 계산대 ...",
+              "url": "https://www.venturesquare.net/1122060/"
+            },
+            {
+              "title": "파인더스에이아이, AI 계산대 고도화 나선다…딥테크 팁스 선정",
+              "url": "https://n.news.naver.com/mnews/article/008/0005430209?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "💰",
-          "title": "신세계 AI·콘텐츠 1조원 투자",
-          "summary": "신세계그룹이 기존 유통사업 전문성 강화와 함께 AI·글로벌 콘텐츠 분야에 1조원대 투자를 단행하며 사업 영역을 확장하고 있다.",
+          "emoji": "🎯",
+          "title": "생성형 AI 맞춤 건기식 추천",
+          "summary": "건기식 시장에서 생성형 AI를 활용한 개인 맞춤 영양제 추천이 확산되며 약국 대신 올리브영·다이소·편의점 채널로 유통 구조가 재편되고 있다.",
           "articleIndices": [
-            4
+            2
           ],
           "relatedLinks": [
             {
-              "title": "유통은 전문화, AI·콘텐츠엔 1조원대 투자…정용진의 '선택과 확장'",
-              "url": "https://n.news.naver.com/mnews/article/421/0009240244?sid=101"
+              "title": "건기식 '3파전', 약국 대신 올리브영·다이소·편의점 간다",
+              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53908"
             }
           ],
           "articleCount": 1
@@ -115,34 +125,24 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "CU 하와이 5호점 개점",
-          "summary": "CU가 미국 진출 11개월 만에 하와이에서 초기 출점 목표의 절반을 달성하며 K-편의점 글로벌 확산을 가속화하고 있다.",
+          "emoji": "🍪",
+          "title": "CU 수입과자 라인업 확대",
+          "summary": "CU가 일본 쿠키 브랜드 '랑그리'와 벨기에 비스킷 '쥴스 데스트루퍼' 8종을 선보이며 프리미엄 수입과자 상품군을 확대하고 있다.",
           "articleIndices": [
+            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "CU, 편의점 본고장 美 하와이서 초기 출점 목표 절반 달성",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610200943085920255"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🚀",
-          "title": "CU 해외 점포 915개 돌파",
-          "summary": "CU의 해외 점포 수가 915개를 돌파했으며, 부산 신항 물류센터를 통해 '1000클럽' 달성을 향해 카운트다운 중이다.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
+              "title": "CU, 일본·벨기에 수입과자 확대···랑그리·쥴스 데스트루퍼 출시",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=150458"
+            },
             {
-              "title": "해외점포 915개 돌파한 CU, 부산 물류센터 통해 '1000클럽' 카운트다운",
-              "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48337"
+              "title": "CU, 일본·벨기에 프리미엄 쿠키 8종 선봬…수입과자 확대",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211552"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -150,31 +150,54 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "📺",
-          "title": "세븐일레븐 지역화폐 생리용품 지원",
-          "summary": "세븐일레븐이 용인시 여성청소년 생리용품 지원금 사용처로 선정되어 지역 복지 정책과 연계한 고객 접점 확대를 이루고 있다.",
+          "emoji": "💰",
+          "title": "GS25 초저가 PB 견과류",
+          "summary": "GS25가 980원 초저가 견과류 3종을 출시하며 1,000원 이하 PB 상품의 매출 비중을 17%까지 확대해 가성비 전략을 강화하고 있다.",
           "articleIndices": [
-            2
+            1,
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "용인시, 여성청소년 생리용품 지원금 하반기 신청 접수",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=2008311"
+              "title": "GS25, 980원 '하루한줌 견과류' 3종 출시… 초저가 PB 라인업 강화",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=120652"
+            },
+            {
+              "title": "GS25, PB '하루한줌 견과류' 3종 980원에 선봬…가성비 PB 전략 강화",
+              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4313"
             }
           ],
-          "articleCount": 1
+          "articleCount": 4
         },
         {
-          "emoji": "☕",
-          "title": "이마트24 PB '옐로우' 1주년 성과",
-          "summary": "이마트24의 자체브랜드 '옐로우'가 출시 1주년을 맞아 커피·생수 누적 판매량 1200만개를 돌파하며 PB 전략의 성공을 입증했다.",
+          "emoji": "🍜",
+          "title": "신라면 일본 편의점 확산",
+          "summary": "신라면 툼바가 세븐일레븐 출시 2주 만에 초도물량 100만개 완판 후 패밀리마트·로손 등으로 판매망을 확대하며 일본 편의점 시장을 장악하고 있다.",
           "articleIndices": [
-            6
+            5,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, PB '옐로우' 출시 1년…커피·생수 누적 1200만개 돌파",
-              "url": "http://www.metroseoul.co.kr/article/20261021500059"
+              "title": "농심, 무신사와 협업해 日 젊은층 공략… 오사카서 신라면 알린다",
+              "url": "https://n.news.naver.com/mnews/article/366/0001199817?sid=101"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "💄",
+          "title": "이마트24 토니모리 입점",
+          "summary": "토니모리가 이마트24의 올데이케어랩점 1,248개 매장에 입점하며 연내 2,500곳 확대를 계획해 뷰티 특화 채널 전략을 강화하고 있다.",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "토니모리, 이마트24 입점… 연내 2500곳 확대 계획",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875208"
             }
           ],
           "articleCount": 1
@@ -185,36 +208,24 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🥐",
-          "title": "호빵 시즈널 상품 인기",
-          "summary": "기온 하락으로 호빵 수요가 급증하면서 GS25의 호빵맨 협업 상품 등 캐릭터 기반 시즈널 디저트가 편의점 매출을 견인하고 있다.",
+          "emoji": "🍰",
+          "title": "편의점 일본 수입과자 열풍",
+          "summary": "일본 프리미엘 과자가 편의점에서 불티나게 팔리며 홋카이도 수플레 푸딩 16만개 한정판이 한 달 만에 완판되는 등 수입 디저트 시장이 급성장하고 있다.",
           "articleIndices": [
-            1,
-            3,
-            4
+            2,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 기온 떨어지자 호빵 매출 75.2%↑…'호빵맨' 협업 상품 출시",
-              "url": "https://n.news.naver.com/mnews/article/421/0009240378?sid=101"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🍚",
-          "title": "떡 제품 유통가 확산",
-          "summary": "유명 떡집 순례 트렌드 확산에 따라 백화점·편의점·외식·디저트 브랜드가 떡 관련 상품을 잇달아 출시하며 새로운 카테고리 성장을 주도하고 있다.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
+              "title": "\"일본 가면 꼭 사 먹던 건데\"…한국에도 들어온다는 '이 과자'",
+              "url": "https://n.news.naver.com/mnews/article/011/0004674238?sid=101"
+            },
             {
-              "title": "[비바100] 피자 올리고 과일 품고… 유통가 홀린 쫀득한 '떡' 한 입",
-              "url": "https://www.viva100.com/article/20261019500978"
+              "title": "[신상브리핑] 롯데마트, CU, 이디야커피, 맘스터치, 삼성웰스토리, KT&G ...",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417241"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     }
