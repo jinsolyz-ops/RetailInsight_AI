@@ -1,43 +1,48 @@
 {
-  "generatedAt": "2026-10-24T00:07:44.914Z",
+  "generatedAt": "2026-10-24T23:50:55.094Z",
   "summary": [
-    "CU, 일본·벨기에 프리미엄 수입과자 8종 출시로 선물 수요 공략",
-    "편의점 업계, 상품 개발 대전 전개…캐릭터 협업·뷰티·디저트 특화",
-    "세븐일레븐 캪틴큐 11년 만에 복귀, 하루 만에 한정판 완판"
+    "CU, 이동약자 도움벨 QR 서비스 3천 건 이용 달성으로 포용적 편의점 전략 강화",
+    "편의점 업계, 일본 디저트·뉴트로 제품으로 연말 소비 공략…CU·세븐일레븐 해외 소싱 경쟁",
+    "유통업계, AI 기술과 팬덤 마케팅으로 경기 둔화 극복…개인화 추천·콘텐츠 커머스 확대"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "편의점 상품 개발 대전",
-          "summary": "편의점 간 출점 속도 완만화로 점포 수 경쟁에서 벗어나 상품 개발 경쟁이 심화되며, 한정 수량 이슈 상품 공급 불균형 문제 대두.",
+          "emoji": "🎯",
+          "title": "연말 AI·팬덤 마케팅 전략",
+          "summary": "유통업계가 경기 둔화에 대응해 AI 기반 개인화 추천과 팬덤 겨냥 기획전으로 연말 쇼핑 수요 확보에 나섰다.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[진단] 몸집 키우기 멈춘 편의점… '상품 개발' 대전(大戰) 열었다",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424842"
+              "title": "'닫힌 지갑 열어라'…유통가, AI·이색 상품으로 연말 승부수",
+              "url": "https://n.news.naver.com/mnews/article/001/0016398420?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎯",
-          "title": "주말 할인 경쟁 심화",
-          "summary": "이마트·롯데마트 등 유통사들이 캠핑용품·계절가전·제철 먹거리 등 주말 쇼핑객 겨냥 대규모 할인 행사 전개.",
+          "emoji": "🍚",
+          "title": "햇반 30주년 글로벌 확대",
+          "summary": "CJ제일제당이 햇반 출시 30주년을 맞아 잡곡밥·단백질 제품 라인업 강화 및 2028년 연매출 1.5조 원 목표로 글로벌 시장 공략을 선언했다.",
           "articleIndices": [
+            4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "[주말 장보기] 이마트 캠핑용품 30%·롯데마트 고기 최대 40% 할인",
-              "url": "https://www.kizmom.com/news/articleView.html?idxno=113503"
+              "title": "'자취생 필수' 햇반 출시 30주년…'2028년 연매출 1조5천억원 시대 열 것",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440969"
+            },
+            {
+              "title": "[만났조] 김숙진 식품마케팅실장 '2028년 햇반 매출 1.5조, 해외 비중 25%'",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200027.html"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -45,24 +50,9 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 기반 쇼핑 경험 혁신",
-          "summary": "온라인 쇼핑의 검색 단계를 AI가 대체하며, 음성 명령으로 최저가 상품 추천·결제까지 자동화하는 에이전트 커머스 확산.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "[AI+]'휴지 가장 싼 데서 주문해줘' 한마디면 OK...AI가 결제까지",
-              "url": "https://n.news.naver.com/mnews/article/008/0005430985?sid=105"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📊",
-          "title": "신세계 온·오프 시너지 강화",
-          "summary": "신세계가 디지털 전환(DX)·AI 전환(AX) 기술 혁신으로 온라인 이커머스 부진 극복 및 온·오프라인 통합 전략 추진.",
+          "emoji": "🛍️",
+          "title": "신세계 온·오프 시너지 DX 전략",
+          "summary": "신세계가 디지털 전환(DX)과 AI 전환(AX)을 통해 온·오프라인 통합 전략을 추진하며 이커머스 시장의 중국계 경쟁과 내수 위축에 대응하고 있다.",
           "articleIndices": [
             1
           ],
@@ -73,6 +63,21 @@
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🤖",
+          "title": "AI 기반 스마트 쇼핑 경험",
+          "summary": "온라인 쇼핑의 검색 단계를 AI가 자동으로 최적 상품 추천으로 대체하면서 소비자 구매 경험이 근본적으로 변화하고 있다.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "[AI+]'휴지 가장 싼 데서 주문해줘' 한마디면 OK...AI가 결제까지",
+              "url": "https://n.news.naver.com/mnews/article/008/0005430985?sid=105"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -80,44 +85,34 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "월마트 AI 에이전트 결제 시스템",
-          "summary": "월마트가 AI 에이전트 전용 결제·관리 기능 도입으로 에이전트 커머스를 적극 수용하며, 연말 쇼핑철 겨냥한 경쟁 심화.",
+          "emoji": "🎨",
+          "title": "GS리테일 AI 라이프스타일 커머스",
+          "summary": "GS샵이 생성형 AI로 모바일 앱을 개편해 고객 데이터 기반 개인화 추천을 앱 화면의 50% 이상에 적용하며 아태소매업자대회 혁신 부문 대상을 수상했다.",
           "articleIndices": [
-            2,
-            7
+            3
           ],
           "relatedLinks": [
             {
-              "title": "월마트, 다음 달 '에이전트 프로필' 도입…AI가 대신 산 물건을 고객...",
-              "url": "https://www.wikitree.co.kr/articles/1168683"
-            },
-            {
-              "title": "[AI 프리즘] '아마존과 반대로'…월마트, AI 에이전트 전용 결제·관리 ...",
-              "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193589"
+              "title": "GS리테일, 아태소매업자대회서 '유통혁신 부문 대상'…'AI 혁신 인정'",
+              "url": "https://n.news.naver.com/mnews/article/079/0004202343?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "신세계 AI 기반 리테일 혁신",
-          "summary": "신세계그룹이 AI·클라우드·리테일테크 중심 경쟁력 강화로 그룹 차원 체질 개선 추진, 국내 유통업계 미래 척도 제시.",
+          "emoji": "📺",
+          "title": "CJ온스타일 크리에이터 커머스 강화",
+          "summary": "CJ온스타일이 콘텐츠 커머스에 데이터·AI 역량을 결합해 신뢰 기반의 크리에이터 커머스 새 기준을 수립하고 K브랜드 글로벌 진출을 지원하고 있다.",
           "articleIndices": [
-            3,
-            9
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[오너 리더십] '63주년' 정유경의 신세계 실험, 미래 유통 척도 세웠다",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=282283"
-            },
-            {
-              "title": "[유미's 픽] 신세계I&C 체질 바꾼 양윤지, 그룹서 실력 인정받았다…AI ...",
-              "url": "https://n.news.naver.com/mnews/article/092/0002442158?sid=105"
+              "title": "'이제는 콘텐츠 자체가 매장'…CJ온스타일, '크리에이터 커머스' 키운다",
+              "url": "https://n.news.naver.com/mnews/article/079/0004202341?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -125,36 +120,31 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍪",
-          "title": "수입과자 상품군 확대",
-          "summary": "CU가 일본 랑그리·벨기에 쥴스 데스트루퍼 등 프리미엄 쿠키 8종 출시로 빼빼로데이·수능·연말 선물 수요 공략.",
-          "articleIndices": [
-            2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 일본·벨기에 수입과자 확대···랑그리·쥴스 데스트루퍼 출시",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=150458"
-            },
-            {
-              "title": "CU, 일본·벨기에 프리미엄 쿠키 8종 선봬…수입과자 확대",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=211552"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "⏰",
-          "title": "마감 마케팅 서비스 운영",
-          "summary": "CU가 점주의 소비기한 임박 상품 앱 등록 시스템으로 할인 상품 판매 촉진, 마감런·못난이 농산물 인기 트렌드 활용.",
+          "emoji": "♿",
+          "title": "이동약자 도움벨 QR 서비스 확대",
+          "summary": "CU의 '이동약자 도움벨 QR 서비스'가 6월 출시 이후 3천 건 이용을 달성하며 포용적 편의점 경험 제공의 성과를 입증했다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "GS25·CU·배민, 마감시간 노린다...마감런·못난이 농산물 인기",
-              "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257085"
+              "title": "'문턱 낮아진 편의점!'...CU, 이동약자 '도움벨 QR 서비스' 이용 3천 건",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=137185"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍪",
+          "title": "CU 해외 프리미엄 디저트 소싱",
+          "summary": "CU가 일본 랑그드샤 전문 브랜드 '랑그리'와 벨기에 왕실 비스킷 등 프리미엄 수입 디저트를 연말 선물 수요에 맞춰 집중 출시하고 있다.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "'편의점 수입 디저트 늘린다'… CU·세븐일레븐, '해외 소싱' 활발",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424816"
             }
           ],
           "articleCount": 1
@@ -165,46 +155,51 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎃",
-          "title": "GS25 캐릭터 호빵 차별화",
-          "summary": "GS25가 인기 캐릭터 접목 호빵으로 차별화하며, 10월 15~19일 매출 75.2% 증가로 계절 상품 마케팅 성공.",
+          "emoji": "❄️",
+          "title": "GS25 방한용품·게임 IP 협업",
+          "summary": "GS25가 추위 본격화에 따라 핫팩·발열내의 매출을 1000% 이상 증가시켰으며, 무신사 스탠다드·게임 IP 협업으로 겨울 시즌 판매를 강화하고 있다.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[유통가 패트롤] 호빵 넘어 경량패딩까지...편의점 겨울 상품 넓어진다",
-              "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=146138"
+              "title": "가을 건너뛴 추위에 방한용품 인기…월동 소비 본격화",
+              "url": "https://www.sentv.co.kr/article/view/sentv202610230131"
+            },
+            {
+              "title": "AI와 팬덤 전략으로 승부하는 연말 유통업계, 쇼핑 트렌드 변화에 대응...",
+              "url": "https://www.gokorea.kr/news/articleView.html?idxno=882611"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍞",
+          "title": "세븐일레븐 캪틴큐 뉴트로 열풍",
+          "summary": "세븐일레븐의 11년 만에 복귀한 '캪틴큐'가 세븐앱 검색량 30만 건을 기록하며 MZ세대의 뉴트로 트렌드를 주도하고 있다.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "[MZ트렌드] 뉴트로 달고, 2030에 '첫인사'…11년 만에 닻 올린 '캪틴큐'",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=228773"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥤",
-          "title": "세븐일레븐 캪틴큐 복귀",
-          "summary": "세븐일레븐이 2015년 단종된 캪틴큐를 11년 만에 재출시하며 한정판이 하루 만에 완판, 재고 검색 30만건 돌파.",
+          "emoji": "🥃",
+          "title": "이마트24 프리미엄 위스키 독점",
+          "summary": "이마트24가 '김창수 위스키 셀레스티얼 목성' 등 완판 기록 상품을 신세계 쓱데이 기간에 한정 판매하며 프리미엄 주류 시장을 선점하고 있다.",
           "articleIndices": [
-            3
+            7
           ],
           "relatedLinks": [
             {
-              "title": "편의점 재고 찾기 30만건 폭주…11년 만에 돌아온 '캪틴큐'에 무슨 일...",
-              "url": "https://n.news.naver.com/mnews/article/022/0004169271?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "💄",
-          "title": "이마트24 뷰티 특화 편의점",
-          "summary": "이마트24가 토니모리·딘토 등 화장품 브랜드 입점 뷰티 특화 편의점 선보이며, 편의점 뷰티 매출 2~3배 폭증 트렌드 주도.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "K-뷰티, 美·日서 판매 호조…기술·유통 경쟁도 본격화 [뷰티풀위크]",
-              "url": "https://n.news.naver.com/mnews/article/123/0002392504?sid=101"
+              "title": "신세계그룹 쇼핑 축제 '쓱데이' 30일 개막…10일간 쇼핑·체험 혜택 총집",
+              "url": "http://www.efnews.co.kr/news/articleView.html?idxno=133427"
             }
           ],
           "articleCount": 1
@@ -215,36 +210,32 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎮",
-          "title": "게임 IP 편의점 협업 확대",
-          "summary": "넥슨 '블루 아카이브' 시즌3가 GS25 전국 편의점에서 게임 동아리 테마 도시락·디저트 한정 판매로 오프라인 외연 확장.",
+          "emoji": "🍟",
+          "title": "장원영 츄러스 2초 1개 판매 돌풍",
+          "summary": "MZ세대가 열광하는 '장원영 츄러스'가 2초에 1개씩 판매되며 식감의 재미를 더한 기획력으로 편의점 신상품 트렌드를 주도하고 있다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'편의점 도시락부터 국악 연주까지' 게임업계, 오프라인 외연 확장 박차",
-              "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=267499"
+              "title": "'또 품절?' 2초에 1개씩 팔린다…MZ 푹 빠진 '장원영 츄러스'",
+              "url": "https://n.news.naver.com/mnews/article/018/0006395604?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍜",
-          "title": "편의점 신상 간편식 출시",
-          "summary": "삼립·아워홈 등이 제스티 버거·훈제오리 비빔밥 등 TV 예능 연계 신상 간편식 출시로 편의점 신상 경쟁 심화.",
+          "emoji": "🍪",
+          "title": "편의점 해외 프리미엄 디저트 확대",
+          "summary": "일본 여행 열풍과 엔저 환율로 인해 일본 디저트가 편의점의 '효자 상품'으로 자리 잡았으며, CU·세븐일레븐이 글로벌 소싱 상품 260여 종을 선보이고 있다.",
           "articleIndices": [
-            4,
-            5
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[신제품 오늘 리뷰] 삼립·아워홈·웅진식품·SKT·소니코리아",
-              "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45786"
-            },
-            {
-              "title": "[신상브리핑] 삼립, 아워홈, GS25, 깨끗한나라, 모두투어, 노랑풍선, 쿠...",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417705"
+              "title": "'없어서 못 산다' 11년만에 돌아온 '전설의 양주'에 난리…편의점 점령...",
+              "url": "https://n.news.naver.com/mnews/article/277/0005833008?sid=101"
             }
           ],
           "articleCount": 2
