@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-23T00:14:23.159Z",
+  "generatedAt": "2026-10-24T00:07:44.914Z",
   "summary": [
-    "CU, 일본·벨기에 프리미엄 쿠키 8종 출시로 수입과자 라인업 강화",
-    "GS25, 980원 초저가 견과류 3종 출시로 가성비 PB 전략 가속화",
-    "농심·무신사, 일본 오사카 팝업서 신라면 시식 행사로 K-푸드 글로벌 확산"
+    "CU, 일본·벨기에 프리미엄 수입과자 8종 출시로 선물 수요 공략",
+    "편의점 업계, 상품 개발 대전 전개…캐릭터 협업·뷰티·디저트 특화",
+    "세븐일레븐 캪틴큐 11년 만에 복귀, 하루 만에 한정판 완판"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "농심·무신사 일본 협업",
-          "summary": "농심이 무신사 오사카 팝업스토어에서 신라면을 시식하게 하며 K-푸드 글로벌 마케팅을 강화하고 있다.",
+          "emoji": "🛍️",
+          "title": "편의점 상품 개발 대전",
+          "summary": "편의점 간 출점 속도 완만화로 점포 수 경쟁에서 벗어나 상품 개발 경쟁이 심화되며, 한정 수량 이슈 상품 공급 불균형 문제 대두.",
           "articleIndices": [
-            6
+            2
           ],
           "relatedLinks": [
             {
-              "title": "K패션 보러 왔다가 '신라면' 먹는다…일본서 손잡은 농심·무신사",
-              "url": "https://n.news.naver.com/mnews/article/022/0004169071?sid=101"
+              "title": "[진단] 몸집 키우기 멈춘 편의점… '상품 개발' 대전(大戰) 열었다",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424842"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📱",
-          "title": "이커머스 C2C 확대",
-          "summary": "무신사 등 이커머스 플랫폼이 해외 고객과 개인 간 거래(C2C)로 사업 영역을 확장하며 중고거래 시장 성장을 주도하고 있다.",
+          "emoji": "🎯",
+          "title": "주말 할인 경쟁 심화",
+          "summary": "이마트·롯데마트 등 유통사들이 캠핑용품·계절가전·제철 먹거리 등 주말 쇼핑객 겨냥 대규모 할인 행사 전개.",
           "articleIndices": [
-            1
+            5
           ],
           "relatedLinks": [
             {
-              "title": "해외 고객·개인 판매자까지…이커머스, 거래의 경계 넓힌다",
-              "url": "https://www.itdaily.kr/news/articleView.html?idxno=242381"
+              "title": "[주말 장보기] 이마트 캠핑용품 30%·롯데마트 고기 최대 40% 할인",
+              "url": "https://www.kizmom.com/news/articleView.html?idxno=113503"
             }
           ],
           "articleCount": 1
@@ -45,39 +45,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "CJ온스타일 크리에이터 커머스",
-          "summary": "CJ온스타일이 크리에이터를 단순 판매자에서 브랜드 사업가로 육성하며 데이터·AI 기반 맞춤 마케팅으로 발견형 쇼핑 시대를 주도하고 있다.",
+          "emoji": "🤖",
+          "title": "AI 기반 쇼핑 경험 혁신",
+          "summary": "온라인 쇼핑의 검색 단계를 AI가 대체하며, 음성 명령으로 최저가 상품 추천·결제까지 자동화하는 에이전트 커머스 확산.",
           "articleIndices": [
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[현장] CJ온스타일, 크리에이터 '판매자' 넘어 브랜드 사업가로…'2030년 목표'",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367868"
+              "title": "[AI+]'휴지 가장 싼 데서 주문해줘' 한마디면 OK...AI가 결제까지",
+              "url": "https://n.news.naver.com/mnews/article/008/0005430985?sid=105"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "버티컬커머스 AI 수익화",
-          "summary": "AI 버티컬커머스 수익화 프로젝트가 온라인 교육 플랫폼을 통해 셀러 전문성 강화에 나서며 이커머스 시장의 데이터 기반 경쟁력 강화를 가속화하고 있다.",
+          "emoji": "📊",
+          "title": "신세계 온·오프 시너지 강화",
+          "summary": "신세계가 디지털 전환(DX)·AI 전환(AX) 기술 혁신으로 온라인 이커머스 부진 극복 및 온·오프라인 통합 전략 추진.",
           "articleIndices": [
-            8,
-            9
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[2026 한국광고주대회] 특별세미나 개최... 미디어 진단부터 마케팅 사례...",
-              "url": "https://www.banronbodo.com/news/articleView.html?idxno=33216"
-            },
-            {
-              "title": "하이퍼스쿨, 'AI 버티컬커머스 수익화 프로젝트' 무료 라이브 29일 개최",
-              "url": "https://www.gosiweek.com/article/1065586419721649"
+              "title": "'젊고 독해진' 신세계… 온·오프 시너지·성과주의 대수술",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026102316442561444"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -85,39 +80,44 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 자동 계산대 고도화",
-          "summary": "파인더스에이아이가 딥테크 TIPS 선정으로 AI 자동 계산대의 정확도와 원가 최적화에 나서며 글로벌 무인 리테일 시장 선도를 추진하고 있다.",
+          "emoji": "🛒",
+          "title": "월마트 AI 에이전트 결제 시스템",
+          "summary": "월마트가 AI 에이전트 전용 결제·관리 기능 도입으로 에이전트 커머스를 적극 수용하며, 연말 쇼핑철 겨냥한 경쟁 심화.",
           "articleIndices": [
-            9,
-            10
+            2,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "파인더스에이아이, 딥테크 팁스 선정…15억원 지원받아 AI 자동 계산대 ...",
-              "url": "https://www.venturesquare.net/1122060/"
+              "title": "월마트, 다음 달 '에이전트 프로필' 도입…AI가 대신 산 물건을 고객...",
+              "url": "https://www.wikitree.co.kr/articles/1168683"
             },
             {
-              "title": "파인더스에이아이, AI 계산대 고도화 나선다…딥테크 팁스 선정",
-              "url": "https://n.news.naver.com/mnews/article/008/0005430209?sid=101"
+              "title": "[AI 프리즘] '아마존과 반대로'…월마트, AI 에이전트 전용 결제·관리 ...",
+              "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193589"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🎯",
-          "title": "생성형 AI 맞춤 건기식 추천",
-          "summary": "건기식 시장에서 생성형 AI를 활용한 개인 맞춤 영양제 추천이 확산되며 약국 대신 올리브영·다이소·편의점 채널로 유통 구조가 재편되고 있다.",
+          "emoji": "🏪",
+          "title": "신세계 AI 기반 리테일 혁신",
+          "summary": "신세계그룹이 AI·클라우드·리테일테크 중심 경쟁력 강화로 그룹 차원 체질 개선 추진, 국내 유통업계 미래 척도 제시.",
           "articleIndices": [
-            2
+            3,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "건기식 '3파전', 약국 대신 올리브영·다이소·편의점 간다",
-              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53908"
+              "title": "[오너 리더십] '63주년' 정유경의 신세계 실험, 미래 유통 척도 세웠다",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=282283"
+            },
+            {
+              "title": "[유미's 픽] 신세계I&C 체질 바꾼 양윤지, 그룹서 실력 인정받았다…AI ...",
+              "url": "https://n.news.naver.com/mnews/article/092/0002442158?sid=105"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -126,11 +126,11 @@
       "issues": [
         {
           "emoji": "🍪",
-          "title": "CU 수입과자 라인업 확대",
-          "summary": "CU가 일본 쿠키 브랜드 '랑그리'와 벨기에 비스킷 '쥴스 데스트루퍼' 8종을 선보이며 프리미엄 수입과자 상품군을 확대하고 있다.",
+          "title": "수입과자 상품군 확대",
+          "summary": "CU가 일본 랑그리·벨기에 쥴스 데스트루퍼 등 프리미엄 쿠키 8종 출시로 빼빼로데이·수능·연말 선물 수요 공략.",
           "articleIndices": [
-            1,
-            2
+            2,
+            3
           ],
           "relatedLinks": [
             {
@@ -143,6 +143,21 @@
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "⏰",
+          "title": "마감 마케팅 서비스 운영",
+          "summary": "CU가 점주의 소비기한 임박 상품 앱 등록 시스템으로 할인 상품 판매 촉진, 마감런·못난이 농산물 인기 트렌드 활용.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "GS25·CU·배민, 마감시간 노린다...마감런·못난이 농산물 인기",
+              "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257085"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -150,54 +165,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💰",
-          "title": "GS25 초저가 PB 견과류",
-          "summary": "GS25가 980원 초저가 견과류 3종을 출시하며 1,000원 이하 PB 상품의 매출 비중을 17%까지 확대해 가성비 전략을 강화하고 있다.",
+          "emoji": "🎃",
+          "title": "GS25 캐릭터 호빵 차별화",
+          "summary": "GS25가 인기 캐릭터 접목 호빵으로 차별화하며, 10월 15~19일 매출 75.2% 증가로 계절 상품 마케팅 성공.",
           "articleIndices": [
-            1,
-            2,
-            3,
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 980원 '하루한줌 견과류' 3종 출시… 초저가 PB 라인업 강화",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=120652"
-            },
-            {
-              "title": "GS25, PB '하루한줌 견과류' 3종 980원에 선봬…가성비 PB 전략 강화",
-              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4313"
+              "title": "[유통가 패트롤] 호빵 넘어 경량패딩까지...편의점 겨울 상품 넓어진다",
+              "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=146138"
             }
           ],
-          "articleCount": 4
+          "articleCount": 1
         },
         {
-          "emoji": "🍜",
-          "title": "신라면 일본 편의점 확산",
-          "summary": "신라면 툼바가 세븐일레븐 출시 2주 만에 초도물량 100만개 완판 후 패밀리마트·로손 등으로 판매망을 확대하며 일본 편의점 시장을 장악하고 있다.",
+          "emoji": "🥤",
+          "title": "세븐일레븐 캪틴큐 복귀",
+          "summary": "세븐일레븐이 2015년 단종된 캪틴큐를 11년 만에 재출시하며 한정판이 하루 만에 완판, 재고 검색 30만건 돌파.",
           "articleIndices": [
-            5,
-            7
+            3
           ],
           "relatedLinks": [
             {
-              "title": "농심, 무신사와 협업해 日 젊은층 공략… 오사카서 신라면 알린다",
-              "url": "https://n.news.naver.com/mnews/article/366/0001199817?sid=101"
+              "title": "편의점 재고 찾기 30만건 폭주…11년 만에 돌아온 '캪틴큐'에 무슨 일...",
+              "url": "https://n.news.naver.com/mnews/article/022/0004169271?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
           "emoji": "💄",
-          "title": "이마트24 토니모리 입점",
-          "summary": "토니모리가 이마트24의 올데이케어랩점 1,248개 매장에 입점하며 연내 2,500곳 확대를 계획해 뷰티 특화 채널 전략을 강화하고 있다.",
+          "title": "이마트24 뷰티 특화 편의점",
+          "summary": "이마트24가 토니모리·딘토 등 화장품 브랜드 입점 뷰티 특화 편의점 선보이며, 편의점 뷰티 매출 2~3배 폭증 트렌드 주도.",
           "articleIndices": [
-            8
+            5
           ],
           "relatedLinks": [
             {
-              "title": "토니모리, 이마트24 입점… 연내 2500곳 확대 계획",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875208"
+              "title": "K-뷰티, 美·日서 판매 호조…기술·유통 경쟁도 본격화 [뷰티풀위크]",
+              "url": "https://n.news.naver.com/mnews/article/123/0002392504?sid=101"
             }
           ],
           "articleCount": 1
@@ -208,21 +215,36 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 일본 수입과자 열풍",
-          "summary": "일본 프리미엘 과자가 편의점에서 불티나게 팔리며 홋카이도 수플레 푸딩 16만개 한정판이 한 달 만에 완판되는 등 수입 디저트 시장이 급성장하고 있다.",
+          "emoji": "🎮",
+          "title": "게임 IP 편의점 협업 확대",
+          "summary": "넥슨 '블루 아카이브' 시즌3가 GS25 전국 편의점에서 게임 동아리 테마 도시락·디저트 한정 판매로 오프라인 외연 확장.",
           "articleIndices": [
-            2,
-            6
+            1
           ],
           "relatedLinks": [
             {
-              "title": "\"일본 가면 꼭 사 먹던 건데\"…한국에도 들어온다는 '이 과자'",
-              "url": "https://n.news.naver.com/mnews/article/011/0004674238?sid=101"
+              "title": "'편의점 도시락부터 국악 연주까지' 게임업계, 오프라인 외연 확장 박차",
+              "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=267499"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍜",
+          "title": "편의점 신상 간편식 출시",
+          "summary": "삼립·아워홈 등이 제스티 버거·훈제오리 비빔밥 등 TV 예능 연계 신상 간편식 출시로 편의점 신상 경쟁 심화.",
+          "articleIndices": [
+            4,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "[신제품 오늘 리뷰] 삼립·아워홈·웅진식품·SKT·소니코리아",
+              "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45786"
             },
             {
-              "title": "[신상브리핑] 롯데마트, CU, 이디야커피, 맘스터치, 삼성웰스토리, KT&G ...",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417241"
+              "title": "[신상브리핑] 삼립, 아워홈, GS25, 깨끗한나라, 모두투어, 노랑풍선, 쿠...",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417705"
             }
           ],
           "articleCount": 2
