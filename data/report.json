@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-25T23:39:50.808Z",
+  "generatedAt": "2026-10-27T00:58:35.553Z",
   "summary": [
-    "편의점 3사 떡 디저트 경쟁 심화, CU 모찌파베·세븐일레븐 호박인절미 동시 출시",
-    "신세계 정용진 13년 만 이마트 복귀, 2027년 임원인사로 경영체계 대폭 개편",
-    "CU 이동약자 도움벨 QR 서비스 3000건 돌파, 접근성 강화 ESG 전략 확대"
+    "CU, 반려동물 전문 브랜드와 협업해 전국 10개 점포에 특화 매장 오픈",
+    "GS25, 2027년까지 전남광주산 쌀 1만2000톤 공급 약정으로 지역 농산물 활용 강화",
+    "세븐일레븐, 일본 토라쿠 크림브륄레푸딩 단독 직소싱으로 프리미엄 디저트 시장 공략"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎄",
-          "title": "2027년 조기 준비 마케팅",
-          "summary": "유통업계가 새해 다이어리·달력·연말 굿즈 기획전으로 두 달 앞서 시즌 마케팅을 시작하며 조기 수요 공략 경쟁 심화.",
+          "emoji": "🏬",
+          "title": "대형마트 초저가 전략",
+          "summary": "대형마트가 다이소 모델을 벤치마킹하며 초저가 비식품 상품으로 쿠팡 등 이커머스와의 경쟁 구도에 진입하고 있다.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[마케팅 인사이트] '파워 J는 벌써 2027년 준비 중'",
-              "url": "https://www.banronbodo.com/news/articleView.html?idxno=33221"
+              "title": "'제2다이소' 만드는 대형마트… 겨눈 곳은 이커머스?",
+              "url": "https://n.news.naver.com/mnews/article/005/0001881019?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💰",
-          "title": "캪틴큐 복고 마케팅 수집 열풍",
-          "summary": "캪틴큐 한정판 순은 주화가 중고거래 플랫폼에서 18만원대로 거래되며 브랜드 역사와 수집 요소를 결합한 복고 마케팅의 성공 사례 입증.",
+          "emoji": "✨",
+          "title": "크리에이터 IP 커머스화",
+          "summary": "레페리가 진세훈 신임 공동대표 선임으로 크리에이터 IP를 온·오프라인 뷰티 스토어로 직결시키는 K컬처 융복합 전략을 추진 중이다.",
           "articleIndices": [
-            4
+            7
           ],
           "relatedLinks": [
             {
-              "title": "'18만원에 팝니다'…추억의 '캪틴큐' 재테크족 몰려든 이유",
-              "url": "https://n.news.naver.com/mnews/article/015/0005346320?sid=101"
+              "title": "레페리, 진세훈 신임 공동대표 선임… K컬처 융복합 '뷰티테일' 정조준",
+              "url": "https://www.nc.press/news/articleView.html?idxno=629524"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "외국인 관광객 편의점 매출 급증",
-          "summary": "CU 해외 매출이 78% 급증하며 편의점이 외국인 관광객의 주요 쇼핑 코스로 자리 잡았고, K디저트 등 현지 수요 대응이 성장 동력.",
+          "emoji": "🛒",
+          "title": "버티컬 커머스 AI 마케팅",
+          "summary": "스토어링크가 쿠팡·네이버 등 양대 채널과 버티컬 커머스 100개 채널을 아우르는 AI 마케팅 플랫폼으로 한국 커머스 시장의 특수성에 대응하고 있다.",
           "articleIndices": [
-            2
+            8,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "\"韓 편의점, 정말 먹을 거 없다\" 한숨 쉰 외국인 여성…'빈손 퇴장'",
-              "url": "https://n.news.naver.com/mnews/article/011/0004674842?sid=102"
+              "title": "[컬처슬로건 탐방기] 스토어링크, AI 시대에 필요한 건 속도",
+              "url": "https://www.venturesquare.net/1123206/"
+            },
+            {
+              "title": "\"AI가 추천하는 브랜드를 설계한다\"… 스토어링크, AI 마케팅 플랫폼...",
+              "url": "https://www.venturesquare.net/1122669/"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🚚",
-          "title": "CJ올리브영 비수도권 투자 확대",
-          "summary": "CJ올리브영이 비수도권 1238억 투자로 세종·제주 등 지역 매장 확대 및 당일배송 '오늘드림' 서비스 강화로 지역 고객 기반 확보.",
+          "emoji": "📱",
+          "title": "온·오프라인 연계 경영체제",
+          "summary": "정용진 회장이 13년 만에 이마트 대표로 복귀하며 신세계TV쇼핑·신세계까사와의 상품 운영 및 온라인 장보기 사업을 긴밀하게 연결하는 통합 전략을 추진 중이다.",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "CJ올리브영, 비수도권 1238억 투자 이행 중…\"4분기 매장 잇단 오픈\"",
-              "url": "https://www.g-enews.com/view.php?ud=202610231515087841056c162803_1"
+              "title": "[이슈] 정용진 회장 13년 만 이마트 대표 복귀…유통 '온·오프라인 연계...",
+              "url": "http://www.paxetv.com/news/articleView.html?idxno=285206"
             }
           ],
           "articleCount": 1
@@ -81,30 +86,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "유통사 AI 데이터 분석 마케팅",
-          "summary": "유통업계가 연말 쇼핑 대목을 앞두고 AI로 고객 데이터를 분석해 맞춤형 마케팅과 이색 기획전으로 위축된 소비심리 회복 전략 추진.",
+          "title": "AI 큐레이션 커머스 확대",
+          "summary": "롯데 칼리버스와 시시호시가 협업해 AI 큐레이터 기능과 이머시브 콘텐츠를 결합한 차별화된 고객 경험을 제공하며 엔터테인먼트·뷰티·교육 등 다양한 분야로 확장 중이다.",
           "articleIndices": [
-            5
+            7
           ],
           "relatedLinks": [
             {
-              "title": "꽁꽁 언 소비심리 녹여라… 유통가, AI·이색 IP 상품으로 승부",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3442935"
+              "title": "AI 큐레이터가 상품 추천 …롯데 칼리버스·백화점, 시시호시 협업",
+              "url": "https://n.news.naver.com/mnews/article/030/0003478942?sid=105"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏢",
-          "title": "신세계 AI 분야 투자 확대",
-          "summary": "신세계그룹이 2027년 임원인사와 함께 이마트 기획전략본부를 폐지하고 AI 분야 투자를 확대하며 경영체계 전면 개편.",
+          "emoji": "🛍️",
+          "title": "AI 기반 개인화 추천 플랫폼",
+          "summary": "파나틱스가 오픈AI와 협력해 150만개 상품 중 고객 특성에 맞는 상품을 AI로 추천하는 개인화 솔루션을 출시하며 유통업계의 오랜 과제인 개인화를 기술로 해결하고 있다.",
           "articleIndices": [
-            1
+            2
           ],
           "relatedLinks": [
             {
-              "title": "'조직·시스템 다 바꿔라'…정용진, 신세계 경영체계 새판 짰다",
-              "url": "https://www.apnews.kr/news/articleView.html?idxno=3052446"
+              "title": "150만개 상품 속 '내 팀 코디' 찾는다…파나틱스, 오픈AI와 맞손",
+              "url": "https://n.news.naver.com/mnews/article/092/0002442471?sid=103"
             }
           ],
           "articleCount": 1
@@ -115,36 +120,21 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍫",
-          "title": "떡 디저트 라인업 확대",
-          "summary": "CU가 모찌와 파베 초콜릿을 결합한 '모찌 파베 초콜릿 말차맛'을 출시하며 떡 디저트 카테고리 강화로 트렌드 선도.",
+          "emoji": "🐾",
+          "title": "반려동물 특화 매장 확대",
+          "summary": "CU가 반려동물 전문 브랜드 '아무도없개'와 협업해 전국 10개 점포에 반려동물 용품 특화 매장을 운영하며, 반려동물 용품 매출이 2024년 23.9% 증가한 성장세를 활용하고 있다.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "CU, 떡 디저트 라인업 확대…'모찌 파베 초콜릿 말차맛' 선봬",
-              "url": "https://www.lawissue.co.kr/view.php?ud=202610260807475939204ead0791_12"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "♿",
-          "title": "이동약자 도움벨 3000건 돌파",
-          "summary": "CU의 QR 기반 '이동약자 도움벨 서비스'가 도입 5개월 만에 3000건 이용을 기록하며 장애인·고령자 접근성 강화 ESG 전략 성과 입증.",
-          "articleIndices": [
-            2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "[業살린 ESG] '장벽 없는 편의점'…이동약자, CU '도움벨' 3000회 이용",
-              "url": "https://www.apnews.kr/news/articleView.html?idxno=3052448"
+              "title": "간식부터 배변패드까지…CU 안에 반려동물 전문 매장 들어선다",
+              "url": "https://www.smarttoday.co.kr/ko-kr/articles/113146"
             },
             {
-              "title": "CU, '이동약자 도움벨 QR 서비스' 이용 실적 누적 3000건",
-              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=884727"
+              "title": "[편의점 브리핑] CU 반려동물 특화매장·GS25 지역 쌀 공급·세븐일레븐...",
+              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=80954"
             }
           ],
           "articleCount": 2
@@ -155,88 +145,66 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "GS25 쿠팡 와우카드 협력",
-          "summary": "GS25가 쿠팡 와우카드와 협력해 편의점 결제 시 1% 추가 적립 및 커피·소상공인 매장 혜택으로 결제 생태계 강화.",
+          "emoji": "🌾",
+          "title": "GS25 지역 농산물 공급망",
+          "summary": "GS25가 2027년까지 전남광주산 쌀 1만2000톤을 공급받기로 약정하며 김밥·도시락 등 간편식에 지역 농산물을 활용한 차별화 전략을 추진 중이다.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "쿠팡, 혜택 강화 '와우카드' 신규 프로모션 선봬",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=776330"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍡",
-          "title": "세븐일레븐 떡 신상품 출시",
-          "summary": "세븐일레븐이 29일 인기 떡집 메뉴 기반 '호박인절미떡'·'흑임자떡' 출시로 편의점 3사 떡 디저트 경쟁 가열.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "3000원대 호박인절미·피자설기… 편의점 3사 '떡' 대전",
-              "url": "https://n.news.naver.com/mnews/article/366/0001200209?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📈",
-          "title": "이마트24 쓱데이 할인 강화",
-          "summary": "이마트24가 신세계 '쓱데이' 30일부터 도시락·삼각김밥 등 인기 상품 양을 최대 50% 늘려 판매하며 연말 수요 공략.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "신세계 '쓱데이' 30일부터… 2조 규모 할인행사",
-              "url": "https://n.news.naver.com/mnews/article/020/0003757475?sid=101"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
-    },
-    {
-      "name": "상품 이슈",
-      "issues": [
-        {
-          "emoji": "🍰",
-          "title": "편의점 떡 디저트 경쟁 심화",
-          "summary": "떡지순례 트렌드와 외국인 관광객 K디저트 수요에 힘입어 CU·세븐일레븐·이마트24가 초콜릿·피자 토핑 등 이색 떡 신상품 동시 출시.",
-          "articleIndices": [
-            1,
             2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "초콜모찌부터 피자설기…편의점, 떡 디저트 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/277/0005833199?sid=101"
+              "title": "GS25 김밥·도시락에 지역 쌀 담는다…내년 1만2000톤 공급 약정",
+              "url": "https://n.news.naver.com/mnews/article/092/0002442493?sid=103"
+            },
+            {
+              "title": "GS25 '김밥·도시락'에 전남광주산 쌀 쓴다 … 2027년 1.2만톤 확보",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700041.html"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
         },
         {
-          "emoji": "⭐",
-          "title": "장원영 츄러스 품절 열풍",
-          "summary": "MZ 세대 사이에서 장원영 츄러스가 품절 사태를 일으키며 연예인 협업 상품의 SNS 바이럴 마케팅 효과 입증.",
+          "emoji": "🍰",
+          "title": "세븐일레븐 프리미엄 디저트",
+          "summary": "세븐일레븐이 일본 토라쿠의 크림브륄레푸딩을 국내에 단독 직소싱해 2030세대를 겨냥한 프리미엄 디저트 시장을 공략하고 있다.",
           "articleIndices": [
+            4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "'또 품절이에요?'…MZ 사이 난리 난 '장원영 츄러스'",
-              "url": "https://n.news.naver.com/mnews/article/018/0006395604?sid=101"
+              "title": "세븐일레븐, '토라쿠 크림브륄레푸딩' 단독 직소싱",
+              "url": "https://www.sentv.co.kr/article/view/sentv202610270024"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍞",
+          "title": "롯데 숨결통식빵 100만개 돌파",
+          "summary": "롯데마트·슈퍼와 세븐일레븐의 협업 PB 상품 '숨결통식빵'이 출시 193일 만에 누적 판매량 100만개를 돌파하며 고품질 가성비 상품의 강력한 소비자 수요를 입증했다.",
+          "articleIndices": [
+            4,
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "'롯데 계열사 협업' 숨결통식빵, 출시 193일 만에 판매량 100만개 돌파",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=150857"
+            },
+            {
+              "title": "롯데 '숨결통식빵', 출시 193일 만에 100만개 판매…하루 평균 5180개",
+              "url": "http://www.kdfnews.com/news/articleView.html?idxno=189937"
+            }
+          ],
+          "articleCount": 2
         }
       ]
+    },
+    {
+      "name": "상품 이슈",
+      "issues": []
     }
   ]
 }
