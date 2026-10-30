@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-10-29T01:20:58.361Z",
+  "generatedAt": "2026-10-30T01:25:01.319Z",
   "summary": [
-    "CU 군고구마 매출 호빵의 3배 달성, 사계절 판매 확대로 시즈널 상품 전환 성공",
-    "11번가·무신사·쿠팡 등 AI 이미지검색·추천 기술 도입으로 11월 쇼핑대전 경쟁 심화",
-    "이마트24 뷰티·패션 1800점포 13일 만에 달성, 편의점 카테고리 확장 경쟁 가속화"
+    "CU, 밥 짓는 물·스마트 쿠커로 간편식 품질 혁신 추진",
+    "편의점 3사, SNS 열풍 '떡 디저트' 상품군 확대 경쟁",
+    "11번가·쿠팡, AI 쇼호스트·상품 요약 기능으로 라이브커머스 차별화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🏢",
-          "title": "유통사 사옥 이전 트렌드",
-          "summary": "한국맥도날드 등 유통업계가 도심 핵심지역으로 사옥을 이전하며 기업 이미지 재정의 및 운영 효율화 추진 중.",
+          "emoji": "🎄",
+          "title": "백화점 크리스마스 테마 경쟁",
+          "summary": "현대백화점이 1980~90년대 뉴욕 거리 테마로 고객 체류와 참여를 유도하는 연말 공간 마케팅 전개, 백화점 3사의 차별화 경쟁 심화.",
           "articleIndices": [
-            1
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[리테일 읽기] 기업은 왜 새집으로 옮길까",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=755168"
+              "title": "현대백화점, 전국 점포에 '8090 뉴욕 거리' 크리스마스 테마 순차 공개",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=138055"
+            },
+            {
+              "title": "크리스마스 앞둔 백화점3사···고객 발길 잡을 테마 공간 경쟁",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=641409"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🎁",
-          "title": "롯데 서프라이즈 위크",
-          "summary": "롯데아울렛·몰이 블랙프라이데이 시즌에 최대 30% 추가할인과 체험형 팝업스토어로 겨울 쇼핑 수요 공략.",
+          "emoji": "💰",
+          "title": "롯데마트 메가통큰 할인전",
+          "summary": "롯데마트가 2주간 한우 반값, 전복 60% 할인 등 대규모 할인전 '메가통큰'으로 고물가 시대 소비자 장바구니 부담 경감 전략 추진.",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "롯데아울렛·몰, '서프라이즈 위크'…최대 30% 추가 할인",
-              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=303682"
+              "title": "한우 반값에 전복 60% 할인까지…롯데마트 '메가통큰'에 담긴 장바구니",
+              "url": "https://n.news.naver.com/mnews/article/022/0004171047?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,16 +50,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🎨",
-          "title": "아마존 K뷰티 신규셀러 전략",
-          "summary": "아마존이 '아마존 뷰티 인 서울' 개최로 K뷰티 신규셀러 발굴 및 헤어케어 카테고리 확대로 글로벌 시장 공략.",
+          "emoji": "🏆",
+          "title": "쿠팡 오픈마켓 평판 1위 수성",
+          "summary": "쿠팡이 10월 오픈마켓 평판 1400만 점으로 1위를 유지하며 광군제·블랙프라이데이 대목 앞 경쟁력 강화.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "쿠팡, 10월 오픈마켓 평판 1400만 점 '1위 수성'…11번가·G마켓 순 '톱3'",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=138018"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🛍️",
+          "title": "쿠팡 CPLB 중소 파트너사 지원",
+          "summary": "쿠팡이 자체 PB 브랜드 CPLB를 통해 지역 소상공인에게 8주 교육과 맞춤형 컨설팅 제공, PB 매출 90%를 중소 파트너사에 배분하는 상생 전략 추진.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "\"K뷰티 열풍 언제까지?\"…아마존, '신규 셀러·헤어케어'로 답 찾는...",
-              "url": "https://n.news.naver.com/mnews/article/243/0000104808?sid=101"
+              "title": "쿠팡 CPLB 'PB 매출 90% 중소 파트너사…농산물 경쟁력 제고'",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283105"
             }
           ],
           "articleCount": 1
@@ -66,36 +86,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 이미지검색 서비스 경쟁",
-          "summary": "무신사 '렌즈', 11번가 AI 어시스턴트 등 주요 이커머스가 AI 기반 이미지검색·상품추천으로 11월 쇼핑대전 고객경험 고도화.",
+          "title": "11번가 AI 쇼호스트 도입",
+          "summary": "11번가가 '그랜드십일절' 행사에서 AI 쇼호스트와 참여형 콘텐츠를 도입해 라이브커머스에 AI 기술 접목, 연중 최대 쇼핑 대목 차별화 전략 추진.",
           "articleIndices": [
-            1,
-            2,
-            9
+            8
           ],
           "relatedLinks": [
             {
-              "title": "마음에 든 옷 사진만 올리면 끝…무신사·네이버·오늘의집 'AI 검색' 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/022/0004170709?sid=101"
-            },
-            {
-              "title": "11번가, 내달 1일 연중 최대 할인 '2026 그랜드십일절'…AI 쇼핑 도입",
-              "url": "https://www.inthenews.co.kr/news/article.html?no=93684"
+              "title": "11번가, AI 쇼호스트 첫선…'그랜드십일절' 라이브 커머스 차별화",
+              "url": "https://n.news.naver.com/mnews/article/030/0003480389?sid=101"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "💡",
-          "title": "AI 특가상품 선별 확대",
-          "summary": "이마트 등 대형유통이 AI로 특가상품을 선별하고 특가딜 상품을 기존 1000개에서 3000개로 3배 확대하며 11월 경쟁 강화.",
+          "emoji": "🔍",
+          "title": "플랫폼 AI 정책 변화와 판매자 영향",
+          "summary": "네이버 등 대형 플랫폼의 AI 기반 검색·노출 정책 변화로 영세 판매자의 광고비 부담 증가, 입점 업체 매출 직결 이슈 발생.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "'11월 쇼핑 대목 잡아라'…유통업계, 대규모 할인전 총력",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419223"
+              "title": "'착한 기업'도 흔들린다···플랫폼 광고비 압박에 영세 판매자 '직격탄'",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486401"
             }
           ],
           "articleCount": 1
@@ -106,52 +120,37 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍠",
-          "title": "CU 군고구마 매출 3배 성장",
-          "summary": "CU 군고구마가 올해 1~9월 44.5% 성장으로 호빵의 3배 매출을 기록하며 사계절 판매 및 외국인 고객 수요 확대로 시즈널 상품 전환 성공.",
+          "emoji": "💧",
+          "title": "CU 푸드테크 품질 혁신",
+          "summary": "BGF리테일이 CU 간편식 품질 개선을 위해 밥 짓는 물을 연수로 변경하고 스마트 쿠커 도입, 푸드테크랩 전담 조직 신설로 토털 밀 솔루션 제공 전략 추진.",
           "articleIndices": [
+            2,
             3,
-            4,
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "CU 군고구마, 호빵 매출 3배…여름에도 찾는다",
-              "url": "https://www.joongangenews.com/news/articleView.html?idxno=559335"
+              "title": "밥 짓는 물부터 스마트 쿠커까지…CU '한 끼 품질' 높였다[르포]",
+              "url": "https://n.news.naver.com/mnews/article/018/0006399582?sid=101"
             },
             {
-              "title": "CU 군고구마 매출 호빵의 3배…올해도 44.5% 성장",
-              "url": "https://n.news.naver.com/mnews/article/421/0009256790?sid=101"
+              "title": "[르포] 9명이 만들던 김밥, 이젠 3명이…CU 간편식품 만드는 공장 가보니",
+              "url": "https://n.news.naver.com/mnews/article/011/0004676886?sid=101"
             }
           ],
           "articleCount": 3
         },
         {
-          "emoji": "🍮",
-          "title": "CU 군고구마 구매연계형 할인",
-          "summary": "CU가 11월 군고구마 수요 증가 시즌에 저지방 멸균우유와 함께 구매 시 500원 할인하는 크로스셀링 프로모션 전개.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "[똑똑한유통] 롯데하이마트, G마켓, CU, 이마트24, GS샵, 당근, 우아한형...",
-              "url": "https://www.ekn.kr/web/view.php?key=20261029028122665"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🔧",
-          "title": "CU 스마트쿠커 공동개발",
-          "summary": "마이디어코리아와 CU가 바코드 인식형 스마트쿠커를 공동개발·공급하며 대학가·원룸 밀집지역 B2B 가전시장 공략 본격화.",
+          "emoji": "🎯",
+          "title": "밀크파트너스 CU 방문 이벤트",
+          "summary": "밀크파트너스가 11월 한 달간 CU 매장 3곳 방문 스탬프 이벤트로 포키 교환권 제공, 모바일 앱 기반 리워드 마케팅 전개.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "마이디어코리아-CU, 바코드 인식형 '스마트쿠커' 공동개발 및 공급",
-              "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279934"
+              "title": "밀크파트너스, CU와 '밀크스텝' 방문 이벤트…'포키' 교환권 제공",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=777713"
             }
           ],
           "articleCount": 1
@@ -162,50 +161,54 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "GS25 캪틴큐 한정판 98% 소진",
-          "summary": "GS25의 캪틴큐 보물상자 한정판이 21일 기준 입고물량 중 약 98% 소진되며 편의점 한정판 상품 경쟁 심화.",
+          "emoji": "🎖️",
+          "title": "GS25 독립유공자 보훈 캠페인",
+          "summary": "GS리테일이 2017년부터 독도 사랑 캠페인에 이어 올해 보훈을 주요 사회공헌 분야로 정하고 독립유공자 묘소 18곳에 안내판 지원, GS25 매장·앱·SNS 통해 보훈기념일 알림 활동 지속.",
           "articleIndices": [
-            2
+            1,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "'11년 만의 귀환' 캪틴큐…한정판 1만2000세트 하루 만에 소진",
-              "url": "https://n.news.naver.com/mnews/article/123/0002392845?sid=101"
+              "title": "잊혀진 영웅 알린다... GS리테일, 독립유공자 묘소 18곳에 안내판 지원",
+              "url": "https://www.insight.co.kr/news/579867"
+            },
+            {
+              "title": "GS리테일 '나라사랑 활동, 보훈 지원으로 넓힌다'",
+              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486332"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🎬",
-          "title": "세븐일레븐 캪틴큐 우리카드 할인",
-          "summary": "세븐일레븐이 캪틴큐 360㎖ 단품을 9900원에 판매하며 우리카드 결제 시 20% 할인 제공으로 한정판 상품 마케팅 강화.",
+          "emoji": "☕",
+          "title": "세븐일레븐 경영개선 프로젝트",
+          "summary": "코리아세븐이 2024년 3월부터 점포 경쟁력 강화, 우량점포 확대, 특화상품군·푸드 품질 강화 중심의 경영개선 프로젝트 진행 중, 적자 규모 축소 목표.",
           "articleIndices": [
             7
           ],
           "relatedLinks": [
             {
-              "title": "롯데칠성음료 '캪틴큐' 한정판 세트 출시, '이틀 뒤 깨어난다' 농담 활용...",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450585"
+              "title": "[더벨][밸류업 프로그램 리뷰] 롯데지주, PBR 회복 첫 관문 부진 계열사",
+              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610271733134080108619"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "💄",
-          "title": "이마트24 뷰티·패션 1800점포 달성",
-          "summary": "이마트24가 뷰티·패션 상품 출시 13일 만에 1800점포 도입을 달성하며 편의점 카테고리 확장 경쟁 가속화.",
+          "title": "이마트24 뷰티·패션 상품 확대",
+          "summary": "이마트24가 뷰티·패션 상품 정식 도입 후 13일 만에 전국 1800개 점포 돌파, 편의점 상품군 확장 경쟁 심화.",
           "articleIndices": [
-            9,
-            12
+            11
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, 뷰티·패션 점포…13일 만에 1800곳으로 늘어",
-              "url": "https://n.news.naver.com/mnews/article/374/0000540479?sid=101"
+              "title": "'편의점서 틴트 사고 양말 산다'… 이마트24, 뷰티·패션 도입 1800 매장 돌파",
+              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424980"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -213,31 +216,37 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍪",
-          "title": "농심 너구링 수능응원 이벤트",
-          "summary": "농심이 대학수학능력시험 앞두고 너구링 응원 이벤트로 편의점·대형마트 1만2000세트를 하루 만에 전량 소진하며 시즈널 마케팅 성공.",
+          "emoji": "🍡",
+          "title": "편의점 떡 디저트 열풍",
+          "summary": "SNS 유튜브 채널 통해 호박 인절미 등 떡 디저트가 27일 만에 10만 개 판매, 편의점 3사(CU·세븐일레븐·이마트24)가 떡 상품군 확대 경쟁 전개, CU 떡 매출 2024년 42.2% 증가.",
           "articleIndices": [
-            1
+            1,
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[유통갤러리] 농심, 대학수학능력시험 앞두고 '너구링 응원 이벤트' ...",
-              "url": "https://theviewers.co.kr/View.aspx?No=4288071"
+              "title": "'23초에 1개씩 팔렸다' 카페인중독 떡 디저트 '떡플' 27일 만에 10만 개",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66740"
+            },
+            {
+              "title": "SNS 달군 찹쌀떡 열풍...편의점 3사도 '떡 전쟁'",
+              "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107430"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         },
         {
           "emoji": "🥤",
-          "title": "저당 유제품 포트폴리오 확대",
-          "summary": "서울우유가 건강 중심 소비트렌드에 맞춰 비요뜨 당 함량을 45% 낮춘 저당 유제품 라인업 확대로 웰니스 시장 공략.",
+          "title": "캪틴큐 11년 만에 재출시",
+          "summary": "롯데칠성이 11년 만에 캪틴큐를 재출시, CU 첫날 발주 1만 개 판매, GS25 한정판 98% 소진으로 30·40대 중심 강한 수요 확인.",
           "articleIndices": [
-            5
+            2
           ],
           "relatedLinks": [
             {
-              "title": "서울우유, 저당 유제품 포트폴리오 확대…비요뜨 당 함량 45% 낮춰",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419599"
+              "title": "11년 만에 돌아온 캪틴큐… 롯데칠성, 재출시 물량 확대",
+              "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730309"
             }
           ],
           "articleCount": 1
