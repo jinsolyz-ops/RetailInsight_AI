@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T01:25:01.319Z",
+  "generatedAt": "2026-10-31T01:10:41.510Z",
   "summary": [
-    "CU, 밥 짓는 물·스마트 쿠커로 간편식 품질 혁신 추진",
-    "편의점 3사, SNS 열풍 '떡 디저트' 상품군 확대 경쟁",
-    "11번가·쿠팡, AI 쇼호스트·상품 요약 기능으로 라이브커머스 차별화"
+    "CU, 밀크스텝과 협력해 오프라인 방문 이벤트로 고객 참여도 강화",
+    "편의점 디저트 시장 경쟁 심화, GS25 찹쌀떡 대장균군 검출로 품질 이슈 부각",
+    "유통업계 11월 쇼핑대전 확대, AI 쇼핑·팝업·게임 체험으로 차별화 경쟁"
   ],
   "categories": [
     {
@@ -11,35 +11,30 @@
       "issues": [
         {
           "emoji": "🎄",
-          "title": "백화점 크리스마스 테마 경쟁",
-          "summary": "현대백화점이 1980~90년대 뉴욕 거리 테마로 고객 체류와 참여를 유도하는 연말 공간 마케팅 전개, 백화점 3사의 차별화 경쟁 심화.",
+          "title": "연말 크리스마스 마케팅",
+          "summary": "백화점 3사(롯데·신세계·현대)가 11월 말부터 크리스마스 연출과 연말 마케팅을 본격화하며 명소 경쟁 시작.",
           "articleIndices": [
-            4,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"벌써 크리스마스야?\"…백화점 3사, '연말 명소' 경쟁 본격",
+              "url": "https://n.news.naver.com/mnews/article/117/0004120445?sid=103"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📚",
+          "title": "수험생 응원 마케팅",
+          "summary": "유통업계가 수능 D-19를 앞두고 합격 기원 메시지 먹거리와 오프라인 증정 프로모션으로 수험생 격려 경쟁 전개.",
+          "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "현대백화점, 전국 점포에 '8090 뉴욕 거리' 크리스마스 테마 순차 공개",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=138055"
-            },
-            {
-              "title": "크리스마스 앞둔 백화점3사···고객 발길 잡을 테마 공간 경쟁",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=641409"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "💰",
-          "title": "롯데마트 메가통큰 할인전",
-          "summary": "롯데마트가 2주간 한우 반값, 전복 60% 할인 등 대규모 할인전 '메가통큰'으로 고물가 시대 소비자 장바구니 부담 경감 전략 추진.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "한우 반값에 전복 60% 할인까지…롯데마트 '메가통큰'에 담긴 장바구니",
-              "url": "https://n.news.naver.com/mnews/article/022/0004171047?sid=101"
+              "title": "수능 D-19…유통업계, 수험생 응원 마케팅 경쟁",
+              "url": "https://www.ekn.kr/web/view.php?key=20261031026373694"
             }
           ],
           "articleCount": 1
@@ -50,9 +45,9 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🏆",
-          "title": "쿠팡 오픈마켓 평판 1위 수성",
-          "summary": "쿠팡이 10월 오픈마켓 평판 1400만 점으로 1위를 유지하며 광군제·블랙프라이데이 대목 앞 경쟁력 강화.",
+          "emoji": "⭐",
+          "title": "쿠팡 오픈마켓 평판 1위",
+          "summary": "쿠팡이 10월 오픈마켓 평판 1400만 점으로 1위를 수성하며, 광군제·블랙프라이데이 앞두고 이커머스 업계 경쟁 심화.",
           "articleIndices": [
             2
           ],
@@ -65,16 +60,16 @@
           "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "쿠팡 CPLB 중소 파트너사 지원",
-          "summary": "쿠팡이 자체 PB 브랜드 CPLB를 통해 지역 소상공인에게 8주 교육과 맞춤형 컨설팅 제공, PB 매출 90%를 중소 파트너사에 배분하는 상생 전략 추진.",
+          "emoji": "🎁",
+          "title": "현대백화점 크리스마스 체험",
+          "summary": "현대백화점이 1980~90년대 뉴욕 크리스마스를 재현하며 쇼핑·관람·체험 목적지로 포지셔닝, 온라인 사전예약도 병행.",
           "articleIndices": [
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "쿠팡 CPLB 'PB 매출 90% 중소 파트너사…농산물 경쟁력 제고'",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283105"
+              "title": "현대백화점, 1980~90년대 뉴욕 크리스마스 재현..연말 이슈 선점",
+              "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172755"
             }
           ],
           "articleCount": 1
@@ -86,30 +81,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "11번가 AI 쇼호스트 도입",
-          "summary": "11번가가 '그랜드십일절' 행사에서 AI 쇼호스트와 참여형 콘텐츠를 도입해 라이브커머스에 AI 기술 접목, 연중 최대 쇼핑 대목 차별화 전략 추진.",
-          "articleIndices": [
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "11번가, AI 쇼호스트 첫선…'그랜드십일절' 라이브 커머스 차별화",
-              "url": "https://n.news.naver.com/mnews/article/030/0003480389?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🔍",
-          "title": "플랫폼 AI 정책 변화와 판매자 영향",
-          "summary": "네이버 등 대형 플랫폼의 AI 기반 검색·노출 정책 변화로 영세 판매자의 광고비 부담 증가, 입점 업체 매출 직결 이슈 발생.",
+          "title": "AI 쇼핑 서비스 확대",
+          "summary": "11월 쇼핑대전에서 유통업계가 AI 쇼핑 서비스, 캐릭터 팝업, 게임 체험 행사로 마케팅 범위 확대하며 차별화 경쟁.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'착한 기업'도 흔들린다···플랫폼 광고비 압박에 영세 판매자 '직격탄'",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486401"
+              "title": "한우 반값에 가전 70% 할인까지…11월 쇼핑대전, 어디가 가장 쌀까?",
+              "url": "https://n.news.naver.com/mnews/article/022/0004171270?sid=101"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🥚",
+          "title": "AI 기반 계란 등급판정",
+          "summary": "축산물품질평가원이 개발한 AI 기반 등급판정 장비가 유통 현장에 도입되며, 소비자 오해 해소와 재고 관리 효율화 추진.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "특란보다 왕란이 더 크다고?…계란 껍데기 '1'이 1등급? [나유정]",
+              "url": "https://n.news.naver.com/mnews/article/016/0002716903?sid=101"
             }
           ],
           "articleCount": 1
@@ -120,40 +115,44 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "💧",
-          "title": "CU 푸드테크 품질 혁신",
-          "summary": "BGF리테일이 CU 간편식 품질 개선을 위해 밥 짓는 물을 연수로 변경하고 스마트 쿠커 도입, 푸드테크랩 전담 조직 신설로 토털 밀 솔루션 제공 전략 추진.",
+          "emoji": "🎯",
+          "title": "밀크파트너스 CU 방문 이벤트",
+          "summary": "밀크파트너스가 밀크스텝 이용자 대상으로 CU 방문 미션 달성 시 교환권 100% 제공하는 오프라인 이벤트 진행.",
           "articleIndices": [
-            2,
+            1,
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "밀크파트너스, CU와 방문 이벤트 연다",
+              "url": "https://n.news.naver.com/mnews/article/144/0001147323?sid=105"
+            },
+            {
+              "title": "밀크파트너스, CU 방문 이벤트…매장 3곳 방문하면 교환권 지급",
+              "url": "https://www.tokenpost.kr/news/blockchain/429942"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍚",
+          "title": "BGF 간편식 제조 혁신",
+          "summary": "BGF리테일이 진천 푸드센터에서 물 선택부터 자동화 기술 도입까지 간편식 품질 고도화, 일본 벤치마킹 문의도 증가.",
+          "articleIndices": [
             3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "밥 짓는 물부터 스마트 쿠커까지…CU '한 끼 품질' 높였다[르포]",
-              "url": "https://n.news.naver.com/mnews/article/018/0006399582?sid=101"
+              "title": "[인더필드] \"밥 짓는 물부터 바꿨다\"…CU 간편식 책임지는 BGF 진천 푸드센터",
+              "url": "https://www.inthenews.co.kr/news/article.html?no=93757"
             },
             {
               "title": "[르포] 9명이 만들던 김밥, 이젠 3명이…CU 간편식품 만드는 공장 가보니",
               "url": "https://n.news.naver.com/mnews/article/011/0004676886?sid=101"
             }
           ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🎯",
-          "title": "밀크파트너스 CU 방문 이벤트",
-          "summary": "밀크파트너스가 11월 한 달간 CU 매장 3곳 방문 스탬프 이벤트로 포키 교환권 제공, 모바일 앱 기반 리워드 마케팅 전개.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "밀크파트너스, CU와 '밀크스텝' 방문 이벤트…'포키' 교환권 제공",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=777713"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -161,51 +160,51 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🎖️",
-          "title": "GS25 독립유공자 보훈 캠페인",
-          "summary": "GS리테일이 2017년부터 독도 사랑 캠페인에 이어 올해 보훈을 주요 사회공헌 분야로 정하고 독립유공자 묘소 18곳에 안내판 지원, GS25 매장·앱·SNS 통해 보훈기념일 알림 활동 지속.",
+          "emoji": "⚠️",
+          "title": "GS25 찹쌀떡 품질 이슈",
+          "summary": "GS25의 한정선 피스타치오 찹쌀떡에서 대장균군 검출로 회수 조치, 하루 3억 매출 인기 상품의 신뢰도 타격.",
           "articleIndices": [
             1,
-            5
+            3
           ],
           "relatedLinks": [
             {
-              "title": "잊혀진 영웅 알린다... GS리테일, 독립유공자 묘소 18곳에 안내판 지원",
-              "url": "https://www.insight.co.kr/news/579867"
+              "title": "'없어서 못 먹었는데...' 하루 3억 매출 GS25 '이 찹쌀떡'서 대장균군 검출",
+              "url": "https://n.news.naver.com/mnews/article/014/0005597334?sid=101"
             },
             {
-              "title": "GS리테일 '나라사랑 활동, 보훈 지원으로 넓힌다'",
-              "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486332"
+              "title": "출시 보름 만에 무슨 일?…줄 서서 사던 GS25 찹쌀떡서 대장균군 초과",
+              "url": "https://n.news.naver.com/mnews/article/022/0004171248?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "☕",
-          "title": "세븐일레븐 경영개선 프로젝트",
-          "summary": "코리아세븐이 2024년 3월부터 점포 경쟁력 강화, 우량점포 확대, 특화상품군·푸드 품질 강화 중심의 경영개선 프로젝트 진행 중, 적자 규모 축소 목표.",
+          "emoji": "🍱",
+          "title": "세븐일레븐 성시경 비빔밥 50만개",
+          "summary": "세븐일레븐의 '시경 픽' 비빔밥 시리즈가 누적 판매 50만개 돌파, 도시락 판매 1위 유지하며 유명인 협업 효과 입증.",
           "articleIndices": [
-            7
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[더벨][밸류업 프로그램 리뷰] 롯데지주, PBR 회복 첫 관문 부진 계열사",
-              "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610271733134080108619"
+              "title": "[오늘의 딜 PICK] [영상] 성시경 비빔밥이 50만개…직장인 점심 사로잡는 세븐일레븐",
+              "url": "https://dealsite.co.kr/articles/171352"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💄",
-          "title": "이마트24 뷰티·패션 상품 확대",
-          "summary": "이마트24가 뷰티·패션 상품 정식 도입 후 13일 만에 전국 1800개 점포 돌파, 편의점 상품군 확장 경쟁 심화.",
+          "emoji": "🌙",
+          "title": "이마트24 외국인 야간 매출 성장",
+          "summary": "편의점 4사 중 이마트24 포함 외국인 매출이 올 1~9월 전년 대비 70% 증가, 특히 저녁~밤 시간대 성장 주도.",
           "articleIndices": [
-            11
+            6
           ],
           "relatedLinks": [
             {
-              "title": "'편의점서 틴트 사고 양말 산다'… 이마트24, 뷰티·패션 도입 1800 매장 돌파",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424980"
+              "title": "[산업X파일] 외국인의 'K편의점' 쇼핑은 밤에 몰린다",
+              "url": "https://n.news.naver.com/mnews/article/023/0004007040?sid=101"
             }
           ],
           "articleCount": 1
@@ -216,37 +215,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍡",
-          "title": "편의점 떡 디저트 열풍",
-          "summary": "SNS 유튜브 채널 통해 호박 인절미 등 떡 디저트가 27일 만에 10만 개 판매, 편의점 3사(CU·세븐일레븐·이마트24)가 떡 상품군 확대 경쟁 전개, CU 떡 매출 2024년 42.2% 증가.",
-          "articleIndices": [
-            1,
-            2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "'23초에 1개씩 팔렸다' 카페인중독 떡 디저트 '떡플' 27일 만에 10만 개",
-              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66740"
-            },
-            {
-              "title": "SNS 달군 찹쌀떡 열풍...편의점 3사도 '떡 전쟁'",
-              "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107430"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🥤",
-          "title": "캪틴큐 11년 만에 재출시",
-          "summary": "롯데칠성이 11년 만에 캪틴큐를 재출시, CU 첫날 발주 1만 개 판매, GS25 한정판 98% 소진으로 30·40대 중심 강한 수요 확인.",
+          "emoji": "🍰",
+          "title": "편의점 디저트 신상 경쟁",
+          "summary": "고디바 모찌 등 편의점 신상 디저트 출시 경쟁 가속화, 짧아진 유행 주기에 맛·품질·가격 경쟁력이 성패 결정.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "11년 만에 돌아온 캪틴큐… 롯데칠성, 재출시 물량 확대",
-              "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730309"
+              "title": "다음 유행은 고디바 모찌? 편의점 신상 디저트 출시 경쟁 '가속'",
+              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314306"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍺",
+          "title": "편의점 신상 주류 다양화",
+          "summary": "편의점에서 독일 전통 밀맥주 호펜바이세 등 다양한 신상 주류 출시, 소비자 선택지 확대와 맛·향 차별화 경쟁.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "[금주의 주류 신상] 2026년 10월 마지막주",
+              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131809"
             }
           ],
           "articleCount": 1
