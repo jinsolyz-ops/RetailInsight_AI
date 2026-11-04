@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-03T03:08:52.249Z",
+  "generatedAt": "2026-11-04T01:45:51.899Z",
   "summary": [
-    "CU, 빼빼로데이 포켓몬·다마고치 협업으로 전년 55% 매출 증가 달성",
-    "CU, KT와 손잡고 리테일 미디어 사업 확대로 광고 플랫폼 진화",
-    "편의점 업계 빼빼로데이 IP 대전: 세븐일레븐 150종, CU 28종 경쟁"
+    "CU, 국군의 날 응원전으로 4개 군부대에 간식차 지원하며 브랜드 가치 강화",
+    "롯데웰푸드, 편의점 채널별 프리미엄 가나 한정판 4종 출시로 겨울 디저트 시장 선점",
+    "GS25, 3분기 매출 2조4743억원 역대 최대 기록하며 신선강화형 매장 1074개 확대"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🥐",
-          "title": "중국산 저가빵 시장 확대",
-          "summary": "소비자 원산지 혼동을 이용한 중국산 '천원빵'이 유통업계에서 존재감을 키우며 저가 먹거리 수요층을 공략하고 있다.",
+          "emoji": "🥖",
+          "title": "중국산 천원빵 유통 확대",
+          "summary": "저가 중국산 빵이 유통업계 존재감을 키우면서 소비자 원산지 혼동 이슈 발생, 가성비 추구 트렌드 반영.",
           "articleIndices": [
             1
           ],
@@ -25,9 +25,9 @@
           "articleCount": 1
         },
         {
-          "emoji": "📦",
-          "title": "1인 가구 맞춤 초소포장·구독형 서비스",
-          "summary": "AI 기반 신선식품 초소포장 새벽 배송과 구독형 HMR 서비스가 정교해지며 1인 가구 트렌드에 대응하는 유통 전략이 강화되고 있다.",
+          "emoji": "🏠",
+          "title": "1인 가구 맞춤 소비 트렌드",
+          "summary": "AI 기반 신선식품 초소포장 새벽배송과 구독형 HMR 서비스 정교화로 1인 가구 시장 공략 심화.",
           "articleIndices": [
             2
           ],
@@ -45,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🛒",
-          "title": "네이버스토어 거래액 1000억 돌파",
-          "summary": "네이버 쇼핑 전문 이커머스 광고대행사 씨유기획이 2026년 기준 관리 스토어 연간 누적 취급 거래액 1,000억 원을 돌파하며 정밀 타기팅 프로모션 전략으로 성과를 창출했다.",
+          "emoji": "📊",
+          "title": "무신사 IPO 밸류에이션 변동",
+          "summary": "무신사 기업가치 평가가 4조~10조원대로 널뛰며 지분 문제와 내부통제 이슈가 IPO 걸림돌로 작용.",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "씨유기획, 2026년 네이버스토어 취급 거래액 1,000억 돌파",
-              "url": "https://n.news.naver.com/mnews/article/029/0003056511?sid=101"
+              "title": "[무신사 IPO 걸림돌②] 4조부터 10조까지 '널뛰는 몸값'…적정가는",
+              "url": "http://www.newswatch.kr/news/articleView.html?idxno=81727"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌟",
-          "title": "중소기업 온라인판로 지원으로 채널 매출 5배 증가",
-          "summary": "'하루견과' 열풍을 만든 중소기업이 롯데ON, 현대H몰, 29CM 등 다채널 입점 지원과 홈쇼핑 연계를 통해 채널 매출을 5배 증가시켰다.",
+          "emoji": "🌍",
+          "title": "지역별 한류 소비 차별화",
+          "summary": "AI 분석으로 북미는 K팝 코르티스, 남미는 K뷰티 성분에 관심 등 권역별 한류 소비 패턴 파악.",
           "articleIndices": [
-            5
+            3
           ],
           "relatedLinks": [
             {
-              "title": "'하루견과' 열풍 만든 중소기업…온라인판로 지원에 채널 매출 5배 '쑥'",
-              "url": "https://n.news.naver.com/mnews/article/421/0009263374?sid=101"
+              "title": "북미는 K팝 코르티스, 남미는 K뷰티 성분에 관심…한류 소비도 지역마다...",
+              "url": "http://www.ikoreanspirit.com/news/articleView.html?idxno=88070"
             }
           ],
           "articleCount": 1
@@ -81,38 +81,38 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "월마트 AI 쇼핑 서비스 캐나다 출시",
-          "summary": "월마트가 캐나다에서 AI 기반 장보기 서비스를 출시하며 상품 검색부터 구매 결정까지 AI 개입 비중을 확대하는 글로벌 유통 경쟁이 심화되고 있다.",
+          "title": "쿠팡 AI 포장 자동화 도입",
+          "summary": "쿠팡이 수동 스캔 대체 AI 카메라와 주문별 포장재 자동 조정 기술 도입으로 물류 효율화 추진.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "장보기 목록도 짜준다…월마트, AI 쇼핑 서비스 캐나다 출시",
-              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712133"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛍️",
-          "title": "중국 라이브커머스에서 AI 토큰 판매 열풍",
-          "summary": "중국 인플루언서 리자치의 라이브 방송에서 AI 서비스 토큰이 30분 만에 10만 장 판매되며 라이브커머스 상품 카테고리가 실물에서 디지털 서비스로 확대되고 있다.",
-          "articleIndices": [
-            5,
+            4,
             6
           ],
           "relatedLinks": [
             {
-              "title": "'립스틱 오빠' 리자치, 이번엔 2조 AI 토큰 완판",
-              "url": "https://www.ajunews.com/view/20261103105315567"
+              "title": "김범석 '쿠팡 3분기 수익성 바닥…내년 2분기 회복 기대'(종합)",
+              "url": "http://www.4th.kr/news/articleView.html?idxno=2121050"
             },
             {
-              "title": "'립스틱 대신 AI 용량'…中서 30분 만에 2조 개 팔린 정체",
-              "url": "https://n.news.naver.com/mnews/article/277/0005837232?sid=104"
+              "title": "쿠팡, 올해 누적적자·순손실 각각 2조 육박…김범석 \"성장 모멘텀은 ...\"",
+              "url": "https://www.fntimes.com/html/view.php?ud=202611041015041350b5b890e35c_18"
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "🛍️",
+          "title": "GS리테일 AI 쇼핑 어시스턴트 도입",
+          "summary": "GS리테일이 3분기 역대 최대 영업익 달성하며 AI 쇼핑 어시스턴트 도입으로 고객 경험 강화.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "GS리테일, 3분기 영업익 1321억원…분기 역대 최대",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=726582"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -120,54 +120,27 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍞",
-          "title": "Rescene 빵 30대 남성층 폭발적 인기",
-          "summary": "CU의 Bake405 베이커리 라벨로 출시한 Rescene 베이크드 굿즈가 K-팬층을 넘어 30대 남성층에서 폭발적 인기를 얻으며 편의점 역사상 최고 판매 기록을 달성했다.",
+          "emoji": "🎖️",
+          "title": "국군의 날 부대 응원전 캠페인",
+          "summary": "CU가 하나은행·하나카드와 포켓CU 앱 기반 국군의 날 응원전 진행, 최다 득표 4개 부대에 간식차 지원.",
           "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "Men over 30 are clearing CU shelves of Rescene bread",
-              "url": "https://n.news.naver.com/mnews/article/640/0000096283?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📺",
-          "title": "KT와 리테일 미디어 사업 확대",
-          "summary": "CU가 매장 디지털 광고 플랫폼을 통해 새로운 광고 수익원을 창출하는 리테일 미디어 사업을 KT와 협력하여 전국 점포로 확대하고 있다.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU 매장 광고도 돈 된다…KT 손잡고 '리테일 미디어' 키운다",
-              "url": "https://n.news.naver.com/mnews/article/421/0009265857?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎉",
-          "title": "빼빼로데이 포켓몬·다마고치 협업 55% 매출 증가",
-          "summary": "CU가 빼빼로데이를 맞아 포켓몬과 다마고치 캐릭터 협업 상품 28종을 선보이며 전년 동기 대비 55% 매출 증가를 달성했다.",
-          "articleIndices": [
+            1,
+            2,
             3,
+            4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "CU, 빼빼로데이 협업 상품 매출 55% 증가…포켓몬·다마고치 선봬",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212389"
+              "title": "하나은행·하나카드, CU와 '국군의 날 부대 응원전' 성료…최다 득표 부...",
+              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4771"
             },
             {
-              "title": "CU, 빼빼로데이 굿즈 강화···포켓몬·다마고치 승부수",
-              "url": "http://www.finomy.com/news/articleView.html?idxno=265254"
+              "title": "'군부대에 간식 4000만원 쏜다' CU 응원전 1위는 제2해병사단",
+              "url": "https://n.news.naver.com/mnews/article/003/0014300117?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 5
         }
       ]
     },
@@ -175,51 +148,53 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "❄️",
-          "title": "GS25 겨울 간식 이색 신제품 강화",
-          "summary": "GS25가 붕어빵에 두바이 초콜릿, 백설기에 피자 등 이색 겨울 간식을 편의점 업계 선도적으로 출시하며 프리미엄 간식 시장을 공략하고 있다.",
+          "emoji": "📈",
+          "title": "GS25 3분기 역대 최대 매출 달성",
+          "summary": "GS25가 3분기 매출 2조4743억원 역대 최대 기록, 신선강화형 매장 1074개 확대로 기존점 일매출 2.3% 증가.",
           "articleIndices": [
-            1
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "붕어빵에 두바이 초콜릿, 백설기에 피자? 올겨울 이색 간식 총정리",
-              "url": "https://www.harpersbazaar.co.kr/article/1912461"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎁",
-          "title": "세븐일레븐 빼빼로데이 150종 IP 굿즈 확대",
-          "summary": "세븐일레븐이 지난해 빼빼로데이 매출 120% 증가에 힘입어 올해 IP 굿즈, 와인, 완구 등 150여 종으로 운영 품목을 30% 확대하며 빼빼로데이 시장 주도권을 강화하고 있다.",
-          "articleIndices": [
-            7,
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "[유통소식] GS25·세븐일레븐, 빼빼로데이 캐릭터 세트 경쟁 外",
-              "url": "http://www.dailypop.kr/news/articleView.html?idxno=104053"
-            },
-            {
-              "title": "올해 편의점 '빼빼로데이'는 IP 대전…무무씨·포켓몬 등 눈길",
-              "url": "https://www.cnbizm.com/news/articleView.html?idxno=320157"
+              "title": "슈퍼·홈쇼핑 날고 편의점 주춤…GS리테일, 3분기 영업익 역대 최대",
+              "url": "https://n.news.naver.com/mnews/article/092/0002443756?sid=103"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🍷",
-          "title": "이마트24 쓱데이 와인 클리어런스 프로모션",
-          "summary": "이마트24가 '쓱데이 와인 스크래치 상품 모음전'을 통해 라벨 오염 상품을 특별가에 판매하는 클리어런스 전략으로 신세계그룹의 쓱데이 할인 캠페인에 동참하고 있다.",
+          "emoji": "🍫",
+          "title": "세븐일레븐 프리미엄 가나 채널 전용 출시",
+          "summary": "롯데웰푸드가 세븐일레븐 전용 '크림브륄레' 등 채널별 프리미엄 가나 한정판 4종 출시로 겨울 디저트 시장 공략.",
           "articleIndices": [
-            10
+            3,
+            5,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "신세계그룹, 최대 92% 할인 '쓱데이 클리어런스' 진행",
-              "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268385"
+              "title": "롯데웰푸드, 유통 채널별 '프리미엄 가나' 한정판 4종 출시",
+              "url": "https://www.sentv.co.kr/article/view/sentv202611040066"
+            },
+            {
+              "title": "[오늘의 신상] 롯데웰푸드 프리미엄 가나·이마트24 QWER 샌드위치·롯데...",
+              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81210"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "🎸",
+          "title": "이마트24 QWER 협업 샌드위치 21종 출시",
+          "summary": "이마트24가 걸밴드 QWER과 협업한 샌드위치 21종 순차 출시, 팬 초청 행사로 브랜드 가치 강화.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "이마트24, QWER 협업 샌드위치 21종 선보여… 팬 초청 행사도 마련",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=284545"
             }
           ],
           "articleCount": 1
@@ -230,20 +205,36 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍪",
-          "title": "편의점 겨울 디저트 프리미엄화 트렌드",
-          "summary": "편의점에서 붕어빵, 호빵, 군고구마 등 전통 겨울 간식에 두바이 초콜릿, 피자 설기 등 프리미엄 신제품을 추가하며 겨울 디저트 시장이 다양화되고 있다.",
+          "emoji": "🍫",
+          "title": "프리미엄 가나 채널별 한정판 디저트",
+          "summary": "롯데웰푸드가 편의점 채널별 차별화된 프리미엄 가나 쉘 타입 초콜릿 4종 출시로 겨울 디저트 시장 선점.",
           "articleIndices": [
             1,
-            2
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[유통 브리핑] KGC·삼립·오뚜기",
-              "url": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91661"
+              "title": "편의점 돌며 '초콜릿 도장깨기' 해볼까",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=20261104102436357518ef25b590_30"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
+        },
+        {
+          "emoji": "💄",
+          "title": "편의점 신상 색조 제품 인기",
+          "summary": "CU에서 매주 신상 화장품 출시로 10~20대 사이에서 편의점을 트렌디한 쇼핑 공간으로 포지셔닝, 색조 제품 수요 증가.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "'1만원도 안 하는데 불티'…10대가 쓸어담자 매출 폭발한 제품 [장서우의...",
+              "url": "https://n.news.naver.com/mnews/article/015/0005349969?sid=103"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     }
