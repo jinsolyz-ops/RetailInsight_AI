@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-04T01:45:51.899Z",
+  "generatedAt": "2026-11-05T01:53:41.145Z",
   "summary": [
-    "CU, 국군의 날 응원전으로 4개 군부대에 간식차 지원하며 브랜드 가치 강화",
-    "롯데웰푸드, 편의점 채널별 프리미엄 가나 한정판 4종 출시로 겨울 디저트 시장 선점",
-    "GS25, 3분기 매출 2조4743억원 역대 최대 기록하며 신선강화형 매장 1074개 확대"
+    "CU 딸기 샌드위치 매출 80% 급증으로 겨울 디저트 시장 선점",
+    "GS25 '혜자로운' 누적 매출 5000억 돌파, 국민 간편식 브랜드 확립",
+    "배민 뷰티 버티컬 독립 출범으로 H&B 퀵커머스 경쟁 본격화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🥖",
-          "title": "중국산 천원빵 유통 확대",
-          "summary": "저가 중국산 빵이 유통업계 존재감을 키우면서 소비자 원산지 혼동 이슈 발생, 가성비 추구 트렌드 반영.",
+          "emoji": "🎯",
+          "title": "유통업계 제품경쟁력 강화",
+          "summary": "유통·식품업계가 단순 할인을 넘어 제품 경쟁력 강화와 차별화된 마케팅으로 겨울 성수기 소비자 공략에 나서고 있다.",
           "articleIndices": [
-            1
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[이슈 톡톡] '국산이 아니었다고?'‥중국산 '천원빵' 밀려온다",
-              "url": "https://n.news.naver.com/mnews/article/214/0001533115?sid=102"
+              "title": "겨울 성수기·소비 접점 공략 나선 유통업계",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=138809"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏠",
-          "title": "1인 가구 맞춤 소비 트렌드",
-          "summary": "AI 기반 신선식품 초소포장 새벽배송과 구독형 HMR 서비스 정교화로 1인 가구 시장 공략 심화.",
+          "emoji": "📱",
+          "title": "배달앱 멤버십 경쟁 심화",
+          "summary": "요기요의 구독 멤버십 '요기패스' 가입자가 200만명을 돌파하며 배달앱 플랫폼 간 고객 확보 경쟁이 심화되고 있다.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[서정렬 칼럼] 2026년, 1인 가구 트렌드와 이슈",
-              "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51111"
+              "title": "요기요, 멤버십 200만 돌파 '반격의 발판'",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=156949"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📊",
-          "title": "무신사 IPO 밸류에이션 변동",
-          "summary": "무신사 기업가치 평가가 4조~10조원대로 널뛰며 지분 문제와 내부통제 이슈가 IPO 걸림돌로 작용.",
+          "emoji": "💄",
+          "title": "배민 뷰티 버티컬 독립",
+          "summary": "배달의민족이 전문 뷰티 퀵커머스 플랫폼을 공식 론칭하며 H&B 유통 1위 CJ올리브영과의 직접 경쟁 구도가 형성되었다.",
           "articleIndices": [
-            1
+            9
           ],
           "relatedLinks": [
             {
-              "title": "[무신사 IPO 걸림돌②] 4조부터 10조까지 '널뛰는 몸값'…적정가는",
-              "url": "http://www.newswatch.kr/news/articleView.html?idxno=81727"
+              "title": "배민, 뷰티 버티컬 독립 출범…'1시간 뷰티' 경쟁 불붙었다",
+              "url": "https://www.ziksir.com/news/articleView.html?idxno=152021"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "지역별 한류 소비 차별화",
-          "summary": "AI 분석으로 북미는 K팝 코르티스, 남미는 K뷰티 성분에 관심 등 권역별 한류 소비 패턴 파악.",
+          "emoji": "🤖",
+          "title": "AI 기반 상품 추천·결제 확대",
+          "summary": "구글, 오픈AI, 메타 등 AI 플랫폼이 상품 추천을 넘어 결제까지 지원하면서 온라인 유통업계의 고객 접점과 플랫폼 경쟁 구도가 변화하고 있다.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "북미는 K팝 코르티스, 남미는 K뷰티 성분에 관심…한류 소비도 지역마다...",
-              "url": "http://www.ikoreanspirit.com/news/articleView.html?idxno=88070"
+              "title": "구글 AI 검색으로 상품 찾고 바로 결제…캐나다서 일부 브랜드 연동",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712780"
             }
           ],
           "articleCount": 1
@@ -80,36 +80,36 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "쿠팡 AI 포장 자동화 도입",
-          "summary": "쿠팡이 수동 스캔 대체 AI 카메라와 주문별 포장재 자동 조정 기술 도입으로 물류 효율화 추진.",
+          "emoji": "🧠",
+          "title": "카카오 AI 서비스 확산 지연",
+          "summary": "카카오가 AI 서비스 확산 속도가 시장 기대에 미치지 못했다며 1,500억 원 규모의 자사주 매입을 단행하고 2027년부터 새로운 수익 모델 검증에 나선다.",
           "articleIndices": [
             4,
             6
           ],
           "relatedLinks": [
             {
-              "title": "김범석 '쿠팡 3분기 수익성 바닥…내년 2분기 회복 기대'(종합)",
-              "url": "http://www.4th.kr/news/articleView.html?idxno=2121050"
+              "title": "카카오, AI 비용 효율화…2028년 손익분기점 자신",
+              "url": "https://news.dealsitetv.com/articles/178097"
             },
             {
-              "title": "쿠팡, 올해 누적적자·순손실 각각 2조 육박…김범석 \"성장 모멘텀은 ...\"",
-              "url": "https://www.fntimes.com/html/view.php?ud=202611041015041350b5b890e35c_18"
+              "title": "정신아 'AI 성과 기대 못 미쳐'… 카카오 1500억 원 자사주 매입·소각",
+              "url": "https://n.news.naver.com/mnews/article/469/0000963753?sid=105"
             }
           ],
           "articleCount": 2
         },
         {
           "emoji": "🛍️",
-          "title": "GS리테일 AI 쇼핑 어시스턴트 도입",
-          "summary": "GS리테일이 3분기 역대 최대 영업익 달성하며 AI 쇼핑 어시스턴트 도입으로 고객 경험 강화.",
+          "title": "컬리 블랙위크 대규모 할인",
+          "summary": "리테일 테크 기업 컬리가 연중 최대 규모 할인 프로모션 '블랙위크'를 진행하며 2,000여 개 상품을 대폭 할인가에 판매한다.",
           "articleIndices": [
-            5
+            9
           ],
           "relatedLinks": [
             {
-              "title": "GS리테일, 3분기 영업익 1321억원…분기 역대 최대",
-              "url": "https://www.cstimes.com/news/articleView.html?idxno=726582"
+              "title": "창억떡·갈비탕 990원…컬리, '블랙위크' 돌입",
+              "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564423"
             }
           ],
           "articleCount": 1
@@ -120,27 +120,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎖️",
-          "title": "국군의 날 부대 응원전 캠페인",
-          "summary": "CU가 하나은행·하나카드와 포켓CU 앱 기반 국군의 날 응원전 진행, 최다 득표 4개 부대에 간식차 지원.",
+          "emoji": "🍓",
+          "title": "CU 딸기 샌드위치 매출 급증",
+          "summary": "CU의 겨울철 딸기 샌드위치 매출이 80% 급증하며 생딸기를 활용한 신제품 3종을 순차 출시해 제철 과일 디저트 시장을 선점하고 있다.",
           "articleIndices": [
             1,
             2,
             3,
-            4,
-            5
+            4
           ],
           "relatedLinks": [
             {
-              "title": "하나은행·하나카드, CU와 '국군의 날 부대 응원전' 성료…최다 득표 부...",
-              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4771"
+              "title": "'겨울엔 역시 딸기'…CU 딸기 샌드위치 매출 80% 급증",
+              "url": "https://n.news.naver.com/mnews/article/119/0003151613?sid=101"
             },
             {
-              "title": "'군부대에 간식 4000만원 쏜다' CU 응원전 1위는 제2해병사단",
-              "url": "https://n.news.naver.com/mnews/article/003/0014300117?sid=101"
+              "title": "CU, '생딸기 휩 크림 샌드위치' 3종 출시…겨울 디저트 수요 공략",
+              "url": "https://n.news.naver.com/mnews/article/030/0003482461?sid=101"
             }
           ],
-          "articleCount": 5
+          "articleCount": 4
         }
       ]
     },
@@ -148,56 +147,60 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "📈",
-          "title": "GS25 3분기 역대 최대 매출 달성",
-          "summary": "GS25가 3분기 매출 2조4743억원 역대 최대 기록, 신선강화형 매장 1074개 확대로 기존점 일매출 2.3% 증가.",
+          "emoji": "💚",
+          "title": "GS25 '혜자로운' 리뉴얼",
+          "summary": "GS25의 간편식 브랜드 '혜자로운'이 재출시 3년 만에 누적 매출 5,000억 원을 돌파하며 전면 리뉴얼을 통해 국민 간편식 브랜드로 도약한다.",
           "articleIndices": [
-            1,
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "슈퍼·홈쇼핑 날고 편의점 주춤…GS리테일, 3분기 영업익 역대 최대",
-              "url": "https://n.news.naver.com/mnews/article/092/0002443756?sid=103"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍫",
-          "title": "세븐일레븐 프리미엄 가나 채널 전용 출시",
-          "summary": "롯데웰푸드가 세븐일레븐 전용 '크림브륄레' 등 채널별 프리미엄 가나 한정판 4종 출시로 겨울 디저트 시장 공략.",
-          "articleIndices": [
+            2,
             3,
-            5,
-            6
+            4
           ],
           "relatedLinks": [
             {
-              "title": "롯데웰푸드, 유통 채널별 '프리미엄 가나' 한정판 4종 출시",
-              "url": "https://www.sentv.co.kr/article/view/sentv202611040066"
+              "title": "GS25, 누적 매출 5000억 '혜자로운' 리뉴얼…브랜드 정체성 강화",
+              "url": "https://n.news.naver.com/mnews/article/030/0003482471?sid=101"
             },
             {
-              "title": "[오늘의 신상] 롯데웰푸드 프리미엄 가나·이마트24 QWER 샌드위치·롯데...",
-              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81210"
+              "title": "5000억 매출 쓴 GS25 '혜자로운'...'국민 간편식' 정조준",
+              "url": "https://n.news.naver.com/mnews/article/648/0000052315?sid=101"
             }
           ],
           "articleCount": 3
         },
         {
-          "emoji": "🎸",
-          "title": "이마트24 QWER 협업 샌드위치 21종 출시",
-          "summary": "이마트24가 걸밴드 QWER과 협업한 샌드위치 21종 순차 출시, 팬 초청 행사로 브랜드 가치 강화.",
+          "emoji": "🌶️",
+          "title": "세븐일레븐 2030 입맛 겨울 간식",
+          "summary": "세븐일레븐이 2030세대의 매운맛 선호를 반영한 호빵 신제품과 차별화된 겨울 간식을 선보이며 계절 수요를 공략하고 있다.",
           "articleIndices": [
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "이마트24, QWER 협업 샌드위치 21종 선보여… 팬 초청 행사도 마련",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=284545"
+              "title": "'호빵도 매워야 팔린다'…세븐일레븐, 2030 입맛에 겨울 간식 변신",
+              "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194223"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🏥",
+          "title": "이마트24 건강 간편식 확대",
+          "summary": "이마트24가 식품의약품안전처 지원을 받아 나트륨·당류 저감 상품 6종을 순차 출시하며 건강 먹거리 라인업을 강화한다.",
+          "articleIndices": [
+            6,
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "[오늘의 신상] 사조대림·이마트24·풀무원·빨라쪼·투썸플레이스...'간편식 신상'",
+              "url": "http://www.kdfnews.com/news/articleView.html?idxno=190480"
+            },
+            {
+              "title": "[편의점 브리핑] CU 생딸기 샌드위치·GS25 혜자로운 리뉴얼·세븐일레븐...",
+              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81256"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -205,33 +208,34 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍫",
-          "title": "프리미엄 가나 채널별 한정판 디저트",
-          "summary": "롯데웰푸드가 편의점 채널별 차별화된 프리미엄 가나 쉘 타입 초콜릿 4종 출시로 겨울 디저트 시장 선점.",
+          "emoji": "🍰",
+          "title": "편의점 겨울 디저트 경쟁",
+          "summary": "CU 딸기 샌드위치, 빨라쪼 핫 라떼 등 편의점 브랜드들이 겨울철 디저트 상품을 강화하며 제철 과일과 프리미엄 재료를 활용한 신제품 경쟁이 심화되고 있다.",
           "articleIndices": [
             1,
             2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "편의점 돌며 '초콜릿 도장깨기' 해볼까",
-              "url": "http://www.beyondpost.co.kr/view.php?ud=20261104102436357518ef25b590_30"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "💄",
-          "title": "편의점 신상 색조 제품 인기",
-          "summary": "CU에서 매주 신상 화장품 출시로 10~20대 사이에서 편의점을 트렌디한 쇼핑 공간으로 포지셔닝, 색조 제품 수요 증가.",
-          "articleIndices": [
+            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "'1만원도 안 하는데 불티'…10대가 쓸어담자 매출 폭발한 제품 [장서우의...",
-              "url": "https://n.news.naver.com/mnews/article/015/0005349969?sid=103"
+              "title": "해태제과 빨라쪼, 겨울철 겨냥한 '핫 라떼' 출시",
+              "url": "http://www.finomy.com/news/articleView.html?idxno=265713"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "🎨",
+          "title": "편의점 프리미엄 초콜릿 한정판",
+          "summary": "롯데웰푸드의 '프리미엄 가나'가 편의점 채널별로 다른 맛을 적용한 한정판을 선보이며 겨울 성수기 프리미엄 초콜릿 경쟁이 가열되고 있다.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "[오늘의신상]편의점 4사 '초콜릿 도장깨기'…한정판 '프리미엄 가나'",
+              "url": "https://n.news.naver.com/mnews/article/277/0005837770?sid=101"
             }
           ],
           "articleCount": 1
