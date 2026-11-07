@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-06T01:52:41.476Z",
+  "generatedAt": "2026-11-07T01:24:08.328Z",
   "summary": [
-    "CU, IP 활용 차별화 상품·외국인 고객 공략으로 3분기 영업익 3.2% 성장",
-    "GS25, 동절기 먹거리 매출 85.6% 증가·일본 디저트 신제품 출시로 경쟁 강화",
-    "이마트24, 한정판 위스키 '보틀오더' 완판 행진으로 주류 픽업 매출 168% 증가"
+    "CU, 외국인 매출 67% 증가로 3분기 영업익 1008억원 돌파",
+    "편의점 4사, 빼빼로데이 굿즈·캐릭터 협업으로 팬덤 경쟁 심화",
+    "편의점 간편식 메뉴 다양화로 식사 대용 수요 경쟁 가열"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "편의점 양강 IP·먹거리 경쟁",
-          "summary": "CU는 리센느 등 IP 활용 상품 확대, GS25는 민음사빵 160만개 판매로 고객 유입 강화하며 내실 경쟁 심화.",
+          "emoji": "🎄",
+          "title": "백화점 크리스마스 시즌 마케팅",
+          "summary": "롯데·신세계·현대백화점이 11월부터 대규모 크리스마스 장식과 시즌 마케팅을 시작하며 연말 대전 돌입.",
           "articleIndices": [
-            8
+            5
           ],
           "relatedLinks": [
             {
-              "title": "CU는 이익 늘고 GS25는 매출 최대…편의점 양강, '내실 경쟁' 가속",
-              "url": "https://n.news.naver.com/mnews/article/018/0006404668?sid=101"
+              "title": "11월부터 불붙은 크리스마스 경쟁…백화점 3사 '연말 대전'",
+              "url": "https://n.news.naver.com/mnews/article/011/0004679698?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "오프라인 매장 발견의 가치",
-          "summary": "올리브영·다이소가 외국인 특화 공간 마련, 3개 언어 안내로 오프라인 매장의 차별화된 경험 제공 강화.",
+          "emoji": "🎁",
+          "title": "편의점 빼빼로데이 굿즈 경쟁",
+          "summary": "편의점 4사가 빼빼로데이를 앞두고 캐릭터 굿즈와 기획 상품으로 팬덤 경쟁을 강화하며 연중 최대 대목 공략.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[오프라인의 반격]④올리브영·다이소, 매장으로 이끄는 '발견'의 힘",
-              "url": "https://www.asiatime.co.kr/article/20261103500356"
+              "title": "빼빼로에 굿즈를…편의점 4사, 연중 최대 대목 팬덤 경쟁",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026110615033007278"
             }
           ],
           "articleCount": 1
@@ -45,30 +45,30 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚀",
-          "title": "배민 뷰티 버티컬 독립 출범",
-          "summary": "배달의민족이 전문 뷰티 퀵커머스 플랫폼 론칭, CJ올리브영과 '1시간 뷰티' 경쟁 본격화.",
+          "emoji": "💄",
+          "title": "K뷰티 글로벌 이커머스 확대",
+          "summary": "동국제약 센텔리안24가 미국·일본을 넘어 유럽 드럭스토어와 뷰티 이커머스 플랫폼에 입점하며 글로벌 판매 채널 다각화.",
           "articleIndices": [
-            9
+            1
           ],
           "relatedLinks": [
             {
-              "title": "배민, 뷰티 버티컬 독립 출범…'1시간 뷰티' 경쟁 불붙었다",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=152021"
+              "title": "[금주의 제약 톡톡] 동국제약 '센텔리안24' 美·日 넘어 유럽으로",
+              "url": "https://www.mediawatch.kr/news/article.html?no=261652"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "📊",
-          "title": "롯데온 적자 축소·광고 수익 확대",
-          "summary": "롯데온이 패션·뷰티 핵심 버티컬 집중과 광고 수익 확대로 매출 18.4% 증가, 영업손실 축소 성과.",
+          "title": "롯데온 버티컬 커머스 체질 개선",
+          "summary": "롯데온이 패션·뷰티 핵심 버티컬 영역 집중과 광고 수익 확대로 적자 규모를 축소하며 3분기 매출 18.4% 증가 달성.",
           "articleIndices": [
             7
           ],
           "relatedLinks": [
             {
-              "title": "백화점 역대급 실적에 계열사 흑자 날개…롯데쇼핑, 3분기 영업익 35% 뛴...",
+              "title": "백화점 역대급 실적에 계열사 흑자 날개…롯데쇼핑, 3분기 영업익 35% 뛴",
               "url": "https://www.widedaily.com/news/articleView.html?idxno=302972"
             }
           ],
@@ -80,31 +80,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🍚",
-          "title": "CU 푸드테크 품질 혁신",
-          "summary": "BGF리테일이 연수 설비 투자로 밥맛 업그레이드, 음식별 최적 조리법 제공으로 푸드테크 기반 경쟁력 강화.",
+          "emoji": "🤖",
+          "title": "AI 기반 퀵커머스 배송 최적화",
+          "summary": "도시형 물류센터와 AI를 활용한 수요 예측으로 15분 배송 시간 단축을 실현하는 퀵커머스의 경쟁력 강화.",
           "articleIndices": [
-            8
+            9
           ],
           "relatedLinks": [
             {
-              "title": "어쩌한지 CU에 가고 싶더니…3분기 성적 '합격점'",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=756277"
+              "title": "[청년발언대] '주문하고 15분, AI는 이미 준비 중'",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=229490"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🤖",
-          "title": "롯데마트 AI 채용 평가 도입",
-          "summary": "롯데마트가 신입사원 채용 과정에 AI 툴 활용 PT 과제 도입, 지원자의 AI 활용 능력 평가 시작.",
+          "emoji": "💎",
+          "title": "K-주얼리 AI 데이터 기반 설계",
+          "summary": "하이브랩 그룹이 AI와 데이터 기술을 활용해 주얼리 착용 시뮬레이션과 해외 판매까지 지원하는 기술 개발 추진.",
           "articleIndices": [
-            3
+            7
           ],
           "relatedLinks": [
             {
-              "title": "기획부터 검증까지 'AI활용' 능력 평가… \"인공지능 잘 쓰는 사람이...",
-              "url": "https://n.news.naver.com/mnews/article/021/0002830782?sid=101"
+              "title": "장인의 '감' 대신 데이터로…K-주얼리, AI 날개 단다",
+              "url": "https://n.news.naver.com/mnews/article/092/0002444308?sid=105"
             }
           ],
           "articleCount": 1
@@ -115,34 +115,37 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "📈",
-          "title": "CU 3분기 실적 성장",
-          "summary": "BGF리테일 운영 CU가 외국인 관광객 증가·가공식품 호조로 3분기 매출 2.1%, 영업익 3.2% 성장 달성.",
+          "emoji": "🌍",
+          "title": "CU 외국인 매출 67% 증가",
+          "summary": "BGF리테일 CU가 외국인 관광객 구매 증가와 택스리펀드·무인 환전 키오스크 도입으로 3분기 영업익 1008억원 돌파.",
           "articleIndices": [
-            1,
-            3,
-            4,
-            5
+            5,
+            6,
+            7
           ],
           "relatedLinks": [
             {
-              "title": "'외국인·가공식품 쌍끌이'…BGF리테일, 3분기 매출·영업익 동반 성장",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571818890329"
+              "title": "BGF리테일 3분기 영업익 1008억, CU 외국인 매출 67% 늘어",
+              "url": "https://www.polinews.co.kr/news/articleView.html?idxno=747958"
+            },
+            {
+              "title": "'내국인 주춤하자 외국인이 사들였다…BGF리테일, 3분기 1000억 돌파 비결",
+              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304472"
             }
           ],
-          "articleCount": 4
+          "articleCount": 3
         },
         {
-          "emoji": "💰",
-          "title": "BGF리테일 목표가 상향",
-          "summary": "키움증권이 BGF리테일 목표주가 18만2000원으로 상향, 소비 회복·외국인 특수 겹친 실적 개선 전망.",
+          "emoji": "🎖️",
+          "title": "CU 우리 부대 응원전 캠페인",
+          "summary": "CU가 하나은행·하나카드와 진행한 '우리 부대 응원전'에서 제2해병사단 등 군종별 1위 부대 4곳에 간식 지원.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "소비 회복에 외국인 특수 겹친 BGF리테일…키움證, 목표가 18만2000원 상...",
-              "url": "https://www.widedaily.com/news/articleView.html?idxno=302995"
+              "title": "CU, '우리 부대 응원전' 최다 응원 제2해병사단 등 4곳에 간식차",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=779737"
             }
           ],
           "articleCount": 1
@@ -153,54 +156,19 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🔥",
-          "title": "GS25 동절기 먹거리 매출 폭증",
-          "summary": "GS25 즉석어묵·붕어빵 등 동절기 먹거리 매출 85.6% 증가, 배달 서비스 추가로 고객 수요 확대.",
+          "emoji": "🏪",
+          "title": "GS25 간편식 매출 21.5% 증가",
+          "summary": "GS25가 타코 등 간편식 메뉴를 다양화하며 전년 동기 대비 21.5% 매출 증가로 식사 대용 수요 선점.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "\"붕어빵 가격이 왜 이래\"…겨우 찾았는데 1년 만에 가격 두 배 뛰었다",
-              "url": "https://n.news.naver.com/mnews/article/011/0004679425?sid=101"
+              "title": "편의점 김밥 옆에 타코…외식비 부담 속 '한 끼' 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/138/0002247638?sid=101"
             }
           ],
           "articleCount": 1
-        },
-        {
-          "emoji": "🍮",
-          "title": "세븐일레븐 일본 디저트 신제품",
-          "summary": "세븐일레븐이 CJ제일제당과 협력해 태국 스낵 브랜드 '오라잇' 리브랜딩 신제품 '퍼프팝' 출시, 젊은층 공략.",
-          "articleIndices": [
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "CJ제일제당, 태국 스낵 시장 판 다시 짠다…'오라잇' 리브랜딩",
-              "url": "https://www.theguru.co.kr/news/article.html?no=109367"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🥃",
-          "title": "이마트24 위스키 픽업 완판",
-          "summary": "이마트24 '보틀오더' 서비스로 한정판 위스키 완판 행진, 온라인 주류 픽업 매출 168% 증가 달성.",
-          "articleIndices": [
-            9,
-            10
-          ],
-          "relatedLinks": [
-            {
-              "title": "'위스키 성지' 이마트24 '보틀오더' 김창수 위스키 등 완판 행진",
-              "url": "https://n.news.naver.com/mnews/article/003/0014305601?sid=101"
-            },
-            {
-              "title": "이마트24, 한정판 위스키 잇단 완판…온라인 주류 픽업 매출 168%↑",
-              "url": "https://n.news.naver.com/mnews/article/018/0006404830?sid=101"
-            }
-          ],
-          "articleCount": 2
         }
       ]
     },
@@ -208,31 +176,31 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "GS25 홋카이도 밀크푸딩 출시",
-          "summary": "안데이코의 일본 인기 디저트 '홋카이도 밀크푸딩'이 GS25를 통해 국내 독점 출시, 지난해 치즈케이크 인기 재현 기대.",
+          "emoji": "🍫",
+          "title": "롯데웰푸드 프리미엄 가나 시즌 4종",
+          "summary": "롯데웰푸드가 편의점·마트 채널별로 차별화한 프리미엄 가나 시즌 4종을 출시하며 채널별 맞춤 디저트 전략 추진.",
           "articleIndices": [
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "안데이코, '홋카이도 밀크푸딩' GS25서 출시…국내서 먼저 만난다",
-              "url": "https://n.news.naver.com/mnews/article/396/0000760203?sid=004"
+              "title": "롯데웰푸드, 편의점·마트 채널별로 차별화한 '프리미엄 가나' 시즌 4종",
+              "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362080"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎁",
-          "title": "편의점 빼빼로데이 IP 상품 경쟁",
-          "summary": "CU·GS25·세븐일레븐·이마트24가 포켓몬·짱구·산리오 등 IP 활용 빼빼로데이 기획상품 출시, 캐릭터 굿즈 경쟁 심화.",
+          "emoji": "🍪",
+          "title": "편의점 저당·고단백 신제품 경쟁",
+          "summary": "편의점과 유통업계가 저당 단백질바, 식이섬유 콜라 등 건강 트렌드 반영 신제품을 경쟁적으로 출시하며 웰빙 수요 공략.",
           "articleIndices": [
-            6
+            1
           ],
           "relatedLinks": [
             {
-              "title": "빼빼로보다 캐릭터 굿즈...편의점 4사 빼빼로데이 선물 경쟁",
-              "url": "https://www.abcn.kr/news/articleView.html?idxno=94144"
+              "title": "저당 단백질바부터 식이섬유 콜라까지…유통업계 신제품 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/022/0004173214?sid=101"
             }
           ],
           "articleCount": 1
