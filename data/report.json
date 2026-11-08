@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-07T01:24:08.328Z",
+  "generatedAt": "2026-11-08T00:58:20.845Z",
   "summary": [
-    "CU, 외국인 매출 67% 증가로 3분기 영업익 1008억원 돌파",
-    "편의점 4사, 빼빼로데이 굿즈·캐릭터 협업으로 팬덤 경쟁 심화",
-    "편의점 간편식 메뉴 다양화로 식사 대용 수요 경쟁 가열"
+    "CU, 겨울 간편식 시장 공략 위해 치즈 딥핑·멜팅 시리즈 대거 출시",
+    "세븐일레븐, PB 매출 20% 증가·소용량 간편식으로 고물가 시장 대응",
+    "숏폼 드라마, AI 제작 기술 활용한 유통업계 브랜디드 콘텐츠 플랫폼으로 진화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎄",
-          "title": "백화점 크리스마스 시즌 마케팅",
-          "summary": "롯데·신세계·현대백화점이 11월부터 대규모 크리스마스 장식과 시즌 마케팅을 시작하며 연말 대전 돌입.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "11월부터 불붙은 크리스마스 경쟁…백화점 3사 '연말 대전'",
-              "url": "https://n.news.naver.com/mnews/article/011/0004679698?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🎁",
-          "title": "편의점 빼빼로데이 굿즈 경쟁",
-          "summary": "편의점 4사가 빼빼로데이를 앞두고 캐릭터 굿즈와 기획 상품으로 팬덤 경쟁을 강화하며 연중 최대 대목 공략.",
+          "emoji": "🎬",
+          "title": "숏폼 드라마 AI 마케팅",
+          "summary": "유통·브랜드가 MZ세대 공략을 위해 AI 제작 기술을 활용한 숏폼 드라마를 브랜디드 콘텐츠 플랫폼으로 진화시키고 있다.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "빼빼로에 굿즈를…편의점 4사, 연중 최대 대목 팬덤 경쟁",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026110615033007278"
+              "title": "[MZ트렌드] 2분의 도파민, 60초의 반전…MZ 사로잡은 '숏폼 드라마'",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=229469"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌍",
+          "title": "미국 월마트·샘스클럽 통합",
+          "summary": "미국 유통업계가 4시간 일상 배달과 매장 통합으로 라이프스타일 전반을 아우르는 '올라운드 경험' 제공 전략을 추진 중이다.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "[리얼푸드] 소량 일상 배달까지…美 월마트와 샘스클럽 전격 통합",
+              "url": "https://www.realfoods.co.kr/article/10929485?ref=naver"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,31 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "💄",
-          "title": "K뷰티 글로벌 이커머스 확대",
-          "summary": "동국제약 센텔리안24가 미국·일본을 넘어 유럽 드럭스토어와 뷰티 이커머스 플랫폼에 입점하며 글로벌 판매 채널 다각화.",
+          "emoji": "🇰🇷",
+          "title": "한국 화장품 글로벌 확산",
+          "summary": "미국·유럽 이커머스·마케팅 기업들이 한국 화장품 수출 확대를 위해 서울 오피스를 잇따라 설립하며 K뷰티 시장 공략을 강화하고 있다.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[금주의 제약 톡톡] 동국제약 '센텔리안24' 美·日 넘어 유럽으로",
-              "url": "https://www.mediawatch.kr/news/article.html?no=261652"
+              "title": "한국 화장품이 그렇게 잘 팔려?…美·유럽 기업들 줄줄이 '서울행'",
+              "url": "https://n.news.naver.com/mnews/article/011/0004679724?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "📊",
-          "title": "롯데온 버티컬 커머스 체질 개선",
-          "summary": "롯데온이 패션·뷰티 핵심 버티컬 영역 집중과 광고 수익 확대로 적자 규모를 축소하며 3분기 매출 18.4% 증가 달성.",
+          "emoji": "💄",
+          "title": "센텔리안24 유럽 진출",
+          "summary": "동국제약의 뷰티 브랜드 센텔리안24가 미국·일본을 넘어 유럽 주요 드럭스토어와 이커머스 플랫폼에 입점하며 글로벌 확장을 가속화하고 있다.",
           "articleIndices": [
-            7
+            2
           ],
           "relatedLinks": [
             {
-              "title": "백화점 역대급 실적에 계열사 흑자 날개…롯데쇼핑, 3분기 영업익 35% 뛴",
-              "url": "https://www.widedaily.com/news/articleView.html?idxno=302972"
+              "title": "[금주의 제약 톡톡] 동국제약 '센텔리안24' 美·日 넘어 유럽으로",
+              "url": "https://www.mediawatch.kr/news/article.html?no=261652"
             }
           ],
           "articleCount": 1
@@ -81,30 +81,15 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 기반 퀵커머스 배송 최적화",
-          "summary": "도시형 물류센터와 AI를 활용한 수요 예측으로 15분 배송 시간 단축을 실현하는 퀵커머스의 경쟁력 강화.",
+          "title": "리테일테크 AI 수요 예측",
+          "summary": "IT서비스 기업들이 AI 기반 수요 예측·개인화 추천 등 리테일테크 기술을 강화하며 소매업계의 디지털 혁신을 주도하고 있다.",
           "articleIndices": [
-            9
+            8
           ],
           "relatedLinks": [
             {
-              "title": "[청년발언대] '주문하고 15분, AI는 이미 준비 중'",
-              "url": "https://www.youthdaily.co.kr/news/article.html?no=229490"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "💎",
-          "title": "K-주얼리 AI 데이터 기반 설계",
-          "summary": "하이브랩 그룹이 AI와 데이터 기술을 활용해 주얼리 착용 시뮬레이션과 해외 판매까지 지원하는 기술 개발 추진.",
-          "articleIndices": [
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "장인의 '감' 대신 데이터로…K-주얼리, AI 날개 단다",
-              "url": "https://n.news.naver.com/mnews/article/092/0002444308?sid=105"
+              "title": "IT서비스 4사, 3분기 외형 성장 지속…AI·데이터센터 앞세워 대외 공략",
+              "url": "https://n.news.naver.com/mnews/article/092/0002444290?sid=105"
             }
           ],
           "articleCount": 1
@@ -115,37 +100,36 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "CU 외국인 매출 67% 증가",
-          "summary": "BGF리테일 CU가 외국인 관광객 구매 증가와 택스리펀드·무인 환전 키오스크 도입으로 3분기 영업익 1008억원 돌파.",
+          "emoji": "🧀",
+          "title": "치즈 딥핑·멜팅 시리즈",
+          "summary": "CU가 겨울철 간편식 시장 공략을 위해 치즈를 활용한 '치즈 딥핑&멜팅 시리즈'를 대거 출시하며 계절 수요 기반 차별화 전략을 추진 중이다.",
           "articleIndices": [
-            5,
-            6,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "BGF리테일 3분기 영업익 1008억, CU 외국인 매출 67% 늘어",
-              "url": "https://www.polinews.co.kr/news/articleView.html?idxno=747958"
-            },
-            {
-              "title": "'내국인 주춤하자 외국인이 사들였다…BGF리테일, 3분기 1000억 돌파 비결",
-              "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304472"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🎖️",
-          "title": "CU 우리 부대 응원전 캠페인",
-          "summary": "CU가 하나은행·하나카드와 진행한 '우리 부대 응원전'에서 제2해병사단 등 군종별 1위 부대 4곳에 간식 지원.",
-          "articleIndices": [
+            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "CU, '우리 부대 응원전' 최다 응원 제2해병사단 등 4곳에 간식차",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=779737"
+              "title": "치즈에 찍고, 녹여 먹고...CU, 겨울 간편식에 멜팅 '치즈' 더했다",
+              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320181"
+            },
+            {
+              "title": "CU, 겨울 겨냥 '치즈 딥핑·멜팅' 간편식 및 HMR 라인업 강화",
+              "url": "http://www.popcornnews.net/news/articleView.html?idxno=139093"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "📊",
+          "title": "BGF리테일 3분기 실적",
+          "summary": "BGF리테일이 3분기 영업이익 1000억원을 처음 돌파했으나 매출 성장률 2%에 그쳐 외형 성장 둔화 우려를 남겼다.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "소비쿠폰 기저에도 버틴 BGF리테일…수익성 개선·외형 성장은 숙제",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502034"
             }
           ],
           "articleCount": 1
@@ -156,16 +140,51 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "GS25 간편식 매출 21.5% 증가",
-          "summary": "GS25가 타코 등 간편식 메뉴를 다양화하며 전년 동기 대비 21.5% 매출 증가로 식사 대용 수요 선점.",
+          "emoji": "💳",
+          "title": "GS25 NH머니 적립 이벤트",
+          "summary": "GS25가 NH농협카드의 'NH머니 혜택ON' 이벤트에 참여하며 최대 10.5% 적립 혜택으로 결제 고객 확보 경쟁에 나서고 있다.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "편의점 김밥 옆에 타코…외식비 부담 속 '한 끼' 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/138/0002247638?sid=101"
+              "title": "NH농협카드, 'NH머니 혜택ON' 이벤트…최대 10.5% 적립",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574149487315"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🍱",
+          "title": "세븐일레븐 소용량 간편식",
+          "summary": "세븐일레븐이 PB 매출 20% 증가에 이어 고물가 시대 소비자 수요에 맞춘 한 손 간편식으로 먹거리 경쟁력을 강화하고 있다.",
+          "articleIndices": [
+            6,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "고물가에 달라진 편의점 한 끼 … 세븐일레븐, 소용량 '원핸드 간편식'",
+              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91660"
+            },
+            {
+              "title": "PB 매출 20% 늘어난 세븐일레븐 … 소용량 간편식으로 먹거리 경쟁력 강화",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800009.html"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🎤",
+          "title": "이마트24 QWER 협업",
+          "summary": "이마트24가 K팝 그룹 QWER과 협업한 한정판 샌드위치를 출시하며 팬 마케팅과 일일 점장 행사로 MZ세대 고객 확보에 나서고 있다.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "QWER이 편의점 샌드위치로 변신… 이마트24 협업 상품은?",
+              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190956"
             }
           ],
           "articleCount": 1
@@ -176,31 +195,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍫",
-          "title": "롯데웰푸드 프리미엄 가나 시즌 4종",
-          "summary": "롯데웰푸드가 편의점·마트 채널별로 차별화한 프리미엄 가나 시즌 4종을 출시하며 채널별 맞춤 디저트 전략 추진.",
+          "emoji": "🍜",
+          "title": "편의점 스타 협업 메뉴",
+          "summary": "예능 '신상출시 편스토랑'이 7주년을 맞으며 스타 개발 메뉴를 편의점 유통 채널로 판매하는 구조로 진화하며 SNS 화제성 기반 상품 판매 모델을 확립했다.",
           "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "롯데웰푸드, 편의점·마트 채널별로 차별화한 '프리미엄 가나' 시즌 4종",
-              "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362080"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍪",
-          "title": "편의점 저당·고단백 신제품 경쟁",
-          "summary": "편의점과 유통업계가 저당 단백질바, 식이섬유 콜라 등 건강 트렌드 반영 신제품을 경쟁적으로 출시하며 웰빙 수요 공략.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "저당 단백질바부터 식이섬유 콜라까지…유통업계 신제품 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/022/0004173214?sid=101"
+              "title": "스타의 밥상이 돈이 되기까지… '편스토랑' 7주년의 의미",
+              "url": "https://m.entertain.naver.com/article/469/0000964208"
             }
           ],
           "articleCount": 1
