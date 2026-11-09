@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-08T00:58:20.845Z",
+  "generatedAt": "2026-11-09T01:17:40.266Z",
   "summary": [
-    "CU, 겨울 간편식 시장 공략 위해 치즈 딥핑·멜팅 시리즈 대거 출시",
-    "세븐일레븐, PB 매출 20% 증가·소용량 간편식으로 고물가 시장 대응",
-    "숏폼 드라마, AI 제작 기술 활용한 유통업계 브랜디드 콘텐츠 플랫폼으로 진화"
+    "CU, 결제 단계 100원 기부 캠페인 11개월 만에 5만명 참여 달성",
+    "편의점 4사, 빼빼로데이 맞춰 캐릭터 협업·한정판 상품 확대 경쟁",
+    "GS25, 20년 이상 장기 운영 경영주 300명 돌파로 상생 경영 성과 입증"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎬",
-          "title": "숏폼 드라마 AI 마케팅",
-          "summary": "유통·브랜드가 MZ세대 공략을 위해 AI 제작 기술을 활용한 숏폼 드라마를 브랜디드 콘텐츠 플랫폼으로 진화시키고 있다.",
+          "emoji": "🎁",
+          "title": "빼빼로데이 선물 진화",
+          "summary": "편의점 4사(CU·GS25·세븐일레븐·이마트24)가 포켓몬·짱구 등 캐릭터 협업 상품과 한정판 굿즈로 기존 과자 중심의 빼빼로데이를 다양한 선물 문화로 재편성하며 매출 확대 경쟁 심화.",
           "articleIndices": [
-            6
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[MZ트렌드] 2분의 도파민, 60초의 반전…MZ 사로잡은 '숏폼 드라마'",
-              "url": "https://www.youthdaily.co.kr/news/article.html?no=229469"
+              "title": "빼빼로만 주던 11월 11일은 옛말…바나나 초콜릿부터 캐릭터 굿즈까지",
+              "url": "https://n.news.naver.com/mnews/article/022/0004173568?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🌍",
-          "title": "미국 월마트·샘스클럽 통합",
-          "summary": "미국 유통업계가 4시간 일상 배달과 매장 통합으로 라이프스타일 전반을 아우르는 '올라운드 경험' 제공 전략을 추진 중이다.",
+          "emoji": "🏪",
+          "title": "롯데 주주우대 프로그램",
+          "summary": "롯데쇼핑이 국내 대기업 최초로 주식 1주 보유만으로 쇼핑 혜택을 제공하는 '엘.아너스 클럽'을 출범, 주주환원과 고객 경험 확대를 동시에 추진하는 새로운 유통 비즈니스 모델 제시.",
           "articleIndices": [
-            4
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[리얼푸드] 소량 일상 배달까지…美 월마트와 샘스클럽 전격 통합",
-              "url": "https://www.realfoods.co.kr/article/10929485?ref=naver"
+              "title": "[테크M 이슈] '롯데쇼핑 주식 1주만 있어도 혜택'…롯데, 유통업계 주주...",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=157076"
             }
           ],
           "articleCount": 1
@@ -45,9 +45,9 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🇰🇷",
-          "title": "한국 화장품 글로벌 확산",
-          "summary": "미국·유럽 이커머스·마케팅 기업들이 한국 화장품 수출 확대를 위해 서울 오피스를 잇따라 설립하며 K뷰티 시장 공략을 강화하고 있다.",
+          "emoji": "🌏",
+          "title": "K뷰티 글로벌 확산",
+          "summary": "미국 이커머스·마케팅 기업 프론트로우가 서울 오피스를 설립하며 한국 화장품의 해외 수출 수요 증가와 글로벌 유통 채널 다변화 추세 반영.",
           "articleIndices": [
             1
           ],
@@ -55,21 +55,6 @@
             {
               "title": "한국 화장품이 그렇게 잘 팔려?…美·유럽 기업들 줄줄이 '서울행'",
               "url": "https://n.news.naver.com/mnews/article/011/0004679724?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "💄",
-          "title": "센텔리안24 유럽 진출",
-          "summary": "동국제약의 뷰티 브랜드 센텔리안24가 미국·일본을 넘어 유럽 주요 드럭스토어와 이커머스 플랫폼에 입점하며 글로벌 확장을 가속화하고 있다.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "[금주의 제약 톡톡] 동국제약 '센텔리안24' 美·日 넘어 유럽으로",
-              "url": "https://www.mediawatch.kr/news/article.html?no=261652"
             }
           ],
           "articleCount": 1
@@ -81,18 +66,38 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "리테일테크 AI 수요 예측",
-          "summary": "IT서비스 기업들이 AI 기반 수요 예측·개인화 추천 등 리테일테크 기술을 강화하며 소매업계의 디지털 혁신을 주도하고 있다.",
+          "title": "롯데 유통 AI 도입",
+          "summary": "롯데백화점이 거대언어모델(LLM) 기반 AI 통역 서비스로 13개 언어 실시간 통역을 지원하고, 롯데마트가 딥러닝 기반 신선식품 AI 선별 시스템으로 품질 관리를 고도화하며 유통업계 AI 활용 선도.",
           "articleIndices": [
-            8
+            2
           ],
           "relatedLinks": [
             {
-              "title": "IT서비스 4사, 3분기 외형 성장 지속…AI·데이터센터 앞세워 대외 공략",
-              "url": "https://n.news.naver.com/mnews/article/092/0002444290?sid=105"
+              "title": "신동빈 롯데그룹 회장, 유통 넘어 AI·바이오로 미래를 그리다",
+              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54438"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🏭",
+          "title": "농심 스마트팩토리 가동",
+          "summary": "농심 녹산 수출공장이 AI·자동화 기술 집약 '농심형 스마트팩토리'로 본격 가동, 연 60억 개 라면 생산 능력으로 글로벌 공급망 완성 및 퀵커머스 채널 공략 가속화.",
+          "articleIndices": [
+            5,
+            6
+          ],
+          "relatedLinks": [
+            {
+              "title": "농심, 녹산 수출공장 가동…2030년 매출 7조3000억 시대 연다",
+              "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120883"
+            },
+            {
+              "title": "농심, 녹산 수출공장 본격 가동…'연 60억개' 글로벌 공급망 완성",
+              "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87350"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -100,39 +105,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🧀",
-          "title": "치즈 딥핑·멜팅 시리즈",
-          "summary": "CU가 겨울철 간편식 시장 공략을 위해 치즈를 활용한 '치즈 딥핑&멜팅 시리즈'를 대거 출시하며 계절 수요 기반 차별화 전략을 추진 중이다.",
+          "emoji": "❤️",
+          "title": "CU 착한 100원 기부",
+          "summary": "CU가 결제 과정에서 고객이 100원을 자율적으로 기부하는 캠페인을 통해 11개월 만에 5만명 이상 참여를 달성, 일상 소비 접점을 활용한 고객 참여형 ESG 활동 확대 성과 입증.",
           "articleIndices": [
             1,
-            2
+            2,
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "치즈에 찍고, 녹여 먹고...CU, 겨울 간편식에 멜팅 '치즈' 더했다",
-              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320181"
+              "title": "'편의점 계산대서 100원 기부'…CU, 고객 참여형 ESG 활동 확대",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575240561384"
             },
             {
-              "title": "CU, 겨울 겨냥 '치즈 딥핑·멜팅' 간편식 및 HMR 라인업 강화",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=139093"
+              "title": "'결제할 때 100원씩'…CU '착한 100원 기부'에 5만명 동참",
+              "url": "https://n.news.naver.com/mnews/article/014/0005601243?sid=101"
             }
           ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "📊",
-          "title": "BGF리테일 3분기 실적",
-          "summary": "BGF리테일이 3분기 영업이익 1000억원을 처음 돌파했으나 매출 성장률 2%에 그쳐 외형 성장 둔화 우려를 남겼다.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "소비쿠폰 기저에도 버틴 BGF리테일…수익성 개선·외형 성장은 숙제",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502034"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 4
         }
       ]
     },
@@ -140,51 +132,51 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "💳",
-          "title": "GS25 NH머니 적립 이벤트",
-          "summary": "GS25가 NH농협카드의 'NH머니 혜택ON' 이벤트에 참여하며 최대 10.5% 적립 혜택으로 결제 고객 확보 경쟁에 나서고 있다.",
+          "emoji": "🏆",
+          "title": "GS25 장기 운영 경영주",
+          "summary": "GS25가 20년 이상 운영 경영주 307명(10월 말 기준)으로 300명을 돌파, 가맹점 수익 경쟁력과 상생 지원 제도의 성과를 입증하며 장기 운영 점포 생태계 구축.",
           "articleIndices": [
-            1
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "NH농협카드, 'NH머니 혜택ON' 이벤트…최대 10.5% 적립",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574149487315"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍱",
-          "title": "세븐일레븐 소용량 간편식",
-          "summary": "세븐일레븐이 PB 매출 20% 증가에 이어 고물가 시대 소비자 수요에 맞춘 한 손 간편식으로 먹거리 경쟁력을 강화하고 있다.",
-          "articleIndices": [
-            6,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "고물가에 달라진 편의점 한 끼 … 세븐일레븐, 소용량 '원핸드 간편식'",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91660"
+              "title": "GS25, 20년 이상 운영 경영주 307명... 연말 321명 전망",
+              "url": "https://www.meconomynews.com/news/articleView.html?idxno=203402"
             },
             {
-              "title": "PB 매출 20% 늘어난 세븐일레븐 … 소용량 간편식으로 먹거리 경쟁력 강화",
-              "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800009.html"
+              "title": "GS25, 장기 운영 경영주 300명 돌파…\"상생 결실\"",
+              "url": "https://n.news.naver.com/mnews/article/016/0002720654?sid=101"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🎤",
-          "title": "이마트24 QWER 협업",
-          "summary": "이마트24가 K팝 그룹 QWER과 협업한 한정판 샌드위치를 출시하며 팬 마케팅과 일일 점장 행사로 MZ세대 고객 확보에 나서고 있다.",
+          "emoji": "🍜",
+          "title": "세븐일레븐 농심 라면",
+          "summary": "농심 신라면이 일본 세븐일레븐·패밀리마트·로손 등 3대 편의점 전 매장에 상시 판매 제품으로 입점, 한국 라면의 글로벌 편의점 채널 확대 및 세븐일레븐의 국제 상품 포트폴리오 강화.",
           "articleIndices": [
-            2
+            7
           ],
           "relatedLinks": [
             {
-              "title": "QWER이 편의점 샌드위치로 변신… 이마트24 협업 상품은?",
-              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190956"
+              "title": "60억 개 라면 쏟아낼 '녹산 수출전문공장' 가동…농심 '글로벌 심장부 ...",
+              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67337"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🚌",
+          "title": "이마트24 모두의카드",
+          "summary": "이마트24가 CU·GS25·세븐일레븐과 함께 '모두의카드(기후동행패스)' 판매를 시작, 편의점 채널을 통한 대중교통·환경 연계 결제 상품 확대로 생활밀착형 서비스 다각화.",
+          "articleIndices": [
+            10
+          ],
+          "relatedLinks": [
+            {
+              "title": "티머니, '모두의카드' 편의점 판매 시작… 4000원에 구매",
+              "url": "https://n.news.naver.com/mnews/article/021/0002831270?sid=101"
             }
           ],
           "articleCount": 1
@@ -195,19 +187,35 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍜",
-          "title": "편의점 스타 협업 메뉴",
-          "summary": "예능 '신상출시 편스토랑'이 7주년을 맞으며 스타 개발 메뉴를 편의점 유통 채널로 판매하는 구조로 진화하며 SNS 화제성 기반 상품 판매 모델을 확립했다.",
+          "emoji": "🥃",
+          "title": "캪틴큐 완판 열풍",
+          "summary": "편의점 CU·GS25에서 9900원 다크럼 '캪틴큐'가 단품 1만 개, 보물상자 1200세트 완판되고 세븐일레븐 앱 검색 30만 건을 기록하며 프리미엄 주류 상품의 편의점 채널 확대 및 SNS 바이럴 마케팅 성공 사례.",
           "articleIndices": [
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "스타의 밥상이 돈이 되기까지… '편스토랑' 7주년의 의미",
-              "url": "https://m.entertain.naver.com/article/469/0000964208"
+              "title": "'완판 행진' 9900원짜리 캪틴큐는 어떤 양주?... 위스키 아니었다",
+              "url": "https://www.wikitree.co.kr/articles/1172984"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🍪",
+          "title": "편의점 디저트 신상",
+          "summary": "CU 닭강정, GS25 '혜자로운 미니쿠키' 등 편의점 신상 디저트가 기존 과자와 다른 맛·식감으로 차별화하며, 빼빼로데이 캐릭터 팝업과 함께 간식 시장 세분화 및 프리미엄화 추세 가속화.",
+          "articleIndices": [
+            2,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "\"편의점 닭강정 맞아?\" CU 신상 먹어보니 [신상 언박싱]",
+              "url": "https://n.news.naver.com/mnews/article/011/0004679832?sid=101"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     }
