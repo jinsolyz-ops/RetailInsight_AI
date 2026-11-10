@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-11-09T01:17:40.266Z",
+  "generatedAt": "2026-11-10T03:53:19.897Z",
   "summary": [
-    "CU, 결제 단계 100원 기부 캠페인 11개월 만에 5만명 참여 달성",
-    "편의점 4사, 빼빼로데이 맞춰 캐릭터 협업·한정판 상품 확대 경쟁",
-    "GS25, 20년 이상 장기 운영 경영주 300명 돌파로 상생 경영 성과 입증"
+    "CU, 김천김밥축제 우승작 '오삼이 반반김밥' 11월 김밥 매출 1위 달성",
+    "이마트24 '성수310' 컵커피 누적 판매량 180만개 돌파, 편의점 PB 경쟁 심화",
+    "무신사, AI 기반 퍼스널 컬러 진단 서비스 도입한 100번째 매장 성수 오픈"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "빼빼로데이 선물 진화",
-          "summary": "편의점 4사(CU·GS25·세븐일레븐·이마트24)가 포켓몬·짱구 등 캐릭터 협업 상품과 한정판 굿즈로 기존 과자 중심의 빼빼로데이를 다양한 선물 문화로 재편성하며 매출 확대 경쟁 심화.",
+          "emoji": "🎄",
+          "title": "백화점 3사 겨울 세일 경쟁",
+          "summary": "롯데·신세계·현대백화점이 최대 60% 할인과 체험 콘텐츠로 연말 쇼핑 수요 선점 경쟁 돌입.",
           "articleIndices": [
-            7
+            6,
+            9
           ],
           "relatedLinks": [
             {
-              "title": "빼빼로만 주던 11월 11일은 옛말…바나나 초콜릿부터 캐릭터 굿즈까지",
-              "url": "https://n.news.naver.com/mnews/article/022/0004173568?sid=101"
+              "title": "백화점 3사, 일제히 연말 세일 돌입…최대 60% 할인에 체험 콘텐츠까지",
+              "url": "http://www.metroseoul.co.kr/article/20261110500162"
+            },
+            {
+              "title": "연말 쇼핑 대목 잡아라…백화점 3사, 겨울 정기세일 돌입",
+              "url": "https://www.newsinside.kr/news/articleView.html?idxno=5044507"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "🏪",
-          "title": "롯데 주주우대 프로그램",
-          "summary": "롯데쇼핑이 국내 대기업 최초로 주식 1주 보유만으로 쇼핑 혜택을 제공하는 '엘.아너스 클럽'을 출범, 주주환원과 고객 경험 확대를 동시에 추진하는 새로운 유통 비즈니스 모델 제시.",
+          "emoji": "🎓",
+          "title": "수능 수험생 마케팅 총력",
+          "summary": "유통업계가 합격 기원 전통 상품부터 캐릭터 협업·실용 굿즈까지 다양한 수험생 맞춤 마케팅 전개.",
           "articleIndices": [
-            1
+            8
           ],
           "relatedLinks": [
             {
-              "title": "[테크M 이슈] '롯데쇼핑 주식 1주만 있어도 혜택'…롯데, 유통업계 주주...",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=157076"
+              "title": "수능 D-9, 합격 기원도 가지각색…유통업계 '수험생 마케팅' 총력",
+              "url": "https://www.newsway.co.kr/news/view?ud=2026110919072363025"
             }
           ],
           "articleCount": 1
@@ -46,15 +51,30 @@
       "issues": [
         {
           "emoji": "🌏",
-          "title": "K뷰티 글로벌 확산",
-          "summary": "미국 이커머스·마케팅 기업 프론트로우가 서울 오피스를 설립하며 한국 화장품의 해외 수출 수요 증가와 글로벌 유통 채널 다변화 추세 반영.",
+          "title": "C-커머스(테무·알리) 국내 시장 영향",
+          "summary": "초국경 이커머스 플랫폼의 국내 진입이 유통·제조업 생태계와 소상공인 입지에 구조적 변화 초래.",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "한국 화장품이 그렇게 잘 팔려?…美·유럽 기업들 줄줄이 '서울행'",
-              "url": "https://n.news.naver.com/mnews/article/011/0004679724?sid=101"
+              "title": "[韓경제 아킬레스건](48) C-커머스(알리·테무)의 침공 : 국내 유통-제조...",
+              "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=82308"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🤝",
+          "title": "배민 클럽가게 최혜대우 조건 도입",
+          "summary": "우아한형제들이 경쟁사 멤버십 기반 최혜대우 요구에 대응하는 방어 차원의 정책 도입으로 이커머스 경쟁 구조 변화.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "[S-이슈] '경쟁업체에 대응하기 위한 최소한의 방어 차원'… 배달의민족...",
+              "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45165"
             }
           ],
           "articleCount": 1
@@ -66,35 +86,40 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "롯데 유통 AI 도입",
-          "summary": "롯데백화점이 거대언어모델(LLM) 기반 AI 통역 서비스로 13개 언어 실시간 통역을 지원하고, 롯데마트가 딥러닝 기반 신선식품 AI 선별 시스템으로 품질 관리를 고도화하며 유통업계 AI 활용 선도.",
+          "title": "무신사 AI 퍼스널 컬러 진단 서비스",
+          "summary": "무신사가 100번째 매장 성수에 AI 기반 퍼스널 컬러 진단 서비스 도입, 뷰티·라이프스타일 사업 확장 가속.",
           "articleIndices": [
-            2
+            3,
+            4
           ],
           "relatedLinks": [
             {
-              "title": "신동빈 롯데그룹 회장, 유통 넘어 AI·바이오로 미래를 그리다",
-              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54438"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🏭",
-          "title": "농심 스마트팩토리 가동",
-          "summary": "농심 녹산 수출공장이 AI·자동화 기술 집약 '농심형 스마트팩토리'로 본격 가동, 연 60억 개 라면 생산 능력으로 글로벌 공급망 완성 및 퀵커머스 채널 공략 가속화.",
-          "articleIndices": [
-            5,
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "농심, 녹산 수출공장 가동…2030년 매출 7조3000억 시대 연다",
-              "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120883"
+              "title": "무신사, 패션 넘어 뷰티·라이프스타일로 '투 트랙' 사업 확장",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285805"
             },
             {
-              "title": "농심, 녹산 수출공장 본격 가동…'연 60억개' 글로벌 공급망 완성",
-              "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87350"
+              "title": "무신사, 100번째 매장 성수에 연다…올리브영·다이소와 'K뷰티 격돌'",
+              "url": "https://n.news.naver.com/mnews/article/022/0004173884?sid=101"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "💳",
+          "title": "AI 결제 프로토콜 기반 에이전틱 커머스 대비",
+          "summary": "NHN KCP가 AI 에이전트 기반 상품 선택·결제 자동화 시대 대비해 글로벌 AI 결제 프로토콜 기술 개발 중.",
+          "articleIndices": [
+            6,
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "NHN KCP, 분기 매출·거래액 최대···3분기 거래액 17.3조",
+              "url": "https://www.thereport.co.kr/news/articleView.html?idxno=93199"
+            },
+            {
+              "title": "NHN KCP, 3분기 매출 3,867억 역대 최대",
+              "url": "http://www.technoa.co.kr/news/articleView.html?idxno=101619"
             }
           ],
           "articleCount": 2
@@ -105,9 +130,112 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "❤️",
-          "title": "CU 착한 100원 기부",
-          "summary": "CU가 결제 과정에서 고객이 100원을 자율적으로 기부하는 캠페인을 통해 11개월 만에 5만명 이상 참여를 달성, 일상 소비 접점을 활용한 고객 참여형 ESG 활동 확대 성과 입증.",
+          "emoji": "🍙",
+          "title": "오삼이 반반김밥 11월 매출 1위",
+          "summary": "CU가 김천김밥축제 우승작을 상품화한 '오삼이 반반김밥'이 재출시 직후 11월 김밥 카테고리 매출 1위 달성, 지역 상생 마케팅 성과.",
+          "articleIndices": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "BGF리테일, 축제 우승 김밥 전국서 통했다...오삼이 반반김밥 매출 1위",
+              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139345"
+            },
+            {
+              "title": "CU, '김천김밥축제' 우승작 전국 흥행…편의점표 지역 상생 결실",
+              "url": "https://www.sentv.co.kr/article/view/sentv202611100080"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "🍡",
+          "title": "CU 빼빼로 50% 할인 행사",
+          "summary": "CU가 빼빼로 4종 4개 이상 구매 시 50% 할인 프로모션 진행, 신한 SOL페이 연계 마케팅.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "11월 10일 신한 퀴즈팡팡 정답…CU 빼빼로 할인 문항",
+              "url": "https://www.vegannews.co.kr/news/article.html?no=403009"
+            }
+          ],
+          "articleCount": 1
+        }
+      ]
+    },
+    {
+      "name": "경쟁사 이슈",
+      "issues": [
+        {
+          "emoji": "🛍️",
+          "title": "GS25 해군 협업 밀리터리 패션",
+          "summary": "GS25가 무신사 스탠다드와 협업해 해군 창설 81주년 기념 '네이비 짐' 컬렉션 출시, 전국 221개 GS25 해군마트에서 판매.",
+          "articleIndices": [
+            2,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "육군 이어 해군까지 품었다…무신사 스탠다드, '밀리터리 패션' 영토 확...",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=157141"
+            },
+            {
+              "title": "빙그레 이디야커피 GS리테일 外(새로나왔어요!)",
+              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082021"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍷",
+          "title": "세븐일레븐 예산 사과와인 월 10만병 판매",
+          "summary": "세븐일레븐에서 판매 중인 '선양추사' 예산 사과와인이 출시 3개월 만에 월 10만 병 이상 판매, 지역 농산물 부가가치 창출.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "예산 사과와인 페스티벌 마무리…'방문객 70% 외국인'",
+              "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7193031"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "☕",
+          "title": "이마트24 성수310 컵커피 180만개 판매",
+          "summary": "이마트24 자체 카페브랜드 '성수310' 컵커피가 출시 1년여 만에 누적 판매량 180만개 돌파, 편의점 PB 경쟁 심화.",
+          "articleIndices": [
+            6,
+            7,
+            9
+          ],
+          "relatedLinks": [
+            {
+              "title": "'성수310' 컵커피... 이마트24 '자체 브랜드' 신화 쏘나?",
+              "url": "http://www.beyondpost.co.kr/view.php?ud=20261110124627172218ef25b590_30"
+            },
+            {
+              "title": "'하루 4800개씩 팔렸다'…이마트24 '성수310', 컵커피 경쟁 속 존재감",
+              "url": "https://n.news.naver.com/mnews/article/123/0002393711?sid=101"
+            }
+          ],
+          "articleCount": 3
+        }
+      ]
+    },
+    {
+      "name": "상품 이슈",
+      "issues": [
+        {
+          "emoji": "🍰",
+          "title": "편의점 신상 디저트·간식 경쟁",
+          "summary": "빙그레 삼겹살칩·이디야 신제품·롯데웰푸드 칸쵸·죠리퐁 리뉴얼 등 편의점 디저트·간식 신상 출시 경쟁 심화.",
           "articleIndices": [
             1,
             2,
@@ -116,106 +244,26 @@
           ],
           "relatedLinks": [
             {
-              "title": "'편의점 계산대서 100원 기부'…CU, 고객 참여형 ESG 활동 확대",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575240561384"
-            },
-            {
-              "title": "'결제할 때 100원씩'…CU '착한 100원 기부'에 5만명 동참",
-              "url": "https://n.news.naver.com/mnews/article/014/0005601243?sid=101"
+              "title": "롯데웰푸드·크라운제과, 장수 과자에 새 옷 입힌다",
+              "url": "https://www.asiatime.co.kr/article/20261110500071"
             }
           ],
           "articleCount": 4
-        }
-      ]
-    },
-    {
-      "name": "경쟁사 이슈",
-      "issues": [
-        {
-          "emoji": "🏆",
-          "title": "GS25 장기 운영 경영주",
-          "summary": "GS25가 20년 이상 운영 경영주 307명(10월 말 기준)으로 300명을 돌파, 가맹점 수익 경쟁력과 상생 지원 제도의 성과를 입증하며 장기 운영 점포 생태계 구축.",
-          "articleIndices": [
-            2,
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "GS25, 20년 이상 운영 경영주 307명... 연말 321명 전망",
-              "url": "https://www.meconomynews.com/news/articleView.html?idxno=203402"
-            },
-            {
-              "title": "GS25, 장기 운영 경영주 300명 돌파…\"상생 결실\"",
-              "url": "https://n.news.naver.com/mnews/article/016/0002720654?sid=101"
-            }
-          ],
-          "articleCount": 2
         },
         {
-          "emoji": "🍜",
-          "title": "세븐일레븐 농심 라면",
-          "summary": "농심 신라면이 일본 세븐일레븐·패밀리마트·로손 등 3대 편의점 전 매장에 상시 판매 제품으로 입점, 한국 라면의 글로벌 편의점 채널 확대 및 세븐일레븐의 국제 상품 포트폴리오 강화.",
+          "emoji": "☕",
+          "title": "이마트24 성수310 신상 2종 출시",
+          "summary": "이마트24 '성수310' 컵커피 신상 2종 출시 및 패키지 리뉴얼, 1+1 행사로 흥행 열기 지속.",
           "articleIndices": [
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "60억 개 라면 쏟아낼 '녹산 수출전문공장' 가동…농심 '글로벌 심장부 ...",
-              "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67337"
+              "title": "이마트24, '성수310' 컵커피 신상 2종 출시부터 1+1 행사",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=780426"
             }
           ],
           "articleCount": 1
-        },
-        {
-          "emoji": "🚌",
-          "title": "이마트24 모두의카드",
-          "summary": "이마트24가 CU·GS25·세븐일레븐과 함께 '모두의카드(기후동행패스)' 판매를 시작, 편의점 채널을 통한 대중교통·환경 연계 결제 상품 확대로 생활밀착형 서비스 다각화.",
-          "articleIndices": [
-            10
-          ],
-          "relatedLinks": [
-            {
-              "title": "티머니, '모두의카드' 편의점 판매 시작… 4000원에 구매",
-              "url": "https://n.news.naver.com/mnews/article/021/0002831270?sid=101"
-            }
-          ],
-          "articleCount": 1
-        }
-      ]
-    },
-    {
-      "name": "상품 이슈",
-      "issues": [
-        {
-          "emoji": "🥃",
-          "title": "캪틴큐 완판 열풍",
-          "summary": "편의점 CU·GS25에서 9900원 다크럼 '캪틴큐'가 단품 1만 개, 보물상자 1200세트 완판되고 세븐일레븐 앱 검색 30만 건을 기록하며 프리미엄 주류 상품의 편의점 채널 확대 및 SNS 바이럴 마케팅 성공 사례.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "'완판 행진' 9900원짜리 캪틴큐는 어떤 양주?... 위스키 아니었다",
-              "url": "https://www.wikitree.co.kr/articles/1172984"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍪",
-          "title": "편의점 디저트 신상",
-          "summary": "CU 닭강정, GS25 '혜자로운 미니쿠키' 등 편의점 신상 디저트가 기존 과자와 다른 맛·식감으로 차별화하며, 빼빼로데이 캐릭터 팝업과 함께 간식 시장 세분화 및 프리미엄화 추세 가속화.",
-          "articleIndices": [
-            2,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"편의점 닭강정 맞아?\" CU 신상 먹어보니 [신상 언박싱]",
-              "url": "https://n.news.naver.com/mnews/article/011/0004679832?sid=101"
-            }
-          ],
-          "articleCount": 2
         }
       ]
     }
