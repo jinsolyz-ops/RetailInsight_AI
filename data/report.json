@@ -1,48 +1,48 @@
 {
-  "generatedAt": "2026-11-13T02:14:38.348Z",
+  "generatedAt": "2026-11-14T01:54:33.640Z",
   "summary": [
-    "CU, 유심사와 협력해 전국 점포에서 해외 eSIM 판매 시작",
-    "네이버, 1조 투자로 물류 직접 운영하며 쿠팡과 이커머스 경쟁 심화",
-    "AI 에이전트 커머스 확산으로 유통업계 구매 프로세스 혁신 본격화"
+    "CU, 차별화 상품과 외국인 고객 확대로 9조원 매출 달성 및 영업이익 증대",
+    "네이버, 1조원 투자로 물류 직접 운영하며 쿠팡과 이커머스 경쟁 본격화",
+    "유통업계, AI 에이전트 커머스 시대 대비 상품 추천·재고·결제 시스템 혁신 추진"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "K-유통 해외 공략 전략",
-          "summary": "무신사·파리바게뜨·교촌치킨이 유통망·매장·체험마케팅으로 차별화된 해외 확장 전략을 추진 중",
-          "articleIndices": [
-            10
-          ],
-          "relatedLinks": [
-            {
-              "title": "K-유통 해외 공략 '3사 3색'",
-              "url": "https://news.ifm.kr/news/articleView.html?idxno=484322"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
           "emoji": "🎯",
-          "title": "신진 K패션 브랜드 지원",
-          "summary": "신세계톰보이가 신진 우수 K패션 브랜드 3곳에 총 6천만 원 지원하며 차세대 디자이너 육성 생태계 구축",
+          "title": "11월 쇼핑축제 마케팅",
+          "summary": "유통업계가 해외 할인행사 대응에서 연말 소비 선점 전략으로 전환하며 크리스마스 캐릭터 등 차별화 마케팅 강화.",
           "articleIndices": [
-            6,
+            7,
             8
           ],
           "relatedLinks": [
             {
-              "title": "신세계톰보이, 신진 우수 K패션 브랜드 3곳 선정해 모두 6천만 원 지원",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451935"
+              "title": "11월 쇼핑축제, 커진 규모만큼 소비자 혜택도 늘어나야",
+              "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205953"
             },
             {
-              "title": "신세계톰보이, 차세대 K패션 브랜드 3곳 선정…각 2000만원 지원",
-              "url": "https://n.news.naver.com/mnews/article/003/0014320277?sid=101"
+              "title": "11/14~11/15 이마트·홈플러스·롯데마트·코스트코 휴무일·영업시간",
+              "url": "http://www.newskr.kr/news/articleView.html?idxno=107999"
             }
           ],
           "articleCount": 2
+        },
+        {
+          "emoji": "📊",
+          "title": "편의점 실적 엇갈림",
+          "summary": "CU는 차별화 상품과 외국인 고객 수요로 선방, 세븐일레븐은 구조조정 효과로 흑자 전환, GS25는 매출 최대 기록도 일회성 비용으로 영업이익 감소.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "외국인 특수에도 실적 엇갈려…CU 선방·세븐일레븐 반등·GS25 부진",
+              "url": "https://n.news.naver.com/mnews/article/117/0004124910?sid=103"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     },
@@ -50,15 +50,15 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📦",
+          "emoji": "🚀",
           "title": "네이버 물류 직접 운영",
-          "summary": "네이버가 1조 원 투자로 물류 인프라를 직접 구축하며 검색·AI·쇼핑·결제·멤버십과 통합한 통합 플랫폼 전략 추진",
+          "summary": "네이버가 1조원 투자로 물류 자회사 설립하며 검색·AI·쇼핑·결제·멤버십·물류를 통합한 플랫폼으로 쿠팡과 경쟁 본격화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "[테크M 이슈] 쿠팡 잡으러 1조 베팅한 네이버…물류 직접 챙기며 '쇼핑 ...",
+              "title": "쿠팡 잡으러 1조 베팅한 네이버…물류 직접 챙기며 쇼핑 플랫폼 강화",
               "url": "https://www.techm.kr/news/articleView.html?idxno=157303"
             }
           ],
@@ -66,23 +66,24 @@
         },
         {
           "emoji": "🤖",
-          "title": "버티컬 커머스 생태계",
-          "summary": "롯데벤처스가 스타트업 10개사와 6개월간 132건 미팅을 통해 푸드·유통·커머스·물류 분야 협업 성과 발표",
+          "title": "AI 에이전트 커머스 확산",
+          "summary": "오픈AI의 챗GPT 월렛 출시로 AI가 소비자 대신 결제하는 에이전틱 커머스 시장 본격 개막, 네이버·구글 등 경쟁 심화.",
           "articleIndices": [
-            9,
-            12
+            6,
+            7,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "롯데벤처스, '2026 롯데 오픈이노베이션 데이' 개최…스타트업 10개사와...",
-              "url": "https://n.news.naver.com/mnews/article/076/0004466380?sid=101"
+              "title": "오픈AI, 챗GPT 내 AI에이전트 결제 출시…구글·코인베이스와 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/018/0006409802?sid=101"
             },
             {
-              "title": "롯데벤처스, '오픈이노베이션 데이' 개최…스타트업 10개사 협업성과 발표",
-              "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902968"
+              "title": "오픈AI, AI 에이전트가 대신 결제하는 챗GPT 월렛 출시",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217400"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         }
       ]
     },
@@ -91,41 +92,41 @@
       "issues": [
         {
           "emoji": "🛒",
-          "title": "에이전틱 커머스 확산",
-          "summary": "AI 에이전트가 상품 검색·비교·구매 결정에 직접 개입하는 에이전틱 커머스 시대 도래로 유통업계 사업 구조 재편 필요",
+          "title": "유통업 AI 실전 도입",
+          "summary": "원료 개발부터 신선식품 폐기까지 AI가 손익을 좌우하며, 유통업계가 업무 보조 수단을 넘어 경영 전략으로 AI 활용 확대.",
           "articleIndices": [
-            1,
-            2
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "\"AI가 쇼핑하고 결제까지\"…유통업계, '에이전틱 커머스' 대응 본격...",
-              "url": "https://n.news.naver.com/mnews/article/243/0000105623?sid=101"
+              "title": "유통업계, 에이전틱 AI발 대전환 대비…AI가 쇼핑 결정하는 시대 온다",
+              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91998"
             },
             {
-              "title": "'AI가 구매 결정하는 시대'…대한상의, AI 거래 인프라 구축 강조",
-              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367548"
+              "title": "[기획] 유통가 AI 실전 돌입, 원료 개발부터 장바구니까지",
+              "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748444"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "💡",
-          "title": "AI 기반 커머스 플랫폼 전략",
-          "summary": "카페24가 '익스팬드 2027' 통해 AI를 활용한 상품 탐색·구매 지원 및 운영 효율화 방안 제시하며 2027년 커머스 미래 전략 공개",
+          "emoji": "💄",
+          "title": "컬리뷰티페스타 시간대별 뷰티",
+          "summary": "리테일테크 기업 컬리가 45개 브랜드와 협력해 아침·낮·저녁·밤 시간대별 맞춤형 뷰티 제품 추천 경험 제공.",
           "articleIndices": [
-            4,
-            6,
-            7
+            12,
+            13,
+            14
           ],
           "relatedLinks": [
             {
-              "title": "카페24, AI·글로벌 앞세워 이커머스 성장 전략 제시…'익스팬드 2027'...",
-              "url": "https://www.news2day.co.kr/article/20261113500139"
+              "title": "[현장] 시간대별로 고르는 화장품…컬리, 45개 브랜드와 뷰티 하루 체험",
+              "url": "https://www.onews.tv/news/articleView.html?idxno=291664"
             },
             {
-              "title": "AI 쇼핑부터 브랜드·글로벌 전략까지…카페24, '익스팬드 2027' 개최",
-              "url": "https://n.news.naver.com/mnews/article/030/0003485368?sid=101"
+              "title": "[현장] 뷰티 여정 만끽한 컬리뷰티페스타 2026…부스 체험하다보면 컬리 매력 발견",
+              "url": "https://www.thedailypost.kr/news/articleView.html?idxno=116915"
             }
           ],
           "articleCount": 3
@@ -136,40 +137,27 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "✈️",
-          "title": "CU 해외 eSIM 판매 시작",
-          "summary": "CU가 유심사와 협력해 11월 16일부터 전국 점포에서 7개국 49개 상품의 해외여행용 eSIM을 판매 시작",
+          "emoji": "⭐",
+          "title": "민승배 사장 승진",
+          "summary": "CU 매출 9조원 달성과 차별화 상품·외국인 고객 확대로 수익성 개선을 이끈 민승배 BGF리테일 대표이사가 사장으로 승진.",
           "articleIndices": [
-            1,
             2,
-            4
+            3,
+            4,
+            5,
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[편의점 브리핑] CU, 영수증 eSIM 판매·세븐일레븐, 성시경 협업 라면·...",
-              "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81542"
+              "title": "민승배, 3년 만에 사장 승진…CU 성장세 이어간다",
+              "url": "https://n.news.naver.com/mnews/article/417/0001164292?sid=101"
             },
             {
-              "title": "해외여행 데이터, 이제 편의점에서 산다…CU, 영수증 QR로 eSIM 설치",
-              "url": "https://www.abcn.kr/news/articleView.html?idxno=94453"
+              "title": "CU 9조원 이끈 민승배 대표, 사장 승진…BGF그룹, 2027년 정기 인사 단행",
+              "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45326"
             }
           ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🌱",
-          "title": "BGF리테일 ESG A+ 유지",
-          "summary": "BGF리테일이 한국ESG기준원 평가에서 2년 연속 통합 A+ 등급을 획득하며 환경·사회·지배구조 모든 부문 점수 상승",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "BGF리테일, ESG 세부 점수 모두 상승…통합 A+ 유지",
-              "url": "https://www.vegannews.co.kr/news/article.html?no=404246"
-            }
-          ],
-          "articleCount": 1
+          "articleCount": 5
         }
       ]
     },
@@ -177,44 +165,34 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍷",
-          "title": "GS25 연말 주류 프로모션",
-          "summary": "GS25가 프랑스 보르도 와인 등 신상품 3종을 출시하고 월말까지 와인·위스키 대규모 할인 행사로 연말 주류 수요 공략",
+          "emoji": "💚",
+          "title": "세븐일레븐 흑자 전환",
+          "summary": "세븐일레븐이 구조조정 효과로 3분기 흑자 전환하며 반등, 수능 시즌 수험생 응원 마케팅 강화.",
           "articleIndices": [
-            3,
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[똑똑한유통] 오비맥주, KT&G, NS홈쇼핑, LF 킨, 배달의민족, 무신사, KT알...",
-              "url": "https://www.ekn.kr/web/view.php?key=20261113020179267"
-            },
-            {
-              "title": "GS25, 와인 3종 출시…이달 말까지 와인·위스키 할인행사도",
-              "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140039"
+              "title": "[유통가 패트롤] 수험생 응원에 소비 혜택까지...수능 시즌 분주",
+              "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=147050"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🍰",
-          "title": "이마트24 K-스윗 전략",
-          "summary": "이마트24 대표가 '컨슈머포럼 2027: K-스윗페스타'에서 디저트 중심 상품 발굴 및 글로벌 확산 전략 강조",
+          "emoji": "🧥",
+          "title": "이마트24 경량 패딩 신상",
+          "summary": "이마트24가 올해 처음 경량 패딩(3만4900원)을 출시해 일평균 매출 10% 증가, 저가 의류 수요 공략.",
           "articleIndices": [
-            7,
-            8
+            10
           ],
           "relatedLinks": [
             {
-              "title": "디저트가 이끄는 K-푸드의 미래…이제 세계로 간다 [컨슈머포럼 2027: K-...",
-              "url": "https://n.news.naver.com/mnews/article/016/0002722919?sid=101"
-            },
-            {
-              "title": "\"디저트에 집중하는 편의점…전국에서 상품 발굴\" [컨슈머포럼 2027: ...",
-              "url": "https://n.news.naver.com/mnews/article/016/0002722926?sid=101"
+              "title": "한때 등골 브레이커였는데…5만원도 안 되는 패딩에 열광",
+              "url": "https://n.news.naver.com/mnews/article/015/0005353788?sid=103"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -222,36 +200,32 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍓",
-          "title": "남양유업 딸기 제품 확대",
-          "summary": "남양유업이 테이크핏 딸기맛 음료 편의점 판매를 확대하고 백미당 겨울 신제품 7종을 출시하며 딸기 활용 제품군 강화",
+          "emoji": "🍰",
+          "title": "편의점 디저트·스낵 인기",
+          "summary": "CU가 인기 IP 협업 차별화 상품과 디저트·스낵류 흥행으로 매출 성장, 세븐일레븐도 글로벌 디저트·산리오 캐릭터 굿즈 출시.",
           "articleIndices": [
             1,
-            2
+            3
           ],
           "relatedLinks": [
             {
-              "title": "남양유업, 테이크핏 단백질 음료부터 백미당 디저트까지 '딸기' 정조준",
-              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503703"
-            },
-            {
-              "title": "남양유업, '테이크핏' 딸기맛 판매 확대…백미당 겨울 신제품 7종 출시",
-              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132487"
+              "title": "코리아세븐, 3분기 영업익 36억...2개 분기 연속 흑자",
+              "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887131"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "📚",
-          "title": "이마트24 명작문학 디자인 상품",
-          "summary": "이마트24가 명작문학 초판본 디자인을 입힌 먹거리를 선보이고 스탬프 적립 고객 대상 세계문학 도서 세트 증정 이벤트 진행",
+          "emoji": "🍷",
+          "title": "GS25 연말 와인·위스키",
+          "summary": "GS25가 신상 와인 3종 출시 및 11월 한 달간 와인·위스키 할인 장터 운영으로 연말 주류 소비 시즌 선점.",
           "articleIndices": [
-            3
+            8
           ],
           "relatedLinks": [
             {
-              "title": "[오늘의 신상] 티트라·배스킨라빈스·이마트24·풀무원·대상...'향 선물...",
-              "url": "http://www.kdfnews.com/news/articleView.html?idxno=190855"
+              "title": "GS25, 연말 주류 수요 겨냥해 신상 와인 3종과 11월 장터 연다",
+              "url": "https://www.lawissue.co.kr/view.php?ud=202611131356581575204ead0791_12"
             }
           ],
           "articleCount": 1
