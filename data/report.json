@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-15T01:25:23.346Z",
+  "generatedAt": "2026-11-16T01:28:25.479Z",
   "summary": [
-    "CU 생초코모찌 수능 시즌 매출 117% 급증, SNS 인기 디저트가 전통 선물 대체",
-    "현대백화점·롯데백화점 챗GPT 연동 AI 쇼핑 서비스 확대, 생성형 AI가 신규 고객 유입 채널로 부상",
-    "GS25·세븐일레븐 유명인 협업 상품(성시경 비빔밥·쯔양 대식가) 100만개 이상 판매 돌파"
+    "CU, 리센느 협업 빵 350만개 완판 후 캐릭터 굿즈 27종 전국 확대 판매",
+    "GS25, DIY 버거 콘셉트 '브리오슈번·치즈쏙치킨' 출시로 조합형 상품 차별화",
+    "컬리뷰티페스타 1만4000명 방문, 참여 브랜드 거래액 470% 증가로 리테일 테크 이벤트 성공"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "겨울 난방용품 시즈널 마케팅",
-          "summary": "이마트 등 유통사들이 조기 한파 대비 난방가전·방한용품 할인전 집중, 기온 변화에 따른 수요 대응 마케팅 강화.",
+          "emoji": "🎯",
+          "title": "수능 시즌 편의점 재고 전략",
+          "summary": "CU가 수능 시험장 인근 점포 중심으로 필기구·방한용품 재고를 30배 늘리고 생초코모찌 마케팅으로 계절 수요 대응.",
           "articleIndices": [
-            5
+            6
           ],
           "relatedLinks": [
             {
-              "title": "이마트, 이른 겨울 추위에 방한용품 할인전… 난방가전 최대 25% 할인",
-              "url": "https://www.viva100.com/article/20261114500189"
+              "title": "수능 당일 아침 '매출 폭발'…편의점, 필기구·방한용품 재고 30배 늘...",
+              "url": "https://n.news.naver.com/mnews/article/011/0004682446?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏃",
-          "title": "롯데마트 기부 러닝 '통큰런'",
-          "summary": "롯데마트·슈퍼가 3,000명 참여 러닝 이벤트로 6,000만원 기부, 브랜드 경험을 사회적 가치와 연결하는 체험형 마케팅 전개.",
+          "emoji": "❄️",
+          "title": "겨울 상품 콘텐츠 마케팅",
+          "summary": "유통업계가 제품의 기능을 일상 사용 장면에서 전달하는 콘텐츠 마케팅을 핵심 판매 전략으로 활용, 겨울철 상품 매출 2배 증가.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "롯데마트·슈퍼, 첫 기부 러닝 '통큰런'…참가비 6000만원 기부",
-              "url": "https://n.news.naver.com/mnews/article/003/0014322645?sid=101"
+              "title": "추위 오자 매출도 뛰었다… 자주 '히트', 지난해의 2배",
+              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5254"
             }
           ],
           "articleCount": 1
@@ -45,31 +45,36 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
+          "emoji": "⭐",
+          "title": "생활용품 브랜드평판 1위 다이소",
+          "summary": "2026년 11월 생활용품 브랜드평판에서 다이소가 1위, 쿠팡·이마트 순으로 온라인 이커머스 판매 확대와 가치 소비 확산이 주요 요인.",
+          "articleIndices": [
+            1,
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "[브랜드평판] 다이소, 생활용품 브랜드평판 11월 1위... 쿠팡, 이마트 뒤...",
+              "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=56378"
+            },
+            {
+              "title": "생활용품 2026년 11월 브랜드평판...다이소, 쿠팡, 이마트 順",
+              "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229792"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
           "emoji": "🤖",
-          "title": "AI 에이전트 커머스 분과 정부 추진",
-          "summary": "정부 전략경제자문단이 AI에이전트커머스 분과 현장 방문 추진, 생성형 AI 기반 신규 이커머스 채널 육성 정책 본격화.",
+          "title": "네이버 개인형 AI 에이전트 쇼핑 서비스",
+          "summary": "네이버가 연내 사용자를 대신해 쇼핑·예약·결제 등을 수행하는 개인형 AI 에이전트 도입으로 온라인 커머스 경험 혁신.",
           "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "[정부 주요 일정] 경제·사회부처 주간 일정 (11월 16일~11월 20일)",
-              "url": "https://www.etoday.co.kr/news/view/2648220"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "📱",
-          "title": "지미션-JIT 스리랑카 AI 서비스 협력",
-          "summary": "지미션이 스리랑카 AI 서비스 도입 협력, 소상공인·온라인쇼핑몰 운영사 대상 고객경험관리(CXM) 솔루션 확대.",
-          "articleIndices": [
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "[ZD SW 투데이] 지미션-JIT, 스리랑카 AI 서비스 도입 협력",
-              "url": "https://n.news.naver.com/mnews/article/092/0002445215?sid=105"
+              "title": "[AI핫이슈] K빅테크 '퍼스널 AI 에이전트' 레이스 가세...젠슨 황 사태 ...",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715555"
             }
           ],
           "articleCount": 1
@@ -80,36 +85,37 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "현대백화점 챗GPT 쇼핑 서비스 확대",
-          "summary": "현대백화점이 챗GPT 연동 AI 쇼핑 서비스 '더현대 하이' 글로벌 플랫폼 확대, 생성형 AI가 새로운 상품 검색·추천 채널로 부상.",
+          "emoji": "🎨",
+          "title": "컬리뷰티페스타 1만4000명 방문",
+          "summary": "리테일 테크 기업 컬리의 뷰티페스타가 1만4000명 방문, 참여 브랜드 거래액 470% 증가로 오프라인 이벤트 마케팅 성공 사례.",
           "articleIndices": [
-            1,
-            2
+            11,
+            12,
+            13
           ],
           "relatedLinks": [
             {
-              "title": "'선물 골라줘'…현대백화점, 챗GPT로 쇼핑 접점 확대",
-              "url": "http://www.4th.kr/news/articleView.html?idxno=2121886"
+              "title": "컬리뷰티페스타 1만4천명 방문…'참여 브랜드 거래액 470% 증가'",
+              "url": "https://n.news.naver.com/mnews/article/001/0016443232?sid=103"
             },
             {
-              "title": "현대百, 챗GPT서 AI 쇼핑 서비스…'더현대 하이' 글로벌 플랫폼 확대",
-              "url": "https://n.news.naver.com/mnews/article/421/0009289453?sid=101"
+              "title": "[유통갤러리] 컬리뷰티페스타 2026, 방문객 1만4000명·거래액 470%↑ 外",
+              "url": "https://theviewers.co.kr/View.aspx?No=4313762"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         },
         {
-          "emoji": "📺",
-          "title": "현대홈쇼핑 100% AI 방송 'AI-REAL' 도입",
-          "summary": "현대홈쇼핑이 T커머스 채널에 100% AI 방송 'AI-REAL' 본격 적용, 중소 협력사 제작비 80% 이상 절감하는 AI 기반 콘텐츠 제작 혁신.",
+          "emoji": "🛍️",
+          "title": "유통가 AI 기반 서비스 확대",
+          "summary": "유통업계가 생성형 AI를 활용한 콘텐츠 제작·이용자 참여형 이벤트·상품 탐색 등 디지털 마케팅에 도입하며 기업별 사업 전략 다양화.",
           "articleIndices": [
-            6
+            4
           ],
           "relatedLinks": [
             {
-              "title": "현대홈쇼핑, 100% AI 방송 'AI-REAL' 도입…중소 협력사 제작비 80% 이상 ...",
-              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369742"
+              "title": "[채널·커머스 Pick] 유통가, AI 기반 서비스 확대",
+              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211406"
             }
           ],
           "articleCount": 1
@@ -120,41 +126,27 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍫",
-          "title": "CU 생초코모찌 수능 시즌 매출 급증",
-          "summary": "CU 생초코모찌 매출 116.9% 증가, 기존 20·30대 중심에서 10대·40대로 구매층 확대되며 SNS 인기 디저트가 전통 합격 기원 선물 대체.",
+          "emoji": "🎤",
+          "title": "리센느 협업 캐릭터 굿즈 27종 출시",
+          "summary": "CU가 리센느 협업 빵 350만개 완판 성공에 이어 멤버 리브·메이 형상화 캐릭터 '리트와 메트' 굿즈 27종을 전국 110여 점포에서 판매.",
           "articleIndices": [
             1,
             2,
             3,
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 수능 앞두고 '생초코모찌' 매출 117% 급증…10대·40대 구매 확대",
-              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132541"
-            },
-            {
-              "title": "수능 응원에 찹쌀떡 대신 초코모찌…CU서 매출 두 배 넘어",
-              "url": "https://n.news.naver.com/mnews/article/092/0002445320?sid=103"
-            }
-          ],
-          "articleCount": 4
-        },
-        {
-          "emoji": "👔",
-          "title": "민승배 BGF리테일 사장 승진",
-          "summary": "민승배 BGF리테일 대표이사 부사장에서 사장으로 승진, 편의점 사업 실적 개선 바탕으로 고객 중심 차별화 전략 강화.",
-          "articleIndices": [
+            4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "민승배 BGF리테일 대표 사장 승진…고객 중심 전략 강화",
-              "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51288"
+              "title": "CU서 '리센느 굿즈' 27종 쏟아진다…가격·판매처는?",
+              "url": "https://www.wikitree.co.kr/articles/1174872"
+            },
+            {
+              "title": "CU, 리센느 마케팅 강화...리트·메트 굿즈 선보인다",
+              "url": "https://n.news.naver.com/mnews/article/008/0005441476?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 5
         }
       ]
     },
@@ -162,59 +154,60 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🥪",
-          "title": "GS25 간편식 다양화 전략",
-          "summary": "GS25가 기존 식빵 중심 샌드위치에서 벗어나 치아바타·소금빵·소보로빵 등 다양한 형태의 간편식으로 상품군 확대, 소용량부터 프리미엄까지 가격대 다양화.",
+          "emoji": "🍔",
+          "title": "GS25 DIY 버거 신상품 출시",
+          "summary": "GS25가 브리오슈번과 치즈쏙치킨을 조합해 수제버거처럼 즐길 수 있는 DIY 버거 콘셉트 상품 출시, 20일부터 다음달 15일까지 할인 행사 진행.",
           "articleIndices": [
             1,
-            3
+            2
           ],
           "relatedLinks": [
             {
-              "title": "편의점 한 끼도 달라졌다...소용량부터 프리미엄까지 간편식 다양화",
-              "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130844"
+              "title": "'합치면 더 맛있다'…GS25, 조합형 치킨버거 선봬",
+              "url": "https://n.news.naver.com/mnews/article/092/0002445404?sid=103"
             },
             {
-              "title": "성시경 비빔밥 100만개·쯔양 먹거리 400만개…편의점 '스타 레시피' 통...",
-              "url": "https://n.news.naver.com/mnews/article/421/0009289341?sid=101"
+              "title": "GS25, 브리오슈번·치즈쏙치킨 출시…'DIY 버거' 선보인다",
+              "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/16/2026111680050.html"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🍚",
-          "title": "세븐일레븐 성시경 협업 비빔밥 100만개 돌파",
-          "summary": "세븐일레븐 가수 성시경 협업 제철 비빔밥 시리즈 100만개 판매 돌파, 겨울철 신제품 '남해안제철꼬막비빔밥' 출시로 유명인 협업 상품 확대.",
+          "emoji": "🌟",
+          "title": "세븐일레븐 글로벌 식음료 브랜드 확대",
+          "summary": "hy와 팔도의 글로벌 식음료 브랜드 '아리(ARIH)'가 미국 월마트 출시 후 일본 세븐일레븐과 캐나다 로블로 그룹으로 판매망 확대.",
           "articleIndices": [
-            4
+            5
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, '성시경 비빔밥' 100만개 돌파…남해안 꼬막 신제품 출시",
-              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132543"
+              "title": "[비즈 인사이트] 유산균 팔던 hy, 뇌·피부·간으로 영역 확장…56년 연...",
+              "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8449"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🔥",
-          "title": "이마트 겨울 난방가전 할인 '방한 대전'",
-          "summary": "이마트가 난방가전·겨울 의류 최대 30% 할인 '방한 대전' 진행, 경동나비엔 협업 온수매트 등 브랜드 파트너십 강화.",
+          "emoji": "🎄",
+          "title": "이마트24 해태제과 크리스마스 선물세트",
+          "summary": "해태제과의 어드벤트 캘린더 크리스마스 선물세트가 지난해 10분 완판 후 올해 물량 67% 확대, 이마트몰·네이버·카카오 등에서 한정 판매.",
           "articleIndices": [
-            5,
-            6
+            8,
+            9,
+            10
           ],
           "relatedLinks": [
             {
-              "title": "이마트, 난방가전·겨울 의류 최대 30% 할인…'방한 대전' 진행",
-              "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118593"
+              "title": "해태제과, 과자집 꾸미는 크리스마스 선물세트 선봬",
+              "url": "https://n.news.naver.com/mnews/article/014/0005604682?sid=101"
             },
             {
-              "title": "[유통딜리버리] 신세계百ㆍ이마트ㆍ현대홈쇼핑ㆍ세븐일레븐ㆍCUㆍ롯데...",
-              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611150916124370077"
+              "title": "해태제과, 10분 만에 완판된 크리스마스 선물세트 재출시…물량 67% 확대",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=2018803"
             }
           ],
-          "articleCount": 2
+          "articleCount": 3
         }
       ]
     },
@@ -222,19 +215,24 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "롯데웰푸드 K-EDITION 신상 출시",
-          "summary": "롯데웰푸드가 외국인 겨냥 'K-EDITION' 립파이·칸쵸 호빵 등 신제품 출시, 익숙한 캐릭터 활용으로 차별화 요소 강화.",
+          "emoji": "🍞",
+          "title": "편의점 과자·빵·디저트 차별화 상품 확대",
+          "summary": "BGF리테일 CU의 과자류 매출 13.4%, 빵·떡·디저트 7.6% 증가로 차별화 상품 구색 확대가 편의점 경쟁의 핵심 요소로 부각.",
           "articleIndices": [
-            5
+            2,
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[요즘신상] 외국인 겨냥 'K-EDITION' 립파이·칸쵸 호빵… 롯데웰푸드, ...",
-              "url": "https://www.newscj.com/news/articleView.html?idxno=3448650"
+              "title": "상품 차별화·외국인 매출 성장에…BGF리테일, 올 3분기 '장사 잘했다'",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=229810"
+            },
+            {
+              "title": "BGF리테일, 편의점계 '골리앗' GS리테일 꺾었다...3분기 순이익 앞서",
+              "url": "https://www.news2day.co.kr/article/20261113500118"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     }
