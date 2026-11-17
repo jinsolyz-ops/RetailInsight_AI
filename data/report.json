@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-16T01:28:25.479Z",
+  "generatedAt": "2026-11-17T04:15:07.536Z",
   "summary": [
-    "CU, 리센느 협업 빵 350만개 완판 후 캐릭터 굿즈 27종 전국 확대 판매",
-    "GS25, DIY 버거 콘셉트 '브리오슈번·치즈쏙치킨' 출시로 조합형 상품 차별화",
-    "컬리뷰티페스타 1만4000명 방문, 참여 브랜드 거래액 470% 증가로 리테일 테크 이벤트 성공"
+    "CU, 디카페인 커피 수요 급증에 'get커피' 라인업 확대 출시",
+    "GS25, 수능 시즌 찹쌀떡 마케팅으로 월간 매출 485% 급증",
+    "e커머스 시장 성숙기 진입, AI 에이전트 기반 '에이전틱 커머스' 경쟁 심화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🎯",
-          "title": "수능 시즌 편의점 재고 전략",
-          "summary": "CU가 수능 시험장 인근 점포 중심으로 필기구·방한용품 재고를 30배 늘리고 생초코모찌 마케팅으로 계절 수요 대응.",
+          "emoji": "🛒",
+          "title": "셀프계산대 확산과 소액결제 이슈",
+          "summary": "다이소·올리브영 등 유통업계에서 넓은 매장과 셀프계산대 증가로 소액 상품 미결제 문제가 사회적 이슈로 부상.",
           "articleIndices": [
-            6
+            1
           ],
           "relatedLinks": [
             {
-              "title": "수능 당일 아침 '매출 폭발'…편의점, 필기구·방한용품 재고 30배 늘...",
-              "url": "https://n.news.naver.com/mnews/article/011/0004682446?sid=101"
+              "title": "다이소 정말 싸니까 하나쯤은 계산 안 해도?…올리브영까지 '소액...",
+              "url": "https://n.news.naver.com/mnews/article/011/0004682685?sid=102"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "❄️",
-          "title": "겨울 상품 콘텐츠 마케팅",
-          "summary": "유통업계가 제품의 기능을 일상 사용 장면에서 전달하는 콘텐츠 마케팅을 핵심 판매 전략으로 활용, 겨울철 상품 매출 2배 증가.",
+          "emoji": "🎯",
+          "title": "수능 시즌 떡 디저트 특수 마케팅",
+          "summary": "편의점 업계가 수능 앞두고 합격 기원 상품과 할인 행사를 강화하며, GS25는 협업 찹쌀떡으로 월간 매출 485% 급증 달성.",
           "articleIndices": [
-            4
+            3
           ],
           "relatedLinks": [
             {
-              "title": "추위 오자 매출도 뛰었다… 자주 '히트', 지난해의 2배",
-              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5254"
+              "title": "'수능 특수' 찹쌀떡 얼마나 팔렸을까? 편의점 털어보니… [푸드360]",
+              "url": "https://n.news.naver.com/mnews/article/016/0002724531?sid=101"
             }
           ],
           "articleCount": 1
@@ -45,39 +45,39 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "⭐",
-          "title": "생활용품 브랜드평판 1위 다이소",
-          "summary": "2026년 11월 생활용품 브랜드평판에서 다이소가 1위, 쿠팡·이마트 순으로 온라인 이커머스 판매 확대와 가치 소비 확산이 주요 요인.",
-          "articleIndices": [
-            1,
-            2
-          ],
-          "relatedLinks": [
-            {
-              "title": "[브랜드평판] 다이소, 생활용품 브랜드평판 11월 1위... 쿠팡, 이마트 뒤...",
-              "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=56378"
-            },
-            {
-              "title": "생활용품 2026년 11월 브랜드평판...다이소, 쿠팡, 이마트 順",
-              "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229792"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
           "emoji": "🤖",
-          "title": "네이버 개인형 AI 에이전트 쇼핑 서비스",
-          "summary": "네이버가 연내 사용자를 대신해 쇼핑·예약·결제 등을 수행하는 개인형 AI 에이전트 도입으로 온라인 커머스 경험 혁신.",
+          "title": "에이전틱 커머스 시대 도래",
+          "summary": "e커머스 시장 성숙기 진입으로 AI가 상품 검색·추천을 넘어 구매·결제까지 지원하는 '에이전틱 커머스'가 새로운 경쟁 요소로 부상.",
           "articleIndices": [
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[AI핫이슈] K빅테크 '퍼스널 AI 에이전트' 레이스 가세...젠슨 황 사태 ...",
-              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715555"
+              "title": "시장 성숙기 진입한 e커머스…'할인 경쟁'에서 '락인'으로 전환",
+              "url": "https://www.itbiznews.com/news/articleView.html?idxno=231632"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "⚠️",
+          "title": "이커머스 플랫폼 부정행위 기기 판매 관리 강화",
+          "summary": "수능 부정행위 파문으로 초소형 이어폰·카메라 등 부정행위 기기의 온라인 판매 관리가 강화되고 있으며, 주요 플랫폼이 집중 모니터링 체계를 운영 중.",
+          "articleIndices": [
+            2,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "세무사시험 부정행위 파문...초소형 이어폰·카메라 온라인서 버젓이 판...",
+              "url": "https://n.news.naver.com/mnews/article/092/0002445582?sid=103"
+            },
+            {
+              "title": "수능 코앞 'AI 안경 커닝' 경계령…이커머스, 위장형 카메라 '판매 불가...",
+              "url": "https://n.news.naver.com/mnews/article/629/0000552446?sid=101"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -85,37 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🎨",
-          "title": "컬리뷰티페스타 1만4000명 방문",
-          "summary": "리테일 테크 기업 컬리의 뷰티페스타가 1만4000명 방문, 참여 브랜드 거래액 470% 증가로 오프라인 이벤트 마케팅 성공 사례.",
+          "emoji": "🛍️",
+          "title": "AI 에이전트 상거래 진출 우려와 규제",
+          "summary": "유나이티드항공·아마존 등이 AI 에이전트의 자사 시스템 접근을 차단하는 등 유통업계에서 AI 에이전트 상거래 시장 진출을 둘러싼 우려와 규제가 증가 중.",
           "articleIndices": [
-            11,
-            12,
-            13
+            1
           ],
           "relatedLinks": [
             {
-              "title": "컬리뷰티페스타 1만4천명 방문…'참여 브랜드 거래액 470% 증가'",
-              "url": "https://n.news.naver.com/mnews/article/001/0016443232?sid=103"
-            },
-            {
-              "title": "[유통갤러리] 컬리뷰티페스타 2026, 방문객 1만4000명·거래액 470%↑ 外",
-              "url": "https://theviewers.co.kr/View.aspx?No=4313762"
+              "title": "AI비서가 상품 검색하고 결제",
+              "url": "https://www.koreadaily.com/article/20261116185016237"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "🛍️",
-          "title": "유통가 AI 기반 서비스 확대",
-          "summary": "유통업계가 생성형 AI를 활용한 콘텐츠 제작·이용자 참여형 이벤트·상품 탐색 등 디지털 마케팅에 도입하며 기업별 사업 전략 다양화.",
+          "emoji": "🎪",
+          "title": "컬리 뷰티페스타 2026 성공적 개최",
+          "summary": "리테일 테크 기업 컬리가 개최한 '컬리뷰티페스타 2026'에 4일간 1만 4,000명이 방문하며 참여 브랜드 거래액이 전년 동기 대비 470% 증가.",
           "articleIndices": [
-            4
+            10
           ],
           "relatedLinks": [
             {
-              "title": "[채널·커머스 Pick] 유통가, AI 기반 서비스 확대",
-              "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211406"
+              "title": "컬리, '컬리뷰티페스타 2026' 나흘간 1만 4,000명 방문…참여 브랜드 거...",
+              "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254972"
             }
           ],
           "articleCount": 1
@@ -126,27 +120,39 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎤",
-          "title": "리센느 협업 캐릭터 굿즈 27종 출시",
-          "summary": "CU가 리센느 협업 빵 350만개 완판 성공에 이어 멤버 리브·메이 형상화 캐릭터 '리트와 메트' 굿즈 27종을 전국 110여 점포에서 판매.",
+          "emoji": "🌍",
+          "title": "카자흐스탄 CU 현지화 성공",
+          "summary": "카자흐스탄 알마티 CU가 한국 라면·치즈라면 등 한국 음식으로 현지 대학생들의 사랑방이 되며 글로벌 확장 성과 입증.",
           "articleIndices": [
-            1,
-            2,
-            3,
-            4,
-            5
+            1
           ],
           "relatedLinks": [
             {
-              "title": "CU서 '리센느 굿즈' 27종 쏟아진다…가격·판매처는?",
-              "url": "https://www.wikitree.co.kr/articles/1174872"
-            },
-            {
-              "title": "CU, 리센느 마케팅 강화...리트·메트 굿즈 선보인다",
-              "url": "https://n.news.naver.com/mnews/article/008/0005441476?sid=101"
+              "title": "'학교 끝나면 꼭 들러요' 그냥 못 지나친다...카자흐 사랑방 된 CU",
+              "url": "https://n.news.naver.com/mnews/article/008/0005442257?sid=101"
             }
           ],
-          "articleCount": 5
+          "articleCount": 1
+        },
+        {
+          "emoji": "☕",
+          "title": "get커피 디카페인 라인업 확대",
+          "summary": "CU가 디카페인 커피 수요 급증(2024년 13.2%, 2025년 81.1% 증가)에 대응해 'get커피 디카페인'을 출시하며 건강 지향 소비 트렌드 선도.",
+          "articleIndices": [
+            2,
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, 디카페인 수요 증가에 'get커피' 라인업 확대…1800원부터 판매",
+              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132670"
+            },
+            {
+              "title": "CU, 즉석 원두커피 겟(get))커피 디카페인 출시",
+              "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369893"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -154,60 +160,34 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍔",
-          "title": "GS25 DIY 버거 신상품 출시",
-          "summary": "GS25가 브리오슈번과 치즈쏙치킨을 조합해 수제버거처럼 즐길 수 있는 DIY 버거 콘셉트 상품 출시, 20일부터 다음달 15일까지 할인 행사 진행.",
+          "emoji": "🥐",
+          "title": "세븐일레븐 프리미엄 디저트 한정 판매",
+          "summary": "세븐일레븐이 프랑스 전통 디저트 다쿠아즈를 활용한 '다쿠아즈생딸기샌드' 1,000개를 모바일 앱 사전 예약으로 한정 판매하며 프리미엄 전략 강화.",
           "articleIndices": [
-            1,
-            2
+            4
           ],
           "relatedLinks": [
             {
-              "title": "'합치면 더 맛있다'…GS25, 조합형 치킨버거 선봬",
-              "url": "https://n.news.naver.com/mnews/article/092/0002445404?sid=103"
-            },
-            {
-              "title": "GS25, 브리오슈번·치즈쏙치킨 출시…'DIY 버거' 선보인다",
-              "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/16/2026111680050.html"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🌟",
-          "title": "세븐일레븐 글로벌 식음료 브랜드 확대",
-          "summary": "hy와 팔도의 글로벌 식음료 브랜드 '아리(ARIH)'가 미국 월마트 출시 후 일본 세븐일레븐과 캐나다 로블로 그룹으로 판매망 확대.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "[비즈 인사이트] 유산균 팔던 hy, 뇌·피부·간으로 영역 확장…56년 연...",
-              "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8449"
+              "title": "세븐일레븐, '다쿠아즈생딸기샌드' 1000개 한정 판매",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504941"
             }
           ],
           "articleCount": 1
         },
         {
           "emoji": "🎄",
-          "title": "이마트24 해태제과 크리스마스 선물세트",
-          "summary": "해태제과의 어드벤트 캘린더 크리스마스 선물세트가 지난해 10분 완판 후 올해 물량 67% 확대, 이마트몰·네이버·카카오 등에서 한정 판매.",
+          "title": "이마트24 RTD 음료 팝업 마케팅",
+          "summary": "이마트24 성수 플래그십 매장에서 오비맥주 뉴트럴 RTD 음료의 팝업존·굿즈 행사를 진행하며 거리 퍼포먼스로 브랜드 인지도 강화.",
           "articleIndices": [
-            8,
-            9,
-            10
+            7
           ],
           "relatedLinks": [
             {
-              "title": "해태제과, 과자집 꾸미는 크리스마스 선물세트 선봬",
-              "url": "https://n.news.naver.com/mnews/article/014/0005604682?sid=101"
-            },
-            {
-              "title": "해태제과, 10분 만에 완판된 크리스마스 선물세트 재출시…물량 67% 확대",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=2018803"
+              "title": "순하리 진이 키운 RTD 시장에 '보드카 하이볼'...오비맥주 뉴트럴의 승부...",
+              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320617"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         }
       ]
     },
@@ -215,24 +195,35 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍞",
-          "title": "편의점 과자·빵·디저트 차별화 상품 확대",
-          "summary": "BGF리테일 CU의 과자류 매출 13.4%, 빵·떡·디저트 7.6% 증가로 차별화 상품 구색 확대가 편의점 경쟁의 핵심 요소로 부각.",
+          "emoji": "🍡",
+          "title": "수능 시즌 찹쌀떡 디저트 트렌드",
+          "summary": "전통 수능 선물인 찹쌀떡에 최근 떡 디저트 유행이 겹치면서 편의점 업계의 떡 매출이 일제히 증가하고 있으며, 협업 상품이 100만개 이상 판매.",
           "articleIndices": [
-            2,
+            1,
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "김종국, '인기 디저트' 먹었는데…대장균군 검출로 회수 조치→'먹으면...",
+              "url": "https://m.entertain.naver.com/article/213/0001408577"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍗",
+          "title": "편의점 치킨 수제버거 신상품 출시",
+          "summary": "GS25가 갓 튀긴 치킨과 브리오슈번을 조합한 '브리오슈번'과 '치즈쏙치킨' 신상품을 11월 20일부터 출시하며 모디슈머 수요 공략.",
+          "articleIndices": [
             3
           ],
           "relatedLinks": [
             {
-              "title": "상품 차별화·외국인 매출 성장에…BGF리테일, 올 3분기 '장사 잘했다'",
-              "url": "https://www.youthdaily.co.kr/news/article.html?no=229810"
-            },
-            {
-              "title": "BGF리테일, 편의점계 '골리앗' GS리테일 꺾었다...3분기 순이익 앞서",
-              "url": "https://www.news2day.co.kr/article/20261113500118"
+              "title": "'2300원에 갓 튀긴 치킨 수제버거 완성'… GS25, 모디슈머 신상 출격",
+              "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92618"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     }
