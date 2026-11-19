@@ -1,40 +1,45 @@
 {
-  "generatedAt": "2026-11-18T03:13:16.314Z",
+  "generatedAt": "2026-11-19T02:53:24.051Z",
   "summary": [
-    "멕시카나 닭강정 CU 입점으로 편의점 HMR 유통망 확대 가속화",
-    "AI 커닝 장비 유통 차단으로 이커머스 플랫폼 상품 관리 강화",
-    "BGF리테일 ESG 평가 최상위 선정으로 기업 가치 제고"
+    "CU, 딘토 협업 '위니 더 푸' 색조 화장품 출시로 뷰티 카테고리 확대",
+    "편의점 업계, 샌드위치·디저트 강화로 외식비 부담 소비자 공략",
+    "GS25, 투모로우바이투게더 협업 '맵달반반샌드' 출시로 K팝 팬덤 타겟"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🛍️",
-          "title": "쇼핑백 굿즈화 트렌드",
-          "summary": "CJ올리브영이 타포린 쇼핑백을 리유저블백으로 재명명하고 정식 판매 상품으로 전환하며 포장재를 수익화하는 새로운 유통 트렌드 확산",
+          "emoji": "🎄",
+          "title": "롯데타운 크리스마스 마켓",
+          "summary": "롯데백화점이 19세기 영국 크리스마스 마켓을 모티브로 46일간 운영하는 대규모 겨울 축제로, 유통업계 최대 규모의 연말 특수 마케팅 전개.",
           "articleIndices": [
-            2
+            1,
+            8
           ],
           "relatedLinks": [
             {
-              "title": "국경 초월한 '쇼핑백' 인기…포장 가방이 '굿즈'로",
-              "url": "https://www.ekn.kr/web/view.php?key=20261118022460784"
+              "title": "[테크M 이슈] 신세계 명동 빛의 축제, 뉴욕에 빠진 더현대서울, 잠실 롯...",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=157526"
+            },
+            {
+              "title": "롯데백화점, 19세기 英 크리스마스 마켓 모티브 '롯데타운 크리스마스 ...",
+              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5506"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         },
         {
-          "emoji": "📈",
-          "title": "SSM 규제 완화로 부활",
-          "summary": "기업형 슈퍼마켓(SSM)이 규제 완화에 힘입어 대형마트와 이커머스 사이의 공백을 채우며 제2의 전성기를 맞이하는 중",
+          "emoji": "🛍️",
+          "title": "리유저블백 정식 판매",
+          "summary": "CJ올리브영이 기존 타포린 쇼핑백을 리유저블백으로 명명하고 정식 상품화하며, 환경 친화적 포장재가 소비자 굿즈로 재평가되는 트렌드 반영.",
           "articleIndices": [
-            3
+            5
           ],
           "relatedLinks": [
             {
-              "title": "규제 탓에 망할 뻔한 SSM, 다시 '슈퍼'됐다",
-              "url": "https://n.news.naver.com/mnews/article/648/0000052714?sid=101"
+              "title": "국경 초월한 '쇼핑백' 인기…포장 가방이 '굿즈'로 [이슈N트렌드]",
+              "url": "https://www.ekn.kr/web/view.php?key=20261118022460784"
             }
           ],
           "articleCount": 1
@@ -45,45 +50,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🚨",
-          "title": "AI 커닝 장비 유통 차단",
-          "summary": "초소형 카메라와 AI 안경 부정행위 사건으로 이커머스 플랫폼들이 관련 상품 판매 제한 및 모니터링을 강화하는 대응 추진",
+          "emoji": "🎓",
+          "title": "AI 부정행위 대응 필기구 품절",
+          "summary": "수능 AI 커닝 방지를 위해 필기구 규정이 강화되면서 흑색 연필 수요 급증으로 온라인 쇼핑몰에서 품절 사태 발생, 규제 변화가 소비 행동에 미치는 영향 실증.",
           "articleIndices": [
-            1,
-            2,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "[미디어 이슈] AI 부정행위 파문에 수능 앞두고 혼란… 수능 연기 요구...",
+              "url": "https://www.mediawatch.kr/news/article.html?no=261786"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🏠",
+          "title": "한국 홈퍼니싱 온라인 쇼핑 비중 53%",
+          "summary": "국내 홈퍼니싱 구매의 53%가 온라인에서 이루어지며, 글로벌 거점으로 선정된 서울의 높은 디지털 쇼핑 활용도가 주요 배경으로 작용.",
+          "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "공지 띄우고 검색 막고… 수능 앞둔 이커머스 '커닝 카메라' 비상",
-              "url": "https://n.news.naver.com/mnews/article/366/0001205611?sid=101"
-            },
-            {
-              "title": "경찰, 'AI 커닝' 장비 판매도 단속…이커머스업계도 관련 상품 관리 강화",
-              "url": "https://www.ajunews.com/view/20261117134129018"
+              "title": "[오늘의 브랜드] 교원 웰스(Wells), '2026 MBN 서울마라톤' 공식 후원 ...",
+              "url": "https://www.ibabynews.com/news/articleView.html?idxno=157024"
             }
           ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🤖",
-          "title": "AI 에이전트 커머스 경쟁",
-          "summary": "네이버, 카카오 등 주요 플랫폼이 AI 에이전트 기반 커머스 서비스 개발에 사활을 걸며 차세대 결제·쇼핑 표준 선점 경쟁 심화",
-          "articleIndices": [
-            6,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "'한국형 AI 비서' 스타트업 3파전…'카톡급 성공' 꿈꾼다",
-              "url": "https://n.news.naver.com/mnews/article/028/0002832638?sid=105"
-            },
-            {
-              "title": "[진단] '불 붙은 비서 전쟁'… 네이버 vs 카카오, '개인용 AI 에이전트' 경쟁",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=425356"
-            }
-          ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -91,31 +85,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🔍",
-          "title": "AI 커닝 장비 유통 관리",
-          "summary": "네이버, 당근 등 주요 플랫폼이 AI 안경·초소형카메라 거래 게시물 관리를 강화하고 부정행위 위험 알림으로 유통 차단에 나서는 중",
+          "emoji": "🎥",
+          "title": "숏폼 콘텐츠 AI 제작 인력 확대",
+          "summary": "송영철공작소가 라이브커머스 콘텐츠 제작 외에 AI 영상 제작·기획 인력을 채용하며, 빠른 주기의 숏폼 환경에 대응하는 커머스 AI 활용 확대.",
           "articleIndices": [
-            1
+            5
           ],
           "relatedLinks": [
             {
-              "title": "네이버·당근 게시물 관리 강화에도…AI 커닝 장비 유통 차단 난항",
-              "url": "https://n.news.naver.com/mnews/article/629/0000553157?sid=105"
+              "title": "송영철공작소, 숏폼 1년 만에 2천만 뷰…27년 홈쇼핑 문법을 쇼츠로 옮...",
+              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140234"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🏪",
-          "title": "유통 현장 AI 안정화",
-          "summary": "유통업계가 AI 도입보다 실제 매장 운영에 안정적으로 적용하고 확대하는 것을 과제로 삼으며 현장 중심 AI 활용 전략 추진",
+          "emoji": "🛡️",
+          "title": "AI 악용 부당광고 차단 공조",
+          "summary": "소비자원이 SNS·라이브커머스·쇼트폼 플랫폼 4곳과 협력하여 AI 악용 부당광고 대응 체계를 구축, 사전 검수와 사후 조치를 연계.",
           "articleIndices": [
-            2
+            6
           ],
           "relatedLinks": [
             {
-              "title": "뉴비즈원, 아웃소싱 현장관리 통합시스템 출시 한 달 반 만에 20개사 넘어",
-              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580669707526"
+              "title": "가짜 의사·조작 후기 광고…소비자원, 플랫폼 4곳과 차단 공조",
+              "url": "http://www.cctimes.kr/news/articleView.html?idxno=938070"
             }
           ],
           "articleCount": 1
@@ -126,66 +120,54 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🍗",
-          "title": "멕시카나 CU 입점",
-          "summary": "멕시카나 닭강정이 CU 편의점에 입점하며 1인 가구 증가와 근거리 소비 확대에 맞춘 HMR 유통망 확대 전략 추진",
+          "emoji": "💄",
+          "title": "딘토 협업 '위니 더 푸' 색조 화장품",
+          "summary": "CU가 비건 뷰티 브랜드 딘토와 협업해 디즈니 캐릭터 '위니 더 푸' 색조 화장품 4종을 출시하며, 편의점 뷰티 카테고리 성장세에 맞춘 차별화 전략 강화.",
           "articleIndices": [
-            1,
-            3,
+            2,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "CU, 딘토 협업 '위니 더 푸' 색조 화장품 4종 출시",
+              "url": "https://n.news.naver.com/mnews/article/030/0003487504?sid=101"
+            },
+            {
+              "title": "CU, 색조 화장품 매출 260% ↑…딘토 협업으로 잘파세대 공략",
+              "url": "https://www.inthenews.co.kr/news/article.html?no=94747"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "🎨",
+          "title": "편의점 뷰티 라인업 확대",
+          "summary": "CU가 립 제품 중심에서 아이섀도우, 아이라이너, 블러셔 등 색조 화장품 전반으로 확대하며, 2023년 28.3%, 2024년 16.5%, 2025년 20.9% 연속 두 자릿수 성장 달성.",
+          "articleIndices": [
+            1
+          ],
+          "relatedLinks": [
+            {
+              "title": "립부터 아이·치크까지...CU, 편의점 뷰티 라인업 확대",
+              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320739"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "👑",
+          "title": "소비자 최선호 편의점 브랜드 1위",
+          "summary": "10월 편의점 브랜드 중 CU가 가장 높은 소비자 관심도(6만6945건)를 기록하며, GS25, 세븐일레븐을 제치고 1위 달성.",
+          "articleIndices": [
             5
           ],
           "relatedLinks": [
             {
-              "title": "멕시카나, CU 편의점 입점…소용량 닭강정으로 HMR 유통망 확대",
-              "url": "https://www.livesnews.com/news/article.html?no=66092"
-            },
-            {
-              "title": "멕시카나 닭강정 2종 CU 입점…210g 소용량 HMR",
-              "url": "https://www.gokorea.kr/news/articleView.html?idxno=886234"
+              "title": "소비자가 뽑은 최선호 편의점 브랜드 1위는 'CU'…GS25·세븐일레븐 순",
+              "url": "https://www.thebigdata.co.kr/view.php?ud=2026110515362194979511086197_23"
             }
           ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🏆",
-          "title": "BGF리테일 ESG 최상위",
-          "summary": "BGF리테일이 서스틴베스트 ESG 평가에서 필수소비재 유통·소매 부문 최상위 기업으로 선정되며 기업 가치 제고",
-          "articleIndices": [
-            2,
-            4,
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "BGF리테일, 서스틴베스트 ESG 평가서 유통·소매 부문 최상위 선정",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=153753"
-            },
-            {
-              "title": "BGF리테일, ESG 평가 '유통·소매' 부문 최상위…종합 A등급 획득",
-              "url": "https://www.news2day.co.kr/article/20261118500115"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "💰",
-          "title": "외국인 매출 성장",
-          "summary": "CU의 외국인 관광객 매출 증가와 가공식품 판매 비중 확대로 수익 구조가 개선되며 4분기 영업이익 증가 전망",
-          "articleIndices": [
-            6,
-            8
-          ],
-          "relatedLinks": [
-            {
-              "title": "외국인·식품이 바꾼 CU 장바구니…BGF리테일, 매출 3% 늘 때 이익은 12%",
-              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5441"
-            },
-            {
-              "title": "교보증권 'BGF리테일 4분기 영업이익 증가 전망, 외국인 매출 성장·비용",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452238"
-            }
-          ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -193,51 +175,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍷",
-          "title": "GS25 보졸레 누보 판매",
-          "summary": "롯데칠성음료의 2026년산 보졸레 누보 3종이 GS25 전국 매장과 와인25플러스 플랫폼에서 판매되며 프리미엄 주류 강화",
+          "emoji": "🎵",
+          "title": "GS25 투모로우바이투게더 협업",
+          "summary": "GS25가 투모로우바이투게더 미니 9집 발매에 맞춰 협업 샌드위치 '맵달반반샌드'를 출시하고 앨범을 온·오프라인에서 판매하며, K팝 팬덤 소비 공략.",
           "articleIndices": [
-            1,
-            3
+            2
           ],
           "relatedLinks": [
             {
-              "title": "롯데칠성음료, 햇와인 '보졸레 누보' 출시···총 3종으로 구성",
-              "url": "https://www.ngonews.kr/news/articleView.html?idxno=243500"
-            },
-            {
-              "title": "롯데칠성음료, 2026년산 보졸레 누보 3종 출시",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301678"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "🍫",
-          "title": "세븐일레븐 찹쌀떡 경쟁",
-          "summary": "세븐일레븐이 일본 초콜릿 브랜드 '치로루초코 모찌' 4종을 지난해 대비 3배 규모로 확대 판매하며 겨울 디저트 시장 경쟁 강화",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "'매출액 234억원' 김종국도 한 입 물더니…요즘 돈되는 '이것' 정체는",
-              "url": "https://n.news.naver.com/mnews/article/243/0000105842?sid=101"
+              "title": "GS25, 아이돌 투모로우바이투게더 협업 '맵달반반샌드' 출시",
+              "url": "https://n.news.naver.com/mnews/article/030/0003487505?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥤",
-          "title": "이마트24 헬시플레저 신제품",
-          "summary": "이마트24가 건강 원재료를 활용한 자몽허니블랙티·배도라지 차음료 2종을 출시하며 헬시플레저 트렌드에 대응",
+          "emoji": "🥪",
+          "title": "이마트24 샌드위치 3년 연속 두 자릿수 성장",
+          "summary": "이마트24 샌드위치 매출이 2024년 11%, 2025년 13%, 올해 1~10월 14% 증가하며, 외식비 부담 증가로 간편 식사 수요 확대.",
           "articleIndices": [
-            8
+            5
           ],
           "relatedLinks": [
             {
-              "title": "대상·빙그레·이마트24, 헬시플레저 겨냥 신제품 출시",
-              "url": "https://www.news2day.co.kr/article/20261118500139"
+              "title": "이마트24 샌드위치 매출 3년 연속 두 자릿수 증가",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301905"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🎮",
+          "title": "GS25 '블루 아카이브' 협업 굿즈",
+          "summary": "지스타 2026 행사장 내 GS25 편의점에서 인기 게임 '블루 아카이브'와 협업한 굿즈 전용 진열대를 운영하며, 서브컬처 팬덤 소비 공략.",
+          "articleIndices": [
+            3
+          ],
+          "relatedLinks": [
+            {
+              "title": "[지스타 ON_AIR] '팬덤은 등 돌리지 않는다'...게임사랑 '후끈'",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885040"
             }
           ],
           "articleCount": 1
@@ -248,31 +225,37 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🎂",
-          "title": "동지 테마 디저트 출시",
-          "summary": "본죽·본죽&비빔밥이 GS25에 '본죽 동지 품은 초코케이크'를 출시하며 전통 동지 문화를 디저트로 재해석한 시즈널 마케팅 전개",
+          "emoji": "🍰",
+          "title": "편의점 샌드위치·디저트 강화",
+          "summary": "외식비 부담 증가로 편의점 샌드위치가 간편 식사 대안으로 부상하며, 이마트24·세븐일레븐이 식사형부터 디저트형까지 상품군을 확대하는 추세.",
+          "articleIndices": [
+            3,
+            4,
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "'점심값 1만원 시대'에 편의점 샌드위치 뜬다…이마트24 매출 3년째 두 ...",
+              "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=89836"
+            },
+            {
+              "title": "이마트24, 고물가에 샌드위치 매출 3년 연속 두 자릿수 성장…식사 수요...",
+              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132815"
+            }
+          ],
+          "articleCount": 3
+        },
+        {
+          "emoji": "🎨",
+          "title": "편의점 뷰티·팬덤 상품 경쟁",
+          "summary": "CU·GS25가 캐릭터·K팝 협업 화장품과 팬덤 상품으로 차별화하며, 편의점 업계 전반이 뷰티·팬덤·간편식 상품군 확대 경쟁 심화.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "본죽&비빔밥, GS25에 '본죽 동지 품은 초코케이크'→멕시카나, CU '마늘간",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=782792"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍔",
-          "title": "GS25 수제버거 신상",
-          "summary": "GS25가 갓 튀긴 치킨과 브리오슈번을 조합한 '브리오슈번'과 '치즈쏙치킨'을 출시하며 즉시 조리 수제버거 트렌드 선도",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "'2300원에 갓 튀긴 치킨 수제버거 완성'… GS25, 모디슈머 신상 출격",
-              "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92618"
+              "title": "'뷰티·팬덤·간편식까지'…편의점 업계, 차별화 상품 경쟁 확대",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=230069"
             }
           ],
           "articleCount": 1
