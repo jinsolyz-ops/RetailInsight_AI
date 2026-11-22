@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-21T02:55:01.855Z",
+  "generatedAt": "2026-11-22T01:45:14.916Z",
   "summary": [
-    "AI 에이전트 커머스 확산으로 월마트·아마존과 국내 편의점의 결제 혁신 경쟁 심화",
-    "편의점 저가 메뉴·샌드위치·디저트 라인업 강화로 고물가 시대 가성비 소비 주도",
-    "세븐일레븐 굿즈 결합 상품 매출 4배 증가, 팬덤 소비 확산으로 IP 경쟁 가열"
+    "CU 수향미 간편식 두 달 만에 130만개 판매로 프리미엄 전략 성공",
+    "GS25 한정선 요거트 찹쌀떡 60만개 판매로 한정판 상품 트렌드 주도",
+    "세븐일레븐 성시경 협업 바지락짬뽕라면 출시로 셀럽 컬래버 강화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "💰",
-          "title": "저가 메뉴 경쟁",
-          "summary": "고물가 속 편의점·외식업계가 3000~4000원대 저가 메뉴로 고객 유입 경쟁을 강화하는 추세.",
+          "emoji": "🎯",
+          "title": "AI 기반 가상모델 마케팅",
+          "summary": "유통업계가 AI로 브랜드 맞춤형 가상 모델을 제작해 고비용 셀럽 대체 및 유연한 상품 기획을 실현하는 추세.",
           "articleIndices": [
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "햄버거부터 김밥까지 3000원대…고물가에 저가 메뉴 경쟁",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026112012472347232"
+              "title": "'20억 스타보다 5000만원 인플루언서'…모델이 달라진다",
+              "url": "https://n.news.naver.com/mnews/article/015/0005356586?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎨",
-          "title": "팬덤 소비 확산",
-          "summary": "2030 세대가 캐릭터·IP 결합 상품에 열광하며 편의점부터 백화점까지 팬덤 소비 마케팅 경쟁 심화.",
+          "emoji": "💰",
+          "title": "중국 가성비 제품 인기",
+          "summary": "중국 유통업체들이 고가 마케팅 대신 가성비와 디자인, 개인 만족도를 중심으로 소비자 선택을 유도하는 전략 전환.",
           "articleIndices": [
-            8
+            4
           ],
           "relatedLinks": [
             {
-              "title": "[청년이 바꾼 유통] ⑧ 캐릭터 앞, 지갑 여는 2030…유통가, 팬덤 소비에...",
-              "url": "https://www.youthdaily.co.kr/news/article.html?no=230134"
+              "title": "'6만원에 '득템' 했어요'…연예인도 입는다는 '이것'에 푹 빠진 中",
+              "url": "https://n.news.naver.com/mnews/article/277/0005845954?sid=104"
             }
           ],
           "articleCount": 1
@@ -45,39 +45,34 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "📦",
-          "title": "네이버 물류 1조 투자",
-          "summary": "네이버가 검색·쇼핑 데이터를 물류 운영에 연결하며 쿠팡 대비 효율적 배송 전략으로 이커머스 배송 경쟁 재편.",
+          "emoji": "🛍️",
+          "title": "에이전틱 커머스 부상",
+          "summary": "AI가 상품 탐색·추천을 넘어 장바구니 관리, 주문 조회 등 전체 쇼핑 프로세스를 자동 수행하는 새로운 커머스 모델 주목.",
           "articleIndices": [
-            2
+            5
           ],
           "relatedLinks": [
             {
-              "title": "[테크M 이슈] 쿠팡보다 효율적인 네이버 물류?…1조 투자로 배송 승부수...",
-              "url": "https://www.techm.kr/news/articleView.html?idxno=157627"
+              "title": "[ICT 종합] 캐논코리아 및 카카오 소식 외",
+              "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62477"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "✨",
-          "title": "럭셔리 버티컬 블랙프라이데이",
-          "summary": "쿠팡 알럭스가 2500개 브랜드·33만여 상품으로 럭셔리 e커머스 블랙프라이데이 개최, 배송·반품 편의 강화.",
+          "emoji": "🎁",
+          "title": "럭셔리 버티컬 서비스 확대",
+          "summary": "쿠팡이 럭셔리 뷰티·패션 버티컬 서비스로 고가 상품군 공략 및 블랙프라이데이 등 시즈널 캠페인 강화.",
           "articleIndices": [
-            11,
-            12
+            6
           ],
           "relatedLinks": [
             {
               "title": "배스킨라빈스 쿠팡 KGC 外(유통家 이모저모)",
               "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083544"
-            },
-            {
-              "title": "알럭스, 패션 블랙프라이데이…2500개 브랜드·33만여 상품 참여",
-              "url": "https://n.news.naver.com/mnews/article/421/0009300564?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         }
       ]
     },
@@ -86,35 +81,30 @@
       "issues": [
         {
           "emoji": "🤖",
-          "title": "AI 에이전트 커머스",
-          "summary": "월마트·아마존이 AI 에이전트 게이트웨이로 소비자 대신 상품 검색·구매를 자동화하며 글로벌 유통 결제 혁신 주도.",
+          "title": "AI 에이전트 커머스 기술",
+          "summary": "AI 에이전트가 카드번호 없이 토큰 결제를 수행하고 블록체인 기반 스테이블코인과 결합해 국경 없는 자동 결제 기반 마련.",
           "articleIndices": [
-            1,
-            2
+            7
           ],
           "relatedLinks": [
             {
-              "title": "\"우리 집에 어떤 냉장고가 좋을까\"…가전 구매자 절반 AI에 묻는다",
-              "url": "https://n.news.naver.com/mnews/article/011/0004684594?sid=101"
-            },
-            {
-              "title": "에이전트 커머스 시대, '개방'이냐 '차단'이냐[테크트렌드]",
-              "url": "https://n.news.naver.com/mnews/article/050/0000113567?sid=101"
+              "title": "[AI 자산관리] 카드번호 없이 AI가 결제…그런데 실패율 42.8%",
+              "url": "http://coinreaders.com/272224"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🎬",
-          "title": "숏폼 커머스 확산",
-          "summary": "숏폼 이용자 33.3%가 영상 내 쇼핑 링크로 구매 경험 있으며, 20·30대 43% 이상이 참여하는 추세.",
+          "emoji": "🔐",
+          "title": "AI 시대 보안 투자 미흡",
+          "summary": "AI 에이전트 상용화를 앞두고도 네이버·카카오 등 플랫폼의 보안 투자가 뒷전인 반면, 통신·유통업계는 대폭 강화하는 대조적 상황.",
           "articleIndices": [
-            6
+            1
           ],
           "relatedLinks": [
             {
-              "title": "국내 동영상 이용자 92% 숏폼 시청…'중독경제' 확산",
-              "url": "https://n.news.naver.com/mnews/article/011/0004684613?sid=101"
+              "title": "AI 해킹 범람하는데 네이버·카카오 보안투자 '뒷전', 국민 플랫폼에도...",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452537"
             }
           ],
           "articleCount": 1
@@ -125,49 +115,24 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "CU 매출 추격",
-          "summary": "민승배 CU 사장이 GS25 대비 점포당 매출 격차 축소를 미션으로 삼으며, 2024년 740억원 격차 해소 전략 추진.",
+          "emoji": "🍚",
+          "title": "수향미 간편식 130만개 판매",
+          "summary": "CU가 프리미엘 쌀 '수향미'로 만든 김밥 등 간편식이 출시 두 달 만에 130만개를 돌파하며 프리미엄 밥맛 경쟁력 강화 성공.",
           "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "'GS25 매출 넘어라'...민승배 CU 사장의 '마지막 미션'",
-              "url": "https://n.news.naver.com/mnews/article/092/0002446260?sid=103"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🥛",
-          "title": "CU 신메뉴 협업",
-          "summary": "CU가 연세우유와 협업해 '씨앗호떡 맛' 생크림빵 신메뉴 출시, 계절 한정 상품 라인업 강화.",
-          "articleIndices": [
+            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "CU, 겨울 신메뉴 '연세우유 씨앗호떡 맛' 생크림빵 공개... 출시일은?",
-              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1194471"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "❄️",
-          "title": "한파쉼터 확대",
-          "summary": "BGF리테일이 광명시와 협약해 CU 51곳을 한파쉼터로 개방, 사회공헌 활동 강화.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
+              "title": "'밥맛' 좋은 CU, 고급쌀로 만든 김밥 '인기'",
+              "url": "https://www.econovill.com/news/articleView.html?idxno=758074"
+            },
             {
-              "title": "광명시, 한파쉼터 270곳으로 확대…BGF리테일·NH농협 등과 협약",
-              "url": "https://n.news.naver.com/mnews/article/421/0009301916?sid=102"
+              "title": "CU, 프리미엄 쌀 '수향미' 간편식 인기…두 달 만에 130만개 판매",
+              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132922"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -175,46 +140,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🍵",
-          "title": "GS25 찹쌀떡 신제품",
-          "summary": "GS25가 모모즈랩과 협업해 '생말차 찹쌀떡' 출시, 찹쌀떡 시리즈 확대로 디저트 경쟁력 강화.",
+          "emoji": "🍰",
+          "title": "GS25 한정선 찹쌀떡 60만개 판매",
+          "summary": "GS25 단독 출시 '한정선 요거트 찹쌀떡'이 한 달 만에 60만개 판매로 전체 단품 매출 1위를 기록하며 한정판 상품 트렌드 주도.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "모모즈랩, 찹쌀떡 시리즈 신제품 GS25 출시",
-              "url": "https://www.m-joongang.com/news/articleView.html?idxno=403347"
+              "title": "오픈런 찹쌀떡 몸값 3천억…'올해 전망'이냐 '작년 성적'이냐",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445880"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🍜",
-          "title": "세븐일레븐 프리미엄 라면",
-          "summary": "세븐일레븐이 '시경 pick 놀면리얼바지락짬뽕라면' 출시 및 폴 바셋 설향 딸기 신메뉴로 프리미엄 라인업 강화.",
+          "emoji": "🎤",
+          "title": "세븐일레븐 성시경 협업 라면",
+          "summary": "세븐일레븐이 가수 성시경과 공동 기획한 '바지락짬뽕라면'을 출시해 셀럽 컬래버레이션을 통한 프리미엄 컵라면 차별화 전략 강화.",
           "articleIndices": [
-            4
+            6
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐 '시경 pick 놀면리얼바지락짬뽕'·폴 바셋 '설향 딸기 음...",
-              "url": "https://www.etoday.co.kr/news/view/2650802"
+              "title": "세븐일레븐, 성시경과 '바지락짬뽕라면' 출시…상품 기획·레시피 개발...",
+              "url": "https://www.thepublic.kr/news/articleView.html?idxno=327809"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥪",
-          "title": "이마트24 샌드위치 전략",
-          "summary": "이마트24가 샌드위치를 핵심 전략 상품으로 육성하며 일평균 매출 증가, 가성비 간편식 경쟁 주도.",
+          "emoji": "🌏",
+          "title": "GS25 베트남 점포 확대",
+          "summary": "GS리테일이 베트남 GS25 점포를 445개까지 확대하며 중소 협력사 수출 판로 개척을 동시에 추진하는 해외 전략 강화.",
           "articleIndices": [
-            7
+            3
           ],
           "relatedLinks": [
             {
-              "title": "[유통 브리프] 코스맥스, CJ온스타일, 아모레퍼시픽, 이마트24",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=758050"
+              "title": "베트남 유통망 넓히는 GS리테일 … 중소협력사 수출길 연다",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/22/2026112250029.html"
             }
           ],
           "articleCount": 1
@@ -225,21 +190,39 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🍰",
-          "title": "편의점 디저트 경쟁",
-          "summary": "편의점이 샌드위치·찹쌀떡·한정판 디저트 라인업을 세분화하며 고물가 시대 가성비·가심비 소비 주도.",
+          "emoji": "🎬",
+          "title": "셀럽 컬래버 편의점 상품 대결",
+          "summary": "박명수와 김용빈이 편의점 트렌드상품 차별화팀과 협업해 각각 '박명水'와 '용선비' 디저트를 출시하며 셀럽 컬래버 상품 경쟁 심화.",
           "articleIndices": [
-            1,
             2,
             3
           ],
           "relatedLinks": [
             {
-              "title": "'점심 단돈 3000원에 해결해요' 직장인 몰린다…고물가 속 초저가 한 끼...",
-              "url": "https://n.news.naver.com/mnews/article/277/0005845842?sid=101"
+              "title": "'사당귀' '호통' 박명수VS'용선비' 김용빈, 편의점 컬래버 상품 대결",
+              "url": "https://m.entertain.naver.com/article/408/0000328714"
+            },
+            {
+              "title": "박명수, 편의점 컬래버 상품 대결에 '박명水' 출사표...김용빈 '밤에 보...",
+              "url": "https://m.entertain.naver.com/article/213/0001409136"
             }
           ],
-          "articleCount": 3
+          "articleCount": 2
+        },
+        {
+          "emoji": "🍺",
+          "title": "진로 제로슈거 한정판 출시",
+          "summary": "하이트진로가 겨울 시즌 맞춰 진로 제로슈거 한정판을 편의점·대형마트 등 주요 유통채널에 출시하며 시즈널 신상 강화.",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "[금주의 주류 신상] 2026년 11월 셋째주",
+              "url": "https://www.sommeliertimes.com/news/articleView.html?idxno=131904"
+            }
+          ],
+          "articleCount": 1
         }
       ]
     }
