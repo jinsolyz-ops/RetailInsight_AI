@@ -1,82 +1,124 @@
 {
-  "generatedAt": "2026-11-23T02:03:14.175Z",
+  "generatedAt": "2026-11-24T05:40:53.328Z",
   "summary": [
-    "CU, SK브로드밴드와 협력해 편의점에서 인터넷·IPTV 가입 서비스 개시로 생활서비스 플랫폼 확대",
-    "CU, 다마고치 IP 협업으로 캐릭터 상품 매출 55% 증가하며 편의점 업계 첫 성공사례 기록",
-    "세븐일레븐, 1만원대 소용량 크리스마스 케이크 5종 출시로 1~2인 가구 연말 홈파티 수요 공략"
+    "CU, MD 권한 확대로 올해 히트상품 역대 최다 10종 배출",
+    "CU·GS25 해외 1700호점 육박, 몽골서 수익성 악화 직면",
+    "세븐일레븐, 프리미엄 케이크·홍시스무디 등 연말 디저트 공략"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "한·중 FTA 후속협상 타결",
-          "summary": "한·중 FTA 후속협상 8년 8개월 만에 실질타결되며 유통업계 전반에 긍정적 요소로 작용하나, 원화 강세 등 변수 모니터링 필요.",
+          "emoji": "🌍",
+          "title": "K편의점 해외 1700호점 경쟁",
+          "summary": "CU 939개, GS25 740개로 글로벌 확장 경쟁 심화 중이나 몽골 등 신규 시장에서 수익성 악화 과제 직면.",
           "articleIndices": [
-            1
+            4
           ],
           "relatedLinks": [
             {
-              "title": "한·중 FTA에 달리는 유통·엔터…장벽 낮췄지만 달라진 소비행태 주시",
-              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445949"
+              "title": "CU·GS25 'K편의점' 해외 1700호점 눈앞…몽골서 드러난 '출점 경쟁의 그...",
+              "url": "https://www.newspim.com/news/view/20261124000518"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎯",
-          "title": "외국인 VIP 고객 공략 경쟁",
-          "summary": "신세계백화점이 외국인 VIP 고객 수 증가에 대응해 글로벌 마케팅팀을 신설하고 맞춤형 서비스 강화로 고객 관리 전략 고도화.",
+          "emoji": "📦",
+          "title": "홈플러스 온라인 배송 중단",
+          "summary": "홈플러스가 상품 수급 차질로 11월 26일부터 온라인 배송 서비스를 중단, 회생계획 이행 차질 심화.",
           "articleIndices": [
-            6
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "\"백화점서 수백만원 척척\"...외국인 VIP 모시기 경쟁",
-              "url": "https://n.news.naver.com/mnews/article/011/0004684905?sid=101"
+              "title": "[이슈+] 재개장 100일 만에 또…살얼음판 위 홈플러스",
+              "url": "https://www.econovill.com/news/articleView.html?idxno=758317"
+            },
+            {
+              "title": "[이슈] 홈플러스, '상품 수급' 차질로 26일부터 온라인 배송 서비스 중단",
+              "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=819868"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
     {
       "name": "이커머스 트렌드",
-      "issues": []
-    },
-    {
-      "name": "AI 트렌드",
       "issues": [
         {
           "emoji": "🤖",
-          "title": "블프 재구매 고객 9.4배 지출",
-          "summary": "연말 쇼핑시즌 블랙프라이데이에서 AI 기반 데이터 인프라와 정교한 타겟팅으로 재구매 고객의 지출액이 일회성 구매자 대비 9.4배 높은 것으로 분석됨.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "국내 블프 재구매 고객, 일회성 구매자보다 9.4배 더 지출",
-              "url": "https://www.epnc.co.kr/news/articleView.html?idxno=410147"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🛍️",
-          "title": "AI 기반 프로모션 효과 분석",
-          "summary": "식료품·생활용품 구매 시 AI를 자주 활용하는 소비자가 광고 영향을 더 크게 받는 것으로 나타나, 연말 프로모션 성패는 AI 기반 재구매 전환에 달려있음.",
+          "title": "AI 에이전트 쇼핑 서비스 확산",
+          "summary": "피클 등 AI 에이전트가 이커머스 쇼핑·여행 예약까지 대행하는 서비스 수요 증가, 개인정보 보호 과제 대두.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "'블프' 등 연말 쇼핑시즌…프로모션 성패는 '재구매 전환'",
-              "url": "https://www.itbiznews.com/news/articleView.html?idxno=232414"
+              "title": "[이슈플러스] \"AI 비서인데요\"…모두의 AI 출시 전 등장한 에이전트 ...",
+              "url": "https://n.news.naver.com/mnews/article/030/0003488721?sid=105"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "⚠️",
+          "title": "홈플러스 회생계획 위기",
+          "summary": "홈플러스 익스프레스는 정상 운영 중이나 모기업의 자금 부족으로 온라인 배송 중단, 회생계획 이행 난항.",
+          "articleIndices": [
+            3,
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "[이슈] 물건 살 돈도 없는 홈플러스…회생계획 '빨간불'",
+              "url": "https://www.the-today.com/news/articleView.html?idxno=94014"
+            }
+          ],
+          "articleCount": 2
+        }
+      ]
+    },
+    {
+      "name": "AI 트렌드",
+      "issues": [
+        {
+          "emoji": "🎯",
+          "title": "신세계라이브쇼핑 AI 원픽 서비스",
+          "summary": "신세계라이브쇼핑이 고객 데이터 기반 개인화 추천 AI '원픽'으로 구매 결정까지 지원, 유통가 AI 활용 범위 확대.",
+          "articleIndices": [
+            2
+          ],
+          "relatedLinks": [
+            {
+              "title": "신세계라이브쇼핑, AI가 구매 결정까지…개인화 추천 서비스 'AI 원픽' 도...",
+              "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140614"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "💜",
+          "title": "BGF리테일 연세우유 크림빵 AI 협력",
+          "summary": "BGF리테일과 푸드코아의 '연세우유 크림빵' 누적 판매 1억개 돌파, AI·디지털 분야 상생협력 우수사례 선정.",
+          "articleIndices": [
+            10,
+            11
+          ],
+          "relatedLinks": [
+            {
+              "title": "중기부, '윈윈 아너스' 상생협력 우수사례 10건 선정",
+              "url": "https://news.mtn.co.kr/article/2026112411523697296"
+            },
+            {
+              "title": "중기부, '윈윈 아너스' 10건 선정…기술 국산화·AI 협력 성과",
+              "url": "https://www.etoday.co.kr/news/view/2652133"
+            }
+          ],
+          "articleCount": 2
         }
       ]
     },
@@ -84,41 +126,26 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🌐",
-          "title": "SK브로드밴드 인터넷 가입 서비스",
-          "summary": "CU가 SK브로드밴드와 협력해 전국 매장에서 인터넷·IPTV 신규 가입 서비스를 개시하며 생활서비스 중개 플랫폼으로 사업 영역 확대.",
+          "emoji": "🏆",
+          "title": "CU 올해 히트상품 역대 최다 10종",
+          "summary": "CU가 MD 권한 확대로 두바이 디저트·아이돌 협업 베이커리 등 트렌드형 상품 10종 배출, 1990년 이래 최다 기록.",
           "articleIndices": [
-            2,
+            1,
             3,
             4,
             5
           ],
           "relatedLinks": [
             {
-              "title": "편의점에서 인터넷 가입한다...CU, SK브로드밴드와 맞손",
-              "url": "https://n.news.naver.com/mnews/article/008/0005444836?sid=101"
+              "title": "'MD 권한 늘렸더니'…CU, 올해 히트상품 배출 역대 최다",
+              "url": "https://n.news.naver.com/mnews/article/014/0005608937?sid=101"
             },
             {
-              "title": "CU, 'SK브로드밴드' 손 잡았다…인터넷·IPTV 신규가입 서비스 개시",
-              "url": "https://n.news.naver.com/mnews/article/030/0003488426?sid=101"
+              "title": "'두쫀쿠부터 리센느빵까지' CU, 올해 히트상품 10종 배출…역대 최다",
+              "url": "http://www.metroseoul.co.kr/article/20261124500240"
             }
           ],
           "articleCount": 4
-        },
-        {
-          "emoji": "🎮",
-          "title": "다마고치 IP 협업 캐릭터 상품",
-          "summary": "CU가 편의점 업계 최초로 다마고치 IP를 활용한 협업을 진행하며 캐릭터 상품 매출 55% 증가 달성.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "추억의 다마고치가 화장품에?…LG생활건강·아트박스·CU까지 협업 확산",
-              "url": "https://n.news.naver.com/mnews/article/022/0004177319?sid=101"
-            }
-          ],
-          "articleCount": 1
         }
       ]
     },
@@ -126,57 +153,46 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "GS25 캄보디아 진출",
-          "summary": "GS25가 베트남·몽골에 이어 캄보디아에 진출하며 10년 내 500개 매장 개설 목표로 동남아시아 글로벌 사업 확대.",
+          "emoji": "🛍️",
+          "title": "GS25 캄보디아 첫 매장 개점",
+          "summary": "GS25가 캄보디아 프놈펜에 현지 첫 매장 '올림픽스타디움점' 개점, 베트남·몽골에 이은 세 번째 해외 시장 개척.",
           "articleIndices": [
-            1,
             3
           ],
           "relatedLinks": [
             {
-              "title": "GS25, 캄보디아 편의점 시장 진출…10년 내 500개 매장 연다",
-              "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=90036"
-            },
-            {
-              "title": "GS25, 캄보디아 시장 진출…해외 사업 3개국으로 확대",
-              "url": "https://n.news.naver.com/mnews/article/011/0004685062?sid=101"
+              "title": "내수 한계 넘으려는 K편의점, 국내선 '내실' 해외선 '출점' 승부수",
+              "url": "https://www.widedaily.com/news/articleView.html?idxno=304603"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🎄",
-          "title": "세븐일레븐 소용량 크리스마스 케이크",
-          "summary": "세븐일레븐이 헬로키티·롯데호텔 등과 협업한 1만원대 소용량 크리스마스 케이크 5종 출시로 1~2인 가구의 연말 홈파티 수요 공략.",
+          "emoji": "🥤",
+          "title": "세븐일레븐 홍시스무디 출시",
+          "summary": "세븐일레븐이 K-디저트 트렌드 겨냥해 '얼린 홍시'를 스무디로 재해석한 '홍시스무디' 출시, 겨울 스무디 수요 공략.",
           "articleIndices": [
-            4,
-            6,
-            8
+            3
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 1만원대 크리스마스 케이크로 1인 가구 공략",
-              "url": "https://www.asiatime.co.kr/article/20261123500059"
-            },
-            {
-              "title": "1~2인 홈파티도 근사하게... 세븐일레븐에 등장한 '헬로키티·롯데호텔...'",
-              "url": "https://www.insight.co.kr/news/583152"
+              "title": "'얼죽아' 대신 '얼죽스'…세븐일레븐, '홍시스무디' 출시",
+              "url": "https://www.jasm.co.kr/news/view/326306/?sc=Naver"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "📚",
-          "title": "이마트24 명작문학 베이커리",
-          "summary": "이마트24가 명작문학 초판본을 콘셉트로 개발한 베이커리 4종을 출시하며 첫 주 판매에서 호조를 보임.",
+          "emoji": "📺",
+          "title": "세븐일레븐 중국 K-푸드 홍보",
+          "summary": "aT가 베이징 등 허베이성 세븐일레븐 300개 매장에 넥스트 K-푸드 광고 송출, 중국 프리미엄 식품시장 진출 강화.",
           "articleIndices": [
-            11
+            6
           ],
           "relatedLinks": [
             {
-              "title": "[위클리오늘] 이마트24, GS25, 쿠팡(11.23)",
-              "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802938"
+              "title": "'첨병 나선' 넥스트 K-푸드...aT, 중국 프리미엄 식품시장 겨냥",
+              "url": "http://www.metroseoul.co.kr/article/20261124500299"
             }
           ],
           "articleCount": 1
@@ -188,32 +204,30 @@
       "issues": [
         {
           "emoji": "🎂",
-          "title": "편의점 소용량 크리스마스 케이크",
-          "summary": "세븐일레븐의 헬로키티·롯데호텔 협업 케이크와 이마트24의 명작문학 베이커리 등 편의점들이 1~2인 가구 겨냥 소용량 디저트로 연말 홈파티 수요 공략.",
+          "title": "세븐일레븐 연말 프리미엄 케이크",
+          "summary": "세븐일레븐이 글로벌 캐릭터 IP·SNS 화제 브랜드·특급 호텔과 협업한 프리미엄 케이크 5종 출시, 1~2인 가구 타겟.",
           "articleIndices": [
-            2,
-            3,
-            5
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[포토] 세븐일레븐, 크리스마스 맞이 협업 케이크 5종 출시",
-              "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399666"
+              "title": "세븐일레븐, 연말 맞이 1~2인 가구 프리미엄 케이크 출시",
+              "url": "https://www.jasm.co.kr/news/view/326117/?sc=Naver"
             }
           ],
-          "articleCount": 3
+          "articleCount": 1
         },
         {
-          "emoji": "🍪",
-          "title": "크리에이터 협업 '져니더키' 제품",
-          "summary": "젼언니와 캇예스가 협업한 '져니더키'가 GS25 선출시 이후 소비자 관심 증가로 편의점·올리브영 등 주요 채널에서 품절 현상 발생.",
+          "emoji": "🍦",
+          "title": "편의점 스무디 시장 확대",
+          "summary": "GS25 즉석 스무디 도입 후 점포당 일평균 25.5잔 판매, 세븐일레븐 홍시스무디 출시 등 편의점 스무디 경쟁 심화.",
           "articleIndices": [
             4
           ],
           "relatedLinks": [
             {
-              "title": "젼언니와 캇예스가 만든 '져니더키', GS25 선출시 이후 뜨거운 관심",
-              "url": "https://www.thebigdata.co.kr/view.php?ud=20261123102705581637600e7ec7_23"
+              "title": "\"일본 가면 꼭 사 먹던 건데\" 추성훈도 극찬하더니…한국서 120만 잔 ...",
+              "url": "https://n.news.naver.com/mnews/article/011/0004685550?sid=101"
             }
           ],
           "articleCount": 1
