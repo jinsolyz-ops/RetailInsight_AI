@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T04:40:20.875Z",
+  "generatedAt": "2026-11-26T03:50:37.562Z",
   "summary": [
-    "CU, 올해 히트상품 10종 배출로 트렌드 메이킹 리더십 강화",
-    "GS25, 스크랩앤빌드와 신선강화형 매장 1000점 이상 전개로 기존점 매출 신장",
-    "편의점 업계, 2주 신상 개발 초스피드 기획으로 겨울철 비수기 극복 전략"
+    "GS25 '식물원 김밥' 한 달 100만개 판매로 MZ여성층 공략 성공",
+    "G마켓 내년 1분기 AI 기반 뷰티 전문관 신설, 버티컬 커머스 경쟁 심화",
+    "CU 성해나 신작 오디오북 협업 디저트로 문학 콘텐츠 마케팅 확대"
   ],
   "categories": [
     {
@@ -11,30 +11,30 @@
       "issues": [
         {
           "emoji": "🎯",
-          "title": "스타벅스 헬로키티 협업",
-          "summary": "스타벅스의 헬로키티 협업 캠페인이 품절 대란과 리셀가 2배 현상을 일으키며 연말 실적 회복의 청신호가 되고 있음.",
-          "articleIndices": [
-            7
-          ],
-          "relatedLinks": [
-            {
-              "title": "품절 대란·리셀가 2배…스타벅스, '헬로키티 효과'에 연말 실적 청신호",
-              "url": "https://www.newspim.com/news/view/20261125000482"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🌍",
-          "title": "K-푸드 베이징 박람회",
-          "summary": "aT가 베이징 소매상품박람회에서 K-푸드 홍보 마케팅을 전개하며 중국시장 진출기반을 강화하고 있음.",
+          "title": "신세계百 VIP 초격차 경험",
+          "summary": "명품 넘어 미쉐린 다이닝·개인화 서비스로 하이엔드 고객 경험 확장, 유통업계 VIP 마케팅 기준 재정의.",
           "articleIndices": [
             6
           ],
           "relatedLinks": [
             {
-              "title": "aT, 베이징 소매상품박람회서 'NEXT K-푸드' 홍보 마케팅",
-              "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=5&item=&no=102412"
+              "title": "신세계百, 급이 다른 VIP 승부수",
+              "url": "https://www.techm.kr/news/articleView.html?idxno=157820"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "🌿",
+          "title": "제주삼다수 무신사 협업",
+          "summary": "생수 브랜드가 의류 매장 진출로 MZ세대 타겟 이색 체험 마케팅 전개, 카테고리 경계 확장.",
+          "articleIndices": [
+            5
+          ],
+          "relatedLinks": [
+            {
+              "title": "제주삼다수 무신사 스탠다드 한정판 티셔츠",
+              "url": "https://n.news.naver.com/mnews/article/003/0014346660?sid=102"
             }
           ],
           "articleCount": 1
@@ -45,34 +45,45 @@
       "name": "이커머스 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 에이전트 쇼핑 서비스",
-          "summary": "피클 등 AI 에이전트 서비스가 쿠팡 등 이커머스 플랫폼과 연계하여 자동 쇼핑 대행 서비스를 제공하며 새로운 소비 트렌드를 형성 중.",
+          "emoji": "💄",
+          "title": "G마켓 뷰티 버티컬 전략",
+          "summary": "내년 1분기 AI 개인화 추천·콘텐츠 커머스·글로벌 역직구 결합한 뷰티 전문관 신설로 버티컬 커머스 경쟁 심화.",
           "articleIndices": [
-            4
+            7,
+            8,
+            10
           ],
           "relatedLinks": [
             {
-              "title": "[이슈플러스] \"AI 비서인데요\"…모두의 AI 출시 전 등장한 에이전트",
-              "url": "https://n.news.naver.com/mnews/article/030/0003488721?sid=105"
+              "title": "G마켓 뷰티 홈 신설 AI 개인화 추천",
+              "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117314"
+            },
+            {
+              "title": "G마켓 2026 뷰티 컨퍼런스 120개국 판매 확대",
+              "url": "https://www.wikitree.co.kr/articles/1177912"
             }
           ],
-          "articleCount": 1
+          "articleCount": 3
         },
         {
-          "emoji": "🛍️",
-          "title": "롯데온 온누리상품권 가맹",
-          "summary": "롯데온이 국내 종합 이커머스 플랫폼 중 처음으로 온누리상품권 가맹 등록을 완료하며 결제 수단 다양화를 추진 중.",
+          "emoji": "☕",
+          "title": "스타벅스 이커머스 신뢰 회복",
+          "summary": "5월 마케팅 이슈 후 콘텐츠 검수 조직 신설·결재 라인 세분화로 이커머스 프로모션 투명성 강화.",
           "articleIndices": [
+            1,
             2
           ],
           "relatedLinks": [
             {
-              "title": "[유통갤러리] 신세계百, 대표 캐릭터와 함께 크리스마스 축제 개최 外",
-              "url": "https://theviewers.co.kr/View.aspx?No=4328141"
+              "title": "신동우 스타벅스 대표 4분기 흑자 전환 목표",
+              "url": "https://www.cstimes.com/news/articleView.html?idxno=729546"
+            },
+            {
+              "title": "스벅 신뢰 회복 질적 성장 제시",
+              "url": "https://n.news.naver.com/mnews/article/015/0005358523?sid=101"
             }
           ],
-          "articleCount": 1
+          "articleCount": 2
         }
       ]
     },
@@ -80,39 +91,41 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "GS리테일 AI 기반 고객경험",
-          "summary": "GS리테일 허서홍 대표가 AI를 활용한 고객 경험 차별화와 자체 패션 브랜드 '코어 어센틱' 1000억 원 규모 성장으로 사장 승진을 인정받음.",
+          "emoji": "🤖",
+          "title": "AI 쇼핑 도우미 경쟁",
+          "summary": "유통업계가 상품 추천 넘어 구매 결정 단계까지 지원하는 AI 쇼핑 도우미 서비스 경쟁 본격화.",
           "articleIndices": [
-            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "'본업 성장 주도' 허서홍 GS리테일 대표, 사장 승진",
-              "url": "https://www.goodkyung.com/news/articleView.html?idxno=293862"
-            },
-            {
-              "title": "허서홍 GS리테일 대표, 취임 2년 만 사장 승진...본업 회복 성과 인정",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=141489"
-            }
-          ],
-          "articleCount": 2
-        },
-        {
-          "emoji": "👁️",
-          "title": "리테일테크 공간분석 AI",
-          "summary": "베스핀글로벌이 '리테일 테크' 기업에서 'AI 공간분석' 기업으로 브랜드 정체성을 확장하며 비전 AI 적용 산업군을 확대 중.",
-          "articleIndices": [
-            5
-          ],
-          "relatedLinks": [
-            {
-              "title": "[주간스타트업동향] 베스핀글로벌, 국산 AI 제품 최초 '대한민국 SW제품'",
-              "url": "https://it.donga.com/110003/"
+              "title": "유통업계 AI 쇼핑 도우미 경쟁",
+              "url": "https://www.banronbodo.com/news/articleView.html?idxno=33433"
             }
           ],
           "articleCount": 1
+        },
+        {
+          "emoji": "🎉",
+          "title": "컬리 푸드페스타 2026",
+          "summary": "리테일 테크 컬리가 184개 브랜드·스타 셰프 쿠킹쇼·최대 50% 할인으로 연말 오프라인 미식 축제 개최.",
+          "articleIndices": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "relatedLinks": [
+            {
+              "title": "컬리 푸드페스타 2026 12월 17일 개최",
+              "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117319"
+            },
+            {
+              "title": "컬리 184개 브랜드 연말 미식 축제",
+              "url": "https://n.news.naver.com/mnews/article/138/0002249963?sid=101"
+            }
+          ],
+          "articleCount": 4
         }
       ]
     },
@@ -120,46 +133,16 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎁",
-          "title": "CU 올해 히트상품 10종",
-          "summary": "CU가 두쫀쿠, 리센느 빵, 트러플 하몽 등 올해 히트상품 10종을 배출하며 트렌드 메이킹 리더십을 강화하고 있음.",
-          "articleIndices": [
-            4
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU, 올해 히트상품 10종 배출...두쫀쿠·리센느 빵·트러플 하몽 견인",
-              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=55117"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🏭",
-          "title": "BGF푸드 자동화 투자",
-          "summary": "BGF푸드가 CU 간편식 공급을 위해 공정 자동화와 원재료 조달 효율화에 37억 원대 투자를 추진 중.",
-          "articleIndices": [
-            3
-          ],
-          "relatedLinks": [
-            {
-              "title": "CU는 자동화, GS25는 증설…편의점 '한 끼'에 공장까지 손본다",
-              "url": "https://www.etoday.co.kr/news/view/2652321"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "💼",
-          "title": "BGF 계열사 거래 확대",
-          "summary": "CU 사업 확대에 따라 BGF휴먼넷과의 점포 운영 지원 및 상표권 수익 49억 원 등 계열사 간 거래가 확대되고 있음.",
+          "emoji": "📚",
+          "title": "CU 오디오북 디저트 협업",
+          "summary": "CU가 출판사 무제·성해나 작가와 손잡고 신작 소설 오디오북 담은 디저트 4종 출시, 문학 콘텐츠 마케팅 확대.",
           "articleIndices": [
             1
           ],
           "relatedLinks": [
             {
-              "title": "CU 사업 커질수록 계열사 거래도 확대...BGF, 상표권 수익 49억 챙겼다",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=141417"
+              "title": "CU 성해나 신작 오디오북 협업 디저트",
+              "url": "https://www.joongangenews.com/news/articleView.html?idxno=566753"
             }
           ],
           "articleCount": 1
@@ -170,31 +153,53 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🌏",
-          "title": "세븐일레븐 K-스낵 북미 진출",
-          "summary": "세븐일레븐 캐나다가 K-스낵을 첫 직수입하며 불닭 소스 치킨윙 등 현지 소비자 맞춤 간편식까지 선보이며 북미 편의점 시장 공략을 본격화.",
+          "emoji": "🍙",
+          "title": "GS25 식물원 김밥 100만개",
+          "summary": "GS25 '식물원 김밥' 2종이 출시 한 달 만에 100만개 판매, 매출 66%가 여성으로 MZ층 공략 성공.",
           "articleIndices": [
+            1,
+            2,
+            3,
             4
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐 캐나다, K-스낵 첫 직수입 … 북미 편의점 시장 공략 본격화",
-              "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=92647"
+              "title": "GS25 식물원 김밥 한 달 100만개 판매",
+              "url": "https://n.news.naver.com/mnews/article/008/0005446761?sid=101"
+            },
+            {
+              "title": "GS25 식물원 김밥 매출 66% 여성",
+              "url": "http://www.newslock.co.kr/news/articleView.html?idxno=141052"
+            }
+          ],
+          "articleCount": 4
+        },
+        {
+          "emoji": "🍗",
+          "title": "세븐일레븐 즉석치킨 21% 성장",
+          "summary": "세븐일레븐이 즉석치킨 매출 21% 증가로 연말 외식 대체 수요 공략, 겨울철 간식 라인업 강화.",
+          "articleIndices": [
+            7
+          ],
+          "relatedLinks": [
+            {
+              "title": "세븐일레븐 즉석치킨 매출 21% 증가",
+              "url": "http://www.finomy.com/news/articleView.html?idxno=267943"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🎫",
-          "title": "이마트24 미피 교통카드",
-          "summary": "이마트24가 미피 캐릭터 교통카드 2종을 출시하며 세븐일레븐, 스토리웨이 등과 함께 캐릭터 라이선싱 상품 경쟁을 전개 중.",
+          "emoji": "🍷",
+          "title": "신세계L&B 투핸즈 와인 판매",
+          "summary": "신세계L&B 투핸즈 와인이 이마트·트레이더스 등 오프라인 채널 확대로 프리미엄 주류 시장 공략.",
           "articleIndices": [
-            5
+            10
           ],
           "relatedLinks": [
             {
-              "title": "티머니, 첫 미피 캐릭터 교통카드 9종 출시",
-              "url": "http://www.breaknews.com/1253788"
+              "title": "신세계L&B 투핸즈 10년 숙성 와인",
+              "url": "https://www.newstopkorea.com/ko-kr/articles/49314"
             }
           ],
           "articleCount": 1
@@ -205,31 +210,16 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "🧥",
-          "title": "편의점 겨울 방한의류 확대",
-          "summary": "GS25가 무신사와 협력한 편의점 전용 의류 라인으로 타이즈 366% 매출 증가 등을 기록하며 겨울철 비수기 극복 전략으로 방한 의류 판매를 강화 중.",
-          "articleIndices": [
-            1
-          ],
-          "relatedLinks": [
-            {
-              "title": "\"패딩이 유니클로 반값\" 편의점서 왜 잘 팔리나 봤더니…이런 이유가...",
-              "url": "https://n.news.naver.com/mnews/article/016/0002728339?sid=101"
-            }
-          ],
-          "articleCount": 1
-        },
-        {
-          "emoji": "🍰",
-          "title": "편의점 글로벌 디저트 확대",
-          "summary": "세븐일레븐이 일본 오하요 저지우유 푸딩, 토라쿠푸딩 등 글로벌 소싱 상품 매출을 50% 신장시키며 해외 인기 간식 라인업을 지속 확대 중.",
+          "emoji": "🍚",
+          "title": "저당 간편식 시장 확대",
+          "summary": "CU 저당·고단백 '서울마이소울 건강 간편식' 출시로 편의점 저당 메뉴 확산, 웰빙 식단 트렌드 반영.",
           "articleIndices": [
             2
           ],
           "relatedLinks": [
             {
-              "title": "세븐일레븐, 글로벌 소싱 상품 매출 50% 신장…해외 인기 간식 라인업 확대",
-              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=133098"
+              "title": "저당이 일상 한 끼로 식품업계 저당 메뉴",
+              "url": "https://n.news.naver.com/mnews/article/009/0005769314?sid=103"
             }
           ],
           "articleCount": 1
