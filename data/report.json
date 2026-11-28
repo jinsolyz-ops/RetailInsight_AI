@@ -1,45 +1,40 @@
 {
-  "generatedAt": "2026-11-27T03:52:01.778Z",
+  "generatedAt": "2026-11-28T03:38:23.365Z",
   "summary": [
-    "G마켓, 내년 1분기 뷰티 버티컬 전용관 신설으로 K뷰티 글로벌 판로 확대",
-    "CU, 출판사 무제와 협업해 오디오북 담은 디저트 4종 출시로 문학·디저트 융합",
-    "GS25, 캄보디아 프놈펜 진출로 해외 확장 가속화…10년간 500개 출점 목표"
+    "G마켓, 내년 1분기 뷰티 버티컬 전문관 신설으로 K뷰티 글로벌 판로 확대",
+    "CU, 오디오북 디저트·김우동 2+1 등 간편식 프로모션으로 겨울 수요 공략",
+    "AI 기반 개인화 추천·에이전틱 커머스 확산으로 이커머스 고도화 경쟁 심화"
   ],
   "categories": [
     {
       "name": "리테일 트렌드",
       "issues": [
         {
-          "emoji": "🏪",
-          "title": "홈플러스 재휴업 사태",
-          "summary": "상품 수급 이슈로 촉발된 매출 감소로 홈플러스가 27일부터 전국 마트 영업을 중단하며 유통업계 양강 체제 고착화 우려.",
+          "emoji": "🎯",
+          "title": "SSG닷컴 인적분할",
+          "summary": "SSG닷컴이 라이프스타일 사업부를 분할해 장보기 플랫폼 강화와 신세계몰 명품 특화를 통한 '아이덴티티 마케팅' 전개",
           "articleIndices": [
-            2,
-            3
+            4
           ],
           "relatedLinks": [
             {
-              "title": "홈플러스, 27일부터 전국 마트 영업 중단",
-              "url": "http://www.srtimes.kr/news/articleView.html?idxno=218710"
-            },
-            {
-              "title": "[더나은미래 경제브리핑] 한국은행 기준금리 0.25%포인트 인상",
-              "url": "https://futurechosun.com/?p=167813"
+              "title": "SSG닷컴, 7년 만에 인적분할…장보기 키우고 신세계몰은 명품 강화",
+              "url": "https://www.asiatime.co.kr/article/20261127500311"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🌾",
-          "title": "농협·롯데카드 제주감귤 할인",
-          "summary": "농협과 롯데카드가 제주 감귤 10만 박스를 최대 33% 할인 판매하며 농가 상생 마케팅으로 유통망 활용한 판로 지원 강화.",
+          "emoji": "🛍️",
+          "title": "연말 할인·체험 마케팅",
+          "summary": "이마트 등 대형마트가 할인과 체험 콘텐츠를 결합한 연말 마케팅 확대로 소비자 유입 경쟁 심화",
           "articleIndices": [
-            6
+            5
           ],
           "relatedLinks": [
             {
-              "title": "농협·롯데카드, 제주 감귤 10만 박스 최대 33% 할인…농가 상생 지원",
-              "url": "https://www.thepublic.kr/news/articleView.html?idxno=328720"
+              "title": "11/28~ 11/29 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간...",
+              "url": "http://www.newskr.kr/news/articleView.html?idxno=108372"
             }
           ],
           "articleCount": 1
@@ -51,38 +46,36 @@
       "issues": [
         {
           "emoji": "💄",
-          "title": "G마켓 뷰티 버티컬 전략",
-          "summary": "G마켓이 내년 1분기 뷰티 전용관 신설로 AI 추천·콘텐츠 커머스·개인화 서비스를 통합하며 K뷰티 국내외 판로 확대 본격화.",
+          "title": "뷰티 버티컬 커머스 확산",
+          "summary": "G마켓이 내년 1분기 뷰티 전용관 신설, AI 추천·콘텐츠 커머스·브랜드별 특화 서비스로 K뷰티 국내외 판로 확대",
           "articleIndices": [
-            3,
-            8,
-            9,
-            10,
-            11
+            5,
+            11,
+            12
           ],
           "relatedLinks": [
             {
-              "title": "G마켓, 내년 1분기 '뷰티 버티컬' 공식 출범…AI 추천·콘텐츠 커머스",
+              "title": "G마켓, 내년 1분기 '뷰티 버티컬' 공식 출범…AI 추천·콘텐츠 커머스...",
               "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370657"
             },
             {
-              "title": "G마켓, 2026 뷰티 컨퍼런스 개최…라자다 활용 120개국 판매 확대",
-              "url": "https://www.wikitree.co.kr/articles/1177912"
+              "title": "G마켓, 내년 1분기 '뷰티 전문관' 신설…K뷰티 국내외 판로 확대",
+              "url": "https://www.fntimes.com/html/view.php?ud=202611261553104207b5b890e35c_18"
             }
           ],
-          "articleCount": 5
+          "articleCount": 3
         },
         {
-          "emoji": "🌏",
-          "title": "한한령 완화에 K뷰티·패션 중국 진출",
-          "summary": "한한령 완화로 K뷰티·패션 기업들이 중국 티몰·징둥 등 주요 이커머스 플랫폼을 통해 현지 사업 재개 및 확대 추진.",
+          "emoji": "🤖",
+          "title": "에이전틱 커머스 성장",
+          "summary": "AI가 소비자를 대신해 상품 탐색·비교·주문·결제를 수행하는 에이전틱 커머스 도입으로 실제 구매 전환율 50% 달성",
           "articleIndices": [
-            2
+            7
           ],
           "relatedLinks": [
             {
-              "title": "[한류 '차이나 훈풍' 부나] 한한령에 짐쌌던 K-패션·뷰티, 기대 품고 '돌아온다'",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327547"
+              "title": "'AI가 사라면 산다'…생성형 AI 추천에 실제 지갑 연 소비자 무려 '절반...",
+              "url": "https://n.news.naver.com/mnews/article/050/0000113884?sid=101"
             }
           ],
           "articleCount": 1
@@ -93,36 +86,31 @@
       "name": "AI 트렌드",
       "issues": [
         {
-          "emoji": "🤖",
-          "title": "AI 커머스 시대 광고 전략",
-          "summary": "CJ메조미디어가 2027년 광고·마케팅 시장의 핵심 화두로 AI 커머스와 AI·데이터 기반 맥락 타겟팅을 제시하며 생성형 AI 이용자의 구매 경험 확대 예측.",
+          "emoji": "🛒",
+          "title": "AI 퍼스널 쇼퍼 고도화",
+          "summary": "네이버쇼핑, CJ올리브영 등이 자체 데이터 기반 맞춤형 AI 추천을 통해 단순 가격 비교를 넘어 개인화 쇼핑 경험 제공",
           "articleIndices": [
-            6,
-            8
+            1
           ],
           "relatedLinks": [
             {
-              "title": "CJ메조미디어, AI가 바꾸는 광고의 미래…2027 마케팅 전략 제시",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=303659"
-            },
-            {
-              "title": "'AI가 추천한 제품 샀어요'…생성형 AI 이용자 절반이 구매 경험",
-              "url": "https://n.news.naver.com/mnews/article/008/0005447331?sid=105"
+              "title": "쇼핑 친구 된 AI… 선물 추천부터 패션쇼까지",
+              "url": "https://n.news.naver.com/mnews/article/469/0000968278?sid=101"
             }
           ],
-          "articleCount": 2
+          "articleCount": 1
         },
         {
-          "emoji": "🏨",
-          "title": "롯데 3D 이머시브 커머스 확대",
-          "summary": "롯데이노베이트 칼리버스가 3D 커머스를 호텔로 확장하며 롯데그룹 6개 계열사가 AI 스타일링·가상 매장 등 이머시브 커머스 서비스 협업 강화.",
+          "emoji": "📱",
+          "title": "숏폼 커머스 AI 활용",
+          "summary": "숏폼 콘텐츠와 이커머스 결합 시 생성형 AI를 활용한 검색어 탐색·시청자 반응 분석으로 새로운 상품 소개 방식 확산",
           "articleIndices": [
-            7
+            5
           ],
           "relatedLinks": [
             {
-              "title": "롯데이노베이트 칼리버스, 3D 커머스 호텔로 확장…그룹 6개 계열사 협업",
-              "url": "https://www.m-i.kr/news/articleView.html?idxno=2024286"
+              "title": "KBS출신 우PD, 사이클해커스서 유튜브 쇼츠 무료 교육",
+              "url": "https://www.abcn.kr/news/articleView.html?idxno=95156"
             }
           ],
           "articleCount": 1
@@ -133,31 +121,46 @@
       "name": "당사 이슈",
       "issues": [
         {
-          "emoji": "🎙️",
-          "title": "CU 오디오북 디저트 출시",
-          "summary": "CU가 출판사 무제와 협업해 성해나 작가의 장편소설 '일일 반출록' 오디오북을 담은 디저트 4종을 26일부터 순차 출시하며 문학·디저트 융합 마케팅 전개.",
+          "emoji": "🍜",
+          "title": "CU 김우동 2+1 프로모션",
+          "summary": "CU가 세븐일레븐과 동일하게 삼립 '소문난광천김우동'을 2+1로 판매하며 외식비 상승에 따른 간편 면류 수요 공략",
           "articleIndices": [
-            2
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[편의점 브리핑] CU 오디오북 디저트·GS25 김밥 100만개 돌파·세븐일레",
+              "title": "김우동, 겨울 국물 수요 공략... 세븐일레븐 CU '2+1' 판매",
+              "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=255438"
+            }
+          ],
+          "articleCount": 1
+        },
+        {
+          "emoji": "📚",
+          "title": "CU 오디오북 디저트 출시",
+          "summary": "CU가 출판사 무제와 협업해 성해나 작가 장편소설 오디오북을 담은 디저트 4종 출시로 독서 취향 고객층 공략",
+          "articleIndices": [
+            4
+          ],
+          "relatedLinks": [
+            {
+              "title": "[편의점 브리핑] CU 오디오북 디저트·GS25 김밥 100만개 돌파·세븐일레...",
               "url": "http://www.issuenbiz.com/news/articleView.html?idxno=82069"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "🥐",
-          "title": "연세유업 씨앗호떡맛 생크림빵",
-          "summary": "연세유업이 씨앗호떡맛 생크림빵을 전국 CU 편의점에서 판매 개시하며 신제품 라인업 강화.",
+          "emoji": "🤝",
+          "title": "BGF리테일 노조 지역사회 봉사",
+          "summary": "BGF리테일 노동조합이 CU 인기 상품으로 구성한 선물상자를 지역사회에 전달하며 2027년 임단협 준비 본격화",
           "articleIndices": [
-            1
+            3
           ],
           "relatedLinks": [
             {
-              "title": "연세유업, 씨앗호떡맛 생크림빵 출시…전국 CU 편의점 판매",
-              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764783"
+              "title": "BGF리테일 노조, 지역사회 봉사활동 전개…2027년 임단협 준비 본격화",
+              "url": "https://www.youthdaily.co.kr/news/article.html?no=230474"
             }
           ],
           "articleCount": 1
@@ -168,52 +171,47 @@
       "name": "경쟁사 이슈",
       "issues": [
         {
-          "emoji": "🌍",
-          "title": "GS25 캄보디아 진출",
-          "summary": "GS25가 캄보디아 프놈펜에 첫 매장을 개점하고 향후 10년간 500개 이상 출점 목표로 동남아 해외 확장 가속화.",
+          "emoji": "☕",
+          "title": "GS25 디카페인 커피 성장",
+          "summary": "GS25 자체 원두커피 브랜드 '카페25'의 디카페인 메뉴 매출이 전년 동기 대비 10.5% 증가하며 건강 지향 소비 트렌드 반영",
           "articleIndices": [
-            1,
-            2,
-            3
+            1
           ],
           "relatedLinks": [
             {
-              "title": "[K편의점 해외사업 현주소④] 이마트24, 해외사업 외형 키웠지만... 속도",
-              "url": "https://www.meconomynews.com/news/articleView.html?idxno=204193"
-            },
-            {
-              "title": "GS리테일 최대 3분기 실적…허서홍 리더십 통했다",
-              "url": "https://n.news.naver.com/mnews/article/016/0002729491?sid=101"
-            }
-          ],
-          "articleCount": 3
-        },
-        {
-          "emoji": "🏆",
-          "title": "세븐일레븐 사업영역 보호 표창",
-          "summary": "세븐일레븐이 사업영역 보호제도 유공으로 중기부장관 표창을 수상하며 공정한 경영 환경 조성 기여 인정.",
-          "articleIndices": [
-            6
-          ],
-          "relatedLinks": [
-            {
-              "title": "[똑똑한소비] 일룸, 한샘, 소노아임레디, 콜러, 세라젬, SGC솔루션, 세븐",
-              "url": "https://www.ekn.kr/web/view.php?key=20261127021305680"
+              "title": "카페인은 줄여도 커피는 못 끊겠다…디카페인은 왜 점점 인기일까 [세모...",
+              "url": "https://n.news.naver.com/mnews/article/016/0002729762?sid=101"
             }
           ],
           "articleCount": 1
         },
         {
-          "emoji": "💳",
-          "title": "세븐일레븐 엘포인트 사후적립",
-          "summary": "롯데멤버스가 세븐일레븐·토스와 협력해 엘포인트 사후적립 서비스 출시로 고객 편의성 강화.",
+          "emoji": "🍜",
+          "title": "세븐일레븐 김우동 2+1",
+          "summary": "세븐일레븐이 11월 한 달간 삼립 '광천식 김우동'을 2+1로 판매하며 외식비 상승에 따른 대체 식품 수요 포착",
           "articleIndices": [
-            7
+            4,
+            5
           ],
           "relatedLinks": [
             {
-              "title": "롯데멤버스, 엘포인트 사후적립 서비스 선봬",
-              "url": "https://n.news.naver.com/mnews/article/082/0001409269?sid=101"
+              "title": "김우동, 세븐일레븐서 2+1 프로모션 진행",
+              "url": "https://www.epnc.co.kr/news/articleView.html?idxno=410433"
+            }
+          ],
+          "articleCount": 2
+        },
+        {
+          "emoji": "📊",
+          "title": "이마트24 적자 지속",
+          "summary": "이마트24가 29억원의 영업손실을 기록하며 적자에서 벗어나지 못하고 있으며 온라인 유통사업 경쟁력 확보가 과제",
+          "articleIndices": [
+            8
+          ],
+          "relatedLinks": [
+            {
+              "title": "[2026 유통총수 경영결산] 이마트 살린 정용진, 신사업 안착 속도",
+              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316431"
             }
           ],
           "articleCount": 1
@@ -224,36 +222,36 @@
       "name": "상품 이슈",
       "issues": [
         {
-          "emoji": "📚",
-          "title": "편의점 문학 디저트 트렌드",
-          "summary": "CU의 오디오북 디저트와 출판계의 편의점 진출로 '텍스트힙' 트렌드를 반영한 문학·디저트 융합 상품이 편의점 신상의 새로운 축으로 부상.",
+          "emoji": "🎂",
+          "title": "편의점 프리미엄 디저트",
+          "summary": "홈플러스 익스프레스·세븐일레븐이 1만원대 소용량 디저트부터 신라명과 협업 케이크까지 다양한 가격대 디저트로 1~2인 가구 공략",
           "articleIndices": [
-            2,
-            4
+            1,
+            2
           ],
           "relatedLinks": [
             {
-              "title": "[신상브리핑] LG생활건강, CU, 인스파이어, 롯데관광개발, K2, 빙그레, 롯",
-              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1429273"
+              "title": "\"케이크 한 판이 곧 광고판\"…60만원 초고가 vs 1만원대 가성비, 유통...",
+              "url": "https://n.news.naver.com/mnews/article/117/0004128791?sid=103"
             },
             {
-              "title": "[비즈 토크] 박혜진 민음사 편집자 \"숏폼 시대, 오히려 '진지한 책'",
-              "url": "https://www.sentv.co.kr/article/view/sentv202611200193"
+              "title": "[유통가 패트롤] 밥값 부담에 샌드위치 찾는다...편의점·카페 한 끼 경...",
+              "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=147610"
             }
           ],
           "articleCount": 2
         },
         {
-          "emoji": "🍡",
-          "title": "편의점 떡 디저트 성장",
-          "summary": "로로에프엔비의 모모즈랩 찹쌀떡이 한 달 만에 36만 개 판매되며 떡 디저트가 편의점 디저트의 한 축으로 자리 잡는 추세.",
+          "emoji": "🥜",
+          "title": "아몬드 건강식품 확산",
+          "summary": "장 건강과 영양밀도를 중시하는 소비 트렌드 속 아몬드가 한국에서 일본보다 2배 이상 소비되며 편의점 신상품 개발 원료로 활용 확대",
           "articleIndices": [
-            3
+            7
           ],
           "relatedLinks": [
             {
-              "title": "'빵' 다음은 '떡'…로로에프엔비, 모모즈랩 찹쌀떡 한 달 만에 36만 개 판",
-              "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400526"
+              "title": "\"장 건강 안 좋나요? 아몬드가 해결사\" 한국이 일본보다 2배 더 먹는 ...",
+              "url": "https://n.news.naver.com/mnews/article/016/0002729739?sid=103"
             }
           ],
           "articleCount": 1
